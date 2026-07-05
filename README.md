@@ -37,7 +37,9 @@ See the [Releases](https://github.com/FretfulCrossroads/higurashi-tr-meakashi/ta
 
 Current version:
 
+`
 v1.0.0-beta.1
+`
 
 ---
 
