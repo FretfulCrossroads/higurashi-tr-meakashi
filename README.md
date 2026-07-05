@@ -1,10 +1,8 @@
-![Version](https://img.shields.io/badge/version-v1.0.0-beta.1-blue)
-
-![Status](https://img.shields.io/badge/status-Released-brightgreen)
-
+![Version](https://img.shields.io/badge/version-v1.0.0--beta.1-blue)
+![Status](https://img.shields.io/badge/status-Pre--Release-orange)
 ![Language](https://img.shields.io/badge/language-Turkish-red)
-
-![AI](https://img.shields.io/badge/translation-AI--assisted-orange)
+![Translation](https://img.shields.io/badge/translation-AI--assisted-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 # Chapter 5 - Meakashi
 ## Turkish Translation
