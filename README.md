@@ -29,7 +29,7 @@ This repository contains the Turkish fan translation for **Meakashi**, the fifth
 
 # Downloads
 
-See the Releases page.
+See the [Releases](https://github.com/FretfulCrossroads/higurashi-tr-meakashi/tags) page.
 
 ---
 
