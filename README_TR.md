@@ -30,7 +30,7 @@ Higurashi When They Cry Hou - Ch. 5 Meakashi\HigurashiEp05_Data
 
 # İndirme
 
-En güncel sürümü [**Releases**](https://github.com/FretfulCrossroads/higurashi-tr-meakashi/tags) sekmesinden indirebilirsiniz.
+En güncel sürümü [**Releases**](https://github.com/FretfulCrossroads/higurashi-tr-meakashi/releases) sekmesinden indirebilirsiniz.
 
 ---
 
