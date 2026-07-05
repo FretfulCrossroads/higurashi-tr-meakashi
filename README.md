@@ -21,9 +21,10 @@ This repository contains the Turkish fan translation for **Meakashi**, the fifth
 
 # Installation
 
-1. Own a copy of the game 
-2. Download the latest zip release of translation from **Releases** tab.
-3. Extract the files and replace the files in the "Higurashi When They Cry Hou - Ch. 5 Meakashi\HigurashiEp05_Data" folder with the exact same ones.
+1. Own a copy of the game
+2. Install the game patch created by the [07th-mod](https://07th-mod.com/) mod team for Meakashi. This patch includes 16:9 resolution support, asset changes, and several pieces of content added in the console versions that are not present in the PC version; it is a mandatory patch required for the Turkish language patch to work.
+3. Download the latest zip release of translation from **Releases** tab.
+4. Extract the files and replace the files in the `Higurashi When They Cry Hou - Ch. 5 Meakashi\HigurashiEp05_Data` folder with the exact same ones.
 
 ---
 
