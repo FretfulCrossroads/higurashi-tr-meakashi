@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Version](https://img.shields.io/badge/version-v1.0.0-beta.1-blue)
 
 ![Status](https://img.shields.io/badge/status-Released-brightgreen)
 
