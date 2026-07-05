@@ -1,0 +1,5432 @@
+[
+  {
+    "id": 1,
+    "line": 14,
+    "target_en": "The hag's motorcycle had become my primary means of transportation."
+  },
+  {
+    "id": 2,
+    "line": 19,
+    "target_en": "My next stop was the staff meeting at the Furude Shrine's assembly hall."
+  },
+  {
+    "id": 3,
+    "line": 25,
+    "target_en": "It was easy to imagine how a normal meeting would play out if it were just celebrating the end of Watanagashi."
+  },
+  {
+    "id": 4,
+    "line": 30,
+    "target_en": "...But today's staff meeting was likely going to be as strained as the Sonozaki family councils."
+  },
+  {
+    "id": 5,
+    "line": 36,
+    "target_en": "...Yes, this staff meeting was going to deal with the heart of Hinamizawa."
+  },
+  {
+    "id": 6,
+    "line": 41,
+    "target_en": "I couldn't let my guard down, even for a moment..."
+  },
+  {
+    "id": 7,
+    "line": 51,
+    "target_en": "I rested for a while at the house, then left for the meeting."
+  },
+  {
+    "id": 8,
+    "line": 56,
+    "target_en": "I walked up the long stairs to the Furude Shrine."
+  },
+  {
+    "id": 9,
+    "line": 62,
+    "target_en": "At the top, I saw some elderly men smoking in front of the hall."
+  },
+  {
+    "id": 10,
+    "line": 67,
+    "target_en": "Since they had a minor fire a long time ago, it had been made into a non-smoking area."
+  },
+  {
+    "id": 11,
+    "line": 77,
+    "target_en": "\\\"Is that Mion-chan?\\\""
+  },
+  {
+    "id": 12,
+    "line": 82,
+    "target_en": "The head of the Kimiyoshi family, Uncle Kimiyoshi, noticed me and waved."
+  },
+  {
+    "id": 13,
+    "line": 87,
+    "target_en": "He must not have expected Mion to come alone."
+  },
+  {
+    "id": 14,
+    "line": 92,
+    "target_en": "Normally it would have been either the hag by herself, or Mion tagging along as an assistant."
+  },
+  {
+    "id": 15,
+    "line": 98,
+    "target_en": "\\\"Granny's been in a terrible mood since the incident last night."
+  },
+  {
+    "id": 16,
+    "line": 101,
+    "target_en": " She's been staying in bed and won't even let me get near her.\\\""
+  },
+  {
+    "id": 17,
+    "line": 106,
+    "target_en": "They all understood how troublesome she was when in a bad mood."
+  },
+  {
+    "id": 18,
+    "line": 108,
+    "target_en": " They smiled bitterly in sympathy."
+  },
+  {
+    "id": 19,
+    "line": 114,
+    "target_en": "\\\"So you're here as the Sonozaki family representative then?"
+  },
+  {
+    "id": 20,
+    "line": 117,
+    "target_en": " Has Oryou-san told you anything?\\\""
+  },
+  {
+    "id": 21,
+    "line": 123,
+    "target_en": "\\\"Sort of...\\\""
+  },
+  {
+    "id": 22,
+    "line": 129,
+    "target_en": "What did he mean, \\\"has Oryou-san told you anything\\\"?"
+  },
+  {
+    "id": 23,
+    "line": 134,
+    "target_en": "That line by itself didn't really explain much."
+  },
+  {
+    "id": 24,
+    "line": 139,
+    "target_en": "The staff meeting was usually led by the mayor, the head of the Kimiyoshi family."
+  },
+  {
+    "id": 25,
+    "line": 145,
+    "target_en": "And he'd asked me, as the substitute for the Sonozaki family head, if I'd heard anything from her..."
+  },
+  {
+    "id": 26,
+    "line": 147,
+    "target_en": " I then realized who was supposed to lead today's staff meeting."
+  },
+  {
+    "id": 27,
+    "line": 153,
+    "target_en": "\\\"Uncl... no, Kimiyoshi-san."
+  },
+  {
+    "id": 28,
+    "line": 156,
+    "target_en": " Do I really have to lead the meeting today?\\\""
+  },
+  {
+    "id": 29,
+    "line": 161,
+    "target_en": "According to the ranking order at the family councils, any substitute for the Sonozaki family head is above the Kimiyoshi family head."
+  },
+  {
+    "id": 30,
+    "line": 166,
+    "target_en": "In other words, I'd have to lead today's meeting."
+  },
+  {
+    "id": 31,
+    "line": 168,
+    "target_en": " There was no way I could do that..."
+  },
+  {
+    "id": 32,
+    "line": 177,
+    "target_en": "\\\"Ah, don't worry, I'll do it."
+  },
+  {
+    "id": 33,
+    "line": 180,
+    "target_en": " You can just take a seat, Mion-chan."
+  },
+  {
+    "id": 34,
+    "line": 183,
+    "target_en": " If there's something you've heard from Oryou-san, just let us know, okay?\\\""
+  },
+  {
+    "id": 35,
+    "line": 189,
+    "target_en": "\\\"Kimiyoshi-san, why don't we get started? Everyone's here now.\\\""
+  },
+  {
+    "id": 36,
+    "line": 194,
+    "target_en": "The smokers put out their cigarettes and went back into the hall."
+  },
+  {
+    "id": 37,
+    "line": 200,
+    "target_en": "The tables were set in a horseshoe shape, and I was told to sit next to the chair reserved for the chief."
+  },
+  {
+    "id": 38,
+    "line": 206,
+    "target_en": "The seat opposite mine was empty."
+  },
+  {
+    "id": 39,
+    "line": 211,
+    "target_en": "Considering its location, it was probably for the Furude family head, Rika Furude."
+  },
+  {
+    "id": 40,
+    "line": 216,
+    "target_en": "But somebody had said earlier that everybody was already here."
+  },
+  {
+    "id": 41,
+    "line": 222,
+    "target_en": "Either Rika-chama had called in absent, or the empty seat was just a formality."
+  },
+  {
+    "id": 42,
+    "line": 227,
+    "target_en": "Knowing the subject of this meeting, I don't think that the Furude family head would even want to attend."
+  },
+  {
+    "id": 43,
+    "line": 232,
+    "target_en": "Even if Rika-chama actually attended, she wouldn't be able to say anything."
+  },
+  {
+    "id": 44,
+    "line": 238,
+    "target_en": "All she'd usually do at the Sonozaki family councils was draw pictures on a notepad."
+  },
+  {
+    "id": 45,
+    "line": 243,
+    "target_en": "She would probably end up drawing pictures in this meeting too."
+  },
+  {
+    "id": 46,
+    "line": 248,
+    "target_en": "Besides, they probably didn't want her to hear anything unpleasant."
+  },
+  {
+    "id": 47,
+    "line": 253,
+    "target_en": "In this way, the empty Furude family seat was easily explained."
+  },
+  {
+    "id": 48,
+    "line": 258,
+    "target_en": "When everyone was seated, the head of the women's association served tea."
+  },
+  {
+    "id": 49,
+    "line": 263,
+    "target_en": "She gave me an evil look, trying to tell me to help out. I got up and did so."
+  },
+  {
+    "id": 50,
+    "line": 268,
+    "target_en": "After that, everyone fell quiet, and the secretary stood up."
+  },
+  {
+    "id": 51,
+    "line": 274,
+    "target_en": "\\\"Everyone, thank you for coming today on such a short notice, despite your busy schedules..."
+  },
+  {
+    "id": 52,
+    "line": 277,
+    "target_en": " Let's start with a few words from the mayor."
+  },
+  {
+    "id": 53,
+    "line": 280,
+    "target_en": " Go ahead, please...\\\""
+  },
+  {
+    "id": 54,
+    "line": 289,
+    "target_en": "\\\"Ah, please excuse me for staying seated."
+  },
+  {
+    "id": 55,
+    "line": 292,
+    "target_en": " Ken-chan, you stay seated, too."
+  },
+  {
+    "id": 56,
+    "line": 295,
+    "target_en": " Thank you all for coming today."
+  },
+  {
+    "id": 57,
+    "line": 298,
+    "target_en": " Also, you all did a great job at Watanagashi yesterday. "
+  },
+  {
+    "id": 58,
+    "line": 302,
+    "target_en": "The festival was a great success, as usual. There weren't any mishaps."
+  },
+  {
+    "id": 59,
+    "line": 305,
+    "target_en": " Lots of villagers came, and I believe it went great, on the whole."
+  },
+  {
+    "id": 60,
+    "line": 308,
+    "target_en": " Let me see, how many people was it? "
+  },
+  {
+    "id": 61,
+    "line": 317,
+    "target_en": "According to the Imperial General Headquarters' report, approximately five thousand people showed up.\\\""
+  },
+  {
+    "id": 62,
+    "line": 322,
+    "target_en": "Wa ha ha ha ha ha."
+  },
+  {
+    "id": 63,
+    "line": 327,
+    "target_en": "Everyone laughed except me."
+  },
+  {
+    "id": 64,
+    "line": 333,
+    "target_en": "\\\"I hope we'll continue to work together to carry on this tradition."
+  },
+  {
+    "id": 65,
+    "line": 336,
+    "target_en": " I appreciate your cooperation.\\\""
+  },
+  {
+    "id": 66,
+    "line": 341,
+    "target_en": "Clap, clap, clap..."
+  },
+  {
+    "id": 67,
+    "line": 346,
+    "target_en": "An applause with only eight people doesn't sound so great."
+  },
+  {
+    "id": 68,
+    "line": 355,
+    "target_en": "\\\"Okay, let's move on to today's proceedings."
+  },
+  {
+    "id": 69,
+    "line": 358,
+    "target_en": " Kimiyoshi-san will lead the meeting today."
+  },
+  {
+    "id": 70,
+    "line": 361,
+    "target_en": " Please applaud if you approve.\\\""
+  },
+  {
+    "id": 71,
+    "line": 366,
+    "target_en": "Clap, clap, clap!"
+  },
+  {
+    "id": 72,
+    "line": 372,
+    "target_en": "\\\"Thank you."
+  },
+  {
+    "id": 73,
+    "line": 375,
+    "target_en": " Then, with your approval, Mayor Kimiyoshi will take over."
+  },
+  {
+    "id": 74,
+    "line": 378,
+    "target_en": " Please go ahead.\\\""
+  },
+  {
+    "id": 75,
+    "line": 387,
+    "target_en": "\\\"Thank you, Ken-chan."
+  },
+  {
+    "id": 76,
+    "line": 390,
+    "target_en": " Let's start now."
+  },
+  {
+    "id": 77,
+    "line": 393,
+    "target_en": " Ah, sorry, could you close the curtains?\\\""
+  },
+  {
+    "id": 78,
+    "line": 399,
+    "target_en": "Everyone closed the curtains nearest to them."
+  },
+  {
+    "id": 79,
+    "line": 404,
+    "target_en": "The sun was still up, but with all the curtains closed, the room became very dark."
+  },
+  {
+    "id": 80,
+    "line": 409,
+    "target_en": "The village chief explained the details of the incident, as well as what went on with the police."
+  },
+  {
+    "id": 81,
+    "line": 415,
+    "target_en": "A police vehicle discovered Tomitake-san's body on its way back to Okinomiya last night."
+  },
+  {
+    "id": 82,
+    "line": 421,
+    "target_en": "Ooishi's special 'curse unit' was standing by, expecting something to happen for the fifth time, so they responded quickly."
+  },
+  {
+    "id": 83,
+    "line": 427,
+    "target_en": "Since Tomitake-san and Takano-san were rarely apart, Ooishi got in touch with the neighboring prefectural police departments and asked them to look for her."
+  },
+  {
+    "id": 84,
+    "line": 433,
+    "target_en": "As a result, they found a burned body of a woman in the mountains of the Gifu Prefecture,"
+  },
+  {
+    "id": 85,
+    "line": 435,
+    "target_en": " and the body was then identified as Miyo Takano."
+  },
+  {
+    "id": 86,
+    "line": 441,
+    "target_en": "Considering the circumstances, the police ended up labeling the incident as the fifth of the ongoing series of mysterious deaths."
+  },
+  {
+    "id": 87,
+    "line": 448,
+    "target_en": "When he finished, there was dead silence."
+  },
+  {
+    "id": 88,
+    "line": 453,
+    "target_en": "I watched to see who would speak first."
+  },
+  {
+    "id": 89,
+    "line": 458,
+    "target_en": "Nobody said a thing."
+  },
+  {
+    "id": 90,
+    "line": 466,
+    "target_en": "Then, I noticed Kimiyoshi-san looking at me."
+  },
+  {
+    "id": 91,
+    "line": 472,
+    "target_en": "Ah."
+  },
+  {
+    "id": 92,
+    "line": 474,
+    "target_en": " This was where the head of the Sonozaki family would speak."
+  },
+  {
+    "id": 93,
+    "line": 480,
+    "target_en": "\\\"Mion-chan,"
+  },
+  {
+    "id": 94,
+    "line": 483,
+    "target_en": " has Oryou-san said anything about this whole thing?\\\""
+  },
+  {
+    "id": 95,
+    "line": 491,
+    "target_en": "Everyone looked in my direction."
+  },
+  {
+    "id": 96,
+    "line": 496,
+    "target_en": "...I was sure they could see the hag in me."
+  },
+  {
+    "id": 97,
+    "line": 502,
+    "target_en": "\\\"I'm Mion Sonozaki, acting head of the Sonozaki family."
+  },
+  {
+    "id": 98,
+    "line": 505,
+    "target_en": " I'm here in place of Oryou, the current head."
+  },
+  {
+    "id": 99,
+    "line": 508,
+    "target_en": " Thank you for having me.\\\""
+  },
+  {
+    "id": 100,
+    "line": 513,
+    "target_en": "I became Mion."
+  },
+  {
+    "id": 101,
+    "line": 518,
+    "target_en": "I tried to become as cold and unfeeling as the Mion I witnessed a year ago."
+  },
+  {
+    "id": 102,
+    "line": 524,
+    "target_en": "That cold version of Mion was inside of me."
+  },
+  {
+    "id": 103,
+    "line": 529,
+    "target_en": "That was me."
+  },
+  {
+    "id": 104,
+    "line": 531,
+    "target_en": " I was her."
+  },
+  {
+    "id": 105,
+    "line": 533,
+    "target_en": "....................."
+  },
+  {
+    "id": 106,
+    "line": 539,
+    "target_en": "\\\"Unfortunately, the curse of Oyashiro-sama has come to pass for the fifth time."
+  },
+  {
+    "id": 107,
+    "line": 542,
+    "target_en": " This is deeply regretful.\\\""
+  },
+  {
+    "id": 108,
+    "line": 547,
+    "target_en": "Everyone was held captive by my words."
+  },
+  {
+    "id": 109,
+    "line": 553,
+    "target_en": "I wasn't a little girl anymore."
+  },
+  {
+    "id": 110,
+    "line": 558,
+    "target_en": "The hag was speaking through my mouth."
+  },
+  {
+    "id": 111,
+    "line": 563,
+    "target_en": "They all heard me and trembled in fear..."
+  },
+  {
+    "id": 112,
+    "line": 569,
+    "target_en": "\\\"Does anyone know"
+  },
+  {
+    "id": 113,
+    "line": 572,
+    "target_en": " why the curse happened again this year?\\\""
+  },
+  {
+    "id": 114,
+    "line": 577,
+    "target_en": "After my question, everyone whispered to each other."
+  },
+  {
+    "id": 115,
+    "line": 583,
+    "target_en": "\\\"I will tell you."
+  },
+  {
+    "id": 116,
+    "line": 586,
+    "target_en": " It was because they broke the rule of the ritual storehouse and desecrated the sacred ground within.\\\""
+  },
+  {
+    "id": 117,
+    "line": 596,
+    "target_en": "\\\"\\\"How dare they!!\\\"\\\""
+  },
+  {
+    "id": 118,
+    "line": 606,
+    "target_en": "A few elderly men got up and yelled."
+  },
+  {
+    "id": 119,
+    "line": 612,
+    "target_en": "\\\"The fools!"
+  },
+  {
+    "id": 120,
+    "line": 615,
+    "target_en": " I can't believe this!!\\\""
+  },
+  {
+    "id": 121,
+    "line": 621,
+    "target_en": "\\\"They deserved to be killed!!\\\""
+  },
+  {
+    "id": 122,
+    "line": 627,
+    "target_en": "\\\"Oyashiro-sama, please calm your anger...\\\""
+  },
+  {
+    "id": 123,
+    "line": 633,
+    "target_en": "\\\"Oh my, oh my... how did that happen?"
+  },
+  {
+    "id": 124,
+    "line": 636,
+    "target_en": " Oyashiro-sama...\\\""
+  },
+  {
+    "id": 125,
+    "line": 642,
+    "target_en": "\\\"This is why we hate outsiders!!\\\""
+  },
+  {
+    "id": 126,
+    "line": 648,
+    "target_en": "\\\"They just don't think!!"
+  },
+  {
+    "id": 127,
+    "line": 651,
+    "target_en": " They're just too stupid!!\\\""
+  },
+  {
+    "id": 128,
+    "line": 657,
+    "target_en": "\\\"They got what they deserved!! It was their own fault!!\\\""
+  },
+  {
+    "id": 129,
+    "line": 664,
+    "target_en": "The angry old men yelled even as they trembled in fear."
+  },
+  {
+    "id": 130,
+    "line": 669,
+    "target_en": "Their sudden change scared me more than a little."
+  },
+  {
+    "id": 131,
+    "line": 675,
+    "target_en": "Even Uncle Kimiyoshi, who was usually so gentle and sweet,"
+  },
+  {
+    "id": 132,
+    "line": 677,
+    "target_en": " became like a demon of war, cursing those who broke the rule of the ritual storehouse."
+  },
+  {
+    "id": 133,
+    "line": 682,
+    "target_en": "It had become like a raging ocean inside the assembly hall."
+  },
+  {
+    "id": 134,
+    "line": 688,
+    "target_en": "Their yells spun about like a whirlpool."
+  },
+  {
+    "id": 135,
+    "line": 690,
+    "target_en": " They roared,"
+  },
+  {
+    "id": 136,
+    "line": 695,
+    "target_en": " crashed,"
+  },
+  {
+    "id": 137,
+    "line": 700,
+    "target_en": " and howled."
+  },
+  {
+    "id": 138,
+    "line": 706,
+    "target_en": "Even while doing nothing but watch, I could feel myself turning pale."
+  },
+  {
+    "id": 139,
+    "line": 712,
+    "target_en": "Mion threatened me yesterday, and Kasai had been shocked this morning."
+  },
+  {
+    "id": 140,
+    "line": 717,
+    "target_en": "What I saw before me was similar to that."
+  },
+  {
+    "id": 141,
+    "line": 722,
+    "target_en": "Even the sweet and gentle Uncle Kimiyoshi was saying they deserved to die."
+  },
+  {
+    "id": 142,
+    "line": 727,
+    "target_en": "I was fearful of the sudden change in those elderly men."
+  },
+  {
+    "id": 143,
+    "line": 729,
+    "target_en": " More than anything, the fact that they all believed that those people deserved to die for trespassing is what terrified me."
+  },
+  {
+    "id": 144,
+    "line": 735,
+    "target_en": "It wasn't just that, of course."
+  },
+  {
+    "id": 145,
+    "line": 737,
+    "target_en": " The real thing I was scared of..."
+  },
+  {
+    "id": 146,
+    "line": 742,
+    "target_en": "Was that I was one of the people they wanted dead."
+  },
+  {
+    "id": 147,
+    "line": 747,
+    "target_en": "In other words, it was almost like they were telling me to die of the curse..."
+  },
+  {
+    "id": 148,
+    "line": 752,
+    "target_en": "If they were to find out I snuck into the ritual storehouse..."
+  },
+  {
+    "id": 149,
+    "line": 757,
+    "target_en": "It was very possible that they would strangle me on the spot."
+  },
+  {
+    "id": 150,
+    "line": 763,
+    "target_en": "Actually, they might not kill me that easily."
+  },
+  {
+    "id": 151,
+    "line": 769,
+    "target_en": "By then, I was certain..."
+  },
+  {
+    "id": 152,
+    "line": 774,
+    "target_en": "The people in this room were true believers in Oyashiro-sama, just like the hag."
+  },
+  {
+    "id": 153,
+    "line": 779,
+    "target_en": "They wouldn't hesitate to murder whoever made Oyashiro-sama angry on his behalf."
+  },
+  {
+    "id": 154,
+    "line": 784,
+    "target_en": "Even if they didn't carry out the killing themselves, they would pretend they didn't see anything."
+  },
+  {
+    "id": 155,
+    "line": 789,
+    "target_en": "Yes, not even if my head was cut off right in front of them."
+  },
+  {
+    "id": 156,
+    "line": 794,
+    "target_en": "Everyone here would act in collusion and say I never attended today... If they all testified that they waited and I didn't show... I'd be 'demoned away.'"
+  },
+  {
+    "id": 157,
+    "line": 800,
+    "target_en": "It would be far too easy for them to erase someone and have them disappear."
+  },
+  {
+    "id": 158,
+    "line": 805,
+    "target_en": "There was no mistake."
+  },
+  {
+    "id": 159,
+    "line": 810,
+    "target_en": "......The people linking the hag and the curse were definitely here at this meeting."
+  },
+  {
+    "id": 160,
+    "line": 818,
+    "target_en": "I continued speaking."
+  },
+  {
+    "id": 161,
+    "line": 823,
+    "target_en": "I was Mion Sonozaki."
+  },
+  {
+    "id": 162,
+    "line": 828,
+    "target_en": "I was on the side responsible for the curse."
+  },
+  {
+    "id": 163,
+    "line": 833,
+    "target_en": "Therefore, at that moment, I didn't need to worry about anything."
+  },
+  {
+    "id": 164,
+    "line": 838,
+    "target_en": "...Nobody could tell the difference between Mion and me."
+  },
+  {
+    "id": 165,
+    "line": 840,
+    "target_en": " That's what would keep me safe..."
+  },
+  {
+    "id": 166,
+    "line": 847,
+    "target_en": "\\\"Please... ...be silent.\\\""
+  },
+  {
+    "id": 167,
+    "line": 856,
+    "target_en": "\\\"Hey!!"
+  },
+  {
+    "id": 168,
+    "line": 859,
+    "target_en": " Quiet down!!!\\\""
+  },
+  {
+    "id": 169,
+    "line": 864,
+    "target_en": "Uncle Kimiyoshi helped me to quiet everyone, but his tone was violent. He really scared me."
+  },
+  {
+    "id": 170,
+    "line": 869,
+    "target_en": "Everyone gradually became silent."
+  },
+  {
+    "id": 171,
+    "line": 877,
+    "target_en": "\\\"In fact, it was four people who snuck into the storehouse."
+  },
+  {
+    "id": 172,
+    "line": 880,
+    "target_en": " Two more remain.\\\""
+  },
+  {
+    "id": 173,
+    "line": 885,
+    "target_en": "People once more became restless upon hearing that, but Uncle Kimiyoshi yelled at them again and they settled down."
+  },
+  {
+    "id": 174,
+    "line": 891,
+    "target_en": "\\\"Tomitake-san and Takano-san were old enough to be made responsible for their own poor judgment."
+  },
+  {
+    "id": 175,
+    "line": 894,
+    "target_en": " As a result, the curse of Oyashiro-sama fell upon them immediately, but the other two were simply children. "
+  },
+  {
+    "id": 176,
+    "line": 898,
+    "target_en": "The curse has yet to fall upon them..."
+  },
+  {
+    "id": 177,
+    "line": 903,
+    "target_en": " but there will be some kind of punishment.\\\""
+  },
+  {
+    "id": 178,
+    "line": 908,
+    "target_en": "Everyone stayed quiet that time."
+  },
+  {
+    "id": 179,
+    "line": 913,
+    "target_en": "They had all turned genuinely pale, trying not to miss a word I said."
+  },
+  {
+    "id": 180,
+    "line": 919,
+    "target_en": "After all, they were all thinking"
+  },
+  {
+    "id": 181,
+    "line": 924,
+    "target_en": " that the kids I mentioned could be their own relatives"
+  },
+  {
+    "id": 182,
+    "line": 929,
+    "target_en": " or even grandchildren."
+  },
+  {
+    "id": 183,
+    "line": 934,
+    "target_en": "...They wanted to know who they were, to put their minds at ease."
+  },
+  {
+    "id": 184,
+    "line": 940,
+    "target_en": "\\\"......The other two who snuck into the ritual storehouse were Shion Sonozaki,"
+  },
+  {
+    "id": 185,
+    "line": 943,
+    "target_en": " and Keiichi Maebara.\\\""
+  },
+  {
+    "id": 186,
+    "line": 948,
+    "target_en": "I could feel the air getting drier."
+  },
+  {
+    "id": 187,
+    "line": 953,
+    "target_en": "It was so dry it almost felt like it was going to start making a crackling noise..."
+  },
+  {
+    "id": 188,
+    "line": 959,
+    "target_en": "\\\"Shion Sonozaki has..."
+  },
+  {
+    "id": 189,
+    "line": 962,
+    "target_en": " already...\\\""
+  },
+  {
+    "id": 190,
+    "line": 967,
+    "target_en": "I couldn't even hear the old people breathe."
+  },
+  {
+    "id": 191,
+    "line": 972,
+    "target_en": "I took a peek at Uncle Kimiyoshi, who was sitting next to me."
+  },
+  {
+    "id": 192,
+    "line": 978,
+    "target_en": "He'd adored Shion as if she were his own granddaughter, but she had been demoned away."
+  },
+  {
+    "id": 193,
+    "line": 983,
+    "target_en": "I wanted to see how distressed and sad he'd look."
+  },
+  {
+    "id": 194,
+    "line": 988,
+    "target_en": "And when I saw his face... "
+  },
+  {
+    "id": 195,
+    "line": 996,
+    "target_en": "I felt a sensation on my back, as if my skin itself was making a cracking noise."
+  },
+  {
+    "id": 196,
+    "line": 1003,
+    "target_en": "............He didn't even have..."
+  },
+  {
+    "id": 197,
+    "line": 1005,
+    "target_en": " ...an expression on his face..."
+  },
+  {
+    "id": 198,
+    "line": 1010,
+    "target_en": "Uncle Kimiyoshi adored me."
+  },
+  {
+    "id": 199,
+    "line": 1015,
+    "target_en": "I loved him and I thought he loved me too."
+  },
+  {
+    "id": 200,
+    "line": 1021,
+    "target_en": "That was why I expected him to be saddened after learning that I met with such a cruel fate."
+  },
+  {
+    "id": 201,
+    "line": 1026,
+    "target_en": "What was I thinking?"
+  },
+  {
+    "id": 202,
+    "line": 1031,
+    "target_en": "The memory of his warm smile shattered inside of me."
+  },
+  {
+    "id": 203,
+    "line": 1036,
+    "target_en": "There was no way of describing the fear I experienced in that moment"
+  },
+  {
+    "id": 204,
+    "line": 1038,
+    "target_en": " in mere words."
+  },
+  {
+    "id": 205,
+    "line": 1040,
+    "target_en": " He had suddenly changed into someone I didn't even recognize."
+  },
+  {
+    "id": 206,
+    "line": 1047,
+    "target_en": "Uncle Kimiyoshi noticed me looking at him and spoke."
+  },
+  {
+    "id": 207,
+    "line": 1053,
+    "target_en": "\\\"What about Keiichi Maebara?\\\""
+  },
+  {
+    "id": 208,
+    "line": 1059,
+    "target_en": "\\\"......"
+  },
+  {
+    "id": 209,
+    "line": 1064,
+    "target_en": ".........Not yet.\\\""
+  },
+  {
+    "id": 210,
+    "line": 1069,
+    "target_en": "I had to take a deep breath to regain my composure."
+  },
+  {
+    "id": 211,
+    "line": 1075,
+    "target_en": "\\\"All four who snuck into the ritual storehouse will suffer the curse of Oyashiro-sama."
+  },
+  {
+    "id": 212,
+    "line": 1078,
+    "target_en": " ...Keiichi Maebara is no exception...\\\""
+  },
+  {
+    "id": 213,
+    "line": 1084,
+    "target_en": "Chilling looks."
+  },
+  {
+    "id": 214,
+    "line": 1086,
+    "target_en": " Cruel looks."
+  },
+  {
+    "id": 215,
+    "line": 1088,
+    "target_en": " Emotionless looks."
+  },
+  {
+    "id": 216,
+    "line": 1090,
+    "target_en": " Shrewd looks."
+  },
+  {
+    "id": 217,
+    "line": 1092,
+    "target_en": " And the looks of people who were about to snap."
+  },
+  {
+    "id": 218,
+    "line": 1098,
+    "target_en": "I could feel the demons chewing my words while they stared at me with their sharp eyes."
+  },
+  {
+    "id": 219,
+    "line": 1103,
+    "target_en": "I could see some of them sticking their snake-like tongues in and out."
+  },
+  {
+    "id": 220,
+    "line": 1108,
+    "target_en": "I could see flames in some of their eyes."
+  },
+  {
+    "id": 221,
+    "line": 1113,
+    "target_en": "They were memorizing the names of the intruder the curse had yet to fall upon."
+  },
+  {
+    "id": 222,
+    "line": 1120,
+    "target_en": "And so, the meeting went on."
+  },
+  {
+    "id": 223,
+    "line": 1126,
+    "target_en": "We were told not to tell the police too much..."
+  },
+  {
+    "id": 224,
+    "line": 1131,
+    "target_en": "To report what they asked us..."
+  },
+  {
+    "id": 225,
+    "line": 1136,
+    "target_en": "And to hold another meeting whenever something of significance happened."
+  },
+  {
+    "id": 226,
+    "line": 1141,
+    "target_en": "If something unexpected took place, we were to get in touch with either the head of the Kimiyoshi family or the head of the Sonozaki family for instructions on what to do. "
+  },
+  {
+    "id": 227,
+    "line": 1144,
+    "target_en": "With those closing remarks, the meeting was over."
+  },
+  {
+    "id": 228,
+    "line": 1158,
+    "target_en": "It was already getting dark outside."
+  },
+  {
+    "id": 229,
+    "line": 1163,
+    "target_en": "Being in a valley surrounded by mountains, once the sun went down in Hinamizawa, it got dark quickly."
+  },
+  {
+    "id": 230,
+    "line": 1168,
+    "target_en": "Even if it was hot during the day, it'd cool down quickly at night."
+  },
+  {
+    "id": 231,
+    "line": 1173,
+    "target_en": "The elderly people said goodbye to each other and left on their bicycles, on their motorcycles, or in their cars..."
+  },
+  {
+    "id": 232,
+    "line": 1178,
+    "target_en": "Uncle Kimiyoshi waved them goodbye and started to head home himself."
+  },
+  {
+    "id": 233,
+    "line": 1183,
+    "target_en": "I called out to him."
+  },
+  {
+    "id": 234,
+    "line": 1191,
+    "target_en": "\\\"Kimiyoshi-san."
+  },
+  {
+    "id": 235,
+    "line": 1194,
+    "target_en": " Do you have plans after this?\\\""
+  },
+  {
+    "id": 236,
+    "line": 1199,
+    "target_en": "I called him 'Kimiyoshi-san,' instead of 'Uncle Kimiyoshi.'"
+  },
+  {
+    "id": 237,
+    "line": 1201,
+    "target_en": " He stopped."
+  },
+  {
+    "id": 238,
+    "line": 1210,
+    "target_en": "\\\"No, I don't have anything planned.\\\""
+  },
+  {
+    "id": 239,
+    "line": 1216,
+    "target_en": "\\\"Can you stop by my house?\\\""
+  },
+  {
+    "id": 240,
+    "line": 1222,
+    "target_en": "\\\"......Does Oryou-san want to see me?\\\""
+  },
+  {
+    "id": 241,
+    "line": 1228,
+    "target_en": "\\\"Yes."
+  },
+  {
+    "id": 242,
+    "line": 1231,
+    "target_en": " She wants to talk to you about something in person.\\\""
+  },
+  {
+    "id": 243,
+    "line": 1237,
+    "target_en": "\\\".........Okay, I'll stop by.\\\""
+  },
+  {
+    "id": 244,
+    "line": 1244,
+    "target_en": "Uncle Kimiyoshi arrived at the Sonozaki house."
+  },
+  {
+    "id": 245,
+    "line": 1250,
+    "target_en": "He often came to the house to have secret meetings with the hag, so he wasn't suspicious at all..."
+  },
+  {
+    "id": 246,
+    "line": 1256,
+    "target_en": "I invited Uncle Kimiyoshi into the living room."
+  },
+  {
+    "id": 247,
+    "line": 1258,
+    "target_en": " I served him a cup of tea and told him I was going to fetch the hag. I left the room and killed some time down the hallway."
+  },
+  {
+    "id": 248,
+    "line": 1266,
+    "target_en": "\\\"Granny will be here after she gets dressed."
+  },
+  {
+    "id": 249,
+    "line": 1269,
+    "target_en": " She might take a little while...\\\""
+  },
+  {
+    "id": 250,
+    "line": 1275,
+    "target_en": "\\\"Oh, that's okay."
+  },
+  {
+    "id": 251,
+    "line": 1278,
+    "target_en": " I'll just wait.\\\""
+  },
+  {
+    "id": 252,
+    "line": 1283,
+    "target_en": "Uncle Kimiyoshi relaxed as he sipped his cup of tea."
+  },
+  {
+    "id": 253,
+    "line": 1288,
+    "target_en": "I sat next to him."
+  },
+  {
+    "id": 254,
+    "line": 1294,
+    "target_en": "\\\"......I think... she wants to talk to you about Shion.\\\""
+  },
+  {
+    "id": 255,
+    "line": 1300,
+    "target_en": "\\\".....................\\\""
+  },
+  {
+    "id": 256,
+    "line": 1305,
+    "target_en": "I mentioned my name and watched for his reaction."
+  },
+  {
+    "id": 257,
+    "line": 1310,
+    "target_en": "Uncle Kimiyoshi looked so grim."
+  },
+  {
+    "id": 258,
+    "line": 1315,
+    "target_en": "I couldn't even tell if he heard me."
+  },
+  {
+    "id": 259,
+    "line": 1320,
+    "target_en": "I decided to continue speaking until he reacted in some way."
+  },
+  {
+    "id": 260,
+    "line": 1326,
+    "target_en": "\\\"You remember the incident from last year with Shion, yes?"
+  },
+  {
+    "id": 261,
+    "line": 1329,
+    "target_en": " She became... friendly with people of the Houjou family...\\\""
+  },
+  {
+    "id": 262,
+    "line": 1335,
+    "target_en": "\\\"She was forgiven............ after ripping out her nails... wasn't she?\\\""
+  },
+  {
+    "id": 263,
+    "line": 1341,
+    "target_en": "\\\"Yes."
+  },
+  {
+    "id": 264,
+    "line": 1344,
+    "target_en": " Three nails.\\\""
+  },
+  {
+    "id": 265,
+    "line": 1349,
+    "target_en": "Uncle Kimiyoshi folded his arms and thought for a while."
+  },
+  {
+    "id": 266,
+    "line": 1355,
+    "target_en": "\\\"Where... is Shion-chan now?\\\""
+  },
+  {
+    "id": 267,
+    "line": 1361,
+    "target_en": "\\\"In the basement.\\\""
+  },
+  {
+    "id": 268,
+    "line": 1367,
+    "target_en": "\\\"How is she doing?\\\""
+  },
+  {
+    "id": 269,
+    "line": 1372,
+    "target_en": "Uncle Kimiyoshi sounded worried."
+  },
+  {
+    "id": 270,
+    "line": 1379,
+    "target_en": "When I heard that, I felt relieved that Uncle Kimiyoshi was on my side."
+  },
+  {
+    "id": 271,
+    "line": 1384,
+    "target_en": "His anger in the assembly hall was just an act."
+  },
+  {
+    "id": 272,
+    "line": 1390,
+    "target_en": "\\\"She has been crying.\\\""
+  },
+  {
+    "id": 273,
+    "line": 1398,
+    "target_en": "\\\"Mion-chan..."
+  },
+  {
+    "id": 274,
+    "line": 1401,
+    "target_en": " Tell me, what is Oryou-san going to do with Shion-chan?\\\""
+  },
+  {
+    "id": 275,
+    "line": 1407,
+    "target_en": "\\\"She hasn't told me any details."
+  },
+  {
+    "id": 276,
+    "line": 1410,
+    "target_en": " As you know, Granny becomes awfully quiet when she is truly furious.\\\""
+  },
+  {
+    "id": 277,
+    "line": 1416,
+    "target_en": "\\\"...Going into the ritual storehouse, huh?"
+  },
+  {
+    "id": 278,
+    "line": 1419,
+    "target_en": " ...Furthermore, it's her own granddaughter."
+  },
+  {
+    "id": 279,
+    "line": 1422,
+    "target_en": " That's a tough decision to make...\\\""
+  },
+  {
+    "id": 280,
+    "line": 1427,
+    "target_en": "Uncle Kimiyoshi thought that the hag must be unsure of what to do with Shion."
+  },
+  {
+    "id": 281,
+    "line": 1433,
+    "target_en": "\\\"What do you think? What do you think will happen... to Shion?\\\""
+  },
+  {
+    "id": 282,
+    "line": 1439,
+    "target_en": "\\\"Well... I'm sure it'll be far more... than just three nails this time."
+  },
+  {
+    "id": 283,
+    "line": 1442,
+    "target_en": " Knowing how Oryou-san is, she won't hold back just because it's her granddaughter. "
+  },
+  {
+    "id": 284,
+    "line": 1446,
+    "target_en": "Actually, she might be even more harsh, especially because they're related.\\\""
+  },
+  {
+    "id": 285,
+    "line": 1452,
+    "target_en": "\\\"Yes... she did go into the ritual storehouse."
+  },
+  {
+    "id": 286,
+    "line": 1455,
+    "target_en": " That's not something that can be forgiven so easily...\\\""
+  },
+  {
+    "id": 287,
+    "line": 1461,
+    "target_en": "\\\"......Indeed."
+  },
+  {
+    "id": 288,
+    "line": 1464,
+    "target_en": " It's sacred, after all...\\\""
+  },
+  {
+    "id": 289,
+    "line": 1470,
+    "target_en": "\\\"But in a way, maybe it's not fair to Shion."
+  },
+  {
+    "id": 290,
+    "line": 1473,
+    "target_en": " She has been away from Hinamizawa, as you know. "
+  },
+  {
+    "id": 291,
+    "line": 1477,
+    "target_en": "I'm sure she knew she wasn't supposed to trespass in the ritual storehouse, but maybe she didn't know how forbidden it was.\\\""
+  },
+  {
+    "id": 292,
+    "line": 1483,
+    "target_en": "\\\".........Yeah, that's true. Poor Shion-chan...\\\""
+  },
+  {
+    "id": 293,
+    "line": 1489,
+    "target_en": "\\\"Other than the tattoo on my back..."
+  },
+  {
+    "id": 294,
+    "line": 1492,
+    "target_en": " How would you tell the difference between Shion and me?"
+  },
+  {
+    "id": 295,
+    "line": 1495,
+    "target_en": " ...There isn't one."
+  },
+  {
+    "id": 296,
+    "line": 1498,
+    "target_en": " There's no point in distinguishing between Mion and Shion in the first place.\\\""
+  },
+  {
+    "id": 297,
+    "line": 1505,
+    "target_en": "Twins are proof of bad luck."
+  },
+  {
+    "id": 298,
+    "line": 1510,
+    "target_en": "One should be eliminated as soon as they are born."
+  },
+  {
+    "id": 299,
+    "line": 1516,
+    "target_en": "Such is the family precept. The hag actually put her hands around my neck right after I came out of the womb."
+  },
+  {
+    "id": 300,
+    "line": 1518,
+    "target_en": " That's how the story went, at least."
+  },
+  {
+    "id": 301,
+    "line": 1523,
+    "target_en": "In the end, the hag didn't kill me... but instead pretended I didn't exist."
+  },
+  {
+    "id": 302,
+    "line": 1528,
+    "target_en": "She forced herself to call one of us Mion and the other Shion. She adored Mion and hated Shion."
+  },
+  {
+    "id": 303,
+    "line": 1534,
+    "target_en": "My sister and I never understood why we had to go through that."
+  },
+  {
+    "id": 304,
+    "line": 1539,
+    "target_en": "We didn't care who was Mion or Shion."
+  },
+  {
+    "id": 305,
+    "line": 1544,
+    "target_en": "So one day, we came up with an idea."
+  },
+  {
+    "id": 306,
+    "line": 1549,
+    "target_en": "We decided to share the joy Mion experienced and the sadness Shion experienced."
+  },
+  {
+    "id": 307,
+    "line": 1555,
+    "target_en": "We often switched places."
+  },
+  {
+    "id": 308,
+    "line": 1560,
+    "target_en": "We were both Mion, and at the same time, we were both Shion."
+  },
+  {
+    "id": 309,
+    "line": 1565,
+    "target_en": "Adults around us tried to put different clothes on us or style our hair differently so they could tell us apart."
+  },
+  {
+    "id": 310,
+    "line": 1570,
+    "target_en": "That was nonsense."
+  },
+  {
+    "id": 311,
+    "line": 1575,
+    "target_en": "No matter what they did to us, all we had to do was switch places, and nobody could tell us apart."
+  },
+  {
+    "id": 312,
+    "line": 1581,
+    "target_en": "Finally, they decided that we switched places because we were always together."
+  },
+  {
+    "id": 313,
+    "line": 1586,
+    "target_en": "On that day, Shion got to go to an amusement park."
+  },
+  {
+    "id": 314,
+    "line": 1592,
+    "target_en": "............Since then, we've been separated."
+  },
+  {
+    "id": 315,
+    "line": 1600,
+    "target_en": "\\\"Mion-chan...\\\""
+  },
+  {
+    "id": 316,
+    "line": 1606,
+    "target_en": "\\\"I can't even imagine... what will happen to Shion."
+  },
+  {
+    "id": 317,
+    "line": 1609,
+    "target_en": " Whatever it is Granny decides to do... I'm not in a position to say anything about it."
+  },
+  {
+    "id": 318,
+    "line": 1612,
+    "target_en": " She doesn't listen to her relatives.\\\""
+  },
+  {
+    "id": 319,
+    "line": 1618,
+    "target_en": "\\\"......You're right."
+  },
+  {
+    "id": 320,
+    "line": 1621,
+    "target_en": " That's something Oryou-san needs to work on...\\\""
+  },
+  {
+    "id": 321,
+    "line": 1627,
+    "target_en": "\\\"If... Shion wasn't Shion Sonozaki... she would have been dead a long time ago.\\\""
+  },
+  {
+    "id": 322,
+    "line": 1633,
+    "target_en": "\\\"........................\\\""
+  },
+  {
+    "id": 323,
+    "line": 1639,
+    "target_en": "\\\".........I can't even begin to imagine... what kind of punishment might be equal to death."
+  },
+  {
+    "id": 324,
+    "line": 1642,
+    "target_en": " ...Even if she isn't killed... ...She'll probably never see the light of day again. "
+  },
+  {
+    "id": 325,
+    "line": 1646,
+    "target_en": "In other words... she'll be... demoned away...\\\""
+  },
+  {
+    "id": 326,
+    "line": 1652,
+    "target_en": "\\\"Mion-chan..."
+  },
+  {
+    "id": 327,
+    "line": 1655,
+    "target_en": " ...Does Shion-chan regret what she has done?\\\""
+  },
+  {
+    "id": 328,
+    "line": 1661,
+    "target_en": "\\\"Yes......\\\""
+  },
+  {
+    "id": 329,
+    "line": 1666,
+    "target_en": "In response, Uncle Kimiyoshi tapped my shoulder and then slapped his own chest."
+  },
+  {
+    "id": 330,
+    "line": 1671,
+    "target_en": "He smiled reliably."
+  },
+  {
+    "id": 331,
+    "line": 1677,
+    "target_en": "\\\"Don't worry."
+  },
+  {
+    "id": 332,
+    "line": 1680,
+    "target_en": " If Shion-chan feels bad about what she has done, she won't be demoned away."
+  },
+  {
+    "id": 333,
+    "line": 1683,
+    "target_en": " Leave it to me.\\\""
+  },
+  {
+    "id": 334,
+    "line": 1689,
+    "target_en": "\\\"R-Really?\\\""
+  },
+  {
+    "id": 335,
+    "line": 1695,
+    "target_en": "\\\"I'm sure Oryou-san will be furious to hear me say anything."
+  },
+  {
+    "id": 336,
+    "line": 1698,
+    "target_en": " But I won't give up."
+  },
+  {
+    "id": 337,
+    "line": 1701,
+    "target_en": " I'll explain to her that Shion-chan regrets what she has done, and I'll beg for her forgiveness.\\\""
+  },
+  {
+    "id": 338,
+    "line": 1706,
+    "target_en": "Tears... began to fall from my eyes."
+  },
+  {
+    "id": 339,
+    "line": 1711,
+    "target_en": "I knew it... Uncle Kimiyoshi was my ally after all."
+  },
+  {
+    "id": 340,
+    "line": 1716,
+    "target_en": "He said he would forgive Shion."
+  },
+  {
+    "id": 341,
+    "line": 1718,
+    "target_en": " He was my ally."
+  },
+  {
+    "id": 342,
+    "line": 1720,
+    "target_en": " I was so very happy..."
+  },
+  {
+    "id": 343,
+    "line": 1726,
+    "target_en": "\\\"Are you sure?"
+  },
+  {
+    "id": 344,
+    "line": 1729,
+    "target_en": " Are you sure she won't be demoned away, like Satoshi Houjou-kun was last year?\\\""
+  },
+  {
+    "id": 345,
+    "line": 1734,
+    "target_en": "Uncle Kimiyoshi smiled reliably again and told me."
+  },
+  {
+    "id": 346,
+    "line": 1743,
+    "target_en": "\\\"He was a brat of the Houjou family. This is Shion-chan of the Sonozaki family we're talking about here. Of course she'll be forgiven.\\\""
+  },
+  {
+    "id": 347,
+    "line": 1756,
+    "target_en": "\\\"A brat of the Houjou family... Are you talking about Satoshi-kun?"
+  },
+  {
+    "id": 348,
+    "line": 1759,
+    "target_en": " Last year's victim?\\\""
+  },
+  {
+    "id": 349,
+    "line": 1765,
+    "target_en": "\\\"Those Houjou people..."
+  },
+  {
+    "id": 350,
+    "line": 1768,
+    "target_en": " They were traitors who tried to sell out the whole village."
+  },
+  {
+    "id": 351,
+    "line": 1771,
+    "target_en": " Of course he got demoned away. He was a Houjou, after all.\\\""
+  },
+  {
+    "id": 352,
+    "line": 1783,
+    "target_en": "\\\"The Houjou people should all be cursed."
+  },
+  {
+    "id": 353,
+    "line": 1786,
+    "target_en": " Only people like them get demoned away."
+  },
+  {
+    "id": 354,
+    "line": 1789,
+    "target_en": " Shion-chan will be okay."
+  },
+  {
+    "id": 355,
+    "line": 1792,
+    "target_en": " It won't happen to someone like her.\\\""
+  },
+  {
+    "id": 356,
+    "line": 1798,
+    "target_en": "\\\"...Uncle."
+  },
+  {
+    "id": 357,
+    "line": 1801,
+    "target_en": " Didn't... Didn't Shion take care of that for Satoshi-kun last year? ...Wasn't he supposed to be forgiven?\\\""
+  },
+  {
+    "id": 358,
+    "line": 1807,
+    "target_en": "\\\"'Take care of that'?"
+  },
+  {
+    "id": 359,
+    "line": 1810,
+    "target_en": " What do you mean?\\\""
+  },
+  {
+    "id": 360,
+    "line": 1816,
+    "target_en": "\\\"Remember? Three nails."
+  },
+  {
+    "id": 361,
+    "line": 1821,
+    "target_en": " She removed three of her nails."
+  },
+  {
+    "id": 362,
+    "line": 1824,
+    "target_en": " Kasai-san,"
+  },
+  {
+    "id": 363,
+    "line": 1829,
+    "target_en": " Uncle Yoshiroh,"
+  },
+  {
+    "id": 364,
+    "line": 1834,
+    "target_en": " and then Satoshi-kun"
+  },
+  {
+    "id": 365,
+    "line": 1839,
+    "target_en": "... three people."
+  },
+  {
+    "id": 366,
+    "line": 1842,
+    "target_en": " She removed three nails for three people.\\\""
+  },
+  {
+    "id": 367,
+    "line": 1850,
+    "target_en": "\\\"Eh?"
+  },
+  {
+    "id": 368,
+    "line": 1853,
+    "target_en": " So that was why it was three nails, huh?\\\""
+  },
+  {
+    "id": 369,
+    "line": 1864,
+    "target_en": "\\\"Wasn't that the significance of those three nails?\\\""
+  },
+  {
+    "id": 370,
+    "line": 1870,
+    "target_en": "\\\"Yeah, you're right."
+  },
+  {
+    "id": 371,
+    "line": 1873,
+    "target_en": " There were three people involved, hence the three nails."
+  },
+  {
+    "id": 372,
+    "line": 1876,
+    "target_en": " I heard that too."
+  },
+  {
+    "id": 373,
+    "line": 1879,
+    "target_en": " But...\\\""
+  },
+  {
+    "id": 374,
+    "line": 1885,
+    "target_en": "\\\"But... what?\\\""
+  },
+  {
+    "id": 375,
+    "line": 1891,
+    "target_en": "\\\"Kasai-san,"
+  },
+  {
+    "id": 376,
+    "line": 1896,
+    "target_en": " Yoshiroh-san..."
+  },
+  {
+    "id": 377,
+    "line": 1903,
+    "target_en": " ...and Shion-chan, that makes three.\\\""
+  },
+  {
+    "id": 378,
+    "line": 1917,
+    "target_en": "Eh...?"
+  },
+  {
+    "id": 379,
+    "line": 1919,
+    "target_en": " ...What?"
+  },
+  {
+    "id": 380,
+    "line": 1921,
+    "target_en": " .........Huh?"
+  },
+  {
+    "id": 381,
+    "line": 1926,
+    "target_en": "Eh... What?"
+  },
+  {
+    "id": 382,
+    "line": 1931,
+    "target_en": "I endured... excruciating pain...?"
+  },
+  {
+    "id": 383,
+    "line": 1936,
+    "target_en": "The first one was my left pinky."
+  },
+  {
+    "id": 384,
+    "line": 1938,
+    "target_en": " Then the ring finger"
+  },
+  {
+    "id": 385,
+    "line": 1940,
+    "target_en": " and then the middle finger."
+  },
+  {
+    "id": 386,
+    "line": 1945,
+    "target_en": "People held me down so I couldn't move."
+  },
+  {
+    "id": 387,
+    "line": 1947,
+    "target_en": " But... I endured..."
+  },
+  {
+    "id": 388,
+    "line": 1953,
+    "target_en": "I had to endure three nails."
+  },
+  {
+    "id": 389,
+    "line": 1958,
+    "target_en": "I didn't know which nail was for Satoshi-kun."
+  },
+  {
+    "id": 390,
+    "line": 1963,
+    "target_en": "If my middle finger was for Satoshi-kun..."
+  },
+  {
+    "id": 391,
+    "line": 1968,
+    "target_en": "I'd have to endure until the middle finger was done so that Satoshi-kun would be forgiven."
+  },
+  {
+    "id": 392,
+    "line": 1974,
+    "target_en": "That was why I endured..."
+  },
+  {
+    "id": 393,
+    "line": 1979,
+    "target_en": "Even Mion said afterwards."
+  },
+  {
+    "id": 394,
+    "line": 1984,
+    "target_en": "Everything was forgiven."
+  },
+  {
+    "id": 395,
+    "line": 1992,
+    "target_en": "...Huh?"
+  },
+  {
+    "id": 396,
+    "line": 1997,
+    "target_en": "...Huh... huh?"
+  },
+  {
+    "id": 397,
+    "line": 2002,
+    "target_en": "Mion, didn't you say Satoshi-kun was forgiven?"
+  },
+  {
+    "id": 398,
+    "line": 2004,
+    "target_en": " ...Didn't you?"
+  },
+  {
+    "id": 399,
+    "line": 2009,
+    "target_en": "That's what I heard."
+  },
+  {
+    "id": 400,
+    "line": 2011,
+    "target_en": " I think that's what I heard."
+  },
+  {
+    "id": 401,
+    "line": 2017,
+    "target_en": "Or did I?"
+  },
+  {
+    "id": 402,
+    "line": 2019,
+    "target_en": " Eh?"
+  },
+  {
+    "id": 403,
+    "line": 2021,
+    "target_en": " ...Eh?"
+  },
+  {
+    "id": 404,
+    "line": 2023,
+    "target_en": " Huh?"
+  },
+  {
+    "id": 405,
+    "line": 2033,
+    "target_en": "I felt the air move."
+  },
+  {
+    "id": 406,
+    "line": 2038,
+    "target_en": "There shouldn't have been a breeze in that room... but I felt it anyway."
+  },
+  {
+    "id": 407,
+    "line": 2043,
+    "target_en": "The cool air stroked the back of my neck."
+  },
+  {
+    "id": 408,
+    "line": 2048,
+    "target_en": "That was when..."
+  },
+  {
+    "id": 409,
+    "line": 2050,
+    "target_en": " my true self stood right behind me... and nodded."
+  },
+  {
+    "id": 410,
+    "line": 2055,
+    "target_en": "Although there was no wind... my hair billowed. The burning wickedness buried deep inside my eyes became visible."
+  },
+  {
+    "id": 411,
+    "line": 2062,
+    "target_en": "\\\"...Why do you think Satoshi Houjou-kun got demoned away?\\\""
+  },
+  {
+    "id": 412,
+    "line": 2068,
+    "target_en": "\\\"Eh?\\\""
+  },
+  {
+    "id": 413,
+    "line": 2074,
+    "target_en": "\\\"Satoshi-kun's parents did in fact try to sell out the village."
+  },
+  {
+    "id": 414,
+    "line": 2077,
+    "target_en": " They deserved the curse of Oyashiro-sama."
+  },
+  {
+    "id": 415,
+    "line": 2080,
+    "target_en": " But Satoshi-kun was simply their son."
+  },
+  {
+    "id": 416,
+    "line": 2083,
+    "target_en": " What has he done?\\\""
+  },
+  {
+    "id": 417,
+    "line": 2089,
+    "target_en": "\\\"...Eh... Mion-chan?\\\""
+  },
+  {
+    "id": 418,
+    "line": 2095,
+    "target_en": "\\\"I'm asking you what kind of crime Satoshi-kun committed."
+  },
+  {
+    "id": 419,
+    "line": 2098,
+    "target_en": " You said earlier that he deserved to be demoned away because he was born of the Houjou family."
+  },
+  {
+    "id": 420,
+    "line": 2101,
+    "target_en": " What has he done to deserve being demoned away?\\\""
+  },
+  {
+    "id": 421,
+    "line": 2106,
+    "target_en": "Kimiyoshi didn't know what to say to the sudden question. He seemed dismayed."
+  },
+  {
+    "id": 422,
+    "line": 2112,
+    "target_en": "\\\"I didn't hear her say it, but I know."
+  },
+  {
+    "id": 423,
+    "line": 2115,
+    "target_en": " It was Oryou Sonozaki's decision."
+  },
+  {
+    "id": 424,
+    "line": 2118,
+    "target_en": " She decided that the curse of Oyashiro-sama would fall upon all the Houjous.\\\""
+  },
+  {
+    "id": 425,
+    "line": 2124,
+    "target_en": "\\\"W...Wait, Mion-chan."
+  },
+  {
+    "id": 426,
+    "line": 2127,
+    "target_en": " ...That's not true.\\\""
+  },
+  {
+    "id": 427,
+    "line": 2133,
+    "target_en": "\\\"Didn't she decide that?\\\""
+  },
+  {
+    "id": 428,
+    "line": 2139,
+    "target_en": "\\\"No, she didn't!"
+  },
+  {
+    "id": 429,
+    "line": 2142,
+    "target_en": " The curse of Oyashiro-sama falling upon the Houjou family..."
+  },
+  {
+    "id": 430,
+    "line": 2145,
+    "target_en": " I do remember talking about something like that, but we never decided that, nobody did...\\\""
+  },
+  {
+    "id": 431,
+    "line": 2151,
+    "target_en": "\\\"Then, why did you say"
+  },
+  {
+    "id": 432,
+    "line": 2154,
+    "target_en": " 'because he was one of the Houjous' earlier?\\\""
+  },
+  {
+    "id": 433,
+    "line": 2160,
+    "target_en": "\\\"Ah...... ah... sorry, Mion-chan."
+  },
+  {
+    "id": 434,
+    "line": 2163,
+    "target_en": " That was...... You know, I shouldn't have said that. I'm sorry!\\\""
+  },
+  {
+    "id": 435,
+    "line": 2170,
+    "target_en": "\\\"That's just it."
+  },
+  {
+    "id": 436,
+    "line": 2173,
+    "target_en": " Anything that happens to the Houjou family is the curse."
+  },
+  {
+    "id": 437,
+    "line": 2179,
+    "target_en": "As long as someone has the Houjou name, nobody cares about what happens to that person. That idea has spread like a virus amongst all the villagers. "
+  },
+  {
+    "id": 438,
+    "line": 2183,
+    "target_en": "It didn't matter if Satoshi-kun did anything or not. Because he was a Houjou, he was filthy."
+  },
+  {
+    "id": 439,
+    "line": 2186,
+    "target_en": " That infection of an idea is the entire problem."
+  },
+  {
+    "id": 440,
+    "line": 2195,
+    "target_en": "And"
+  },
+  {
+    "id": 441,
+    "line": 2200,
+    "target_en": " you"
+  },
+  {
+    "id": 442,
+    "line": 2205,
+    "target_en": " all"
+  },
+  {
+    "id": 443,
+    "line": 2210,
+    "target_en": " be"
+  },
+  {
+    "id": 444,
+    "line": 2215,
+    "target_en": "lieved"
+  },
+  {
+    "id": 445,
+    "line": 2220,
+    "target_en": " in"
+  },
+  {
+    "id": 446,
+    "line": 2225,
+    "target_en": " that"
+  },
+  {
+    "id": 447,
+    "line": 2230,
+    "target_en": " idea."
+  },
+  {
+    "id": 448,
+    "line": 2235,
+    "target_en": " You"
+  },
+  {
+    "id": 449,
+    "line": 2240,
+    "target_en": " couldn't"
+  },
+  {
+    "id": 450,
+    "line": 2245,
+    "target_en": " even"
+  },
+  {
+    "id": 451,
+    "line": 2250,
+    "target_en": " think"
+  },
+  {
+    "id": 452,
+    "line": 2255,
+    "target_en": " straight"
+  },
+  {
+    "id": 453,
+    "line": 2260,
+    "target_en": " any"
+  },
+  {
+    "id": 454,
+    "line": 2265,
+    "target_en": " more."
+  },
+  {
+    "id": 455,
+    "line": 2270,
+    "target_en": " I"
+  },
+  {
+    "id": 456,
+    "line": 2275,
+    "target_en": " can't"
+  },
+  {
+    "id": 457,
+    "line": 2280,
+    "target_en": " for"
+  },
+  {
+    "id": 458,
+    "line": 2285,
+    "target_en": "give"
+  },
+  {
+    "id": 459,
+    "line": 2290,
+    "target_en": " you."
+  },
+  {
+    "id": 460,
+    "line": 2295,
+    "target_en": " I"
+  },
+  {
+    "id": 461,
+    "line": 2300,
+    "target_en": " can't"
+  },
+  {
+    "id": 462,
+    "line": 2305,
+    "target_en": " let"
+  },
+  {
+    "id": 463,
+    "line": 2310,
+    "target_en": " some"
+  },
+  {
+    "id": 464,
+    "line": 2315,
+    "target_en": "one"
+  },
+  {
+    "id": 465,
+    "line": 2320,
+    "target_en": " like"
+  },
+  {
+    "id": 466,
+    "line": 2325,
+    "target_en": " you"
+  },
+  {
+    "id": 467,
+    "line": 2330,
+    "target_en": " exist."
+  },
+  {
+    "id": 468,
+    "line": 2335,
+    "target_en": " Peo"
+  },
+  {
+    "id": 469,
+    "line": 2340,
+    "target_en": "ple"
+  },
+  {
+    "id": 470,
+    "line": 2345,
+    "target_en": " like"
+  },
+  {
+    "id": 471,
+    "line": 2350,
+    "target_en": " you"
+  },
+  {
+    "id": 472,
+    "line": 2355,
+    "target_en": " cor"
+  },
+  {
+    "id": 473,
+    "line": 2360,
+    "target_en": "nered"
+  },
+  {
+    "id": 474,
+    "line": 2365,
+    "target_en": " Satoshi"
+  },
+  {
+    "id": 475,
+    "line": 2370,
+    "target_en": "-kun"
+  },
+  {
+    "id": 476,
+    "line": 2375,
+    "target_en": " and"
+  },
+  {
+    "id": 477,
+    "line": 2380,
+    "target_en": " his"
+  },
+  {
+    "id": 478,
+    "line": 2385,
+    "target_en": " family."
+  },
+  {
+    "id": 479,
+    "line": 2390,
+    "target_en": " Poor"
+  },
+  {
+    "id": 480,
+    "line": 2395,
+    "target_en": " Satoshi"
+  },
+  {
+    "id": 481,
+    "line": 2400,
+    "target_en": "-kun! "
+  },
+  {
+    "id": 482,
+    "line": 2409,
+    "target_en": "What"
+  },
+  {
+    "id": 483,
+    "line": 2414,
+    "target_en": " has"
+  },
+  {
+    "id": 484,
+    "line": 2419,
+    "target_en": " he"
+  },
+  {
+    "id": 485,
+    "line": 2424,
+    "target_en": " done?"
+  },
+  {
+    "id": 486,
+    "line": 2429,
+    "target_en": " He"
+  },
+  {
+    "id": 487,
+    "line": 2434,
+    "target_en": " hasn't"
+  },
+  {
+    "id": 488,
+    "line": 2439,
+    "target_en": " done"
+  },
+  {
+    "id": 489,
+    "line": 2444,
+    "target_en": " any"
+  },
+  {
+    "id": 490,
+    "line": 2449,
+    "target_en": "thing!"
+  },
+  {
+    "id": 491,
+    "line": 2454,
+    "target_en": " He"
+  },
+  {
+    "id": 492,
+    "line": 2459,
+    "target_en": " was"
+  },
+  {
+    "id": 493,
+    "line": 2464,
+    "target_en": " a"
+  },
+  {
+    "id": 494,
+    "line": 2469,
+    "target_en": " Hou"
+  },
+  {
+    "id": 495,
+    "line": 2474,
+    "target_en": "jou,"
+  },
+  {
+    "id": 496,
+    "line": 2479,
+    "target_en": " that's"
+  },
+  {
+    "id": 497,
+    "line": 2484,
+    "target_en": " all!"
+  },
+  {
+    "id": 498,
+    "line": 2489,
+    "target_en": " What"
+  },
+  {
+    "id": 499,
+    "line": 2494,
+    "target_en": " kind"
+  },
+  {
+    "id": 500,
+    "line": 2499,
+    "target_en": " of"
+  },
+  {
+    "id": 501,
+    "line": 2504,
+    "target_en": " a"
+  },
+  {
+    "id": 502,
+    "line": 2509,
+    "target_en": " crime"
+  },
+  {
+    "id": 503,
+    "line": 2514,
+    "target_en": " is"
+  },
+  {
+    "id": 504,
+    "line": 2519,
+    "target_en": " that?"
+  },
+  {
+    "id": 505,
+    "line": 2524,
+    "target_en": " Why"
+  },
+  {
+    "id": 506,
+    "line": 2529,
+    "target_en": " did"
+  },
+  {
+    "id": 507,
+    "line": 2534,
+    "target_en": " the"
+  },
+  {
+    "id": 508,
+    "line": 2539,
+    "target_en": " curse"
+  },
+  {
+    "id": 509,
+    "line": 2544,
+    "target_en": " fall"
+  },
+  {
+    "id": 510,
+    "line": 2549,
+    "target_en": " upon"
+  },
+  {
+    "id": 511,
+    "line": 2554,
+    "target_en": " him?"
+  },
+  {
+    "id": 512,
+    "line": 2562,
+    "target_en": " Why?"
+  },
+  {
+    "id": 513,
+    "line": 2567,
+    "target_en": " Why?"
+  },
+  {
+    "id": 514,
+    "line": 2572,
+    "target_en": " Why?"
+  },
+  {
+    "id": 515,
+    "line": 2577,
+    "target_en": " Why?"
+  },
+  {
+    "id": 516,
+    "line": 2582,
+    "target_en": " Why?"
+  },
+  {
+    "id": 517,
+    "line": 2587,
+    "target_en": " Why?"
+  },
+  {
+    "id": 518,
+    "line": 2592,
+    "target_en": " Why?"
+  },
+  {
+    "id": 519,
+    "line": 2597,
+    "target_en": " Why?"
+  },
+  {
+    "id": 520,
+    "line": 2602,
+    "target_en": " Why?"
+  },
+  {
+    "id": 521,
+    "line": 2607,
+    "target_en": " Why?"
+  },
+  {
+    "id": 522,
+    "line": 2612,
+    "target_en": " Why?"
+  },
+  {
+    "id": 523,
+    "line": 2617,
+    "target_en": " Why?"
+  },
+  {
+    "id": 524,
+    "line": 2622,
+    "target_en": " Why?"
+  },
+  {
+    "id": 525,
+    "line": 2627,
+    "target_en": " Why?"
+  },
+  {
+    "id": 526,
+    "line": 2632,
+    "target_en": " Why?"
+  },
+  {
+    "id": 527,
+    "line": 2637,
+    "target_en": " Why?"
+  },
+  {
+    "id": 528,
+    "line": 2642,
+    "target_en": " Why?"
+  },
+  {
+    "id": 529,
+    "line": 2647,
+    "target_en": " Why?"
+  },
+  {
+    "id": 530,
+    "line": 2652,
+    "target_en": " Why?"
+  },
+  {
+    "id": 531,
+    "line": 2657,
+    "target_en": " Why?"
+  },
+  {
+    "id": 532,
+    "line": 2662,
+    "target_en": " Why?"
+  },
+  {
+    "id": 533,
+    "line": 2667,
+    "target_en": " Why?"
+  },
+  {
+    "id": 534,
+    "line": 2672,
+    "target_en": " Why?"
+  },
+  {
+    "id": 535,
+    "line": 2677,
+    "target_en": " Why?"
+  },
+  {
+    "id": 536,
+    "line": 2682,
+    "target_en": " Why?"
+  },
+  {
+    "id": 537,
+    "line": 2687,
+    "target_en": " Why?"
+  },
+  {
+    "id": 538,
+    "line": 2692,
+    "target_en": " Why?"
+  },
+  {
+    "id": 539,
+    "line": 2697,
+    "target_en": " Why?"
+  },
+  {
+    "id": 540,
+    "line": 2702,
+    "target_en": " Why?"
+  },
+  {
+    "id": 541,
+    "line": 2707,
+    "target_en": " Why?"
+  },
+  {
+    "id": 542,
+    "line": 2712,
+    "target_en": " Why?"
+  },
+  {
+    "id": 543,
+    "line": 2717,
+    "target_en": " Why?"
+  },
+  {
+    "id": 544,
+    "line": 2722,
+    "target_en": " Why?"
+  },
+  {
+    "id": 545,
+    "line": 2727,
+    "target_en": " Why?"
+  },
+  {
+    "id": 546,
+    "line": 2732,
+    "target_en": " Why?"
+  },
+  {
+    "id": 547,
+    "line": 2737,
+    "target_en": " Why?"
+  },
+  {
+    "id": 548,
+    "line": 2742,
+    "target_en": " Why?"
+  },
+  {
+    "id": 549,
+    "line": 2747,
+    "target_en": " Why?"
+  },
+  {
+    "id": 550,
+    "line": 2752,
+    "target_en": " Why?"
+  },
+  {
+    "id": 551,
+    "line": 2757,
+    "target_en": " Why?"
+  },
+  {
+    "id": 552,
+    "line": 2762,
+    "target_en": " Why?"
+  },
+  {
+    "id": 553,
+    "line": 2767,
+    "target_en": " Why?"
+  },
+  {
+    "id": 554,
+    "line": 2772,
+    "target_en": " Why?"
+  },
+  {
+    "id": 555,
+    "line": 2777,
+    "target_en": " Why?"
+  },
+  {
+    "id": 556,
+    "line": 2782,
+    "target_en": " Why?"
+  },
+  {
+    "id": 557,
+    "line": 2787,
+    "target_en": " Why?"
+  },
+  {
+    "id": 558,
+    "line": 2792,
+    "target_en": " Why?"
+  },
+  {
+    "id": 559,
+    "line": 2797,
+    "target_en": " Why?"
+  },
+  {
+    "id": 560,
+    "line": 2802,
+    "target_en": " Why?"
+  },
+  {
+    "id": 561,
+    "line": 2807,
+    "target_en": " Why?"
+  },
+  {
+    "id": 562,
+    "line": 2812,
+    "target_en": " Why?"
+  },
+  {
+    "id": 563,
+    "line": 2817,
+    "target_en": " Why?"
+  },
+  {
+    "id": 564,
+    "line": 2822,
+    "target_en": " Why?"
+  },
+  {
+    "id": 565,
+    "line": 2827,
+    "target_en": " Why?"
+  },
+  {
+    "id": 566,
+    "line": 2832,
+    "target_en": " Why?"
+  },
+  {
+    "id": 567,
+    "line": 2837,
+    "target_en": " Why?"
+  },
+  {
+    "id": 568,
+    "line": 2842,
+    "target_en": " Why?"
+  },
+  {
+    "id": 569,
+    "line": 2847,
+    "target_en": " Why?"
+  },
+  {
+    "id": 570,
+    "line": 2852,
+    "target_en": " Why?"
+  },
+  {
+    "id": 571,
+    "line": 2857,
+    "target_en": " Why?"
+  },
+  {
+    "id": 572,
+    "line": 2862,
+    "target_en": " Why?"
+  },
+  {
+    "id": 573,
+    "line": 2867,
+    "target_en": " Why?"
+  },
+  {
+    "id": 574,
+    "line": 2872,
+    "target_en": " Why?"
+  },
+  {
+    "id": 575,
+    "line": 2877,
+    "target_en": " Why?"
+  },
+  {
+    "id": 576,
+    "line": 2882,
+    "target_en": " Why?"
+  },
+  {
+    "id": 577,
+    "line": 2887,
+    "target_en": " Why?"
+  },
+  {
+    "id": 578,
+    "line": 2892,
+    "target_en": " Why?"
+  },
+  {
+    "id": 579,
+    "line": 2897,
+    "target_en": " Why?"
+  },
+  {
+    "id": 580,
+    "line": 2902,
+    "target_en": " Why?"
+  },
+  {
+    "id": 581,
+    "line": 2907,
+    "target_en": " Why?"
+  },
+  {
+    "id": 582,
+    "line": 2912,
+    "target_en": " Why?"
+  },
+  {
+    "id": 583,
+    "line": 2917,
+    "target_en": " Why?"
+  },
+  {
+    "id": 584,
+    "line": 2922,
+    "target_en": " Why?"
+  },
+  {
+    "id": 585,
+    "line": 2927,
+    "target_en": " Why?"
+  },
+  {
+    "id": 586,
+    "line": 2932,
+    "target_en": " Why?"
+  },
+  {
+    "id": 587,
+    "line": 2937,
+    "target_en": " Why?"
+  },
+  {
+    "id": 588,
+    "line": 2942,
+    "target_en": " Why?"
+  },
+  {
+    "id": 589,
+    "line": 2947,
+    "target_en": " Why?"
+  },
+  {
+    "id": 590,
+    "line": 2952,
+    "target_en": " Why?"
+  },
+  {
+    "id": 591,
+    "line": 2957,
+    "target_en": " Why?"
+  },
+  {
+    "id": 592,
+    "line": 2962,
+    "target_en": " Why?"
+  },
+  {
+    "id": 593,
+    "line": 2967,
+    "target_en": " Why?"
+  },
+  {
+    "id": 594,
+    "line": 2972,
+    "target_en": " Why?"
+  },
+  {
+    "id": 595,
+    "line": 2977,
+    "target_en": " Why?"
+  },
+  {
+    "id": 596,
+    "line": 2982,
+    "target_en": " Why?"
+  },
+  {
+    "id": 597,
+    "line": 2987,
+    "target_en": " Why?"
+  },
+  {
+    "id": 598,
+    "line": 2992,
+    "target_en": " Why?"
+  },
+  {
+    "id": 599,
+    "line": 2997,
+    "target_en": " Why?"
+  },
+  {
+    "id": 600,
+    "line": 3002,
+    "target_en": " Why?"
+  },
+  {
+    "id": 601,
+    "line": 3007,
+    "target_en": " Why?"
+  },
+  {
+    "id": 602,
+    "line": 3012,
+    "target_en": " Why?"
+  },
+  {
+    "id": 603,
+    "line": 3017,
+    "target_en": " Why?"
+  },
+  {
+    "id": 604,
+    "line": 3022,
+    "target_en": " Why?"
+  },
+  {
+    "id": 605,
+    "line": 3027,
+    "target_en": " Why?"
+  },
+  {
+    "id": 606,
+    "line": 3037,
+    "target_en": " What kind of crime has he committed?!!!\\\""
+  },
+  {
+    "id": 607,
+    "line": 3051,
+    "target_en": "Whaaaaaahhhhhhhh!!!"
+  },
+  {
+    "id": 608,
+    "line": 3057,
+    "target_en": "Kimiyoshi's upper body bent backward and fell onto the floor."
+  },
+  {
+    "id": 609,
+    "line": 3063,
+    "target_en": "That was that."
+  },
+  {
+    "id": 610,
+    "line": 3068,
+    "target_en": "I put my stun gun back in my pocket."
+  },
+  {
+    "id": 611,
+    "line": 3087,
+    "target_en": "\\\"...Sorry, Shion."
+  },
+  {
+    "id": 612,
+    "line": 3090,
+    "target_en": " ...What was that you just said?\\\""
+  },
+  {
+    "id": 613,
+    "line": 3096,
+    "target_en": "\\\"Apparently, Takano-san and Tomitake-san died last night."
+  },
+  {
+    "id": 614,
+    "line": 3099,
+    "target_en": " Takano-san was found burned to death."
+  },
+  {
+    "id": 615,
+    "line": 3102,
+    "target_en": " Tomitake-san was... well, it looked like a suicide."
+  },
+  {
+    "id": 616,
+    "line": 3105,
+    "target_en": " ...I found out this morning. "
+  },
+  {
+    "id": 617,
+    "line": 3109,
+    "target_en": "...I heard my father talking to a relative on the phone about it...\\\""
+  },
+  {
+    "id": 618,
+    "line": 3115,
+    "target_en": "As I thought, Keiichi didn't know anything about what happened after the festival last night."
+  },
+  {
+    "id": 619,
+    "line": 3121,
+    "target_en": "\\\"Of course it's not getting reported by the media."
+  },
+  {
+    "id": 620,
+    "line": 3124,
+    "target_en": " ...That's how it was in the past, too.\\\""
+  },
+  {
+    "id": 621,
+    "line": 3129,
+    "target_en": "Keiichi insisted that unless he heard about it on the news, it couldn't be real."
+  },
+  {
+    "id": 622,
+    "line": 3135,
+    "target_en": "But the investigations into the series of mysterious deaths are done in secret now."
+  },
+  {
+    "id": 623,
+    "line": 3140,
+    "target_en": "Of course he didn't hear about it on the news."
+  },
+  {
+    "id": 624,
+    "line": 3146,
+    "target_en": "\\\"I hear the mayor and several important politicians from the Sonozaki family put all the pressure they could on the police.\\\""
+  },
+  {
+    "id": 625,
+    "line": 3152,
+    "target_en": "\\\"Then you mean... their deaths... are going to be dealt with in total secrecy?!\\\""
+  },
+  {
+    "id": 626,
+    "line": 3158,
+    "target_en": "\\\"That's how it is."
+  },
+  {
+    "id": 627,
+    "line": 3161,
+    "target_en": " ...Of course, the police are still investigating."
+  },
+  {
+    "id": 628,
+    "line": 3164,
+    "target_en": " That's being performed in secret too, though, so I hear the investigation itself is very restricted in what it can and can't do. "
+  },
+  {
+    "id": 629,
+    "line": 3168,
+    "target_en": "You could essentially say they're interfering with a police investigation.\\\""
+  },
+  {
+    "id": 630,
+    "line": 3174,
+    "target_en": "\\\"I can't believe this..."
+  },
+  {
+    "id": 631,
+    "line": 3177,
+    "target_en": " ...People died... and yet they're dealing with everything in secret...\\\""
+  },
+  {
+    "id": 632,
+    "line": 3183,
+    "target_en": "\\\"If we break it down further..."
+  },
+  {
+    "id": 633,
+    "line": 3186,
+    "target_en": " it means that no matter who dies on the night of Watanagashi, it won't go public.\\\""
+  },
+  {
+    "id": 634,
+    "line": 3192,
+    "target_en": "\\\"...Th-That's the biggest pile of bullshit I've ever heard...!\\\""
+  },
+  {
+    "id": 635,
+    "line": 3198,
+    "target_en": "\\\"Kei-chan."
+  },
+  {
+    "id": 636,
+    "line": 3201,
+    "target_en": " ...Remember how I said before that the villagers could be the ones carrying out Oyashiro-sama's curse?"
+  },
+  {
+    "id": 637,
+    "line": 3204,
+    "target_en": " ...That's what I mean. "
+  },
+  {
+    "id": 638,
+    "line": 3209,
+    "target_en": "...At some point, a tradition was created here in Hinamizawa..."
+  },
+  {
+    "id": 639,
+    "line": 3214,
+    "target_en": " where every year, you're allowed to kill someone on the night of Watanagashi.\\\""
+  },
+  {
+    "id": 640,
+    "line": 3222,
+    "target_en": "Yes."
+  },
+  {
+    "id": 641,
+    "line": 3224,
+    "target_en": " That's the truth about the series of mysterious deaths in Hinamizawa, also known as Oyashiro-sama's curse."
+  },
+  {
+    "id": 642,
+    "line": 3229,
+    "target_en": "On the day of Watanagashi, two people will be killed."
+  },
+  {
+    "id": 643,
+    "line": 3234,
+    "target_en": "The perpetrators are using the curse of Oyashiro-sama as an excuse to kill one victim and make another disappear."
+  },
+  {
+    "id": 644,
+    "line": 3240,
+    "target_en": "That's why the curse of Oyashiro-sama takes place."
+  },
+  {
+    "id": 645,
+    "line": 3245,
+    "target_en": "That's what happens in Hinamizawa, and that's what happens with the curse."
+  },
+  {
+    "id": 646,
+    "line": 3251,
+    "target_en": "What Kimiyoshi said is all true."
+  },
+  {
+    "id": 647,
+    "line": 3257,
+    "target_en": "Infecting everyone with the idea that the enemy from the dam conflict deserved to die was the root of all of this."
+  },
+  {
+    "id": 648,
+    "line": 3263,
+    "target_en": "That was the system of vague commands used in the Sonozaki family, created by its head, Oryou."
+  },
+  {
+    "id": 649,
+    "line": 3269,
+    "target_en": "One thing that must be mentioned about that command system is that the person giving the orders and the one executing them didn't need to interact in any way."
+  },
+  {
+    "id": 650,
+    "line": 3275,
+    "target_en": "Though Oryou was the commander, she never gave actual orders."
+  },
+  {
+    "id": 651,
+    "line": 3280,
+    "target_en": "She only had to expect something to happen."
+  },
+  {
+    "id": 652,
+    "line": 3285,
+    "target_en": "Every single one of the family council members around her would want to satisfy that expectation if given the chance."
+  },
+  {
+    "id": 653,
+    "line": 3290,
+    "target_en": "They didn't have to be proactive about satisfying it."
+  },
+  {
+    "id": 654,
+    "line": 3292,
+    "target_en": " They could be passive too."
+  },
+  {
+    "id": 655,
+    "line": 3298,
+    "target_en": "But when the chance arose... anyone who knew Oryou's intentions..."
+  },
+  {
+    "id": 656,
+    "line": 3303,
+    "target_en": " could potentially become the one to execute her orders."
+  },
+  {
+    "id": 657,
+    "line": 3308,
+    "target_en": "Therefore, Oryou would never know who actually executed her order, and none of the relatives knew it either."
+  },
+  {
+    "id": 658,
+    "line": 3314,
+    "target_en": "But they all knew things would conclude just as Oryou wanted, and they could assume it was one of their own who did it for her."
+  },
+  {
+    "id": 659,
+    "line": 3320,
+    "target_en": "This passive support system was thoroughly effective, and it spread all over the village. Its ties became even tighter after the dam conflict."
+  },
+  {
+    "id": 660,
+    "line": 3325,
+    "target_en": "Anyone could be the one to execute Oryou's orders."
+  },
+  {
+    "id": 661,
+    "line": 3330,
+    "target_en": "Therefore, everyone supported each other."
+  },
+  {
+    "id": 662,
+    "line": 3335,
+    "target_en": "If someone did something, then the others would try to satisfy Oryou's expectation in different ways."
+  },
+  {
+    "id": 663,
+    "line": 3341,
+    "target_en": "For example, they'd come up with false evidence or otherwise passively interfere with an investigation."
+  },
+  {
+    "id": 664,
+    "line": 3346,
+    "target_en": "Even if they didn't know exactly who they were protecting, they'd still work together to protect whoever it was."
+  },
+  {
+    "id": 665,
+    "line": 3352,
+    "target_en": "Yes,"
+  },
+  {
+    "id": 666,
+    "line": 3354,
+    "target_en": " I had finally figured out how it all worked."
+  },
+  {
+    "id": 667,
+    "line": 3359,
+    "target_en": "Phrased in a more organized matter, it would go as follows:"
+  },
+  {
+    "id": 668,
+    "line": 3365,
+    "target_en": "The system of killing two people who are unwanted by the village each year required three elements."
+  },
+  {
+    "id": 669,
+    "line": 3370,
+    "target_en": "The first element was a 'region of solidarity.'"
+  },
+  {
+    "id": 670,
+    "line": 3377,
+    "target_en": "It was created during the long and unique history of Hinamizawa."
+  },
+  {
+    "id": 671,
+    "line": 3382,
+    "target_en": "The villagers' bonds became even tighter during the dam conflict."
+  },
+  {
+    "id": 672,
+    "line": 3388,
+    "target_en": "That was one of the conditions for this place to have a curse."
+  },
+  {
+    "id": 673,
+    "line": 3393,
+    "target_en": "It was an element that was already in the region, not one that could be created."
+  },
+  {
+    "id": 674,
+    "line": 3399,
+    "target_en": "The next element was 'having the same moral standards.'"
+  },
+  {
+    "id": 675,
+    "line": 3405,
+    "target_en": "This was a very important element, as the curse wouldn't have happened without it."
+  },
+  {
+    "id": 676,
+    "line": 3410,
+    "target_en": "Also, this element was created by Oryou Sonozaki herself, and that was why she could claim that this system was established by her own will."
+  },
+  {
+    "id": 677,
+    "line": 3415,
+    "target_en": "Having the same moral standards means that everyone everywhere acknowledges the same enemy."
+  },
+  {
+    "id": 678,
+    "line": 3420,
+    "target_en": "Even when everyone in the village joined together, it would be meaningless if they all didn't know exactly who the enemy was."
+  },
+  {
+    "id": 679,
+    "line": 3426,
+    "target_en": "During the dam conflict, Oryou Sonozaki made the identity of the enemy very clear to everyone."
+  },
+  {
+    "id": 680,
+    "line": 3432,
+    "target_en": "They couldn't just say that they were against the dam construction and that the government was their enemy."
+  },
+  {
+    "id": 681,
+    "line": 3434,
+    "target_en": " That wasn't clear enough."
+  },
+  {
+    "id": 682,
+    "line": 3439,
+    "target_en": "'The government' didn't really pinpoint who the enemy was."
+  },
+  {
+    "id": 683,
+    "line": 3445,
+    "target_en": "But Oryou made enemies out of the construction site itself, and therefore its manager. She chose targets that the villagers could see with their own eyes."
+  },
+  {
+    "id": 684,
+    "line": 3450,
+    "target_en": "They were clear and easy to understand."
+  },
+  {
+    "id": 685,
+    "line": 3455,
+    "target_en": "The villagers acknowledged that everyone at the dam construction site was their enemy, and that construction site manager was the enemy commander."
+  },
+  {
+    "id": 686,
+    "line": 3461,
+    "target_en": "Using the same method, she labeled one after another as an enemy of the village, practically cataloging a list of enemies to print into the villagers' minds."
+  },
+  {
+    "id": 687,
+    "line": 3467,
+    "target_en": "Earlier, I had used the term 'infecting' for this phenomenon."
+  },
+  {
+    "id": 688,
+    "line": 3472,
+    "target_en": "Those infected by this idea were the people unconsciously giving the orders to commit murder."
+  },
+  {
+    "id": 689,
+    "line": 3478,
+    "target_en": "When the infection spread across the village, when all of Hinamizawa's residents acknowledged the same enemy..."
+  },
+  {
+    "id": 690,
+    "line": 3483,
+    "target_en": "That's when Hinamizawa itself became a murderer."
+  },
+  {
+    "id": 691,
+    "line": 3488,
+    "target_en": "Oryou combined those two elements - 'a solidary region' and 'having the same moral standards' -,"
+  },
+  {
+    "id": 692,
+    "line": 3490,
+    "target_en": " then selected the enemy and spread that notion throughout the village."
+  },
+  {
+    "id": 693,
+    "line": 3496,
+    "target_en": "The law would normally have punished both the one who committed the crime and the one who gave the order."
+  },
+  {
+    "id": 694,
+    "line": 3501,
+    "target_en": "But Oryou's system didn't require an order at all."
+  },
+  {
+    "id": 695,
+    "line": 3506,
+    "target_en": "Oryou just had to 'become concerned' about the enemy she had pre-selected."
+  },
+  {
+    "id": 696,
+    "line": 3511,
+    "target_en": "But that alone wouldn't cause the curse to take place."
+  },
+  {
+    "id": 697,
+    "line": 3517,
+    "target_en": "Oryou's 'concern' was like a safety device, and even when the safety device was off, the curse wouldn't occur unless there was a finger to pull the trigger."
+  },
+  {
+    "id": 698,
+    "line": 3524,
+    "target_en": "The last necessary element was 'to set a date for execution.'"
+  },
+  {
+    "id": 699,
+    "line": 3530,
+    "target_en": "The night of Watanagashi."
+  },
+  {
+    "id": 700,
+    "line": 3535,
+    "target_en": "The night to venerate Oyashiro-sama, the guardian deity of Hinamizawa."
+  },
+  {
+    "id": 701,
+    "line": 3540,
+    "target_en": "On that night, the curse of Oyashiro-sama falls upon two enemies of the village, and they disappear."
+  },
+  {
+    "id": 702,
+    "line": 3546,
+    "target_en": "Everyone in the village acknowledged that as fact."
+  },
+  {
+    "id": 703,
+    "line": 3551,
+    "target_en": "In other words, if the same incident took place on any of the other 364 nights of the year, it would be nothing other than a murder case. "
+  },
+  {
+    "id": 704,
+    "line": 3556,
+    "target_en": "...But if it happened on the night of Watanagashi, then it would transform into the curse of Oyashiro-sama."
+  },
+  {
+    "id": 705,
+    "line": 3562,
+    "target_en": "The idea that villagers are allowed to kill their enemies on the night of Watanagashi had infected them."
+  },
+  {
+    "id": 706,
+    "line": 3567,
+    "target_en": "The villagers were the cells of this huge creature called Hinamizawa, and each cell would be taught who the enemy was."
+  },
+  {
+    "id": 707,
+    "line": 3573,
+    "target_en": "The set date was basically a green light for whoever was in the best position to kill the enemy."
+  },
+  {
+    "id": 708,
+    "line": 3578,
+    "target_en": "That was the truth of the curse of Oyashiro-sama."
+  },
+  {
+    "id": 709,
+    "line": 3583,
+    "target_en": "Therefore... ...the one who actually killed Satoshi-kun isn't my enemy."
+  },
+  {
+    "id": 710,
+    "line": 3588,
+    "target_en": "The one who set up this murderous system and the one who named Satoshi-kun's family as the enemy is my enemy."
+  },
+  {
+    "id": 711,
+    "line": 3594,
+    "target_en": "...To use a broader definition, Hinamizawa itself and the very system of Oyashiro-sama's curse is my enemy."
+  },
+  {
+    "id": 712,
+    "line": 3599,
+    "target_en": "I already killed the hag, the one who designed the system."
+  },
+  {
+    "id": 713,
+    "line": 3604,
+    "target_en": "Kimiyoshi, the one whose job it was to infect the villagers with the system, was already in my hands."
+  },
+  {
+    "id": 714,
+    "line": 3610,
+    "target_en": "I just had to find out who else was involved, and how much."
+  },
+  {
+    "id": 715,
+    "line": 3615,
+    "target_en": "It was like pulling a weed while being very careful not to break its roots."
+  },
+  {
+    "id": 716,
+    "line": 3622,
+    "target_en": "I announced that Keiichi Maebara was one of the people who snuck into the shrine storage."
+  },
+  {
+    "id": 717,
+    "line": 3627,
+    "target_en": "I was certain that fact had already spread throughout the underside of the village."
+  },
+  {
+    "id": 718,
+    "line": 3632,
+    "target_en": "In other words, Keiichi Maebara was an object of the curse of Oyashiro-sama now."
+  },
+  {
+    "id": 719,
+    "line": 3640,
+    "target_en": "Takano-san and Tomitake-san were found dead, having been killed in gruesome ways."
+  },
+  {
+    "id": 720,
+    "line": 3642,
+    "target_en": " That was the curse of Oyashiro-sama."
+  },
+  {
+    "id": 721,
+    "line": 3647,
+    "target_en": "In that case, they could 'demon away' two more people as sacrifices to calm the anger of Oyashiro-sama."
+  },
+  {
+    "id": 722,
+    "line": 3653,
+    "target_en": "The set date for the curse was already over..."
+  },
+  {
+    "id": 723,
+    "line": 3655,
+    "target_en": " But just like what happened to Satoshi-kun, demoning away was allowed a little extra time."
+  },
+  {
+    "id": 724,
+    "line": 3660,
+    "target_en": "Something would happen to Keiichi Maebara within a few days."
+  },
+  {
+    "id": 725,
+    "line": 3666,
+    "target_en": "I'd wait patiently,"
+  },
+  {
+    "id": 726,
+    "line": 3671,
+    "target_en": " careful to not let my enemy simply take Keiichi Maebara--my bait."
+  },
+  {
+    "id": 727,
+    "line": 3676,
+    "target_en": "Keiichi had been yelling on the other end of the phone for some time."
+  },
+  {
+    "id": 728,
+    "line": 3681,
+    "target_en": "He kept yelling that he didn't want to go into the ritual storehouse to begin with."
+  },
+  {
+    "id": 729,
+    "line": 3683,
+    "target_en": " He claimed he was simply invited by Takano-san and me."
+  },
+  {
+    "id": 730,
+    "line": 3685,
+    "target_en": " He shouldn't be in danger because of that, he said."
+  },
+  {
+    "id": 731,
+    "line": 3691,
+    "target_en": "He was feeling a sense of crisis and tension. This was going to work."
+  },
+  {
+    "id": 732,
+    "line": 3696,
+    "target_en": "The livelier the bait, the easier it is to spot."
+  },
+  {
+    "id": 733,
+    "line": 3702,
+    "target_en": "\\\"Why the hell did you do that?!?!"
+  },
+  {
+    "id": 734,
+    "line": 3705,
+    "target_en": " I didn't have anything to do with this!!!"
+  },
+  {
+    "id": 735,
+    "line": 3708,
+    "target_en": " What will you do?"
+  },
+  {
+    "id": 736,
+    "line": 3711,
+    "target_en": " What are you going to do, damn it?!"
+  },
+  {
+    "id": 737,
+    "line": 3714,
+    "target_en": " How are you going to take responsibility for this?!?!"
+  },
+  {
+    "id": 738,
+    "line": 3717,
+    "target_en": " Huh?!"
+  },
+  {
+    "id": 739,
+    "line": 3720,
+    "target_en": " Hey, are you listeni-\\\""
+  },
+  {
+    "id": 740,
+    "line": 3725,
+    "target_en": "Shut up. I've heard enough of your pitiful tears."
+  },
+  {
+    "id": 741,
+    "line": 3733,
+    "target_en": "I hung up the phone."
+  },
+  {
+    "id": 742,
+    "line": 3738,
+    "target_en": "There was no point in talking to him when he got like that."
+  },
+  {
+    "id": 743,
+    "line": 3743,
+    "target_en": "Besides, I'd already achieved my goal, which was to make him realize the danger awaiting him."
+  },
+  {
+    "id": 744,
+    "line": 3748,
+    "target_en": "I took a deep breath, then called the house of the village chief."
+  },
+  {
+    "id": 745,
+    "line": 3760,
+    "target_en": "\\\"Hello!"
+  },
+  {
+    "id": 746,
+    "line": 3763,
+    "target_en": " Kimiyoshi residence.\\\""
+  },
+  {
+    "id": 747,
+    "line": 3769,
+    "target_en": "\\\"This is Sonozaki."
+  },
+  {
+    "id": 748,
+    "line": 3772,
+    "target_en": " So?"
+  },
+  {
+    "id": 749,
+    "line": 3775,
+    "target_en": " Did you find the mayor?\\\""
+  },
+  {
+    "id": 750,
+    "line": 3781,
+    "target_en": "\\\"Oh, it's you, Mion-chan."
+  },
+  {
+    "id": 751,
+    "line": 3784,
+    "target_en": " We've been calling everyone, but no luck."
+  },
+  {
+    "id": 752,
+    "line": 3787,
+    "target_en": " We can't find him."
+  },
+  {
+    "id": 753,
+    "line": 3790,
+    "target_en": " I don't know who else to call!"
+  },
+  {
+    "id": 754,
+    "line": 3793,
+    "target_en": " I wonder where he is.\\\""
+  },
+  {
+    "id": 755,
+    "line": 3799,
+    "target_en": "\\\"We've called a few places too, but"
+  },
+  {
+    "id": 756,
+    "line": 3804,
+    "target_en": " nothing.\\\""
+  },
+  {
+    "id": 757,
+    "line": 3810,
+    "target_en": "\\\"...........................\\\""
+  },
+  {
+    "id": 758,
+    "line": 3816,
+    "target_en": "\\\"I talked to Granny, and she says we should have the youth group look for him.\\\""
+  },
+  {
+    "id": 759,
+    "line": 3822,
+    "target_en": "\\\"At this time of day?"
+  },
+  {
+    "id": 760,
+    "line": 3825,
+    "target_en": " Besides, we aren't even sure if he's really missing.\\\""
+  },
+  {
+    "id": 761,
+    "line": 3831,
+    "target_en": "\\\"It's right after Watanagashi."
+  },
+  {
+    "id": 762,
+    "line": 3834,
+    "target_en": " She just thinks we should be cautious."
+  },
+  {
+    "id": 763,
+    "line": 3837,
+    "target_en": " If the youth group can't find him, then we should call the police first thing in the morning. "
+  },
+  {
+    "id": 764,
+    "line": 3841,
+    "target_en": "We'd rather not get the police involved unless we really have to, though.\\\""
+  },
+  {
+    "id": 765,
+    "line": 3847,
+    "target_en": "\\\"Did Oryou-san say that?\\\""
+  },
+  {
+    "id": 766,
+    "line": 3853,
+    "target_en": "\\\"Yes."
+  },
+  {
+    "id": 767,
+    "line": 3856,
+    "target_en": " If you don't believe me, I'll have her get on the phone.\\\""
+  },
+  {
+    "id": 768,
+    "line": 3862,
+    "target_en": "\\\"Oh no...!"
+  },
+  {
+    "id": 769,
+    "line": 3865,
+    "target_en": " I understand."
+  },
+  {
+    "id": 770,
+    "line": 3868,
+    "target_en": " Okay, we'll gather the youth group and look for him."
+  },
+  {
+    "id": 771,
+    "line": 3871,
+    "target_en": " If they can't find him, we'll call the police in the morning.\\\""
+  },
+  {
+    "id": 772,
+    "line": 3877,
+    "target_en": "\\\"Please call the leader of the youth group, then."
+  },
+  {
+    "id": 773,
+    "line": 3880,
+    "target_en": " I'll be right over in Granny's place.\\\""
+  },
+  {
+    "id": 774,
+    "line": 3886,
+    "target_en": "\\\"Th-Thank you."
+  },
+  {
+    "id": 775,
+    "line": 3889,
+    "target_en": " I'll get everyone together right away.\\\""
+  },
+  {
+    "id": 776,
+    "line": 3895,
+    "target_en": "\\\"Okay,"
+  },
+  {
+    "id": 777,
+    "line": 3898,
+    "target_en": " see you later.\\\""
+  },
+  {
+    "id": 778,
+    "line": 3903,
+    "target_en": "The youth group had gathered at the Furude Shrine. They were going to try to find the mayor."
+  },
+  {
+    "id": 779,
+    "line": 3908,
+    "target_en": "I also had to go, in the absence of the hag."
+  },
+  {
+    "id": 780,
+    "line": 3914,
+    "target_en": "Just to be mean, I stopped by the underground torture room to let the mayor know that I was headed to the Furude Shrine to search for him."
+  },
+  {
+    "id": 781,
+    "line": 3919,
+    "target_en": "Incidentally, according to the tab on the keychain, this underground torture room was actually called the underground storehouse for ritual implements."
+  },
+  {
+    "id": 782,
+    "line": 3924,
+    "target_en": "This was the man who was yelling that whoever trespasses on the ritual storehouse should be killed. Although it was an underground ritual storehouse, he was there now, atoning for what he had done."
+  },
+  {
+    "id": 783,
+    "line": 3930,
+    "target_en": "It was pretty ironic. Maybe I was the only one who felt that way, though."
+  },
+  {
+    "id": 784,
+    "line": 3938,
+    "target_en": "\\\"How are you doing, Uncle Kimiyoshi?\\\""
+  },
+  {
+    "id": 785,
+    "line": 3943,
+    "target_en": "Clink..."
+  },
+  {
+    "id": 786,
+    "line": 3949,
+    "target_en": "Kimiyoshi didn't say a word, but he made a noise with the chain."
+  },
+  {
+    "id": 787,
+    "line": 3955,
+    "target_en": "\\\"Everyone is making such a fuss because they can't find you."
+  },
+  {
+    "id": 788,
+    "line": 3958,
+    "target_en": " Your family called me, so I suggested they gather the youth group to look for you."
+  },
+  {
+    "id": 789,
+    "line": 3961,
+    "target_en": " I'm heading over there now.\\\""
+  },
+  {
+    "id": 790,
+    "line": 3966,
+    "target_en": "Was this mean, or what?"
+  },
+  {
+    "id": 791,
+    "line": 3972,
+    "target_en": "Kimiyoshi could only make noise with the chain. He couldn't even express any emotion other than anguish."
+  },
+  {
+    "id": 792,
+    "line": 3978,
+    "target_en": "\\\"Is the chain too short?"
+  },
+  {
+    "id": 793,
+    "line": 3981,
+    "target_en": " Why don't I make it longer every time you give me an answer to a question?"
+  },
+  {
+    "id": 794,
+    "line": 3984,
+    "target_en": " If it's even a little longer, you'll feel better.\\\""
+  },
+  {
+    "id": 795,
+    "line": 3990,
+    "target_en": "\\\"...Oooh... oooh...\\\""
+  },
+  {
+    "id": 796,
+    "line": 3996,
+    "target_en": "Kimiyoshi's hands were tied behind his back with a tight wire."
+  },
+  {
+    "id": 797,
+    "line": 4001,
+    "target_en": "He was wearing a leather collar with a chain, which was strapped tightly around his neck too."
+  },
+  {
+    "id": 798,
+    "line": 4006,
+    "target_en": "The collar's chain was on a pulley attached to the ceiling, with the chain pulling him up toward it."
+  },
+  {
+    "id": 799,
+    "line": 4012,
+    "target_en": "That chain was very short and pulled very tight."
+  },
+  {
+    "id": 800,
+    "line": 4017,
+    "target_en": "Kimiyoshi had to stand on tiptoes to be able to breathe."
+  },
+  {
+    "id": 801,
+    "line": 4022,
+    "target_en": "He had been like that for almost an hour already."
+  },
+  {
+    "id": 802,
+    "line": 4028,
+    "target_en": "He was already exhausted. If I left him overnight, he'd probably end up hanging himself."
+  },
+  {
+    "id": 803,
+    "line": 4034,
+    "target_en": "\\\"You told me earlier that you didn't know,"
+  },
+  {
+    "id": 804,
+    "line": 4037,
+    "target_en": " but I'll ask you one more time."
+  },
+  {
+    "id": 805,
+    "line": 4040,
+    "target_en": " Please tell me anything you know about Satoshi Houjou-kun.\\\""
+  },
+  {
+    "id": 806,
+    "line": 4046,
+    "target_en": "\\\"......Oooh......\\\""
+  },
+  {
+    "id": 807,
+    "line": 4052,
+    "target_en": "\\\"...Oh, sorry."
+  },
+  {
+    "id": 808,
+    "line": 4055,
+    "target_en": " You can't even talk, can you?"
+  },
+  {
+    "id": 809,
+    "line": 4058,
+    "target_en": " I'll loosen the chain a little while we chat, then.\\\""
+  },
+  {
+    "id": 810,
+    "line": 4063,
+    "target_en": "I turned the pulley just a little to loosen the chain that was pulling on Kimiyoshi's neck."
+  },
+  {
+    "id": 811,
+    "line": 4069,
+    "target_en": "Kimiyoshi's heels finally touched the ground, relieving the pressure on his muscles."
+  },
+  {
+    "id": 812,
+    "line": 4075,
+    "target_en": "\\\"I really don't know, Shion-chan..."
+  },
+  {
+    "id": 813,
+    "line": 4078,
+    "target_en": " I really don't...\\\""
+  },
+  {
+    "id": 814,
+    "line": 4084,
+    "target_en": "\\\"Don't you even know if he's dead or alive?\\\""
+  },
+  {
+    "id": 815,
+    "line": 4090,
+    "target_en": "\\\"I really don't know anything...\\\""
+  },
+  {
+    "id": 816,
+    "line": 4096,
+    "target_en": "\\\"Well, I guess that's how the curse system of Hinamizawa works..."
+  },
+  {
+    "id": 817,
+    "line": 4099,
+    "target_en": " It's possible you really don't know anything."
+  },
+  {
+    "id": 818,
+    "line": 4102,
+    "target_en": " Okay, then I'll change the question. "
+  },
+  {
+    "id": 819,
+    "line": 4106,
+    "target_en": "As the head of the Kimiyoshi family, I would like you to tell me what you think has happened to Satoshi-kun.\\\""
+  },
+  {
+    "id": 820,
+    "line": 4112,
+    "target_en": "\\\"...............\\\""
+  },
+  {
+    "id": 821,
+    "line": 4118,
+    "target_en": "\\\"Is Satoshi-kun dead"
+  },
+  {
+    "id": 822,
+    "line": 4121,
+    "target_en": " or alive?\\\""
+  },
+  {
+    "id": 823,
+    "line": 4126,
+    "target_en": "Kimiyoshi didn't know what to say."
+  },
+  {
+    "id": 824,
+    "line": 4131,
+    "target_en": "If he said he didn't know, I'd tighten the chain and leave the room."
+  },
+  {
+    "id": 825,
+    "line": 4137,
+    "target_en": "That would be like a death sentence for him."
+  },
+  {
+    "id": 826,
+    "line": 4142,
+    "target_en": "But all I said was that I wanted him to speak as the head of the Kimiyoshi family."
+  },
+  {
+    "id": 827,
+    "line": 4147,
+    "target_en": "I didn't ask him to tell the truth."
+  },
+  {
+    "id": 828,
+    "line": 4153,
+    "target_en": "But he didn't know what to say to avoid souring my mood and to get me to loosen the chains around him..."
+  },
+  {
+    "id": 829,
+    "line": 4158,
+    "target_en": " He was obviously trying to figure out how to make me extend the chain."
+  },
+  {
+    "id": 830,
+    "line": 4164,
+    "target_en": "\\\"...............I've heard a rumor that he may be alive...\\\""
+  },
+  {
+    "id": 831,
+    "line": 4170,
+    "target_en": "\\\"Ah, about him going to Tokyo on a bullet train, right?\\\""
+  },
+  {
+    "id": 832,
+    "line": 4176,
+    "target_en": "\\\"...The police..."
+  },
+  {
+    "id": 833,
+    "line": 4181,
+    "target_en": " have seen him in Tokyo..."
+  },
+  {
+    "id": 834,
+    "line": 4186,
+    "target_en": " or something like that...\\\""
+  },
+  {
+    "id": 835,
+    "line": 4192,
+    "target_en": "Ooishi had told me that Satoshi-kun had been witnessed getting on a bullet train heading to Tokyo at Nagoya Station."
+  },
+  {
+    "id": 836,
+    "line": 4198,
+    "target_en": "But the police didn't know if that really happened, or what became of Satoshi-kun after that."
+  },
+  {
+    "id": 837,
+    "line": 4203,
+    "target_en": "Therefore, this was simply a random assertion of Kimiyoshi's."
+  },
+  {
+    "id": 838,
+    "line": 4209,
+    "target_en": "\\\"...Hey, head of the Kimiyoshi family..."
+  },
+  {
+    "id": 839,
+    "line": 4212,
+    "target_en": " What would be the point in letting one of the cursed family members live"
+  },
+  {
+    "id": 840,
+    "line": 4217,
+    "target_en": " after going through the trouble of making him disappear?"
+  },
+  {
+    "id": 841,
+    "line": 4220,
+    "target_en": " I don't think there's any reason for that.\\\""
+  },
+  {
+    "id": 842,
+    "line": 4226,
+    "target_en": "\\\"..................\\\""
+  },
+  {
+    "id": 843,
+    "line": 4232,
+    "target_en": "\\\"Besides, who gave you this information?"
+  },
+  {
+    "id": 844,
+    "line": 4235,
+    "target_en": " I was in close contact with Ooishi for a while, but he never mentioned it to me."
+  },
+  {
+    "id": 845,
+    "line": 4238,
+    "target_en": " ...Uncle?"
+  },
+  {
+    "id": 846,
+    "line": 4241,
+    "target_en": " If you're just saying that to make me happy,"
+  },
+  {
+    "id": 847,
+    "line": 4246,
+    "target_en": " it's not going to work... you know that, don't you?\\\""
+  },
+  {
+    "id": 848,
+    "line": 4251,
+    "target_en": "I reached for the pulley controlling the chains around Kimiyoshi, and that act alone sent him panicking as he feared them tightening once more."
+  },
+  {
+    "id": 849,
+    "line": 4257,
+    "target_en": "\\\"...S-Sorry!!"
+  },
+  {
+    "id": 850,
+    "line": 4260,
+    "target_en": " I'm not trying to make you angry, Shion-chan, I'm sorry...\\\""
+  },
+  {
+    "id": 851,
+    "line": 4266,
+    "target_en": "\\\"I don't have time for this."
+  },
+  {
+    "id": 852,
+    "line": 4269,
+    "target_en": " I'm simply asking you to help me look for Satoshi-kun, that's all.\\\""
+  },
+  {
+    "id": 853,
+    "line": 4275,
+    "target_en": "\\\"I-"
+  },
+  {
+    "id": 854,
+    "line": 4280,
+    "target_en": "I know... I know that."
+  },
+  {
+    "id": 855,
+    "line": 4285,
+    "target_en": " I'll answer you...!\\\""
+  },
+  {
+    "id": 856,
+    "line": 4290,
+    "target_en": "I took my hand off the pulley."
+  },
+  {
+    "id": 857,
+    "line": 4296,
+    "target_en": "...Seeing that, Kimiyoshi began making loud groaning noises to try and show he was thinking hard."
+  },
+  {
+    "id": 858,
+    "line": 4302,
+    "target_en": "\\\"Be frank with me."
+  },
+  {
+    "id": 859,
+    "line": 4305,
+    "target_en": " Do you think he is alive"
+  },
+  {
+    "id": 860,
+    "line": 4308,
+    "target_en": " or dead?\\\""
+  },
+  {
+    "id": 861,
+    "line": 4314,
+    "target_en": "\\\"I... think..."
+  },
+  {
+    "id": 862,
+    "line": 4319,
+    "target_en": "..."
+  },
+  {
+    "id": 863,
+    "line": 4324,
+    "target_en": "..."
+  },
+  {
+    "id": 864,
+    "line": 4329,
+    "target_en": " you shouldn't think he is alive...\\\""
+  },
+  {
+    "id": 865,
+    "line": 4335,
+    "target_en": "\\\"......"
+  },
+  {
+    "id": 866,
+    "line": 4338,
+    "target_en": "That figures."
+  },
+  {
+    "id": 867,
+    "line": 4341,
+    "target_en": " There was no point in letting him live, right?"
+  },
+  {
+    "id": 868,
+    "line": 4344,
+    "target_en": " I agree with you.\\\""
+  },
+  {
+    "id": 869,
+    "line": 4349,
+    "target_en": "I really didn't mean anything too deep by it, but what I said truly scared Kimiyoshi."
+  },
+  {
+    "id": 870,
+    "line": 4355,
+    "target_en": "\\\"The police think he ran, using the money he saved to buy Satoko's birthday present, because he was the main suspect of his aunt's murder."
+  },
+  {
+    "id": 871,
+    "line": 4358,
+    "target_en": " What do you think about that?\\\""
+  },
+  {
+    "id": 872,
+    "line": 4364,
+    "target_en": "\\\"......Well... I heard that the culprit was some kind of drug addict.\\\""
+  },
+  {
+    "id": 873,
+    "line": 4375,
+    "target_en": "\\\"I've......... suspected as much."
+  },
+  {
+    "id": 874,
+    "line": 4378,
+    "target_en": " That guy appeared out of nowhere."
+  },
+  {
+    "id": 875,
+    "line": 4381,
+    "target_en": " ...I didn't understand it at the time.\\\""
+  },
+  {
+    "id": 876,
+    "line": 4387,
+    "target_en": "\\\"So he was a decoy...\\\""
+  },
+  {
+    "id": 877,
+    "line": 4393,
+    "target_en": "\\\"...I'm pretty sure...\\\""
+  },
+  {
+    "id": 878,
+    "line": 4399,
+    "target_en": "\\\"Why do you think that, though?\\\""
+  },
+  {
+    "id": 879,
+    "line": 4405,
+    "target_en": "\\\"The police were investigating the case, and Satoshi-kun was their primary suspect, wasn't he?"
+  },
+  {
+    "id": 880,
+    "line": 4408,
+    "target_en": " If he was going to be demoned away,"
+  },
+  {
+    "id": 881,
+    "line": 4411,
+    "target_en": " she didn't want the police to continue the investigation, I guess...\\\""
+  },
+  {
+    "id": 882,
+    "line": 4416,
+    "target_en": "What Kimiyoshi just said is very interesting."
+  },
+  {
+    "id": 883,
+    "line": 4421,
+    "target_en": "...He's perfectly correct."
+  },
+  {
+    "id": 884,
+    "line": 4427,
+    "target_en": "If the police continued their investigation, it would complicate things for whoever demoned away Satoshi-kun."
+  },
+  {
+    "id": 885,
+    "line": 4432,
+    "target_en": "Therefore, the hag came up with a decoy in order to bring an end to the investigation."
+  },
+  {
+    "id": 886,
+    "line": 4438,
+    "target_en": "\\\"But fabricating a suspect can't be that easy, don't you agree?\\\""
+  },
+  {
+    "id": 887,
+    "line": 4444,
+    "target_en": "\\\".........The only person who can do things like that..."
+  },
+  {
+    "id": 888,
+    "line": 4447,
+    "target_en": " is Oryou-san.\\\""
+  },
+  {
+    "id": 889,
+    "line": 4458,
+    "target_en": "\\\"...I'm sure you've heard quite a few rumors"
+  },
+  {
+    "id": 890,
+    "line": 4463,
+    "target_en": " during the dam conflict."
+  },
+  {
+    "id": 891,
+    "line": 4468,
+    "target_en": " Didn't you also hear things directly?\\\""
+  },
+  {
+    "id": 892,
+    "line": 4477,
+    "target_en": "During the dam protests, I actually saw them issuing orders to my relatives."
+  },
+  {
+    "id": 893,
+    "line": 4479,
+    "target_en": " Like, \\\"destroy their heavy machinery.\\\""
+  },
+  {
+    "id": 894,
+    "line": 4481,
+    "target_en": " or, \\\"can we set up a checkpoint to blockade their construction vehicles?\\\""
+  },
+  {
+    "id": 895,
+    "line": 4488,
+    "target_en": "They set free their comrades from the police by coming up with alibis, destroying or forging evidence..."
+  },
+  {
+    "id": 896,
+    "line": 4494,
+    "target_en": "I had seen relatives do those things"
+  },
+  {
+    "id": 897,
+    "line": 4496,
+    "target_en": " as well as the hag calling in councillors to the house to protest."
+  },
+  {
+    "id": 898,
+    "line": 4501,
+    "target_en": "As a child I was pretty impressed."
+  },
+  {
+    "id": 899,
+    "line": 4506,
+    "target_en": "But when I thought back, it was more than that."
+  },
+  {
+    "id": 900,
+    "line": 4512,
+    "target_en": "She was truly the mastermind who controlled the underside of the world."
+  },
+  {
+    "id": 901,
+    "line": 4519,
+    "target_en": "\\\"You've heard about"
+  },
+  {
+    "id": 902,
+    "line": 4521,
+    "target_en": " the kidnapping case of"
+  },
+  {
+    "id": 903,
+    "line": 4525,
+    "target_en": " the grandson of the Minister of construction, right?\\\""
+  },
+  {
+    "id": 904,
+    "line": 4531,
+    "target_en": "\\\"So it was really a kidnapping, huh?"
+  },
+  {
+    "id": 905,
+    "line": 4534,
+    "target_en": " I heard the grandson was demoned away and then found in the middle of the mountains in Takatsudo or Yagouchi.\\\""
+  },
+  {
+    "id": 906,
+    "line": 4540,
+    "target_en": "\\\"That was"
+  },
+  {
+    "id": 907,
+    "line": 4545,
+    "target_en": " at Oryou-san's command..."
+  },
+  {
+    "id": 908,
+    "line": 4548,
+    "target_en": " The Minister promised to stop the dam construction, and the grandson was released."
+  },
+  {
+    "id": 909,
+    "line": 4553,
+    "target_en": " ......All the top people in the ex-Guardians know that.\\\""
+  },
+  {
+    "id": 910,
+    "line": 4563,
+    "target_en": "Kimiyoshi finally realized the situation he was in, and he was answering my questions. That made me happy, but..."
+  },
+  {
+    "id": 911,
+    "line": 4569,
+    "target_en": "The more Kimiyoshi told me the truth"
+  },
+  {
+    "id": 912,
+    "line": 4574,
+    "target_en": " the more I realized Satoshi-kun really was dead... That made me very sad."
+  },
+  {
+    "id": 913,
+    "line": 4580,
+    "target_en": "\\\"Who actually demoned away Satoshi-kun?\\\""
+  },
+  {
+    "id": 914,
+    "line": 4586,
+    "target_en": "\\\"I don't know."
+  },
+  {
+    "id": 915,
+    "line": 4589,
+    "target_en": " We were never to ask who actually executed Oryou-san's orders...\\\""
+  },
+  {
+    "id": 916,
+    "line": 4595,
+    "target_en": "He was right."
+  },
+  {
+    "id": 917,
+    "line": 4600,
+    "target_en": "That was how the system worked."
+  },
+  {
+    "id": 918,
+    "line": 4602,
+    "target_en": " And so, that was a bad question."
+  },
+  {
+    "id": 919,
+    "line": 4608,
+    "target_en": "\\\"Whoever it was did a great job,"
+  },
+  {
+    "id": 920,
+    "line": 4611,
+    "target_en": " because his body hasn't been found. That's not easy.\\\""
+  },
+  {
+    "id": 921,
+    "line": 4617,
+    "target_en": "\\\"Putting aside who actually killed him..."
+  },
+  {
+    "id": 922,
+    "line": 4620,
+    "target_en": " It is possible Oryou-san has helped to get rid of the body."
+  },
+  {
+    "id": 923,
+    "line": 4623,
+    "target_en": " ...You know about the well farther down from here, the one used to dump bodies, don't you?\\\""
+  },
+  {
+    "id": 924,
+    "line": 4629,
+    "target_en": "\\\"Yeah, I do."
+  },
+  {
+    "id": 925,
+    "line": 4632,
+    "target_en": " It's a lot safer to dump a body in the well than to bury it somewhere in the mountains.\\\""
+  },
+  {
+    "id": 926,
+    "line": 4637,
+    "target_en": "Whoever disappears becomes a sacrifice to calm the anger of Oyashiro-sama."
+  },
+  {
+    "id": 927,
+    "line": 4642,
+    "target_en": "That was the rule of this game."
+  },
+  {
+    "id": 928,
+    "line": 4647,
+    "target_en": "Therefore, the bodies must never be discovered."
+  },
+  {
+    "id": 929,
+    "line": 4652,
+    "target_en": "That's why the bodies had to be dumped somewhere nobody could find them."
+  },
+  {
+    "id": 930,
+    "line": 4654,
+    "target_en": " It's very possible that the well was used for that."
+  },
+  {
+    "id": 931,
+    "line": 4659,
+    "target_en": "Then"
+  },
+  {
+    "id": 932,
+    "line": 4664,
+    "target_en": " Satoshi-kun is"
+  },
+  {
+    "id": 933,
+    "line": 4669,
+    "target_en": " at the"
+  },
+  {
+    "id": 934,
+    "line": 4674,
+    "target_en": " bottom of that"
+  },
+  {
+    "id": 935,
+    "line": 4679,
+    "target_en": " well?"
+  },
+  {
+    "id": 936,
+    "line": 4686,
+    "target_en": "I grabbed a flashlight and headed to the huge cave with all the cells."
+  },
+  {
+    "id": 937,
+    "line": 4691,
+    "target_en": "As I turned on the lights in the cave, Mion noticed me and gave me a worried look."
+  },
+  {
+    "id": 938,
+    "line": 4697,
+    "target_en": "I ignored her and headed to the cell in the back."
+  },
+  {
+    "id": 939,
+    "line": 4702,
+    "target_en": "...I was still very impressed by how the well was hidden. It was almost artistic."
+  },
+  {
+    "id": 940,
+    "line": 4708,
+    "target_en": "I shone the flashlight at the bottom of the well."
+  },
+  {
+    "id": 941,
+    "line": 4714,
+    "target_en": "I had no way of knowing how deep the well was. The light of the flashlight wasn't strong enough to reach the bottom."
+  },
+  {
+    "id": 942,
+    "line": 4719,
+    "target_en": "I inhaled."
+  },
+  {
+    "id": 943,
+    "line": 4721,
+    "target_en": " Then screamed into the well."
+  },
+  {
+    "id": 944,
+    "line": 4727,
+    "target_en": "\\\"Satoshi-kun!"
+  },
+  {
+    "id": 945,
+    "line": 4730,
+    "target_en": " ......Satoshi-kuuuun!!!\\\""
+  },
+  {
+    "id": 946,
+    "line": 4735,
+    "target_en": "Satoshi-kun's name echoed again and again."
+  },
+  {
+    "id": 947,
+    "line": 4737,
+    "target_en": " It was obviously a very deep well."
+  },
+  {
+    "id": 948,
+    "line": 4742,
+    "target_en": "I thought of climbing down using the wedges on the wall."
+  },
+  {
+    "id": 949,
+    "line": 4748,
+    "target_en": "But with the flashlight hanging from my neck, I couldn't light my footing properly."
+  },
+  {
+    "id": 950,
+    "line": 4750,
+    "target_en": " And even if there was enough lighting, I didn't even know if the wedges were sturdy enough."
+  },
+  {
+    "id": 951,
+    "line": 4756,
+    "target_en": "It would be like committing suicide."
+  },
+  {
+    "id": 952,
+    "line": 4762,
+    "target_en": "Satoshi-kun was"
+  },
+  {
+    "id": 953,
+    "line": 4767,
+    "target_en": " at the bottom of this well..."
+  },
+  {
+    "id": 954,
+    "line": 4772,
+    "target_en": "That's when I felt it."
+  },
+  {
+    "id": 955,
+    "line": 4778,
+    "target_en": "A warm hand"
+  },
+  {
+    "id": 956,
+    "line": 4783,
+    "target_en": " rubbed"
+  },
+  {
+    "id": 957,
+    "line": 4788,
+    "target_en": " my head"
+  },
+  {
+    "id": 958,
+    "line": 4793,
+    "target_en": " for sure."
+  },
+  {
+    "id": 959,
+    "line": 4798,
+    "target_en": "Shion."
+  },
+  {
+    "id": 960,
+    "line": 4800,
+    "target_en": " You"
+  },
+  {
+    "id": 961,
+    "line": 4805,
+    "target_en": " finally"
+  },
+  {
+    "id": 962,
+    "line": 4810,
+    "target_en": " found me..."
+  },
+  {
+    "id": 963,
+    "line": 4816,
+    "target_en": "Satoshi-kun,"
+  },
+  {
+    "id": 964,
+    "line": 4821,
+    "target_en": " Satoshi-kun..."
+  },
+  {
+    "id": 965,
+    "line": 4826,
+    "target_en": " Satoshi-kun...!!"
+  },
+  {
+    "id": 966,
+    "line": 4831,
+    "target_en": "I-I..."
+  },
+  {
+    "id": 967,
+    "line": 4833,
+    "target_en": " I've been looking for you for so long..."
+  },
+  {
+    "id": 968,
+    "line": 4835,
+    "target_en": " I'm sorry I couldn't find you while you were still alive..."
+  },
+  {
+    "id": 969,
+    "line": 4837,
+    "target_en": " Sorry... I'm sorry..."
+  },
+  {
+    "id": 970,
+    "line": 4842,
+    "target_en": "It's not your fault, Shion."
+  },
+  {
+    "id": 971,
+    "line": 4844,
+    "target_en": " There was nothing you could've done before I was killed."
+  },
+  {
+    "id": 972,
+    "line": 4846,
+    "target_en": " But... you did everything you could do after I was dead..."
+  },
+  {
+    "id": 973,
+    "line": 4852,
+    "target_en": "Satoshi-kun,"
+  },
+  {
+    "id": 974,
+    "line": 4854,
+    "target_en": " I want to join you."
+  },
+  {
+    "id": 975,
+    "line": 4856,
+    "target_en": " I'm coming right now."
+  },
+  {
+    "id": 976,
+    "line": 4858,
+    "target_en": " I'm going to jump, so please catch me."
+  },
+  {
+    "id": 977,
+    "line": 4863,
+    "target_en": "Mmph."
+  },
+  {
+    "id": 978,
+    "line": 4869,
+    "target_en": "Satoshi-kun smiled bitterly."
+  },
+  {
+    "id": 979,
+    "line": 4874,
+    "target_en": "I was saddened to see him reject me."
+  },
+  {
+    "id": 980,
+    "line": 4879,
+    "target_en": "Shion, I'm happy that you found me."
+  },
+  {
+    "id": 981,
+    "line": 4884,
+    "target_en": "But you are alive, Shion."
+  },
+  {
+    "id": 982,
+    "line": 4886,
+    "target_en": " It's so important to be alive. You can't waste it."
+  },
+  {
+    "id": 983,
+    "line": 4892,
+    "target_en": "If you aren't here, I don't want to live...!"
+  },
+  {
+    "id": 984,
+    "line": 4897,
+    "target_en": "I want to be with you, Satoshi-kun."
+  },
+  {
+    "id": 985,
+    "line": 4899,
+    "target_en": " I want to be close to you..."
+  },
+  {
+    "id": 986,
+    "line": 4901,
+    "target_en": " I want you to rub my head again."
+  },
+  {
+    "id": 987,
+    "line": 4906,
+    "target_en": " I want to spend time with you..."
+  },
+  {
+    "id": 988,
+    "line": 4911,
+    "target_en": " I'll be"
+  },
+  {
+    "id": 989,
+    "line": 4916,
+    "target_en": " a good girl... "
+  },
+  {
+    "id": 990,
+    "line": 4921,
+    "target_en": " I... want to be... with you..."
+  },
+  {
+    "id": 991,
+    "line": 4926,
+    "target_en": "Live."
+  },
+  {
+    "id": 992,
+    "line": 4932,
+    "target_en": "Do I have to?"
+  },
+  {
+    "id": 993,
+    "line": 4938,
+    "target_en": "Live and enjoy your life, okay?"
+  },
+  {
+    "id": 994,
+    "line": 4944,
+    "target_en": "What's so fun about living alone?"
+  },
+  {
+    "id": 995,
+    "line": 4950,
+    "target_en": "You'll find out"
+  },
+  {
+    "id": 996,
+    "line": 4955,
+    "target_en": " so long as you're alive..."
+  },
+  {
+    "id": 997,
+    "line": 4961,
+    "target_en": "\\\"...To live."
+  },
+  {
+    "id": 998,
+    "line": 4964,
+    "target_en": " I will... live."
+  },
+  {
+    "id": 999,
+    "line": 4969,
+    "target_en": " I will live.\\\""
+  },
+  {
+    "id": 1000,
+    "line": 4974,
+    "target_en": "The eerie well now felt warm."
+  },
+  {
+    "id": 1001,
+    "line": 4980,
+    "target_en": "I wasn't allowed to go down to the bottom."
+  },
+  {
+    "id": 1002,
+    "line": 4985,
+    "target_en": "But"
+  },
+  {
+    "id": 1003,
+    "line": 4990,
+    "target_en": " the edge of this well"
+  },
+  {
+    "id": 1004,
+    "line": 4995,
+    "target_en": " was the place where you and I could meet..."
+  },
+  {
+    "id": 1005,
+    "line": 5008,
+    "target_en": "\\\"Mion."
+  },
+  {
+    "id": 1006,
+    "line": 5011,
+    "target_en": " Satoshi-kun..."
+  },
+  {
+    "id": 1007,
+    "line": 5016,
+    "target_en": " I found him..."
+  },
+  {
+    "id": 1008,
+    "line": 5019,
+    "target_en": " He's at the bottom of the well, isn't he?\\\""
+  },
+  {
+    "id": 1009,
+    "line": 5025,
+    "target_en": "\\\"...I think so..."
+  },
+  {
+    "id": 1010,
+    "line": 5028,
+    "target_en": " I can't think of"
+  },
+  {
+    "id": 1011,
+    "line": 5033,
+    "target_en": " anywhere else he'd be.\\\""
+  },
+  {
+    "id": 1012,
+    "line": 5038,
+    "target_en": "Mion started to sob."
+  },
+  {
+    "id": 1013,
+    "line": 5044,
+    "target_en": "\\\"You weren't there... when Satoshi-kun was killed, were you?\\\""
+  },
+  {
+    "id": 1014,
+    "line": 5050,
+    "target_en": "\\\".........No.\\\""
+  },
+  {
+    "id": 1015,
+    "line": 5061,
+    "target_en": "\\\"Yes."
+  },
+  {
+    "id": 1016,
+    "line": 5064,
+    "target_en": " I would have begged her to let him live...\\\""
+  },
+  {
+    "id": 1017,
+    "line": 5071,
+    "target_en": "\\\"Liar.\\\""
+  },
+  {
+    "id": 1018,
+    "line": 5077,
+    "target_en": "\\\"......Eh?\\\""
+  },
+  {
+    "id": 1019,
+    "line": 5084,
+    "target_en": "\\\"YOU LIAAAaAAaAAR!!!\\\""
+  },
+  {
+    "id": 1020,
+    "line": 5091,
+    "target_en": "On that day, a year ago."
+  },
+  {
+    "id": 1021,
+    "line": 5097,
+    "target_en": "...I had just recalled how cruel Mion was then, when she forced me to rip out my nails, acting in her role as the successor."
+  },
+  {
+    "id": 1022,
+    "line": 5102,
+    "target_en": "Even if she was there when Satoshi-kun was killed, she wouldn't have stopped being the successor."
+  },
+  {
+    "id": 1023,
+    "line": 5108,
+    "target_en": "Satoshi-kun was brought to the torture room..."
+  },
+  {
+    "id": 1024,
+    "line": 5110,
+    "target_en": " When he saw Mion,"
+  },
+  {
+    "id": 1025,
+    "line": 5115,
+    "target_en": " I'm sure he thought she would save him."
+  },
+  {
+    "id": 1026,
+    "line": 5120,
+    "target_en": "Even as he heard the family head read out his death sentence,"
+  },
+  {
+    "id": 1027,
+    "line": 5122,
+    "target_en": " I'm sure he looked at Mion"
+  },
+  {
+    "id": 1028,
+    "line": 5127,
+    "target_en": " and believed that"
+  },
+  {
+    "id": 1029,
+    "line": 5132,
+    "target_en": " she would save him."
+  },
+  {
+    "id": 1030,
+    "line": 5138,
+    "target_en": "He believed Mion was acting that way only because she was with her relatives."
+  },
+  {
+    "id": 1031,
+    "line": 5144,
+    "target_en": "He believed she would help him"
+  },
+  {
+    "id": 1032,
+    "line": 5149,
+    "target_en": " but"
+  },
+  {
+    "id": 1033,
+    "line": 5154,
+    "target_en": " she didn't do anything."
+  },
+  {
+    "id": 1034,
+    "line": 5159,
+    "target_en": " He was strapped to a restraining device,"
+  },
+  {
+    "id": 1035,
+    "line": 5164,
+    "target_en": " yet she still wouldn't do anything."
+  },
+  {
+    "id": 1036,
+    "line": 5169,
+    "target_en": "Mion was cruel."
+  },
+  {
+    "id": 1037,
+    "line": 5175,
+    "target_en": "Mion?"
+  },
+  {
+    "id": 1038,
+    "line": 5177,
+    "target_en": " Isn't it about time to help me?"
+  },
+  {
+    "id": 1039,
+    "line": 5183,
+    "target_en": "Ahahahaha..."
+  },
+  {
+    "id": 1040,
+    "line": 5188,
+    "target_en": " haha,"
+  },
+  {
+    "id": 1041,
+    "line": 5193,
+    "target_en": " I see."
+  },
+  {
+    "id": 1042,
+    "line": 5198,
+    "target_en": " I get it."
+  },
+  {
+    "id": 1043,
+    "line": 5200,
+    "target_en": " You're with the rest of the family members so you can't show even a hint of compassion."
+  },
+  {
+    "id": 1044,
+    "line": 5202,
+    "target_en": " Ahahaha... hahaha... that sucks......"
+  },
+  {
+    "id": 1045,
+    "line": 5204,
+    "target_en": " Mmph..."
+  },
+  {
+    "id": 1046,
+    "line": 5215,
+    "target_en": "\\\"Whaaaahhhhhhh!!"
+  },
+  {
+    "id": 1047,
+    "line": 5219,
+    "target_en": " Help him!!"
+  },
+  {
+    "id": 1048,
+    "line": 5222,
+    "target_en": " Help him!!"
+  },
+  {
+    "id": 1049,
+    "line": 5225,
+    "target_en": " Why?!"
+  },
+  {
+    "id": 1050,
+    "line": 5228,
+    "target_en": " Why didn't you help him?!!"
+  },
+  {
+    "id": 1051,
+    "line": 5231,
+    "target_en": " You saw him looking at you, begging to help him... didn't you? Why didn't you help him?! "
+  },
+  {
+    "id": 1052,
+    "line": 5235,
+    "target_en": "Even when he was going through a rough time because of his awful aunt, you didn't help him!!"
+  },
+  {
+    "id": 1053,
+    "line": 5241,
+    "target_en": "You pretended to sympathize, but you didn't help him!!"
+  },
+  {
+    "id": 1054,
+    "line": 5244,
+    "target_en": " You ignored him!!!"
+  },
+  {
+    "id": 1055,
+    "line": 5247,
+    "target_en": " He was cornered because you didn't help him!!"
+  },
+  {
+    "id": 1056,
+    "line": 5250,
+    "target_en": " I tried!"
+  },
+  {
+    "id": 1057,
+    "line": 5253,
+    "target_en": " I tried to support him!! "
+  },
+  {
+    "id": 1058,
+    "line": 5257,
+    "target_en": "Even when you didn't protect him from killing his aunt, I did!"
+  },
+  {
+    "id": 1059,
+    "line": 5260,
+    "target_en": " I sacrificed myself to fight for him!!"
+  },
+  {
+    "id": 1060,
+    "line": 5263,
+    "target_en": " Three nails were nothing!!"
+  },
+  {
+    "id": 1061,
+    "line": 5269,
+    "target_en": "But it wasn't enough to rescue Satoshi-kun..."
+  },
+  {
+    "id": 1062,
+    "line": 5272,
+    "target_en": " I couldn't help him..."
+  },
+  {
+    "id": 1063,
+    "line": 5275,
+    "target_en": " Do you know why?"
+  },
+  {
+    "id": 1064,
+    "line": 5278,
+    "target_en": " Because I was Shion then."
+  },
+  {
+    "id": 1065,
+    "line": 5281,
+    "target_en": " As Shion, I was kept away from Hinamizawa and nobody told me anything. I <i>couldn't</i> know anything. "
+  },
+  {
+    "id": 1066,
+    "line": 5285,
+    "target_en": "But you were different."
+  },
+  {
+    "id": 1067,
+    "line": 5288,
+    "target_en": " You were Mion."
+  },
+  {
+    "id": 1068,
+    "line": 5291,
+    "target_en": " You were right in the middle of everything and you knew everything and everyone told you everything."
+  },
+  {
+    "id": 1069,
+    "line": 5294,
+    "target_en": " If I were you, I could have helped Satoshi-kun!!"
+  },
+  {
+    "id": 1070,
+    "line": 5297,
+    "target_en": " I would have!!! "
+  },
+  {
+    "id": 1071,
+    "line": 5301,
+    "target_en": "But <i>you</i> were Mion!!!"
+  },
+  {
+    "id": 1072,
+    "line": 5307,
+    "target_en": "Give it back, Mion!!!"
+  },
+  {
+    "id": 1073,
+    "line": 5310,
+    "target_en": " That name isn't just yours!"
+  },
+  {
+    "id": 1074,
+    "line": 5313,
+    "target_en": " It's mine too!!"
+  },
+  {
+    "id": 1075,
+    "line": 5316,
+    "target_en": " Besides, it was mine to begin with, remember?"
+  },
+  {
+    "id": 1076,
+    "line": 5319,
+    "target_en": " I just let you be Mion, remember? It was mine!!"
+  },
+  {
+    "id": 1077,
+    "line": 5322,
+    "target_en": " Give it back to me!!"
+  },
+  {
+    "id": 1078,
+    "line": 5325,
+    "target_en": " Give me my name back!!! "
+  },
+  {
+    "id": 1079,
+    "line": 5329,
+    "target_en": "I can't stand that you even look like Mion!!!"
+  },
+  {
+    "id": 1080,
+    "line": 5332,
+    "target_en": " If I were Mion then!!"
+  },
+  {
+    "id": 1081,
+    "line": 5335,
+    "target_en": " Ahhhhhh!!!\\\""
+  },
+  {
+    "id": 1082,
+    "line": 5342,
+    "target_en": "I kicked the bars."
+  },
+  {
+    "id": 1083,
+    "line": 5348,
+    "target_en": " I kicked them again,"
+  },
+  {
+    "id": 1084,
+    "line": 5354,
+    "target_en": " and again."
+  },
+  {
+    "id": 1085,
+    "line": 5364,
+    "target_en": "Mion curled up fearfully in the back of the cell,"
+  },
+  {
+    "id": 1086,
+    "line": 5366,
+    "target_en": " as if she were trying to prevent the bars from crashing down onto her."
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "line": 25,
+    "target_en": "\\\"Whaaat?"
+  },
+  {
+    "id": 2,
+    "line": 28,
+    "target_en": " Mii-chan, you didn't get much sleep either, did you?"
+  },
+  {
+    "id": 3,
+    "line": 31,
+    "target_en": " Did you?\\\""
+  },
+  {
+    "id": 4,
+    "line": 37,
+    "target_en": "\\\"...Yeah."
+  },
+  {
+    "id": 5,
+    "line": 40,
+    "target_en": " I went to bed at like, three."
+  },
+  {
+    "id": 6,
+    "line": 43,
+    "target_en": " ...I'm a little tired.\\\""
+  },
+  {
+    "id": 7,
+    "line": 51,
+    "target_en": "\\\"Th-Three?!"
+  },
+  {
+    "id": 8,
+    "line": 54,
+    "target_en": " Hey, now... You can't keep staying up late! "
+  },
+  {
+    "id": 9,
+    "line": 61,
+    "target_en": "You probably read the first volume of a manga, thought it was interesting, then read the entire series, didn't you?"
+  },
+  {
+    "id": 10,
+    "line": 64,
+    "target_en": " I understand, I've done that before.\\\""
+  },
+  {
+    "id": 11,
+    "line": 72,
+    "target_en": "\\\"......What? ...Wait... is it about the mayor?"
+  },
+  {
+    "id": 12,
+    "line": 75,
+    "target_en": " He still hasn't been found?\\\""
+  },
+  {
+    "id": 13,
+    "line": 81,
+    "target_en": "\\\"......Nope.\\\""
+  },
+  {
+    "id": 14,
+    "line": 89,
+    "target_en": "I went to the Furude Shrine to join the youth group in their search for the mayor."
+  },
+  {
+    "id": 15,
+    "line": 94,
+    "target_en": "Since I knew there was no way he would be found, it was really boring for me."
+  },
+  {
+    "id": 16,
+    "line": 99,
+    "target_en": "Well, just enduring sleepiness wasn't that bad."
+  },
+  {
+    "id": 17,
+    "line": 104,
+    "target_en": "Not if you considered what Kimiyoshi had to go through since last night. He had been hanging from the ceiling and couldn't even fall asleep or sit down, since he had to stay on tiptoes the whole time."
+  },
+  {
+    "id": 18,
+    "line": 121,
+    "target_en": "The teacher explained to us that the mayor had gone missing, and asked us if we knew anything."
+  },
+  {
+    "id": 19,
+    "line": 127,
+    "target_en": "A couple of people said some things, but they were irrelevant."
+  },
+  {
+    "id": 20,
+    "line": 133,
+    "target_en": "To me, this issue meant nothing, but it was all my classmates were talking about."
+  },
+  {
+    "id": 21,
+    "line": 140,
+    "target_en": "I observed Keiichi Maebara."
+  },
+  {
+    "id": 22,
+    "line": 146,
+    "target_en": "I had no idea if any type of danger was drawing closer to him."
+  },
+  {
+    "id": 23,
+    "line": 151,
+    "target_en": "Maybe I'd call him again tonight, pretending to be Shion."
+  },
+  {
+    "id": 24,
+    "line": 156,
+    "target_en": "I told him some outrageous stuff last night, so he panicked."
+  },
+  {
+    "id": 25,
+    "line": 161,
+    "target_en": "But I was sure he'd calmed down after a day."
+  },
+  {
+    "id": 26,
+    "line": 166,
+    "target_en": "At that time, I heard a little girl's laughter."
+  },
+  {
+    "id": 27,
+    "line": 175,
+    "target_en": "It was Rika Furude."
+  },
+  {
+    "id": 28,
+    "line": 177,
+    "target_en": " ...The last survivor of the Furude family, and their current head."
+  },
+  {
+    "id": 29,
+    "line": 183,
+    "target_en": "However, she wasn't really treated as one."
+  },
+  {
+    "id": 30,
+    "line": 188,
+    "target_en": "During the family councils, she'd often draw pictures or take a nap in the hag's bed."
+  },
+  {
+    "id": 31,
+    "line": 193,
+    "target_en": "She wasn't even invited to last night's meeting."
+  },
+  {
+    "id": 32,
+    "line": 200,
+    "target_en": "It was hard to believe such a little girl was responsible for part of the curse system."
+  },
+  {
+    "id": 33,
+    "line": 205,
+    "target_en": "However, even though she wasn't in a respected position as the head of the Furude family..."
+  },
+  {
+    "id": 34,
+    "line": 210,
+    "target_en": "There were plenty of old people who worshiped her as the reincarnation of Oyashiro-sama."
+  },
+  {
+    "id": 35,
+    "line": 215,
+    "target_en": "I'd heard from someone that Rika Furude was rather odd ...and seemed to behave as if she knew she was that reincarnation."
+  },
+  {
+    "id": 36,
+    "line": 221,
+    "target_en": "Maybe Takano-san had told me that at the library when she was alive."
+  },
+  {
+    "id": 37,
+    "line": 228,
+    "target_en": "When Rika Furude became worried about something, the elderly people who worshiped her would make arrangements."
+  },
+  {
+    "id": 38,
+    "line": 233,
+    "target_en": "...It was very similar to the Sonozaki family, and it was also the same system as used for the curse."
+  },
+  {
+    "id": 39,
+    "line": 239,
+    "target_en": "I wonder, does Rika Furude know anything about the deaths of Takano-san and Tomitake-san?"
+  },
+  {
+    "id": 40,
+    "line": 244,
+    "target_en": "What does she think of people sneaking into the ritual storehouse?"
+  },
+  {
+    "id": 41,
+    "line": 246,
+    "target_en": " Does she know who snuck in and what happened to those people?"
+  },
+  {
+    "id": 42,
+    "line": 252,
+    "target_en": "As the one managing the storehouse, it was possible that she noticed the intruders first."
+  },
+  {
+    "id": 43,
+    "line": 258,
+    "target_en": "In fact, she was the only one who could have noticed it. She must have passed on that information, which was why the curse was executed."
+  },
+  {
+    "id": 44,
+    "line": 263,
+    "target_en": "That foolish Keiichi turned the light on when we went into the ritual storehouse."
+  },
+  {
+    "id": 45,
+    "line": 268,
+    "target_en": "That light switch could have been connected to some kind of an alarm."
+  },
+  {
+    "id": 46,
+    "line": 274,
+    "target_en": "Rika Furude, the leader of the Furude family..."
+  },
+  {
+    "id": 47,
+    "line": 276,
+    "target_en": " Maybe getting to know her would be a good idea."
+  },
+  {
+    "id": 48,
+    "line": 297,
+    "target_en": "\\\"As the leader of the Furude family, how much do you know about the incident?\\\""
+  },
+  {
+    "id": 49,
+    "line": 302,
+    "target_en": "I asked her rather directly."
+  },
+  {
+    "id": 50,
+    "line": 308,
+    "target_en": "It was hard to tell if she understood I was asking her in place of the Sonozaki family head"
+  },
+  {
+    "id": 51,
+    "line": 310,
+    "target_en": " instead of as Mion Sonozaki."
+  },
+  {
+    "id": 52,
+    "line": 316,
+    "target_en": "\\\"......Are you talking about Tomitake and Takano?\\\""
+  },
+  {
+    "id": 53,
+    "line": 321,
+    "target_en": "Rika answered."
+  },
+  {
+    "id": 54,
+    "line": 327,
+    "target_en": "The news hadn't been made public, yet she knew about it."
+  },
+  {
+    "id": 55,
+    "line": 329,
+    "target_en": " Although she looked immature, perhaps she truly was the head of the Furude family."
+  },
+  {
+    "id": 56,
+    "line": 337,
+    "target_en": "\\\"......That's the curse of Oyashiro-sama.\\\""
+  },
+  {
+    "id": 57,
+    "line": 343,
+    "target_en": "\\\"I already know that.\\\""
+  },
+  {
+    "id": 58,
+    "line": 349,
+    "target_en": "\\\".........\\\""
+  },
+  {
+    "id": 59,
+    "line": 355,
+    "target_en": "\\\"But it's not over yet, is it?"
+  },
+  {
+    "id": 60,
+    "line": 358,
+    "target_en": " There should still be two more."
+  },
+  {
+    "id": 61,
+    "line": 361,
+    "target_en": " Have you heard about what will happen to them?\\\""
+  },
+  {
+    "id": 62,
+    "line": 367,
+    "target_en": "I tried to be vague, to see how Rika Furude would react."
+  },
+  {
+    "id": 63,
+    "line": 372,
+    "target_en": "I had been thinking that she had nothing to do with the underside of Hinamizawa, since she was always treated like a child."
+  },
+  {
+    "id": 64,
+    "line": 378,
+    "target_en": "However, Rika had just said things about the incident which normal people shouldn't know anything about."
+  },
+  {
+    "id": 65,
+    "line": 383,
+    "target_en": "That proved she belonged to the underside's network."
+  },
+  {
+    "id": 66,
+    "line": 391,
+    "target_en": "\\\".........I don't think that matters anymore.\\\""
+  },
+  {
+    "id": 67,
+    "line": 397,
+    "target_en": "She answered the question about Tomitake-san and Takano-san fairly quickly, but took a little longer to answer this time."
+  },
+  {
+    "id": 68,
+    "line": 402,
+    "target_en": "Did she have to think about it?"
+  },
+  {
+    "id": 69,
+    "line": 407,
+    "target_en": "Shit... the look on her face never changes."
+  },
+  {
+    "id": 70,
+    "line": 409,
+    "target_en": " It's impossible to figure out what she's thinking."
+  },
+  {
+    "id": 71,
+    "line": 415,
+    "target_en": "\\\"What do you mean?"
+  },
+  {
+    "id": 72,
+    "line": 418,
+    "target_en": " How can they get away with what they've done?\\\""
+  },
+  {
+    "id": 73,
+    "line": 424,
+    "target_en": "\\\"......I think, if they feel bad about what they've done, that should be fine.\\\""
+  },
+  {
+    "id": 74,
+    "line": 429,
+    "target_en": "Her response was unexpected, especially after seeing all the old people get so furious last night."
+  },
+  {
+    "id": 75,
+    "line": 435,
+    "target_en": "To trespass in the ritual storehouse was blasphemy against Oyashiro-sama."
+  },
+  {
+    "id": 76,
+    "line": 441,
+    "target_en": "The village elders had said those intruders deserved to die."
+  },
+  {
+    "id": 77,
+    "line": 443,
+    "target_en": " Yet the leader of the Furude family, who protected the sacred storehouse for ritual implements, said that if they felt remorse for it, then that was fine."
+  },
+  {
+    "id": 78,
+    "line": 448,
+    "target_en": "...I recalled how people thought of Rika Furude's father during the dam conflict."
+  },
+  {
+    "id": 79,
+    "line": 453,
+    "target_en": "Yes."
+  },
+  {
+    "id": 80,
+    "line": 458,
+    "target_en": "Her father was called an opportunist back then."
+  },
+  {
+    "id": 81,
+    "line": 463,
+    "target_en": "He didn't agree with the Onigafuchi Guardians, who had resisted violently during the conflict."
+  },
+  {
+    "id": 82,
+    "line": 469,
+    "target_en": "Like father, like daughter..."
+  },
+  {
+    "id": 83,
+    "line": 477,
+    "target_en": "I aggressively grabbed Rika Furude by the collar."
+  },
+  {
+    "id": 84,
+    "line": 483,
+    "target_en": "\\\"Huh?"
+  },
+  {
+    "id": 85,
+    "line": 486,
+    "target_en": " What the heck are you talking about?"
+  },
+  {
+    "id": 86,
+    "line": 489,
+    "target_en": " You're pretty stupid. Just like your predecessor, aren't you?\\\""
+  },
+  {
+    "id": 87,
+    "line": 495,
+    "target_en": "\\\"............\\\""
+  },
+  {
+    "id": 88,
+    "line": 501,
+    "target_en": "\\\"The Furude family must understand better than anybody how sacred the ritual storehouse is."
+  },
+  {
+    "id": 89,
+    "line": 504,
+    "target_en": " How could the head of that family say such a thing?\\\""
+  },
+  {
+    "id": 90,
+    "line": 510,
+    "target_en": "I laughed at myself."
+  },
+  {
+    "id": 91,
+    "line": 515,
+    "target_en": "I was told the same thing by someone else and was now saying it to Rika."
+  },
+  {
+    "id": 92,
+    "line": 521,
+    "target_en": "\\\"Don't you know"
+  },
+  {
+    "id": 93,
+    "line": 525,
+    "target_en": " how serious a crime trespassing in the ritual storehouse is?!\\\""
+  },
+  {
+    "id": 94,
+    "line": 533,
+    "target_en": "\\\"......It's a very important place for Oyashiro-sama."
+  },
+  {
+    "id": 95,
+    "line": 536,
+    "target_en": " So nobody can go in without permission.\\\""
+  },
+  {
+    "id": 96,
+    "line": 542,
+    "target_en": "\\\"See, you know that."
+  },
+  {
+    "id": 97,
+    "line": 545,
+    "target_en": " But those four people brought their filth in there.\\\""
+  },
+  {
+    "id": 98,
+    "line": 553,
+    "target_en": "\\\"......What bad kitty cats."
+  },
+  {
+    "id": 99,
+    "line": 556,
+    "target_en": " ...Meow.\\\""
+  },
+  {
+    "id": 100,
+    "line": 562,
+    "target_en": "\\\"That's right, bad cats."
+  },
+  {
+    "id": 101,
+    "line": 565,
+    "target_en": " Two cats have been caught and punished."
+  },
+  {
+    "id": 102,
+    "line": 568,
+    "target_en": " There are two more.\\\""
+  },
+  {
+    "id": 103,
+    "line": 574,
+    "target_en": "\\\"......Meow.\\\""
+  },
+  {
+    "id": 104,
+    "line": 580,
+    "target_en": "\\\"How do you think they should be punished?"
+  },
+  {
+    "id": 105,
+    "line": 583,
+    "target_en": " Tell me your opinion, as the head of the Furude family.\\\""
+  },
+  {
+    "id": 106,
+    "line": 588,
+    "target_en": "Rika really didn't usually wear any expression whatsoever, making it impossible to tell what she was thinking."
+  },
+  {
+    "id": 107,
+    "line": 594,
+    "target_en": "But while I grabbed her by the collar and stared at her, I could tell somehow."
+  },
+  {
+    "id": 108,
+    "line": 599,
+    "target_en": "Rika was a little disturbed. I sensed she was trying to see what I was thinking in turn."
+  },
+  {
+    "id": 109,
+    "line": 605,
+    "target_en": "\\\"I want to forgive..."
+  },
+  {
+    "id": 110,
+    "line": 610,
+    "target_en": " those two kitty cats.\\\""
+  },
+  {
+    "id": 111,
+    "line": 616,
+    "target_en": "\\\"Why should they get away with what they've done?\\\""
+  },
+  {
+    "id": 112,
+    "line": 622,
+    "target_en": "\\\"Mii... What are you trying to say...?\\\""
+  },
+  {
+    "id": 113,
+    "line": 628,
+    "target_en": "\\\"That's a good question, so let me explain."
+  },
+  {
+    "id": 114,
+    "line": 631,
+    "target_en": " Those two must offer compensation for what they've done."
+  },
+  {
+    "id": 115,
+    "line": 634,
+    "target_en": " They have to clear away their sins."
+  },
+  {
+    "id": 116,
+    "line": 637,
+    "target_en": " Otherwise Oyashiro-sama won't stop being angry. "
+  },
+  {
+    "id": 117,
+    "line": 641,
+    "target_en": "Every crime must be punished appropriately."
+  },
+  {
+    "id": 118,
+    "line": 644,
+    "target_en": " Do you understand?\\\""
+  },
+  {
+    "id": 119,
+    "line": 652,
+    "target_en": "\\\"...Oyashiro-sama doesn't get angry even if someone enters the storehouse.\\\""
+  },
+  {
+    "id": 120,
+    "line": 658,
+    "target_en": "\\\"Huh? What are you saying?\\\""
+  },
+  {
+    "id": 121,
+    "line": 666,
+    "target_en": "\\\"The reason why nobody is allowed to see the ritual storehouse is because there are too many scary tools in there."
+  },
+  {
+    "id": 122,
+    "line": 669,
+    "target_en": " I'm sure people would get scared if they saw them."
+  },
+  {
+    "id": 123,
+    "line": 672,
+    "target_en": " That's why we don't let people in there. "
+  },
+  {
+    "id": 124,
+    "line": 676,
+    "target_en": "I'm sure those intruders were scared, too."
+  },
+  {
+    "id": 125,
+    "line": 679,
+    "target_en": " And I'm sure they feel bad about what they've done.\\\""
+  },
+  {
+    "id": 126,
+    "line": 685,
+    "target_en": "\\\"They're forgiven once they feel bad about what they've done?"
+  },
+  {
+    "id": 127,
+    "line": 688,
+    "target_en": " That's not for you to decide! That's what Oyashiro-sama decides!!\\\""
+  },
+  {
+    "id": 128,
+    "line": 696,
+    "target_en": "\\\"I'm the shrine maiden of Oyashiro-sama, don't you know?\\\""
+  },
+  {
+    "id": 129,
+    "line": 702,
+    "target_en": "\\\"Of course I do!!"
+  },
+  {
+    "id": 130,
+    "line": 705,
+    "target_en": " You aren't telling me that Oyashiro-sama told you he isn't angry, are you?\\\""
+  },
+  {
+    "id": 131,
+    "line": 710,
+    "target_en": "Rika nodded yes without hesitation."
+  },
+  {
+    "id": 132,
+    "line": 715,
+    "target_en": "I can't believe the lies she's coming up with."
+  },
+  {
+    "id": 133,
+    "line": 720,
+    "target_en": "I'm not surprised. I'm shocked."
+  },
+  {
+    "id": 134,
+    "line": 726,
+    "target_en": "\\\"Huh!!"
+  },
+  {
+    "id": 135,
+    "line": 729,
+    "target_en": " That's why your parents died of the curse two years ago."
+  },
+  {
+    "id": 136,
+    "line": 732,
+    "target_en": " Oyashiro-sama was angry because they didn't deserve to serve him!!"
+  },
+  {
+    "id": 137,
+    "line": 735,
+    "target_en": " That's why he cursed your father!!\\\""
+  },
+  {
+    "id": 138,
+    "line": 743,
+    "target_en": "\\\"Oyashiro-sama would never do that."
+  },
+  {
+    "id": 139,
+    "line": 746,
+    "target_en": " My father didn't die because of the curse of Oyashiro-sama...\\\""
+  },
+  {
+    "id": 140,
+    "line": 752,
+    "target_en": "\\\"Bah!!"
+  },
+  {
+    "id": 141,
+    "line": 755,
+    "target_en": " Am I really talking to the last shrine maiden of the Furude family?"
+  },
+  {
+    "id": 142,
+    "line": 758,
+    "target_en": " Obviously, Oyashiro-sama can't be at peace!!"
+  },
+  {
+    "id": 143,
+    "line": 761,
+    "target_en": " You are supposed to worship Oyashiro-sama!"
+  },
+  {
+    "id": 144,
+    "line": 764,
+    "target_en": " How pathetic...\\\""
+  },
+  {
+    "id": 145,
+    "line": 770,
+    "target_en": "\\\"I don't know why you're so angry, Mii...\\\""
+  },
+  {
+    "id": 146,
+    "line": 776,
+    "target_en": "I realized."
+  },
+  {
+    "id": 147,
+    "line": 781,
+    "target_en": "She was in a position to know as much as the other two family heads."
+  },
+  {
+    "id": 148,
+    "line": 786,
+    "target_en": "As proof, she talked about this year's incident as though it was nothing."
+  },
+  {
+    "id": 149,
+    "line": 792,
+    "target_en": "...Yet she could feign ignorance with a serious face."
+  },
+  {
+    "id": 150,
+    "line": 797,
+    "target_en": "She sure is something!"
+  },
+  {
+    "id": 151,
+    "line": 799,
+    "target_en": " She's even better than me!"
+  },
+  {
+    "id": 152,
+    "line": 812,
+    "target_en": "I slapped her a few times and pushed her to the floor."
+  },
+  {
+    "id": 153,
+    "line": 817,
+    "target_en": "Rika, having tumbled downward, looked up at me with tears in her eyes."
+  },
+  {
+    "id": 154,
+    "line": 823,
+    "target_en": "\\\"This all happened because you wanted to change the storehouse's lock to something that was easier for you, right?\\\""
+  },
+  {
+    "id": 155,
+    "line": 831,
+    "target_en": "\\\"...That's true."
+  },
+  {
+    "id": 156,
+    "line": 834,
+    "target_en": " The old one was too heavy... so I talked to Kimiyoshi and he changed it to a cheaper, lighter one.\\\""
+  },
+  {
+    "id": 157,
+    "line": 840,
+    "target_en": "\\\"If you left the heavy lock on, maybe that would have prevented them from trespassing."
+  },
+  {
+    "id": 158,
+    "line": 843,
+    "target_en": " This is your fault too."
+  },
+  {
+    "id": 159,
+    "line": 846,
+    "target_en": " Don't you forget that. "
+  },
+  {
+    "id": 160,
+    "line": 850,
+    "target_en": "Of course, the Kimiyoshi family who actually changed the lock is responsible for this too.\\\""
+  },
+  {
+    "id": 161,
+    "line": 855,
+    "target_en": "That last part was something I added on a whim."
+  },
+  {
+    "id": 162,
+    "line": 860,
+    "target_en": "I added it to connect Rika's story to the disappearance of Kimiyoshi."
+  },
+  {
+    "id": 163,
+    "line": 865,
+    "target_en": "I wanted to pressure her psychologically by doing so."
+  },
+  {
+    "id": 164,
+    "line": 871,
+    "target_en": "\\\"The head of the Kimiyoshi family had to pay for his crime."
+  },
+  {
+    "id": 165,
+    "line": 874,
+    "target_en": " That's why he disappeared.\\\""
+  },
+  {
+    "id": 166,
+    "line": 880,
+    "target_en": "\\\".....................\\\""
+  },
+  {
+    "id": 167,
+    "line": 886,
+    "target_en": "\\\"The head of the Furude family has to pay for her crime too, you know...\\\""
+  },
+  {
+    "id": 168,
+    "line": 891,
+    "target_en": "Rika was still on the floor, tears pouring down her cheeks."
+  },
+  {
+    "id": 169,
+    "line": 897,
+    "target_en": "\\\"Keiichi Maebara is the last one left."
+  },
+  {
+    "id": 170,
+    "line": 900,
+    "target_en": " I suppose the Furude family will take care of him.\\\""
+  },
+  {
+    "id": 171,
+    "line": 906,
+    "target_en": "\\\"...I..."
+  },
+  {
+    "id": 172,
+    "line": 911,
+    "target_en": " don't know anything...\\\""
+  },
+  {
+    "id": 173,
+    "line": 917,
+    "target_en": "\\\"You don't need to know anything, do you?"
+  },
+  {
+    "id": 174,
+    "line": 920,
+    "target_en": " You just have to look worried. That's all it takes."
+  },
+  {
+    "id": 175,
+    "line": 923,
+    "target_en": " That's how it is at our house too."
+  },
+  {
+    "id": 176,
+    "line": 926,
+    "target_en": " Anyway, good luck!\\\""
+  },
+  {
+    "id": 177,
+    "line": 932,
+    "target_en": "\\\"......I don't...\\\""
+  },
+  {
+    "id": 178,
+    "line": 937,
+    "target_en": "Rika hung her head."
+  },
+  {
+    "id": 179,
+    "line": 942,
+    "target_en": "She seemed to want to say something, but she was afraid that I might be rough with her again."
+  },
+  {
+    "id": 180,
+    "line": 948,
+    "target_en": "I doubted Rika Furude was actually at the top of the curse system, like the hag was."
+  },
+  {
+    "id": 181,
+    "line": 954,
+    "target_en": "However, as one of the three family heads, she was a lot closer to the underside of Hinamizawa than I was."
+  },
+  {
+    "id": 182,
+    "line": 959,
+    "target_en": "By now, that underside was well aware of Keiichi Maebara."
+  },
+  {
+    "id": 183,
+    "line": 965,
+    "target_en": "I told the elderly leaders of the village yesterday in the meeting that Keiichi Maebara was the last one remaining."
+  },
+  {
+    "id": 184,
+    "line": 970,
+    "target_en": "I just told the head of the Furude family the same thing,"
+  },
+  {
+    "id": 185,
+    "line": 972,
+    "target_en": " if threateningly."
+  },
+  {
+    "id": 186,
+    "line": 977,
+    "target_en": "If my threat was effective, the curse of Oyashiro-sama should very soon fall upon Keiichi Maebara."
+  },
+  {
+    "id": 187,
+    "line": 982,
+    "target_en": "And at just the right time, I would grab my enemy right as he took my bait."
+  },
+  {
+    "id": 188,
+    "line": 988,
+    "target_en": "If the assassin came from the Furude family,"
+  },
+  {
+    "id": 189,
+    "line": 993,
+    "target_en": " this girl would have committed the same sin as the hag."
+  },
+  {
+    "id": 190,
+    "line": 998,
+    "target_en": "When that time came, I wouldn't hold back."
+  },
+  {
+    "id": 191,
+    "line": 1003,
+    "target_en": "I was going to make sure she suffered, and then kill her."
+  },
+  {
+    "id": 192,
+    "line": 1008,
+    "target_en": "I've heard of a torture technique where you pound dozens of nails into a victim's fingers."
+  },
+  {
+    "id": 193,
+    "line": 1013,
+    "target_en": "I already found a restraining table and the tools for it."
+  },
+  {
+    "id": 194,
+    "line": 1018,
+    "target_en": "When the time comes, I'll pound nails into your fingers..."
+  },
+  {
+    "id": 195,
+    "line": 1024,
+    "target_en": "That gruesome anticipation radiated from my eyes and scared Rika even further."
+  },
+  {
+    "id": 196,
+    "line": 1046,
+    "target_en": "I wonder how Kimiyoshi is doing."
+  },
+  {
+    "id": 197,
+    "line": 1052,
+    "target_en": "I doubt he died from tiptoeing all night, but sometimes a human can go very easily."
+  },
+  {
+    "id": 198,
+    "line": 1058,
+    "target_en": "He already told me everything I wanted to hear, and he doesn't know anything else anyway."
+  },
+  {
+    "id": 199,
+    "line": 1063,
+    "target_en": "On top of that, he was responsible for spreading the infection that was the curse system of Oyashiro-sama."
+  },
+  {
+    "id": 200,
+    "line": 1068,
+    "target_en": "His sins are very heavy."
+  },
+  {
+    "id": 201,
+    "line": 1078,
+    "target_en": "I really liked"
+  },
+  {
+    "id": 202,
+    "line": 1083,
+    "target_en": " Uncle Kimiyoshi."
+  },
+  {
+    "id": 203,
+    "line": 1088,
+    "target_en": "He had always been kind."
+  },
+  {
+    "id": 204,
+    "line": 1094,
+    "target_en": "The hag was so tough on her relatives"
+  },
+  {
+    "id": 205,
+    "line": 1096,
+    "target_en": " and that's why he was extra nice to me."
+  },
+  {
+    "id": 206,
+    "line": 1104,
+    "target_en": "When we talked yesterday..."
+  },
+  {
+    "id": 207,
+    "line": 1109,
+    "target_en": "I was so happy to hear him say he would forgive Shion."
+  },
+  {
+    "id": 208,
+    "line": 1114,
+    "target_en": "He even said he would fight the hag to save her. That made me very happy."
+  },
+  {
+    "id": 209,
+    "line": 1119,
+    "target_en": "Don't worry."
+  },
+  {
+    "id": 210,
+    "line": 1121,
+    "target_en": " If Shion-chan feels bad about what she has done, she won't be demoned away."
+  },
+  {
+    "id": 211,
+    "line": 1123,
+    "target_en": " Leave it to me......"
+  },
+  {
+    "id": 212,
+    "line": 1129,
+    "target_en": "I felt such warmth inside of me."
+  },
+  {
+    "id": 213,
+    "line": 1131,
+    "target_en": " I almost... shivered."
+  },
+  {
+    "id": 214,
+    "line": 1133,
+    "target_en": " I was so happy...... yet so very sad."
+  },
+  {
+    "id": 215,
+    "line": 1138,
+    "target_en": "For he continued to say"
+  },
+  {
+    "id": 216,
+    "line": 1140,
+    "target_en": " that Satoshi-kun... deserved to die."
+  },
+  {
+    "id": 217,
+    "line": 1145,
+    "target_en": "He said those nice things because he wanted to make Mion happy, since she was worried about Shion."
+  },
+  {
+    "id": 218,
+    "line": 1151,
+    "target_en": "Satoshi-kun deserved to die because he was a member of the cursed Houjou family, but Shion-chan of the Sonozaki family did not."
+  },
+  {
+    "id": 219,
+    "line": 1153,
+    "target_en": " That's what he meant."
+  },
+  {
+    "id": 220,
+    "line": 1159,
+    "target_en": "In other words, to the leaders of the village, including Kimiyoshi, members of the Houjou family are more contemptible than insects."
+  },
+  {
+    "id": 221,
+    "line": 1164,
+    "target_en": "They didn't care if they lived or died."
+  },
+  {
+    "id": 222,
+    "line": 1170,
+    "target_en": "Their sin was not only that they despised the Houjou family so, but also that they let that hatred infect the rest of the village."
+  },
+  {
+    "id": 223,
+    "line": 1175,
+    "target_en": "Therefore, everyone in the village deserves to be a victim of the curse of Oyashiro-sama."
+  },
+  {
+    "id": 224,
+    "line": 1181,
+    "target_en": "Kimiyoshi and the others created an environment"
+  },
+  {
+    "id": 225,
+    "line": 1183,
+    "target_en": " that excused murder in that name."
+  },
+  {
+    "id": 226,
+    "line": 1191,
+    "target_en": "If that was so..."
+  },
+  {
+    "id": 227,
+    "line": 1200,
+    "target_en": "If Takano-san and Tomitake-san hadn't committed the serious crime of trespassing in the ritual storehouse, "
+  },
+  {
+    "id": 228,
+    "line": 1207,
+    "target_en": "then Satoko Houjou, the last survivor of the Houjou family, and Teppei Houjou, who has been hiding in Okinomiya, might have been the victims."
+  },
+  {
+    "id": 229,
+    "line": 1216,
+    "target_en": "Satoko Houjou."
+  },
+  {
+    "id": 230,
+    "line": 1221,
+    "target_en": "She was always around Satoshi-kun."
+  },
+  {
+    "id": 231,
+    "line": 1226,
+    "target_en": "She expected Satoshi-kun to help her every time she cried."
+  },
+  {
+    "id": 232,
+    "line": 1228,
+    "target_en": " ......She was one of the people who cornered him."
+  },
+  {
+    "id": 233,
+    "line": 1234,
+    "target_en": "If Satoko wasn't that much of a burden,"
+  },
+  {
+    "id": 234,
+    "line": 1236,
+    "target_en": " Satoshi-kun wouldn't have killed his aunt."
+  },
+  {
+    "id": 235,
+    "line": 1248,
+    "target_en": "Somebody told Satoshi-kun to commit that murder."
+  },
+  {
+    "id": 236,
+    "line": 1250,
+    "target_en": " And to hide the evidence of his connection to the mastermind, Satoshi-kun was demoned away."
+  },
+  {
+    "id": 237,
+    "line": 1252,
+    "target_en": " That's what Ooishi thought."
+  },
+  {
+    "id": 238,
+    "line": 1258,
+    "target_en": "If Satoshi-kun hadn't killed his aunt,"
+  },
+  {
+    "id": 239,
+    "line": 1260,
+    "target_en": " maybe he wouldn't have been chosen as last year's victim."
+  },
+  {
+    "id": 240,
+    "line": 1265,
+    "target_en": "Because the commands were vague, after all, the curse of Oyashiro-sama fell upon the Houjou family as a whole."
+  },
+  {
+    "id": 241,
+    "line": 1271,
+    "target_en": "It didn't matter which member of the family died."
+  },
+  {
+    "id": 242,
+    "line": 1278,
+    "target_en": "His aunt had a terrible reputation in the neighborhood."
+  },
+  {
+    "id": 243,
+    "line": 1283,
+    "target_en": "She didn't communicate with her neighbors, she was always throwing fits, and there was nothing nice about her in any way."
+  },
+  {
+    "id": 244,
+    "line": 1289,
+    "target_en": "Even if Satoshi-kun didn't kill her, the curse would have fallen upon her sooner or later."
+  },
+  {
+    "id": 245,
+    "line": 1294,
+    "target_en": "Their aunt was the first victim."
+  },
+  {
+    "id": 246,
+    "line": 1299,
+    "target_en": "There needed to be another Houjou to calm the curse."
+  },
+  {
+    "id": 247,
+    "line": 1305,
+    "target_en": "According to a rumor, their uncle was living somewhere in Okinomiya with his lover."
+  },
+  {
+    "id": 248,
+    "line": 1310,
+    "target_en": "However, Okinomiya was a little different from Hinamizawa."
+  },
+  {
+    "id": 249,
+    "line": 1316,
+    "target_en": "The Sonozaki family was powerful there as well, of course,"
+  },
+  {
+    "id": 250,
+    "line": 1318,
+    "target_en": " but it would have been more difficult in Okinomiya to demon someone away."
+  },
+  {
+    "id": 251,
+    "line": 1327,
+    "target_en": "So naturally, Satoshi-kun and Satoko, who were still in Hinamizawa, became the targets."
+  },
+  {
+    "id": 252,
+    "line": 1332,
+    "target_en": "Which one should be cursed?"
+  },
+  {
+    "id": 253,
+    "line": 1338,
+    "target_en": "That was simple."
+  },
+  {
+    "id": 254,
+    "line": 1343,
+    "target_en": "Satoko, of course. She was snobby and lacking in manners."
+  },
+  {
+    "id": 255,
+    "line": 1348,
+    "target_en": "Everyone in the neighborhood liked Satoshi-kun."
+  },
+  {
+    "id": 256,
+    "line": 1353,
+    "target_en": "Even if he was the son of the Houjou couple who betrayed the village during the dam conflict,"
+  },
+  {
+    "id": 257,
+    "line": 1355,
+    "target_en": " compared to Satoko, he didn't deserve to die."
+  },
+  {
+    "id": 258,
+    "line": 1360,
+    "target_en": "Therefore, the actual victims of last year's curse should have been"
+  },
+  {
+    "id": 259,
+    "line": 1365,
+    "target_en": " his aunt and Satoko."
+  },
+  {
+    "id": 260,
+    "line": 1383,
+    "target_en": "Satoshi-kun was suddenly all alone."
+  },
+  {
+    "id": 261,
+    "line": 1389,
+    "target_en": "His mean aunt and mean uncle were gone."
+  },
+  {
+    "id": 262,
+    "line": 1394,
+    "target_en": "His sister, who was a burden to him all his life, was gone too."
+  },
+  {
+    "id": 263,
+    "line": 1399,
+    "target_en": "Satoshi-kun was such a nice person. He would be sad, although he'd realize he was finally free."
+  },
+  {
+    "id": 264,
+    "line": 1404,
+    "target_en": "But time would heal him."
+  },
+  {
+    "id": 265,
+    "line": 1409,
+    "target_en": " I'd even help..."
+  },
+  {
+    "id": 266,
+    "line": 1415,
+    "target_en": "He didn't have to live in his house in Hinamizawa."
+  },
+  {
+    "id": 267,
+    "line": 1420,
+    "target_en": "There were plenty of empty rooms in the apartment block where I lived."
+  },
+  {
+    "id": 268,
+    "line": 1425,
+    "target_en": "I could find him a part-time job, too."
+  },
+  {
+    "id": 269,
+    "line": 1430,
+    "target_en": "He didn't need to go to school in Hinamizawa."
+  },
+  {
+    "id": 270,
+    "line": 1432,
+    "target_en": " He could go to school with me in Okinomiya instead."
+  },
+  {
+    "id": 271,
+    "line": 1437,
+    "target_en": "He wouldn't know his way around, or really anything about the school there."
+  },
+  {
+    "id": 272,
+    "line": 1443,
+    "target_en": "So I'd be with Satoshi-kun all the time."
+  },
+  {
+    "id": 273,
+    "line": 1445,
+    "target_en": " I'd show him a shortcut to school, we'd go shopping, and I'd teach him many different things."
+  },
+  {
+    "id": 274,
+    "line": 1450,
+    "target_en": "What an unbelievably happy ending."
+  },
+  {
+    "id": 275,
+    "line": 1455,
+    "target_en": "Satoshi-kun had been suffering so much, and I had been pushed away all my life,"
+  },
+  {
+    "id": 276,
+    "line": 1457,
+    "target_en": " but we would finally be happy."
+  },
+  {
+    "id": 277,
+    "line": 1463,
+    "target_en": "I enjoyed these sweet delusions, but I didn't have any more time to waste."
+  },
+  {
+    "id": 278,
+    "line": 1469,
+    "target_en": "I was sure there were plenty of old people who had been trying to get hold of Oryou all morning, and who were going to try to catch me after I got home from school."
+  },
+  {
+    "id": 279,
+    "line": 1474,
+    "target_en": "Actually, the phone had been ringing constantly while I enjoyed my happy thoughts."
+  },
+  {
+    "id": 280,
+    "line": 1481,
+    "target_en": "When I answered the phone, I casually listened and replied."
+  },
+  {
+    "id": 281,
+    "line": 1487,
+    "target_en": "As I planned, Keiichi Maebara is now known as the next curse victim within the underside of Hinamizawa."
+  },
+  {
+    "id": 282,
+    "line": 1492,
+    "target_en": "I also tried to let them know that the disappearance of the village chief..."
+  },
+  {
+    "id": 283,
+    "line": 1497,
+    "target_en": " had something to do with the fact that he changed the lock on the ritual storehouse's door."
+  },
+  {
+    "id": 284,
+    "line": 1502,
+    "target_en": "All the authorities in the underside came to realize the seriousness of trespassing in the storehouse. After all, one of the heads of the Three Families got punished."
+  },
+  {
+    "id": 285,
+    "line": 1507,
+    "target_en": "One of the phone calls was from Ooishi."
+  },
+  {
+    "id": 286,
+    "line": 1513,
+    "target_en": "He had also heard about Kimiyoshi's disappearance, and he knew it had something to do with the changing of the lock."
+  },
+  {
+    "id": 287,
+    "line": 1518,
+    "target_en": "...I'm impressed."
+  },
+  {
+    "id": 288,
+    "line": 1523,
+    "target_en": "He has some pretty good sources."
+  },
+  {
+    "id": 289,
+    "line": 1528,
+    "target_en": "But all he can do is catch whatever information he can get."
+  },
+  {
+    "id": 290,
+    "line": 1530,
+    "target_en": " There's no way for him to find out where it's coming from."
+  },
+  {
+    "id": 291,
+    "line": 1536,
+    "target_en": "I'd call Keiichi Maebara again later tonight."
+  },
+  {
+    "id": 292,
+    "line": 1542,
+    "target_en": "Some of the more aggressive villagers may have already started to take action around him."
+  },
+  {
+    "id": 293,
+    "line": 1547,
+    "target_en": "I'm sure that by now, Keiichi is feeling the danger that's coming toward him."
+  },
+  {
+    "id": 294,
+    "line": 1552,
+    "target_en": "I'd have to be careful that he doesn't get killed easily."
+  },
+  {
+    "id": 295,
+    "line": 1558,
+    "target_en": "If I can catch the enemy before they bit Keiichi, I can use him again as bait."
+  },
+  {
+    "id": 296,
+    "line": 1563,
+    "target_en": "Keiichi Maebara..."
+  },
+  {
+    "id": 297,
+    "line": 1568,
+    "target_en": "I haven't known him for that long."
+  },
+  {
+    "id": 298,
+    "line": 1574,
+    "target_en": "He's funny, if not intelligent."
+  },
+  {
+    "id": 299,
+    "line": 1579,
+    "target_en": "He'll never replace Satoshi-kun,"
+  },
+  {
+    "id": 300,
+    "line": 1581,
+    "target_en": " but I do think he's fun to be around."
+  },
+  {
+    "id": 301,
+    "line": 1586,
+    "target_en": "There's just one thing I don't like about him."
+  },
+  {
+    "id": 302,
+    "line": 1591,
+    "target_en": "He rubs my head far too often."
+  },
+  {
+    "id": 303,
+    "line": 1596,
+    "target_en": "His hand is as warm as Satoshi-kun's hand, which is why I can't stand it."
+  },
+  {
+    "id": 304,
+    "line": 1602,
+    "target_en": "But that's about it."
+  },
+  {
+    "id": 305,
+    "line": 1607,
+    "target_en": "Keiichi Maebara isn't Satoshi-kun's enemy. I don't hate him."
+  },
+  {
+    "id": 306,
+    "line": 1612,
+    "target_en": "He's fun to be around,"
+  },
+  {
+    "id": 307,
+    "line": 1614,
+    "target_en": " but I wouldn't shed a tear for him if he became a victim of the curse."
+  },
+  {
+    "id": 308,
+    "line": 1619,
+    "target_en": "I won't prevent Keiichi Maebara from being killed, but I won't kill him myself either."
+  },
+  {
+    "id": 309,
+    "line": 1624,
+    "target_en": "I'd made arrangements for the curse to fall upon him, but I never told anyone to kill him."
+  },
+  {
+    "id": 310,
+    "line": 1629,
+    "target_en": "Well... I suppose I did tell Rika Furude to take care of Keiichi Maebara..."
+  },
+  {
+    "id": 311,
+    "line": 1635,
+    "target_en": "Wait a minute..."
+  },
+  {
+    "id": 312,
+    "line": 1640,
+    "target_en": "To avenge Satoshi-kun"
+  },
+  {
+    "id": 313,
+    "line": 1642,
+    "target_en": " I'm doing exactly the same thing as the hag did."
+  },
+  {
+    "id": 314,
+    "line": 1644,
+    "target_en": " I'm using the exact same system that killed Satoshi-kun."
+  },
+  {
+    "id": 315,
+    "line": 1649,
+    "target_en": "Keiichi Maebara..."
+  },
+  {
+    "id": 316,
+    "line": 1655,
+    "target_en": "I'm just using him."
+  },
+  {
+    "id": 317,
+    "line": 1660,
+    "target_en": "I told people to let the curse fall upon Keiichi, but I've been giving him appropriate warnings."
+  },
+  {
+    "id": 318,
+    "line": 1665,
+    "target_en": "I'm going to help him if he tries to live."
+  },
+  {
+    "id": 319,
+    "line": 1671,
+    "target_en": "If"
+  },
+  {
+    "id": 320,
+    "line": 1676,
+    "target_en": " I catch all of my enemies..."
+  },
+  {
+    "id": 321,
+    "line": 1678,
+    "target_en": " Maybe I'll let him loose..."
+  },
+  {
+    "id": 322,
+    "line": 1683,
+    "target_en": "He's different from Satoshi-kun. Satoshi-kun was tricked into killing his aunt, and was killed himself afterwards so there wouldn't be any evidence remaining."
+  },
+  {
+    "id": 323,
+    "line": 1689,
+    "target_en": "I won't kill Keiichi Maebara."
+  },
+  {
+    "id": 324,
+    "line": 1694,
+    "target_en": "That's how I'm different from the hag."
+  },
+  {
+    "id": 325,
+    "line": 1708,
+    "target_en": "Evening was turning to night."
+  },
+  {
+    "id": 326,
+    "line": 1713,
+    "target_en": "I had to get dinner ready."
+  },
+  {
+    "id": 327,
+    "line": 1715,
+    "target_en": " I had to eat so I'd have enough strength to take revenge."
+  },
+  {
+    "id": 328,
+    "line": 1721,
+    "target_en": "This place was far from the town. It would even get isolated during winter because of the snow."
+  },
+  {
+    "id": 329,
+    "line": 1726,
+    "target_en": "It's not unusual for a household like this to have two or three refrigerators."
+  },
+  {
+    "id": 330,
+    "line": 1731,
+    "target_en": "There were plenty of groceries left in them."
+  },
+  {
+    "id": 331,
+    "line": 1733,
+    "target_en": " I was glad I didn't have to go grocery shopping."
+  },
+  {
+    "id": 332,
+    "line": 1738,
+    "target_en": "I could hear the chorus of the higurashi."
+  },
+  {
+    "id": 333,
+    "line": 1743,
+    "target_en": "People often say that the sound of the higurashi brings back memories."
+  },
+  {
+    "id": 334,
+    "line": 1745,
+    "target_en": " But for me, it's the exact opposite..."
+  },
+  {
+    "id": 335,
+    "line": 1750,
+    "target_en": "I've only ever heard the sound of the higurashi in Hinamizawa."
+  },
+  {
+    "id": 336,
+    "line": 1756,
+    "target_en": "Therefore, the sound of the higurashi, to me, is Hinamizawa."
+  },
+  {
+    "id": 337,
+    "line": 1758,
+    "target_en": " The sound reminded me that I wasn't supposed be here... That I couldn't be here..."
+  },
+  {
+    "id": 338,
+    "line": 1764,
+    "target_en": "That was when I heard the doorbell."
+  },
+  {
+    "id": 339,
+    "line": 1769,
+    "target_en": "Because there was a good distance between the house and the gate, there was both a doorbell and an intercom by the latter."
+  },
+  {
+    "id": 340,
+    "line": 1774,
+    "target_en": "It had a security camera too."
+  },
+  {
+    "id": 341,
+    "line": 1780,
+    "target_en": "Something as modern as a security camera monitor in this old-fashioned kitchen looked rather strange."
+  },
+  {
+    "id": 342,
+    "line": 1786,
+    "target_en": "I turned the switch, but nothing appeared on the monitor."
+  },
+  {
+    "id": 343,
+    "line": 1793,
+    "target_en": "I tried to check the plug, but there were a bunch of cords going behind the refrigerator, so I couldn't even do that."
+  },
+  {
+    "id": 344,
+    "line": 1799,
+    "target_en": "The doorbell continued to ring while I tried to figure out if the monitor was broken or if I just didn't know how to turn it on."
+  },
+  {
+    "id": 345,
+    "line": 1804,
+    "target_en": "I only felt like answering the door depending on who it was."
+  },
+  {
+    "id": 346,
+    "line": 1809,
+    "target_en": "It'd normally be easier to pretend to be out..."
+  },
+  {
+    "id": 347,
+    "line": 1814,
+    "target_en": " but that wouldn't help me."
+  },
+  {
+    "id": 348,
+    "line": 1820,
+    "target_en": "I was waiting for my enemies to show up."
+  },
+  {
+    "id": 349,
+    "line": 1825,
+    "target_en": "I couldn't just hide myself, in that case."
+  },
+  {
+    "id": 350,
+    "line": 1830,
+    "target_en": "The hag was supposed to be sick and in an extremely bad mood."
+  },
+  {
+    "id": 351,
+    "line": 1835,
+    "target_en": "I'd already sent word out that she didn't want to see anyone."
+  },
+  {
+    "id": 352,
+    "line": 1841,
+    "target_en": "So who could it be?"
+  },
+  {
+    "id": 353,
+    "line": 1846,
+    "target_en": "I made up my mind and turned the intercom on."
+  },
+  {
+    "id": 354,
+    "line": 1851,
+    "target_en": "If it was someone unwanted, I could just turn whoever it was away."
+  },
+  {
+    "id": 355,
+    "line": 1856,
+    "target_en": "But I had to act normally so I wouldn't arouse suspicion."
+  },
+  {
+    "id": 356,
+    "line": 1858,
+    "target_en": " I had to act normally..."
+  },
+  {
+    "id": 357,
+    "line": 1866,
+    "target_en": "\\\"Yes?"
+  },
+  {
+    "id": 358,
+    "line": 1869,
+    "target_en": " Who is it?\\\""
+  },
+  {
+    "id": 359,
+    "line": 1875,
+    "target_en": "\\\"Hello.\\\""
+  },
+  {
+    "id": 360,
+    "line": 1880,
+    "target_en": "She didn't tell me her name, but I recognized her voice."
+  },
+  {
+    "id": 361,
+    "line": 1887,
+    "target_en": "\\\"Rika-chan..."
+  },
+  {
+    "id": 362,
+    "line": 1890,
+    "target_en": " What are you doing here"
+  },
+  {
+    "id": 363,
+    "line": 1893,
+    "target_en": " at this time of day?\\\""
+  },
+  {
+    "id": 364,
+    "line": 1899,
+    "target_en": "\\\"......I ran out of soy sauce, so could you share some with me?\\\""
+  },
+  {
+    "id": 365,
+    "line": 1904,
+    "target_en": "Soy sauce??"
+  },
+  {
+    "id": 366,
+    "line": 1906,
+    "target_en": " I almost screamed, but I controlled myself. I took a moment to think about the situation."
+  },
+  {
+    "id": 367,
+    "line": 1912,
+    "target_en": "Hinamizawa was far from most stores, so sometimes neighbors would share seasoning and stuff with each other."
+  },
+  {
+    "id": 368,
+    "line": 1917,
+    "target_en": "The village sometimes got snowed in during winter."
+  },
+  {
+    "id": 369,
+    "line": 1922,
+    "target_en": "But the Furude Shrine was quite far from this house."
+  },
+  {
+    "id": 370,
+    "line": 1927,
+    "target_en": "It was rather odd for her to come all the way here on her bicycle just to get some soy sauce."
+  },
+  {
+    "id": 371,
+    "line": 1933,
+    "target_en": "Maybe she was using it as an excuse"
+  },
+  {
+    "id": 372,
+    "line": 1938,
+    "target_en": "..."
+  },
+  {
+    "id": 373,
+    "line": 1943,
+    "target_en": " maybe there was something she wanted to talk to me about."
+  },
+  {
+    "id": 374,
+    "line": 1948,
+    "target_en": "That was when I noticed a piece of paper that was on the refrigerator door next to the intercom."
+  },
+  {
+    "id": 375,
+    "line": 1954,
+    "target_en": "\\\"We still have plenty of homemade soy sauce in stock. Feel free to come to the Sonozaki house if you want some.\\\""
+  },
+  {
+    "id": 376,
+    "line": 1959,
+    "target_en": "The hag must have given that flyer to everyone."
+  },
+  {
+    "id": 377,
+    "line": 1965,
+    "target_en": "One of our relatives sent her a barrel of soy sauce."
+  },
+  {
+    "id": 378,
+    "line": 1967,
+    "target_en": " If you want some, bring a container... That's what the flyer said."
+  },
+  {
+    "id": 379,
+    "line": 1972,
+    "target_en": "I see, this would explain it."
+  },
+  {
+    "id": 380,
+    "line": 1977,
+    "target_en": "There was a handwritten note on the bottom of the flyer."
+  },
+  {
+    "id": 381,
+    "line": 1983,
+    "target_en": "\\\"The soy sauce is in the storage area under the floor."
+  },
+  {
+    "id": 382,
+    "line": 1985,
+    "target_en": " Give them as much as they want.\\\""
+  },
+  {
+    "id": 383,
+    "line": 1990,
+    "target_en": "There was a storage area beneath the floor."
+  },
+  {
+    "id": 384,
+    "line": 1995,
+    "target_en": "When I opened it, I saw a barrel of soy sauce, alongside a funnel and a ladle."
+  },
+  {
+    "id": 385,
+    "line": 2000,
+    "target_en": "I didn't want Rika to notice anything suspicious at this point."
+  },
+  {
+    "id": 386,
+    "line": 2005,
+    "target_en": "I decided to share the soy sauce with her."
+  },
+  {
+    "id": 387,
+    "line": 2012,
+    "target_en": "\\\"Sure."
+  },
+  {
+    "id": 388,
+    "line": 2015,
+    "target_en": " Did you bring a container?\\\""
+  },
+  {
+    "id": 389,
+    "line": 2021,
+    "target_en": "\\\"I brought a soy sauce bottle.\\\""
+  },
+  {
+    "id": 390,
+    "line": 2027,
+    "target_en": "\\\"Okay."
+  },
+  {
+    "id": 391,
+    "line": 2030,
+    "target_en": " Come on in."
+  },
+  {
+    "id": 392,
+    "line": 2033,
+    "target_en": " I'll be at the front door.\\\""
+  },
+  {
+    "id": 393,
+    "line": 2039,
+    "target_en": "As I headed there, I heard the doorbell ring again."
+  },
+  {
+    "id": 394,
+    "line": 2045,
+    "target_en": "\\\"Mii, the gate is locked from the inside. I can't open it.\\\""
+  },
+  {
+    "id": 395,
+    "line": 2051,
+    "target_en": "\\\"Ah, that's right."
+  },
+  {
+    "id": 396,
+    "line": 2054,
+    "target_en": " Sorry."
+  },
+  {
+    "id": 397,
+    "line": 2057,
+    "target_en": " I'll be right there, just hang on.\\\""
+  },
+  {
+    "id": 398,
+    "line": 2063,
+    "target_en": "People didn't pay much attention to safety around here in Hinamizawa. People didn't think too much about locking the doors."
+  },
+  {
+    "id": 399,
+    "line": 2068,
+    "target_en": "But as someone who's lived in a town, I've always locked everything."
+  },
+  {
+    "id": 400,
+    "line": 2074,
+    "target_en": "To let Rika Furude in, I'd have to go outside."
+  }
+]

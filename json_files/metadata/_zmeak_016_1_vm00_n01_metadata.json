@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "line": 9,
+    "target_en": "\\\"I'm taking my moped, so you don't have to.\\\""
+  },
+  {
+    "id": 2,
+    "line": 18,
+    "target_en": "\\\"That won't do."
+  },
+  {
+    "id": 3,
+    "line": 21,
+    "target_en": " Aren't you going to the family party afterwards?"
+  },
+  {
+    "id": 4,
+    "line": 24,
+    "target_en": " I can't let you drive under the influence.\\\""
+  },
+  {
+    "id": 5,
+    "line": 29,
+    "target_en": "He won't let me drive,"
+  },
+  {
+    "id": 6,
+    "line": 31,
+    "target_en": " but he's kind enough to let me drink."
+  }
+]

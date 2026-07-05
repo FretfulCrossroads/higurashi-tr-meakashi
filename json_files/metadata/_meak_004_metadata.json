@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "line": 20,
+    "target_en": "It's a very quiet afternoon, as always."
+  },
+  {
+    "id": 2,
+    "line": 25,
+    "target_en": "Since I can't go outside as myself, I have to match schedules with Mion when I go shopping."
+  },
+  {
+    "id": 3,
+    "line": 30,
+    "target_en": "(I've gotten used to it by now, so it's no longer a hassle.)"
+  },
+  {
+    "id": 4,
+    "line": 36,
+    "target_en": "Because of this, I naturally have to buy things in bulk."
+  },
+  {
+    "id": 5,
+    "line": 41,
+    "target_en": "Today, I shuttled between shops and my home."
+  },
+  {
+    "id": 6,
+    "line": 47,
+    "target_en": "\\\"Ehh... I got this, I got that..."
+  },
+  {
+    "id": 7,
+    "line": 50,
+    "target_en": " Oh, wait!"
+  },
+  {
+    "id": 8,
+    "line": 53,
+    "target_en": " Isn't it a 100-yen sale day today?"
+  },
+  {
+    "id": 9,
+    "line": 56,
+    "target_en": " I forgot this.\\\""
+  },
+  {
+    "id": 10,
+    "line": 61,
+    "target_en": "Being in a good mood, I spun around with my arms spread out."
+  },
+  {
+    "id": 11,
+    "line": 63,
+    "target_en": " I felt like a little whirlwind."
+  },
+  {
+    "id": 12,
+    "line": 73,
+    "target_en": "My arm hit a motorcycle parked on the sidewalk. It obviously wasn't where it was supposed to be."
+  },
+  {
+    "id": 13,
+    "line": 83,
+    "target_en": "\\\"...Ow!!"
+  },
+  {
+    "id": 14,
+    "line": 86,
+    "target_en": " What the...?"
+  },
+  {
+    "id": 15,
+    "line": 89,
+    "target_en": " Who parked this motorcycle here?\\\""
+  },
+  {
+    "id": 16,
+    "line": 95,
+    "target_en": "I gave it a kick with no hesitation."
+  },
+  {
+    "id": 17,
+    "line": 100,
+    "target_en": "There were three motorcycles lined up there in a row."
+  },
+  {
+    "id": 18,
+    "line": 114,
+    "target_en": "They all fell like dominoes."
+  },
+  {
+    "id": 19,
+    "line": 119,
+    "target_en": "It was a beautiful sight. This is fun, I thought."
+  },
+  {
+    "id": 20,
+    "line": 124,
+    "target_en": "Being in such a good mood made me leave my guard down."
+  },
+  {
+    "id": 21,
+    "line": 130,
+    "target_en": "I didn't realize that the owners of the motorcycles were right nearby. They looked pretty scary."
+  },
+  {
+    "id": 22,
+    "line": 140,
+    "target_en": "They grabbed me by the neck and dragged me into a dark alley."
+  },
+  {
+    "id": 23,
+    "line": 146,
+    "target_en": "Then they called me all kinds of names..."
+  },
+  {
+    "id": 24,
+    "line": 151,
+    "target_en": "Everything was happening too quickly for me to grasp what was going on..."
+  },
+  {
+    "id": 25,
+    "line": 161,
+    "target_en": "\\\"Dafuq're ye, bitch?!!"
+  },
+  {
+    "id": 26,
+    "line": 164,
+    "target_en": " Whatcha think yer doin'?! Huhh?!\\\""
+  },
+  {
+    "id": 27,
+    "line": 170,
+    "target_en": "\\\"Fookin' bash yer head in, bitch!!\\\""
+  },
+  {
+    "id": 28,
+    "line": 176,
+    "target_en": "\\\"Grrraaaah!!"
+  },
+  {
+    "id": 29,
+    "line": 179,
+    "target_en": " Gonna pay fer whatcha did!\\\""
+  },
+  {
+    "id": 30,
+    "line": 184,
+    "target_en": "...Whoa."
+  },
+  {
+    "id": 31,
+    "line": 186,
+    "target_en": " They can't really talk properly."
+  },
+  {
+    "id": 32,
+    "line": 191,
+    "target_en": "I didn't have a clue what they were saying."
+  },
+  {
+    "id": 33,
+    "line": 196,
+    "target_en": "I had to translate their alien tongue into normal human words in order to understand."
+  },
+  {
+    "id": 34,
+    "line": 202,
+    "target_en": "'We are very upset because you knocked down our motorcycles.'"
+  },
+  {
+    "id": 35,
+    "line": 207,
+    "target_en": "'You should immediately pay for the repair and compensation.'"
+  },
+  {
+    "id": 36,
+    "line": 209,
+    "target_en": " ...Yeah, that was probably it."
+  },
+  {
+    "id": 37,
+    "line": 215,
+    "target_en": "'That's our offer. What do you say?'"
+  },
+  {
+    "id": 38,
+    "line": 220,
+    "target_en": "'We'd be happy to listen to your opinion...'"
+  },
+  {
+    "id": 39,
+    "line": 222,
+    "target_en": " Something like that?"
+  },
+  {
+    "id": 40,
+    "line": 229,
+    "target_en": "\\\"HuuUUh!!"
+  },
+  {
+    "id": 41,
+    "line": 232,
+    "target_en": " Whatendaummm?!!\\\""
+  },
+  {
+    "id": 42,
+    "line": 238,
+    "target_en": "\\\"Ah, sorry."
+  },
+  {
+    "id": 43,
+    "line": 241,
+    "target_en": " I don't think I can continue interpreting.\\\""
+  },
+  {
+    "id": 44,
+    "line": 247,
+    "target_en": "\\\"Ahh?!"
+  },
+  {
+    "id": 45,
+    "line": 250,
+    "target_en": " Whacha sayin'?!!!\\\""
+  },
+  {
+    "id": 46,
+    "line": 256,
+    "target_en": "I know what they're trying to say."
+  },
+  {
+    "id": 47,
+    "line": 262,
+    "target_en": "But somebody has to warn them"
+  },
+  {
+    "id": 48,
+    "line": 264,
+    "target_en": " about the way they park their motorcycles."
+  },
+  {
+    "id": 49,
+    "line": 269,
+    "target_en": "It wouldn't be fair to those who obey the rules if there were no punishment for those who disobey them."
+  },
+  {
+    "id": 50,
+    "line": 271,
+    "target_en": " This is an accident, but it must also be God's will."
+  },
+  {
+    "id": 51,
+    "line": 276,
+    "target_en": "But, God..."
+  },
+  {
+    "id": 52,
+    "line": 278,
+    "target_en": " you can use me to punish these guys, but how will you compensate me later...?"
+  },
+  {
+    "id": 53,
+    "line": 284,
+    "target_en": "I heaved a huge sigh."
+  },
+  {
+    "id": 54,
+    "line": 290,
+    "target_en": "...Of course,"
+  },
+  {
+    "id": 55,
+    "line": 292,
+    "target_en": " I wasn't afraid in this situation at all."
+  },
+  {
+    "id": 56,
+    "line": 297,
+    "target_en": "Because... it wasn't a dangerous one for me."
+  },
+  {
+    "id": 57,
+    "line": 302,
+    "target_en": "These three guys were yelling at the top of their lungs at a girl. They didn't look good doing it, and they had too many disadvantages."
+  },
+  {
+    "id": 58,
+    "line": 308,
+    "target_en": "First, there was the differences in gender and in the number of people."
+  },
+  {
+    "id": 59,
+    "line": 313,
+    "target_en": "Even if I did something wrong, as men shouting at a woman, it didn't make them look like they were in the right."
+  },
+  {
+    "id": 60,
+    "line": 318,
+    "target_en": "Added to that, there were three of them; it already looked like it was going to get violent."
+  },
+  {
+    "id": 61,
+    "line": 323,
+    "target_en": "Second, the location. Taking a girl into a dark, narrow alleyway is already a bad idea, and top of that they're asking for money, not just an apology."
+  },
+  {
+    "id": 62,
+    "line": 329,
+    "target_en": "Thanks to these facts, the public will be on my side..."
+  },
+  {
+    "id": 63,
+    "line": 331,
+    "target_en": " so this was a fight they couldn't possibly win."
+  },
+  {
+    "id": 64,
+    "line": 336,
+    "target_en": "The only way for them to win would be to take my money before somebody finds out."
+  },
+  {
+    "id": 65,
+    "line": 342,
+    "target_en": "...Considering that, taking me to this narrow, secluded alleyway might've been a smart move, since fewer people will find out about this situation."
+  },
+  {
+    "id": 66,
+    "line": 352,
+    "target_en": "\\\"Huuuh!!"
+  },
+  {
+    "id": 67,
+    "line": 355,
+    "target_en": " Ye list'nin or not?!\\\""
+  },
+  {
+    "id": 68,
+    "line": 360,
+    "target_en": "I knew how slim their chances of winning were."
+  },
+  {
+    "id": 69,
+    "line": 365,
+    "target_en": "From the very beginning, they had picked the wrong girl."
+  },
+  {
+    "id": 70,
+    "line": 371,
+    "target_en": "I'm 'Mion Sonozaki' now."
+  },
+  {
+    "id": 71,
+    "line": 377,
+    "target_en": "It'd be foolish to mug her in Okinomiya."
+  },
+  {
+    "id": 72,
+    "line": 382,
+    "target_en": "Soon enough, the people of Hinamizawa would notice me and gather 'round."
+  },
+  {
+    "id": 73,
+    "line": 387,
+    "target_en": "They don't spare mercy for their enemies, no matter what."
+  },
+  {
+    "id": 74,
+    "line": 392,
+    "target_en": "The punks didn't know this area well."
+  },
+  {
+    "id": 75,
+    "line": 397,
+    "target_en": "If they did, they'd have known how silly it was to rob 'Mion.'"
+  },
+  {
+    "id": 76,
+    "line": 402,
+    "target_en": "Plus, the alleyway isn't always as empty as they assumed."
+  },
+  {
+    "id": 77,
+    "line": 408,
+    "target_en": "This side street is a shortcut which local people frequently use on their way home."
+  },
+  {
+    "id": 78,
+    "line": 414,
+    "target_en": "In the late afternoon, many people will be passing through here."
+  },
+  {
+    "id": 79,
+    "line": 419,
+    "target_en": "That time had almost arrived."
+  },
+  {
+    "id": 80,
+    "line": 424,
+    "target_en": "If I held off a little longer, the street would soon be filled with people."
+  },
+  {
+    "id": 81,
+    "line": 426,
+    "target_en": " Then the punks would have to go away."
+  },
+  {
+    "id": 82,
+    "line": 432,
+    "target_en": "I didn't have to do anything."
+  },
+  {
+    "id": 83,
+    "line": 437,
+    "target_en": "I just had to wait in order to win."
+  },
+  {
+    "id": 84,
+    "line": 442,
+    "target_en": "This was a simple fight like that."
+  },
+  {
+    "id": 85,
+    "line": 449,
+    "target_en": "While they could hurl abusive language at me, or lift me up by my collar, they weren't actually going to resort to violence."
+  },
+  {
+    "id": 86,
+    "line": 454,
+    "target_en": "Cheers to the educational system for ingraining the \\\"ladies first\\\" mindset!"
+  },
+  {
+    "id": 87,
+    "line": 460,
+    "target_en": "...But, as a wicked person, I wanted to toy with them a bit, even though I could win this by waiting."
+  },
+  {
+    "id": 88,
+    "line": 465,
+    "target_en": "I wanted to paint them as even more villainous, and drive them into a corner that would be even harder to talk their way out of."
+  },
+  {
+    "id": 89,
+    "line": 467,
+    "target_en": " ...That demonic desire was rearing its horns."
+  },
+  {
+    "id": 90,
+    "line": 473,
+    "target_en": "To put it plainly, I'd only need to act as the poor, helpless victim a little further."
+  },
+  {
+    "id": 91,
+    "line": 478,
+    "target_en": "Like the pathetic, pitiful, tragic heroine everyone wants to sympathize with."
+  },
+  {
+    "id": 92,
+    "line": 484,
+    "target_en": "...In a case like this, I shouldn't start crying immediately, because they'd get nervous and draw back."
+  },
+  {
+    "id": 93,
+    "line": 489,
+    "target_en": "If it were a truly threatening situation, that would work, but I needed something different here."
+  },
+  {
+    "id": 94,
+    "line": 494,
+    "target_en": "I'd pretend to be strong at first. In fact, I thought, why don't I challenge them?"
+  },
+  {
+    "id": 95,
+    "line": 499,
+    "target_en": "...And eventually, I'd start trembling, my voice would fade, and I'd get tears in my eyes..."
+  },
+  {
+    "id": 96,
+    "line": 504,
+    "target_en": "......It'd be even better if I played the role of a strong girl who's slowly giving into fear."
+  },
+  {
+    "id": 97,
+    "line": 509,
+    "target_en": "......Mion and I are probably the only ones who are capable of pulling that kind of stuff off..."
+  },
+  {
+    "id": 98,
+    "line": 511,
+    "target_en": " Well, I'm probably better than her."
+  },
+  {
+    "id": 99,
+    "line": 517,
+    "target_en": "\\\"...Wh-Why don't you let me go now?!"
+  },
+  {
+    "id": 100,
+    "line": 520,
+    "target_en": " I... already apologized...\\\""
+  },
+  {
+    "id": 101,
+    "line": 525,
+    "target_en": "I talked back with a little hesitation..."
+  },
+  {
+    "id": 102,
+    "line": 530,
+    "target_en": "Am I getting tears yet...?"
+  },
+  {
+    "id": 103,
+    "line": 532,
+    "target_en": " Yes!"
+  },
+  {
+    "id": 104,
+    "line": 537,
+    "target_en": "By the way, I've heard men can't shed tears on command..."
+  },
+  {
+    "id": 105,
+    "line": 539,
+    "target_en": " I feel sorry for them."
+  },
+  {
+    "id": 106,
+    "line": 544,
+    "target_en": "The three punks faltered a bit due to my sudden change in attitude, but they soon started yelling at me again."
+  },
+  {
+    "id": 107,
+    "line": 550,
+    "target_en": "I had to keep it going."
+  },
+  {
+    "id": 108,
+    "line": 555,
+    "target_en": "That way they'd blatantly look like they're picking on a helpless girl..."
+  },
+  {
+    "id": 109,
+    "line": 561,
+    "target_en": "\\\"...Please..."
+  },
+  {
+    "id": 110,
+    "line": 566,
+    "target_en": " ...forgive me..."
+  },
+  {
+    "id": 111,
+    "line": 569,
+    "target_en": " hic..."
+  },
+  {
+    "id": 112,
+    "line": 574,
+    "target_en": " ...hic..."
+  },
+  {
+    "id": 113,
+    "line": 577,
+    "target_en": " ooh...!\\\""
+  },
+  {
+    "id": 114,
+    "line": 583,
+    "target_en": "\\\"Wh-Whacha doin?!"
+  },
+  {
+    "id": 115,
+    "line": 586,
+    "target_en": " Wh-What's wid dis girl, huuh?!\\\""
+  },
+  {
+    "id": 116,
+    "line": 592,
+    "target_en": "\\\"...I... don't... hic... huff... ooohh...\\\""
+  },
+  {
+    "id": 117,
+    "line": 598,
+    "target_en": "\\\"...Mebbe... ye shoulda 'pologized like dat from da start...\\\""
+  },
+  {
+    "id": 118,
+    "line": 603,
+    "target_en": "It looked like they were laying off a bit..."
+  },
+  {
+    "id": 119,
+    "line": 605,
+    "target_en": " Did I overdo it a little?"
+  },
+  {
+    "id": 120,
+    "line": 610,
+    "target_en": "It'd be boring if they let me go now..."
+  },
+  {
+    "id": 121,
+    "line": 616,
+    "target_en": "...At that moment--"
+  },
+  {
+    "id": 122,
+    "line": 627,
+    "target_en": "\\\"Cu... Cut it out...!"
+  },
+  {
+    "id": 123,
+    "line": 630,
+    "target_en": " Don't you see her crying?! Stop it...!!\\\""
+  },
+  {
+    "id": 124,
+    "line": 635,
+    "target_en": "A boy around my age appeared."
+  },
+  {
+    "id": 125,
+    "line": 644,
+    "target_en": "He was skinny."
+  },
+  {
+    "id": 126,
+    "line": 649,
+    "target_en": "He looked weak."
+  },
+  {
+    "id": 127,
+    "line": 654,
+    "target_en": "He looked younger than he probably was."
+  },
+  {
+    "id": 128,
+    "line": 660,
+    "target_en": "He also looked smart. He bravely glared at the punks."
+  },
+  {
+    "id": 129,
+    "line": 666,
+    "target_en": "\\\"What da hell...?!"
+  },
+  {
+    "id": 130,
+    "line": 669,
+    "target_en": " Who dafuq are ye?!!\\\""
+  },
+  {
+    "id": 131,
+    "line": 675,
+    "target_en": "\\\"Back dafuq off, rraaaghhhh!!!\\\""
+  },
+  {
+    "id": 132,
+    "line": 681,
+    "target_en": "The punks turned away from me to face the boy instead."
+  },
+  {
+    "id": 133,
+    "line": 687,
+    "target_en": "The boy looked a bit agitated when the punks started yelling at him."
+  },
+  {
+    "id": 134,
+    "line": 692,
+    "target_en": "They sure were ruthless."
+  },
+  {
+    "id": 135,
+    "line": 697,
+    "target_en": "...But the boy must have known that from the beginning."
+  },
+  {
+    "id": 136,
+    "line": 702,
+    "target_en": "He must have known that he was going into a dangerous situation,"
+  },
+  {
+    "id": 137,
+    "line": 707,
+    "target_en": " yet he didn't hesitate."
+  },
+  {
+    "id": 138,
+    "line": 716,
+    "target_en": "\\\"Fookin' say sumtin'!!"
+  },
+  {
+    "id": 139,
+    "line": 719,
+    "target_en": " Why don'tcha answer us?!!\\\""
+  },
+  {
+    "id": 140,
+    "line": 725,
+    "target_en": "\\\".....................\\\""
+  },
+  {
+    "id": 141,
+    "line": 730,
+    "target_en": "He must have wanted to shout back at them."
+  },
+  {
+    "id": 142,
+    "line": 735,
+    "target_en": "...But he'd probably never used that kind of language in his life."
+  },
+  {
+    "id": 143,
+    "line": 740,
+    "target_en": "So he couldn't have expressed his feelings out loud."
+  },
+  {
+    "id": 144,
+    "line": 745,
+    "target_en": "He might have not even known what to say."
+  },
+  {
+    "id": 145,
+    "line": 750,
+    "target_en": "So he just kept on glaring at them."
+  },
+  {
+    "id": 146,
+    "line": 755,
+    "target_en": "To let them know that he wasn't going anywhere."
+  },
+  {
+    "id": 147,
+    "line": 761,
+    "target_en": "The three punks, though, might have thought he was just lost for words in his fear."
+  },
+  {
+    "id": 148,
+    "line": 766,
+    "target_en": "But I knew different."
+  },
+  {
+    "id": 149,
+    "line": 771,
+    "target_en": "...The boy was overpowering them with nothing but his will."
+  },
+  {
+    "id": 150,
+    "line": 777,
+    "target_en": "...The punks were losing."
+  },
+  {
+    "id": 151,
+    "line": 782,
+    "target_en": "So, they resorted to violence."
+  },
+  {
+    "id": 152,
+    "line": 805,
+    "target_en": "They grabbed him and knocked him down. They hit, kicked, and tossed him around."
+  },
+  {
+    "id": 153,
+    "line": 815,
+    "target_en": "...It looked painful, but I knew."
+  },
+  {
+    "id": 154,
+    "line": 821,
+    "target_en": "It was his victory."
+  },
+  {
+    "id": 155,
+    "line": 834,
+    "target_en": "In the end, local passersby stopped the punks."
+  },
+  {
+    "id": 156,
+    "line": 839,
+    "target_en": "They made no further fuss and just went away."
+  },
+  {
+    "id": 157,
+    "line": 844,
+    "target_en": "...The boy stood up. He was covered in dust."
+  },
+  {
+    "id": 158,
+    "line": 851,
+    "target_en": "He smiled when our eyes met,"
+  },
+  {
+    "id": 159,
+    "line": 853,
+    "target_en": " and asked me if I was all right."
+  },
+  {
+    "id": 160,
+    "line": 858,
+    "target_en": "...He didn't look particularly okay himself, though."
+  },
+  {
+    "id": 161,
+    "line": 866,
+    "target_en": "\\\"...How could you step into a fight you obviously couldn't win?"
+  },
+  {
+    "id": 162,
+    "line": 869,
+    "target_en": " Pick your opponents better next time.\\\""
+  },
+  {
+    "id": 163,
+    "line": 877,
+    "target_en": "\\\"...I hesitated at first."
+  },
+  {
+    "id": 164,
+    "line": 880,
+    "target_en": " Ahahahaha...\\\""
+  },
+  {
+    "id": 165,
+    "line": 885,
+    "target_en": "He laughed..."
+  },
+  {
+    "id": 166,
+    "line": 887,
+    "target_en": " Saying that he was watching"
+  },
+  {
+    "id": 167,
+    "line": 889,
+    "target_en": " from the beginning."
+  },
+  {
+    "id": 168,
+    "line": 895,
+    "target_en": "...That meant"
+  },
+  {
+    "id": 169,
+    "line": 897,
+    "target_en": " he had the option to walk away."
+  },
+  {
+    "id": 170,
+    "line": 903,
+    "target_en": "...But instead, he worked up the courage, and stepped in."
+  },
+  {
+    "id": 171,
+    "line": 909,
+    "target_en": "\\\"That was reckless,"
+  },
+  {
+    "id": 172,
+    "line": 912,
+    "target_en": " not brave.\\\""
+  },
+  {
+    "id": 173,
+    "line": 920,
+    "target_en": "\\\"...Mmph."
+  },
+  {
+    "id": 174,
+    "line": 923,
+    "target_en": " You're being a little harsh, Mion..."
+  },
+  {
+    "id": 175,
+    "line": 926,
+    "target_en": " You should at least say 'thank you.'"
+  },
+  {
+    "id": 176,
+    "line": 929,
+    "target_en": " I saw you crying.\\\""
+  },
+  {
+    "id": 177,
+    "line": 935,
+    "target_en": "\\\"...N-No, I wasn't crying!"
+  },
+  {
+    "id": 178,
+    "line": 938,
+    "target_en": " That was just an act...!\\\""
+  },
+  {
+    "id": 179,
+    "line": 946,
+    "target_en": "\\\"Ahahahahahaha."
+  },
+  {
+    "id": 180,
+    "line": 949,
+    "target_en": " Okay, okay."
+  },
+  {
+    "id": 181,
+    "line": 952,
+    "target_en": " Ahahahahaha.\\\""
+  },
+  {
+    "id": 182,
+    "line": 958,
+    "target_en": "\\\"H-Hey!"
+  },
+  {
+    "id": 183,
+    "line": 961,
+    "target_en": " You don't believe me, do you?!"
+  },
+  {
+    "id": 184,
+    "line": 964,
+    "target_en": " Do you really think I'd cry?\\\""
+  },
+  {
+    "id": 185,
+    "line": 970,
+    "target_en": "\\\"No."
+  },
+  {
+    "id": 186,
+    "line": 973,
+    "target_en": " Nobody'd believe Mion Sonozaki would cry when punks bullied her. Ah ha ha ha.\\\""
+  },
+  {
+    "id": 187,
+    "line": 979,
+    "target_en": "\\\"Wh-Why are you laughing?!"
+  },
+  {
+    "id": 188,
+    "line": 982,
+    "target_en": " You really don't believe that was an act?!"
+  },
+  {
+    "id": 189,
+    "line": 985,
+    "target_en": " I'd never cry!!\\\""
+  },
+  {
+    "id": 190,
+    "line": 991,
+    "target_en": "\\\"Ha ha ha ha. I believe you, I do.\\\""
+  },
+  {
+    "id": 191,
+    "line": 997,
+    "target_en": "I realized one thing."
+  },
+  {
+    "id": 192,
+    "line": 1002,
+    "target_en": "...He must be one of Sis's friends."
+  },
+  {
+    "id": 193,
+    "line": 1008,
+    "target_en": "He didn't seem to realize I'm her twin."
+  },
+  {
+    "id": 194,
+    "line": 1010,
+    "target_en": " He thought I was Mion with a different hairstyle."
+  },
+  {
+    "id": 195,
+    "line": 1017,
+    "target_en": "...Mion and I had to live separately since before we went to elementary school."
+  },
+  {
+    "id": 196,
+    "line": 1022,
+    "target_en": "Mion was in Hinamizawa,"
+  },
+  {
+    "id": 197,
+    "line": 1028,
+    "target_en": " and I was in Okinomiya."
+  },
+  {
+    "id": 198,
+    "line": 1033,
+    "target_en": "I lived in a totally different environment from her."
+  },
+  {
+    "id": 199,
+    "line": 1039,
+    "target_en": "So, it's not strange that people don't know me."
+  },
+  {
+    "id": 200,
+    "line": 1041,
+    "target_en": " Actually, only very few people know I exist."
+  },
+  {
+    "id": 201,
+    "line": 1047,
+    "target_en": "I almost told him that I'm not Mion, but I managed to stop myself."
+  },
+  {
+    "id": 202,
+    "line": 1053,
+    "target_en": "......Shion shouldn't be here."
+  },
+  {
+    "id": 203,
+    "line": 1058,
+    "target_en": "He's from Hinamizawa."
+  },
+  {
+    "id": 204,
+    "line": 1060,
+    "target_en": " It wouldn't be good if he thought he saw a Mion lookalike in Okinomiya..."
+  },
+  {
+    "id": 205,
+    "line": 1065,
+    "target_en": "So, I had to act like Mion."
+  },
+  {
+    "id": 206,
+    "line": 1070,
+    "target_en": "...Dealing with him could be more difficult than handling those punks..."
+  },
+  {
+    "id": 207,
+    "line": 1079,
+    "target_en": "\\\"...Well,"
+  },
+  {
+    "id": 208,
+    "line": 1082,
+    "target_en": " I was just relieved because you seem to have a girly side after all.\\\""
+  },
+  {
+    "id": 209,
+    "line": 1088,
+    "target_en": "\\\"You sound hostile. What exactly do you mean by that?\\\""
+  },
+  {
+    "id": 210,
+    "line": 1096,
+    "target_en": "\\\"I thought you'd kick those guys' butts with some crazy martial arts..."
+  },
+  {
+    "id": 211,
+    "line": 1099,
+    "target_en": " So I was really surprised when you just started crying.\\\""
+  },
+  {
+    "id": 212,
+    "line": 1105,
+    "target_en": "\\\"Hey!"
+  },
+  {
+    "id": 213,
+    "line": 1108,
+    "target_en": " Like I said, I was acting!"
+  },
+  {
+    "id": 214,
+    "line": 1111,
+    "target_en": " Weren't you listening at all"
+  },
+  {
+    "id": 215,
+    "line": 1116,
+    "target_en": ".....................\\\""
+  },
+  {
+    "id": 216,
+    "line": 1123,
+    "target_en": "...He gently put his hand on top of my head, and stroked it as if stroking a kitten."
+  },
+  {
+    "id": 217,
+    "line": 1128,
+    "target_en": "...I could remember somebody doing that to me when I was little, but..."
+  },
+  {
+    "id": 218,
+    "line": 1130,
+    "target_en": " it had been quite a while since somebody stroked my head."
+  },
+  {
+    "id": 219,
+    "line": 1136,
+    "target_en": "I didn't know what to do..."
+  },
+  {
+    "id": 220,
+    "line": 1138,
+    "target_en": " Why did it make me so embarrassed...?"
+  },
+  {
+    "id": 221,
+    "line": 1144,
+    "target_en": "......My face reddened all at once. I couldn't say anything..."
+  },
+  {
+    "id": 222,
+    "line": 1150,
+    "target_en": "\\\"He...Hey..."
+  },
+  {
+    "id": 223,
+    "line": 1153,
+    "target_en": " Are you making fun of me...?\\\""
+  },
+  {
+    "id": 224,
+    "line": 1158,
+    "target_en": "I stuttered in embarrassment."
+  },
+  {
+    "id": 225,
+    "line": 1163,
+    "target_en": "He looked calm, as if he was used to doing this."
+  },
+  {
+    "id": 226,
+    "line": 1169,
+    "target_en": "\\\"Ahahahaha..."
+  },
+  {
+    "id": 227,
+    "line": 1172,
+    "target_en": " Whatever."
+  },
+  {
+    "id": 228,
+    "line": 1175,
+    "target_en": " Aren't you glad, though?\\\""
+  },
+  {
+    "id": 229,
+    "line": 1181,
+    "target_en": "\\\"......Glad? ...What do you mean?\\\""
+  },
+  {
+    "id": 230,
+    "line": 1187,
+    "target_en": "\\\"Well, you didn't get hurt.\\\""
+  },
+  {
+    "id": 231,
+    "line": 1193,
+    "target_en": "He smiled while he kept stroking my head...... His smile looked divine."
+  },
+  {
+    "id": 232,
+    "line": 1198,
+    "target_en": "He wasn't going to stay for long."
+  },
+  {
+    "id": 233,
+    "line": 1203,
+    "target_en": "...He'd already saved me from those guys, after all."
+  },
+  {
+    "id": 234,
+    "line": 1211,
+    "target_en": "\\\"...Well, I need to be going."
+  },
+  {
+    "id": 235,
+    "line": 1214,
+    "target_en": " So I should head off now.\\\""
+  },
+  {
+    "id": 236,
+    "line": 1220,
+    "target_en": "\\\"Uh... okay.\\\""
+  },
+  {
+    "id": 237,
+    "line": 1225,
+    "target_en": "I wanted to go through all the steps of meeting someone for the first time, but he didn't."
+  },
+  {
+    "id": 238,
+    "line": 1231,
+    "target_en": "As far as he was concerned, he just saved a friend from danger, and wanted to leave quickly to avoid seeming pretentious."
+  },
+  {
+    "id": 239,
+    "line": 1236,
+    "target_en": "He and Mion must be friends who knew each other well."
+  },
+  {
+    "id": 240,
+    "line": 1241,
+    "target_en": "...So I couldn't bring myself to ask, \\\"What's your name?\\\""
+  },
+  {
+    "id": 241,
+    "line": 1247,
+    "target_en": "'Mion's friend' smiled once again. His smile looked as refreshing as a clear blue sky."
+  },
+  {
+    "id": 242,
+    "line": 1249,
+    "target_en": " This time, he smiled a bit mischievously."
+  },
+  {
+    "id": 243,
+    "line": 1257,
+    "target_en": "\\\"Ahaha, don't worry."
+  },
+  {
+    "id": 244,
+    "line": 1260,
+    "target_en": " I won't tell anybody you were crying."
+  },
+  {
+    "id": 245,
+    "line": 1268,
+    "target_en": " ...Ahaha, well, nobody would believe it if I told them, anyway."
+  },
+  {
+    "id": 246,
+    "line": 1271,
+    "target_en": " Nobody would ever believe that our invincible class president cried."
+  },
+  {
+    "id": 247,
+    "line": 1274,
+    "target_en": " Ahahahaha.\\\""
+  },
+  {
+    "id": 248,
+    "line": 1279,
+    "target_en": "He patted the dust off his butt once again."
+  },
+  {
+    "id": 249,
+    "line": 1287,
+    "target_en": "He walked back to the sunny main road, away from the dark alley."
+  },
+  {
+    "id": 250,
+    "line": 1292,
+    "target_en": "Then he turned around."
+  },
+  {
+    "id": 251,
+    "line": 1300,
+    "target_en": "\\\"See you."
+  },
+  {
+    "id": 252,
+    "line": 1303,
+    "target_en": " In school tomorrow, I mean.\\\""
+  },
+  {
+    "id": 253,
+    "line": 1309,
+    "target_en": "\\\"......Yeah..."
+  },
+  {
+    "id": 254,
+    "line": 1312,
+    "target_en": " See you in school.\\\""
+  },
+  {
+    "id": 255,
+    "line": 1319,
+    "target_en": "He disappeared into the brightly lit street."
+  },
+  {
+    "id": 256,
+    "line": 1324,
+    "target_en": "I continued to sit in the gloomy alleyway."
+  },
+  {
+    "id": 257,
+    "line": 1329,
+    "target_en": "I could no longer see him."
+  },
+  {
+    "id": 258,
+    "line": 1334,
+    "target_en": "I was just staring absentmindedly at the bright light."
+  },
+  {
+    "id": 259,
+    "line": 1340,
+    "target_en": "That was the first time I met Satoshi-kun..."
+  },
+  {
+    "id": 260,
+    "line": 1361,
+    "target_en": "\\\"That must be Satoshi."
+  },
+  {
+    "id": 261,
+    "line": 1364,
+    "target_en": " He looks like what you described, and he has a habit of stroking people's heads.\\\""
+  },
+  {
+    "id": 262,
+    "line": 1370,
+    "target_en": "\\\"...Uh-huh..."
+  },
+  {
+    "id": 263,
+    "line": 1373,
+    "target_en": " His name is Satoshi-kun, eh...?\\\""
+  },
+  {
+    "id": 264,
+    "line": 1378,
+    "target_en": "The boy from earlier is called Satoshi Houjou-kun."
+  },
+  {
+    "id": 265,
+    "line": 1380,
+    "target_en": " Mion said that he's always daydreaming."
+  },
+  {
+    "id": 266,
+    "line": 1385,
+    "target_en": "...So she didn't believe that he saved me at first."
+  },
+  {
+    "id": 267,
+    "line": 1391,
+    "target_en": "\\\"His little sister"
+  },
+  {
+    "id": 268,
+    "line": 1396,
+    "target_en": " is always kicking his butt. Ahahaha.\\\""
+  },
+  {
+    "id": 269,
+    "line": 1402,
+    "target_en": "\\\"Uh-huh,"
+  },
+  {
+    "id": 270,
+    "line": 1405,
+    "target_en": " he has a little sister?\\\""
+  },
+  {
+    "id": 271,
+    "line": 1411,
+    "target_en": "\\\"Yeah,"
+  },
+  {
+    "id": 272,
+    "line": 1414,
+    "target_en": " her name is Satoko."
+  },
+  {
+    "id": 273,
+    "line": 1417,
+    "target_en": " She's funny"
+  },
+  {
+    "id": 274,
+    "line": 1420,
+    "target_en": " and shrewd,"
+  },
+  {
+    "id": 275,
+    "line": 1423,
+    "target_en": " but is quick to cry when she's cornered."
+  },
+  {
+    "id": 276,
+    "line": 1426,
+    "target_en": " She's fun to watch......"
+  },
+  {
+    "id": 277,
+    "line": 1429,
+    "target_en": " But things have been rough for her lately,"
+  },
+  {
+    "id": 278,
+    "line": 1432,
+    "target_en": " so she's feeling a bit down.\\\""
+  },
+  {
+    "id": 279,
+    "line": 1438,
+    "target_en": "His sister came up naturally in the conversation."
+  },
+  {
+    "id": 280,
+    "line": 1443,
+    "target_en": "...I tried to soak up every scrap of information about Satoshi-kun."
+  },
+  {
+    "id": 281,
+    "line": 1449,
+    "target_en": "...Why?"
+  },
+  {
+    "id": 282,
+    "line": 1454,
+    "target_en": "Why am I trying to ask so much about him?"
+  },
+  {
+    "id": 283,
+    "line": 1459,
+    "target_en": "...As I asked myself that, the feeling I got when he stroked my head came back to me."
+  },
+  {
+    "id": 284,
+    "line": 1465,
+    "target_en": "...I must have been blushing."
+  },
+  {
+    "id": 285,
+    "line": 1475,
+    "target_en": "\\\"Hello?"
+  },
+  {
+    "id": 286,
+    "line": 1478,
+    "target_en": " Shion?\\\""
+  },
+  {
+    "id": 287,
+    "line": 1484,
+    "target_en": "\\\"Eh? Ahahahaha, sorry!"
+  },
+  {
+    "id": 288,
+    "line": 1487,
+    "target_en": " I'm here, I'm listening!\\\""
+  },
+  {
+    "id": 289,
+    "line": 1493,
+    "target_en": "\\\"To start, I hear Satoko's on bad terms with her aunt..."
+  },
+  {
+    "id": 290,
+    "line": 1496,
+    "target_en": " Satoshi's mature, so he knows how to conduct himself, but... when bad things happen, Satoko really lets herself go.\\\""
+  },
+  {
+    "id": 291,
+    "line": 1506,
+    "target_en": "What Sis told me was very interesting."
+  },
+  {
+    "id": 292,
+    "line": 1512,
+    "target_en": "....She told me that the parents of Satoshi-kun and his little sister are dead."
+  },
+  {
+    "id": 293,
+    "line": 1517,
+    "target_en": "Satoshi-kun and Satoko are now living with their uncle and aunt."
+  },
+  {
+    "id": 294,
+    "line": 1522,
+    "target_en": "They don't seem like very respectable people."
+  },
+  {
+    "id": 295,
+    "line": 1528,
+    "target_en": "They're always fighting, and the uncle is cheating on the aunt."
+  },
+  {
+    "id": 296,
+    "line": 1533,
+    "target_en": "He mostly lives with his mistress."
+  },
+  {
+    "id": 297,
+    "line": 1539,
+    "target_en": "...Satoshi-kun and Satoko entered into that unwelcome environment."
+  },
+  {
+    "id": 298,
+    "line": 1544,
+    "target_en": "What surprises me the most... is the fact that Satoshi-kun's parents were the Houjou couple who were the leaders of the pro-dam activists."
+  },
+  {
+    "id": 299,
+    "line": 1550,
+    "target_en": "That fact must've added something to the situation."
+  },
+  {
+    "id": 300,
+    "line": 1555,
+    "target_en": "...I don't know what kind of stance the uncle and aunt took during the dam conflict, but they must've taken some indirect blows."
+  },
+  {
+    "id": 301,
+    "line": 1560,
+    "target_en": "Satoshi-kun's parents died after bothering them so much, and even left them their children...  The uncle and aunt obviously can't love those kids."
+  },
+  {
+    "id": 302,
+    "line": 1566,
+    "target_en": "Things have gotten worse this past year, too."
+  },
+  {
+    "id": 303,
+    "line": 1572,
+    "target_en": "Women can be really nasty bullies."
+  },
+  {
+    "id": 304,
+    "line": 1577,
+    "target_en": "Sometimes it doesn't matter who they're bullying, even if it's a kid."
+  },
+  {
+    "id": 305,
+    "line": 1582,
+    "target_en": "On top of that, women tend to care less about propriety than men..."
+  },
+  {
+    "id": 306,
+    "line": 1587,
+    "target_en": "...As a result, Satoko seems exhausted with it all."
+  },
+  {
+    "id": 307,
+    "line": 1593,
+    "target_en": "I can imagine Satoshi-kun bravely protecting his little sister."
+  },
+  {
+    "id": 308,
+    "line": 1598,
+    "target_en": "Just like when he saved me."
+  },
+  {
+    "id": 309,
+    "line": 1605,
+    "target_en": "\\\"So... He must be exhausted too, right?\\\""
+  },
+  {
+    "id": 310,
+    "line": 1611,
+    "target_en": "\\\"...Huh?\\\""
+  },
+  {
+    "id": 311,
+    "line": 1617,
+    "target_en": "\\\"He must be covering for Satoko all the time."
+  },
+  {
+    "id": 312,
+    "line": 1620,
+    "target_en": " So wouldn't you normally assume that he's also feeling worn out?\\\""
+  },
+  {
+    "id": 313,
+    "line": 1626,
+    "target_en": "\\\"...Hmm"
+  },
+  {
+    "id": 314,
+    "line": 1631,
+    "target_en": "... well..."
+  },
+  {
+    "id": 315,
+    "line": 1634,
+    "target_en": " I don't know...\\\""
+  },
+  {
+    "id": 316,
+    "line": 1639,
+    "target_en": "Had I said something wrong?"
+  },
+  {
+    "id": 317,
+    "line": 1644,
+    "target_en": "Mion sounded a bit taken aback."
+  },
+  {
+    "id": 318,
+    "line": 1649,
+    "target_en": "So that meant..."
+  },
+  {
+    "id": 319,
+    "line": 1655,
+    "target_en": "Mion can't tell how he's feeling..."
+  },
+  {
+    "id": 320,
+    "line": 1660,
+    "target_en": "Because he's always wearing that blank look."
+  },
+  {
+    "id": 321,
+    "line": 1665,
+    "target_en": " So she never considered it..."
+  },
+  {
+    "id": 322,
+    "line": 1671,
+    "target_en": "How can she be that insensitive even though she's around him all the time?"
+  },
+  {
+    "id": 323,
+    "line": 1676,
+    "target_en": "I was amazed to realize that."
+  },
+  {
+    "id": 324,
+    "line": 1682,
+    "target_en": "\\\"Well,"
+  },
+  {
+    "id": 325,
+    "line": 1685,
+    "target_en": " anyway,"
+  },
+  {
+    "id": 326,
+    "line": 1688,
+    "target_en": " what does he usually do?"
+  },
+  {
+    "id": 327,
+    "line": 1691,
+    "target_en": " He looked smart, so does he read a lot of books?\\\""
+  },
+  {
+    "id": 328,
+    "line": 1697,
+    "target_en": "\\\"Aha, ahahaha!"
+  },
+  {
+    "id": 329,
+    "line": 1700,
+    "target_en": " Yeah... you're right. He likes to read."
+  },
+  {
+    "id": 330,
+    "line": 1703,
+    "target_en": " He's now reading... what's it called...?\\\""
+  },
+  {
+    "id": 331,
+    "line": 1710,
+    "target_en": "I continued asking about him."
+  },
+  {
+    "id": 332,
+    "line": 1716,
+    "target_en": "About what he likes, dislikes, and what he thinks about."
+  },
+  {
+    "id": 333,
+    "line": 1721,
+    "target_en": "I asked Sis all these questions because I wanted to know more about him."
+  },
+  {
+    "id": 334,
+    "line": 1726,
+    "target_en": "It was the first time I'd ever been that interested in somebody."
+  },
+  {
+    "id": 335,
+    "line": 1731,
+    "target_en": "I didn't want to admit that I had feelings like that."
+  },
+  {
+    "id": 336,
+    "line": 1736,
+    "target_en": "Did I fall in love just because of a stroke on the head? ...Am I stupid, or what?"
+  },
+  {
+    "id": 337,
+    "line": 1742,
+    "target_en": "When I remember the feeling of his hand on my head, my heart feels tingly."
+  },
+  {
+    "id": 338,
+    "line": 1747,
+    "target_en": "I tried doing it myself, but it didn't feel the same."
+  },
+  {
+    "id": 339,
+    "line": 1753,
+    "target_en": "......Ahahahaha. I'm stupid."
+  },
+  {
+    "id": 340,
+    "line": 1755,
+    "target_en": " What am I doing, stroking my own head...?"
+  },
+  {
+    "id": 341,
+    "line": 1761,
+    "target_en": "\\\"Ahahahahahaha..."
+  },
+  {
+    "id": 342,
+    "line": 1764,
+    "target_en": " Sis, I'm done for..."
+  },
+  {
+    "id": 343,
+    "line": 1767,
+    "target_en": " I became stupid...\\\""
+  },
+  {
+    "id": 344,
+    "line": 1773,
+    "target_en": "\\\"What?"
+  },
+  {
+    "id": 345,
+    "line": 1776,
+    "target_en": " Why are you laughing"
+  },
+  {
+    "id": 346,
+    "line": 1779,
+    "target_en": " in that weird voice?\\\""
+  },
+  {
+    "id": 347,
+    "line": 1785,
+    "target_en": "\\\"Ahahahahaha, you wouldn't understand this feeling, Sis."
+  },
+  {
+    "id": 348,
+    "line": 1788,
+    "target_en": " Ahahahahahaha...\\\""
+  },
+  {
+    "id": 349,
+    "line": 1794,
+    "target_en": "When would I see him again?"
+  },
+  {
+    "id": 350,
+    "line": 1799,
+    "target_en": "I felt as if my suffocating life had finally grown brighter."
+  }
+]

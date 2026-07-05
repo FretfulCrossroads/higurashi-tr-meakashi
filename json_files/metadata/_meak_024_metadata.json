@@ -1,0 +1,2642 @@
+[
+  {
+    "id": 1,
+    "line": 16,
+    "target_en": "It took them a long time to come for me."
+  },
+  {
+    "id": 2,
+    "line": 22,
+    "target_en": "I had to wait until the following morning."
+  },
+  {
+    "id": 3,
+    "line": 28,
+    "target_en": "I opened the gate without checking who was ringing the doorbell."
+  },
+  {
+    "id": 4,
+    "line": 33,
+    "target_en": "I didn't even care who it was."
+  },
+  {
+    "id": 5,
+    "line": 38,
+    "target_en": "If it was the police, that'd be fine with me."
+  },
+  {
+    "id": 6,
+    "line": 44,
+    "target_en": "If it was Kei-chan... Ahaha... could he defeat me?"
+  },
+  {
+    "id": 7,
+    "line": 54,
+    "target_en": "Keiichi and Rena were there."
+  },
+  {
+    "id": 8,
+    "line": 60,
+    "target_en": "\\\"...Well, this is unusual."
+  },
+  {
+    "id": 9,
+    "line": 63,
+    "target_en": " ...Aren't you two going to school?\\\""
+  },
+  {
+    "id": 10,
+    "line": 69,
+    "target_en": " \\\"...We... stayed home today.\\\""
+  },
+  {
+    "id": 11,
+    "line": 75,
+    "target_en": "\\\"...Hmm."
+  },
+  {
+    "id": 12,
+    "line": 78,
+    "target_en": " ...Kei-chan is one thing, but you too, Rena?"
+  },
+  {
+    "id": 13,
+    "line": 81,
+    "target_en": " ...You two are such troublemakers.\\\""
+  },
+  {
+    "id": 14,
+    "line": 86,
+    "target_en": "I laughed."
+  },
+  {
+    "id": 15,
+    "line": 92,
+    "target_en": "\\\".........Well, let's not just stand here."
+  },
+  {
+    "id": 16,
+    "line": 95,
+    "target_en": " Come on in.\\\""
+  },
+  {
+    "id": 17,
+    "line": 101,
+    "target_en": "I didn't think Rena would come."
+  },
+  {
+    "id": 18,
+    "line": 106,
+    "target_en": "I thought it would be either the police or Kei-chan alone."
+  },
+  {
+    "id": 19,
+    "line": 112,
+    "target_en": "I'll try tricking Kei-chan into coming with me to the underground storehouse."
+  },
+  {
+    "id": 20,
+    "line": 117,
+    "target_en": "Rena, why don't you try to figure out what I'm attempting to do and stop me?"
+  },
+  {
+    "id": 21,
+    "line": 122,
+    "target_en": "You too, Kei-chan."
+  },
+  {
+    "id": 22,
+    "line": 124,
+    "target_en": " If you figured out I was Shion, why don't you try to figure out the rest?"
+  },
+  {
+    "id": 23,
+    "line": 130,
+    "target_en": "I will act like a demon."
+  },
+  {
+    "id": 24,
+    "line": 135,
+    "target_en": "I will struggle until the very last moment."
+  },
+  {
+    "id": 25,
+    "line": 140,
+    "target_en": "So don't hold back."
+  },
+  {
+    "id": 26,
+    "line": 145,
+    "target_en": "Please don't hesitate to kill a filthy demon like me."
+  },
+  {
+    "id": 27,
+    "line": 156,
+    "target_en": "\\\".........Mion."
+  },
+  {
+    "id": 28,
+    "line": 159,
+    "target_en": " ...First"
+  },
+  {
+    "id": 29,
+    "line": 162,
+    "target_en": "......"
+  },
+  {
+    "id": 30,
+    "line": 166,
+    "target_en": " I have something to apologize for.\\\""
+  },
+  {
+    "id": 31,
+    "line": 172,
+    "target_en": "\\\".........You do?"
+  },
+  {
+    "id": 32,
+    "line": 175,
+    "target_en": " ...What for?\\\""
+  },
+  {
+    "id": 33,
+    "line": 181,
+    "target_en": "\\\"...Well, on the night of Watanagashi."
+  },
+  {
+    "id": 34,
+    "line": 184,
+    "target_en": " ...The... ritual storehouse behind the shrine..."
+  },
+  {
+    "id": 35,
+    "line": 189,
+    "target_en": " I went in there.\\\""
+  },
+  {
+    "id": 36,
+    "line": 195,
+    "target_en": "\\\"............\\\""
+  },
+  {
+    "id": 37,
+    "line": 200,
+    "target_en": "I didn't expect this to start with an apology."
+  },
+  {
+    "id": 38,
+    "line": 205,
+    "target_en": "Okay, so he admitted his sin of entering the ritual storehouse."
+  },
+  {
+    "id": 39,
+    "line": 211,
+    "target_en": "I guess that was manly of him."
+  },
+  {
+    "id": 40,
+    "line": 216,
+    "target_en": "I don't even care if the storehouse is forbidden anymore. Whatever."
+  },
+  {
+    "id": 41,
+    "line": 221,
+    "target_en": "That rule came from those who believed it was even a sacred place at all."
+  },
+  {
+    "id": 42,
+    "line": 229,
+    "target_en": "\\\"......Mion."
+  },
+  {
+    "id": 43,
+    "line": 232,
+    "target_en": " ...You called Rika-chan and Satoko the day before last, didn't you?\\\""
+  },
+  {
+    "id": 44,
+    "line": 238,
+    "target_en": "\\\"............I don't remember doing so."
+  },
+  {
+    "id": 45,
+    "line": 241,
+    "target_en": " If you have a reason to think so, could you let me hear it...?\\\""
+  },
+  {
+    "id": 46,
+    "line": 250,
+    "target_en": "\\\"It was evening, before dinnertime."
+  },
+  {
+    "id": 47,
+    "line": 253,
+    "target_en": " ...Rika-chan should have come here."
+  },
+  {
+    "id": 48,
+    "line": 256,
+    "target_en": " Bringing a big bottle of soy sauce."
+  },
+  {
+    "id": 49,
+    "line": 259,
+    "target_en": " To have you share some with her.\\\""
+  },
+  {
+    "id": 50,
+    "line": 264,
+    "target_en": "Rena spoke with confidence."
+  },
+  {
+    "id": 51,
+    "line": 270,
+    "target_en": "She wasn't even trying to gauge my reaction."
+  },
+  {
+    "id": 52,
+    "line": 272,
+    "target_en": " She was simply telling me the truth."
+  },
+  {
+    "id": 53,
+    "line": 277,
+    "target_en": "...That cleverness was very pleasant to see."
+  },
+  {
+    "id": 54,
+    "line": 283,
+    "target_en": "\\\".........Why do you think that?\\\""
+  },
+  {
+    "id": 55,
+    "line": 291,
+    "target_en": "\\\"...It's not hard to understand."
+  },
+  {
+    "id": 56,
+    "line": 294,
+    "target_en": " Mii-chan, you saw it too, didn't you?"
+  },
+  {
+    "id": 57,
+    "line": 297,
+    "target_en": " Rika-chan's room.\\\""
+  },
+  {
+    "id": 58,
+    "line": 303,
+    "target_en": "\\\"Hmm?"
+  },
+  {
+    "id": 59,
+    "line": 306,
+    "target_en": " ...Mmm.\\\""
+  },
+  {
+    "id": 60,
+    "line": 312,
+    "target_en": "\\\"......There was chilled tofu, but no soy sauce."
+  },
+  {
+    "id": 61,
+    "line": 315,
+    "target_en": " Plus, the big bottle of soy sauce that should have been under the sink was nowhere to be found.\\\""
+  },
+  {
+    "id": 62,
+    "line": 321,
+    "target_en": "\\\"......Ahahahahaha."
+  },
+  {
+    "id": 63,
+    "line": 324,
+    "target_en": " What?"
+  },
+  {
+    "id": 64,
+    "line": 327,
+    "target_en": " Is that why she would have come here?\\\""
+  },
+  {
+    "id": 65,
+    "line": 333,
+    "target_en": "Rena sure is sharp."
+  },
+  {
+    "id": 66,
+    "line": 339,
+    "target_en": "I tried to beat around the bush, but she was confident in her conclusions."
+  },
+  {
+    "id": 67,
+    "line": 347,
+    "target_en": "She was cornering me."
+  },
+  {
+    "id": 68,
+    "line": 352,
+    "target_en": "She was doing such a great job, too. It really put me at ease."
+  },
+  {
+    "id": 69,
+    "line": 358,
+    "target_en": "Okay, demon."
+  },
+  {
+    "id": 70,
+    "line": 360,
+    "target_en": " Rena knows what she's talking about... What kind of excuse are you going to come up with now?"
+  },
+  {
+    "id": 71,
+    "line": 366,
+    "target_en": "\\\"......It's a long explanation, so I'll get to the point. ...The contents of that refrigerator... provided a vivid account of what you said over the phone when you lured her out.\\\""
+  },
+  {
+    "id": 72,
+    "line": 372,
+    "target_en": "There it is."
+  },
+  {
+    "id": 73,
+    "line": 374,
+    "target_en": " This game is over."
+  },
+  {
+    "id": 74,
+    "line": 379,
+    "target_en": "Rena..."
+  },
+  {
+    "id": 75,
+    "line": 381,
+    "target_en": " I was right about you. I don't like you."
+  },
+  {
+    "id": 76,
+    "line": 386,
+    "target_en": "You really are just too sharp."
+  },
+  {
+    "id": 77,
+    "line": 391,
+    "target_en": "Shion is so obtuse that she never even recognized this side of you."
+  },
+  {
+    "id": 78,
+    "line": 404,
+    "target_en": "\\\"............That's... ahahahahaha."
+  },
+  {
+    "id": 79,
+    "line": 407,
+    "target_en": " ...I had no idea I had such an incredible detective right next to me the whole time. "
+  },
+  {
+    "id": 80,
+    "line": 411,
+    "target_en": "...I can't believe you'd figure out everything, down to the phone conversation... just from what was inside the fridge..."
+  },
+  {
+    "id": 81,
+    "line": 414,
+    "target_en": " ......Ahahahahahahaha."
+  },
+  {
+    "id": 82,
+    "line": 417,
+    "target_en": " ...You've got me there. "
+  },
+  {
+    "id": 83,
+    "line": 421,
+    "target_en": "You've got me, you've got me, ah-hahahahahahahahahahaha!!!\\\""
+  },
+  {
+    "id": 84,
+    "line": 426,
+    "target_en": "I laughed like crazy."
+  },
+  {
+    "id": 85,
+    "line": 431,
+    "target_en": "I laughed because I was having so much fun."
+  },
+  {
+    "id": 86,
+    "line": 436,
+    "target_en": "I sensed the poison inside of my stomach dissipating, and felt free and refreshed."
+  },
+  {
+    "id": 87,
+    "line": 444,
+    "target_en": "\\\"...Mion."
+  },
+  {
+    "id": 88,
+    "line": 447,
+    "target_en": " ......The police have suspected you for a long time now."
+  },
+  {
+    "id": 89,
+    "line": 452,
+    "target_en": "...Ooishi-san's officers have had the house under observation so that they could break in at any time.\\\""
+  },
+  {
+    "id": 90,
+    "line": 457,
+    "target_en": "Kei-chan was threatening me."
+  },
+  {
+    "id": 91,
+    "line": 459,
+    "target_en": " He was telling me I couldn't run or resist, so I should just surrender and accept my fate."
+  },
+  {
+    "id": 92,
+    "line": 464,
+    "target_en": "You aren't doing that intensely enough, Kei-chan."
+  },
+  {
+    "id": 93,
+    "line": 469,
+    "target_en": "Shouldn't you grab my collar and knock me to the ground?"
+  },
+  {
+    "id": 94,
+    "line": 474,
+    "target_en": "Today is the day I'm prepared to die..."
+  },
+  {
+    "id": 95,
+    "line": 480,
+    "target_en": "After that, they went easy."
+  },
+  {
+    "id": 96,
+    "line": 486,
+    "target_en": "Because they just wanted to know the reason why Mion committed such crimes."
+  },
+  {
+    "id": 97,
+    "line": 491,
+    "target_en": "...You all are being too lenient about this."
+  },
+  {
+    "id": 98,
+    "line": 496,
+    "target_en": "I'm a demon."
+  },
+  {
+    "id": 99,
+    "line": 498,
+    "target_en": " I'm a murderer."
+  },
+  {
+    "id": 100,
+    "line": 503,
+    "target_en": "Are you saying that if you can understand the reasoning, murder is okay?"
+  },
+  {
+    "id": 101,
+    "line": 508,
+    "target_en": "A demon is a demon."
+  },
+  {
+    "id": 102,
+    "line": 513,
+    "target_en": "A murderer is a murderer."
+  },
+  {
+    "id": 103,
+    "line": 518,
+    "target_en": "Whether their motive is to have fun, to live, or to take revenge, that makes no difference."
+  },
+  {
+    "id": 104,
+    "line": 523,
+    "target_en": "Why do you even want to know that? Why don't you just tackle me and take me to the police?"
+  },
+  {
+    "id": 105,
+    "line": 529,
+    "target_en": "Look, there."
+  },
+  {
+    "id": 106,
+    "line": 531,
+    "target_en": " The demon is trying to deceive you..."
+  },
+  {
+    "id": 107,
+    "line": 542,
+    "target_en": "\\\"......It's a pleasure to meet you both..."
+  },
+  {
+    "id": 108,
+    "line": 545,
+    "target_en": " I am the successor of the Sonozaki family..."
+  },
+  {
+    "id": 109,
+    "line": 548,
+    "target_en": " Mion."
+  },
+  {
+    "id": 110,
+    "line": 551,
+    "target_en": " ...Welcome to the Sonozaki family's house today."
+  },
+  {
+    "id": 111,
+    "line": 554,
+    "target_en": " I'd like to greet you on behalf of our leader, Oryou... "
+  },
+  {
+    "id": 112,
+    "line": 558,
+    "target_en": "...You seem to want to ask various questions..."
+  },
+  {
+    "id": 113,
+    "line": 561,
+    "target_en": " I'd like to answer everything as clearly as possible...\\\""
+  },
+  {
+    "id": 114,
+    "line": 567,
+    "target_en": "I then told them about the strange events that led to Onigafuchi Village becoming Hinamizawa, which Takano-san had told me about before."
+  },
+  {
+    "id": 115,
+    "line": 572,
+    "target_en": "About half of it was the truth, but the other half was completely made up."
+  },
+  {
+    "id": 116,
+    "line": 578,
+    "target_en": "I just made it sound like it was only natural that their best friend committed such a gruesome crime."
+  },
+  {
+    "id": 117,
+    "line": 584,
+    "target_en": "Keiichi and Rena were both overwhelmed by the history of Onigafuchi Village, which was swallowed by this gloomy fate."
+  },
+  {
+    "id": 118,
+    "line": 590,
+    "target_en": "Oh, well..."
+  },
+  {
+    "id": 119,
+    "line": 592,
+    "target_en": " I guess I made it sound interesting enough."
+  },
+  {
+    "id": 120,
+    "line": 597,
+    "target_en": "I'm sure they enjoyed hearing me tell the story."
+  },
+  {
+    "id": 121,
+    "line": 603,
+    "target_en": "But you know..."
+  },
+  {
+    "id": 122,
+    "line": 608,
+    "target_en": "I'm the one who committed the incidents that happened in the present time."
+  },
+  {
+    "id": 123,
+    "line": 613,
+    "target_en": "What was the point in listening to those old folktales?"
+  },
+  {
+    "id": 124,
+    "line": 618,
+    "target_en": "Are you thinking it will make your best friend's crime easier to swallow?"
+  },
+  {
+    "id": 125,
+    "line": 623,
+    "target_en": "You're just trying to satisfy yourselves."
+  },
+  {
+    "id": 126,
+    "line": 629,
+    "target_en": "I'm a demon."
+  },
+  {
+    "id": 127,
+    "line": 631,
+    "target_en": " I'm a murderer."
+  },
+  {
+    "id": 128,
+    "line": 633,
+    "target_en": " I have sinned."
+  },
+  {
+    "id": 129,
+    "line": 638,
+    "target_en": "These old folktales have nothing to do with the crimes I've committed."
+  },
+  {
+    "id": 130,
+    "line": 646,
+    "target_en": "The way those two listened to me so intensely almost made it fun. I told them that people used to make canned human meat and conducted gruesome research during the war... "
+  },
+  {
+    "id": 131,
+    "line": 648,
+    "target_en": "Those were things Takano-san told me."
+  },
+  {
+    "id": 132,
+    "line": 654,
+    "target_en": "Hey, you two..."
+  },
+  {
+    "id": 133,
+    "line": 659,
+    "target_en": "Haven't you realized yet?"
+  },
+  {
+    "id": 134,
+    "line": 664,
+    "target_en": "Haven't you realized that what I'm talking about has nothing to do with what we're dealing with right now?"
+  },
+  {
+    "id": 135,
+    "line": 669,
+    "target_en": "...You both look so serious."
+  },
+  {
+    "id": 136,
+    "line": 671,
+    "target_en": " You two are such fools!"
+  },
+  {
+    "id": 137,
+    "line": 677,
+    "target_en": "\\\"...So that Hinamizawa Village might once more be like Onigafuchi Village. So that we may again be a sacred existence, worthy of worship. "
+  },
+  {
+    "id": 138,
+    "line": 681,
+    "target_en": "That's the mission of those who inherit the 'demon' of the Sonozaki main family.\\\""
+  },
+  {
+    "id": 139,
+    "line": 689,
+    "target_en": "\\\"......Those who inherit..."
+  },
+  {
+    "id": 140,
+    "line": 694,
+    "target_en": " the demon?\\\""
+  },
+  {
+    "id": 141,
+    "line": 700,
+    "target_en": "\\\"......For generations, the Sonozaki family has had a custom of including the character for 'demon' in the names of its successors."
+  },
+  {
+    "id": 142,
+    "line": 703,
+    "target_en": " ...If you write out my name on your hand, it should appear plain as day...\\\""
+  },
+  {
+    "id": 143,
+    "line": 708,
+    "target_en": "Keiichi tried to write 'Mion' on his palm."
+  },
+  {
+    "id": 144,
+    "line": 714,
+    "target_en": "\\\"...Oh... She's right."
+  },
+  {
+    "id": 145,
+    "line": 717,
+    "target_en": " The character for 'demon' is in there...\\\""
+  },
+  {
+    "id": 146,
+    "line": 723,
+    "target_en": "\\\"......Not only in my name, either."
+  },
+  {
+    "id": 147,
+    "line": 726,
+    "target_en": " ...The demon is engraved on my body as well.\\\""
+  },
+  {
+    "id": 148,
+    "line": 731,
+    "target_en": "I stood up and made to show my bare back."
+  },
+  {
+    "id": 149,
+    "line": 736,
+    "target_en": "Of course, I don't actually have a tattoo there."
+  },
+  {
+    "id": 150,
+    "line": 744,
+    "target_en": "\\\"It's okay, Mii-chan."
+  },
+  {
+    "id": 151,
+    "line": 747,
+    "target_en": " ......You don't need to show us, okay?\\\""
+  },
+  {
+    "id": 152,
+    "line": 753,
+    "target_en": "\\\"......Thank you.\\\""
+  },
+  {
+    "id": 153,
+    "line": 758,
+    "target_en": "I laughed a little."
+  },
+  {
+    "id": 154,
+    "line": 764,
+    "target_en": "...They must really believe that I'm their best friend, Mion."
+  },
+  {
+    "id": 155,
+    "line": 770,
+    "target_en": "My goodness."
+  },
+  {
+    "id": 156,
+    "line": 775,
+    "target_en": "The demon has won already."
+  },
+  {
+    "id": 157,
+    "line": 780,
+    "target_en": "They were doing so well at the beginning, too."
+  },
+  {
+    "id": 158,
+    "line": 785,
+    "target_en": "I eventually sat back down after I finished telling my made-up tearjerker stories."
+  },
+  {
+    "id": 159,
+    "line": 790,
+    "target_en": "It's your loss if you all shed any tears now."
+  },
+  {
+    "id": 160,
+    "line": 798,
+    "target_en": "I looked at Keiichi."
+  },
+  {
+    "id": 161,
+    "line": 800,
+    "target_en": " He wasn't crying, but he was overcome by emotion."
+  },
+  {
+    "id": 162,
+    "line": 808,
+    "target_en": "I looked at Rena."
+  },
+  {
+    "id": 163,
+    "line": 810,
+    "target_en": " ...Surprisingly, she still maintained an aggressive look, showing me her will to fight."
+  },
+  {
+    "id": 164,
+    "line": 816,
+    "target_en": "\\\"But... Rika-chan and Satoko-chan"
+  },
+  {
+    "id": 165,
+    "line": 819,
+    "target_en": "...................................."
+  },
+  {
+    "id": 166,
+    "line": 823,
+    "target_en": " You killed them, didn't you, Mii-chan?\\\""
+  },
+  {
+    "id": 167,
+    "line": 828,
+    "target_en": "You're good, Rena."
+  },
+  {
+    "id": 168,
+    "line": 833,
+    "target_en": "You know what I just told you isn't an excuse for murder."
+  },
+  {
+    "id": 169,
+    "line": 839,
+    "target_en": "You usually act like such a goofball, but that's not how you really are."
+  },
+  {
+    "id": 170,
+    "line": 844,
+    "target_en": "You sure are something."
+  },
+  {
+    "id": 171,
+    "line": 846,
+    "target_en": " You're far sharper than Shion."
+  },
+  {
+    "id": 172,
+    "line": 852,
+    "target_en": "\\\"I'm not saying that it's okay if you killed other people."
+  },
+  {
+    "id": 173,
+    "line": 855,
+    "target_en": " ...Regardless, Mii-chan..."
+  },
+  {
+    "id": 174,
+    "line": 858,
+    "target_en": " You killed Rika-chan and Satoko-chan.\\\""
+  },
+  {
+    "id": 175,
+    "line": 864,
+    "target_en": "\\\".........I'm not trying to justify what I've done."
+  },
+  {
+    "id": 176,
+    "line": 867,
+    "target_en": " I have a demon inside of me."
+  },
+  {
+    "id": 177,
+    "line": 870,
+    "target_en": " The demon is in my name, in my body"
+  },
+  {
+    "id": 178,
+    "line": 873,
+    "target_en": " and also in my soul."
+  },
+  {
+    "id": 179,
+    "line": 876,
+    "target_en": " ......But the demon wasn't the one who killed them. "
+  },
+  {
+    "id": 180,
+    "line": 880,
+    "target_en": "I did. Mion Sonozaki did."
+  },
+  {
+    "id": 181,
+    "line": 883,
+    "target_en": " Rika-chan and Satoko died because Mion wanted them dead."
+  },
+  {
+    "id": 182,
+    "line": 886,
+    "target_en": " ...That will never change."
+  },
+  {
+    "id": 183,
+    "line": 889,
+    "target_en": " ...Hahaha. You're right, Rena.\\\""
+  },
+  {
+    "id": 184,
+    "line": 894,
+    "target_en": "Come on, Rena..."
+  },
+  {
+    "id": 185,
+    "line": 896,
+    "target_en": " Try to figure out who I really am."
+  },
+  {
+    "id": 186,
+    "line": 901,
+    "target_en": "You still believe Shion, my victim, is the real culprit."
+  },
+  {
+    "id": 187,
+    "line": 906,
+    "target_en": "Poor Shion, I'm making Rena believe that you're responsible."
+  },
+  {
+    "id": 188,
+    "line": 912,
+    "target_en": "That was it for Rena, though."
+  },
+  {
+    "id": 189,
+    "line": 917,
+    "target_en": "She couldn't figure out I was Mion."
+  },
+  {
+    "id": 190,
+    "line": 925,
+    "target_en": "\\\"Please,"
+  },
+  {
+    "id": 191,
+    "line": 930,
+    "target_en": " turn yourself in.\\\""
+  },
+  {
+    "id": 192,
+    "line": 935,
+    "target_en": "Rena spoke to 'Mion.'"
+  },
+  {
+    "id": 193,
+    "line": 943,
+    "target_en": "\\\"We'll go with you."
+  },
+  {
+    "id": 194,
+    "line": 946,
+    "target_en": " ...We'll never leave a friend by herself.\\\""
+  },
+  {
+    "id": 195,
+    "line": 952,
+    "target_en": "\\\".........Crying children and Rena are the only things I can't beat!"
+  },
+  {
+    "id": 196,
+    "line": 955,
+    "target_en": " Ahahahaha...\\\""
+  },
+  {
+    "id": 197,
+    "line": 961,
+    "target_en": "Too bad, Rena."
+  },
+  {
+    "id": 198,
+    "line": 963,
+    "target_en": " I've won."
+  },
+  {
+    "id": 199,
+    "line": 969,
+    "target_en": "\\\"I'm well aware... of how serious my own crimes are."
+  },
+  {
+    "id": 200,
+    "line": 972,
+    "target_en": " ...Even if they accept me turning myself in... I'll probably never be able to come back here.\\\""
+  },
+  {
+    "id": 201,
+    "line": 980,
+    "target_en": "\\\"............\\\""
+  },
+  {
+    "id": 202,
+    "line": 986,
+    "target_en": "\\\"So, I'd like you to hear one last selfish request.\\\""
+  },
+  {
+    "id": 203,
+    "line": 994,
+    "target_en": "\\\"What is it?\\\""
+  },
+  {
+    "id": 204,
+    "line": 1000,
+    "target_en": "\\\"Thirty minutes is fine..."
+  },
+  {
+    "id": 205,
+    "line": 1003,
+    "target_en": " Just let me have some time alone with Kei-chan.\\\""
+  },
+  {
+    "id": 206,
+    "line": 1011,
+    "target_en": "\\\"......Eh?\\\""
+  },
+  {
+    "id": 207,
+    "line": 1016,
+    "target_en": "Keiichi looked startled to suddenly hear his name."
+  },
+  {
+    "id": 208,
+    "line": 1022,
+    "target_en": "You're so insensitive, Keiichi."
+  },
+  {
+    "id": 209,
+    "line": 1024,
+    "target_en": " ...That's what made my sister cry."
+  },
+  {
+    "id": 210,
+    "line": 1032,
+    "target_en": "\\\"...Keiichi-kun..."
+  },
+  {
+    "id": 211,
+    "line": 1035,
+    "target_en": " is that okay with you?"
+  },
+  {
+    "id": 212,
+    "line": 1038,
+    "target_en": " ......If you don't want to, then I won't make you.\\\""
+  },
+  {
+    "id": 213,
+    "line": 1044,
+    "target_en": "\\\"............She's right."
+  },
+  {
+    "id": 214,
+    "line": 1047,
+    "target_en": " It's okay if you don't want to."
+  },
+  {
+    "id": 215,
+    "line": 1050,
+    "target_en": " ...After all, I'm a demon..."
+  },
+  {
+    "id": 216,
+    "line": 1053,
+    "target_en": " and Kei-chan is a bona fide human who moved here from somewhere else. "
+  },
+  {
+    "id": 217,
+    "line": 1057,
+    "target_en": "...For us to be compatible... as long as Oyashiro-sama doesn't exist to mediate... it simply isn't possible.\\\""
+  },
+  {
+    "id": 218,
+    "line": 1062,
+    "target_en": "Keiichi hesitated a little."
+  },
+  {
+    "id": 219,
+    "line": 1068,
+    "target_en": "Come on, Kei-chan, condemn me."
+  },
+  {
+    "id": 220,
+    "line": 1073,
+    "target_en": "Condemn me, and tell me you'd never go."
+  },
+  {
+    "id": 221,
+    "line": 1081,
+    "target_en": "\\\"Sure."
+  },
+  {
+    "id": 222,
+    "line": 1084,
+    "target_en": " ...It's fine.\\\""
+  },
+  {
+    "id": 223,
+    "line": 1090,
+    "target_en": "\\\".........Thank you.\\\""
+  },
+  {
+    "id": 224,
+    "line": 1095,
+    "target_en": "...Fool!"
+  },
+  {
+    "id": 225,
+    "line": 1103,
+    "target_en": "\\\"......I'd like to thank you too,"
+  },
+  {
+    "id": 226,
+    "line": 1106,
+    "target_en": " Keiichi-kun.\\\""
+  },
+  {
+    "id": 227,
+    "line": 1113,
+    "target_en": "Rena stood up."
+  },
+  {
+    "id": 228,
+    "line": 1119,
+    "target_en": "As promised, she made to leave."
+  },
+  {
+    "id": 229,
+    "line": 1125,
+    "target_en": "\\\"Ah, it's fine, Rena."
+  },
+  {
+    "id": 230,
+    "line": 1128,
+    "target_en": " You can wait right here."
+  },
+  {
+    "id": 231,
+    "line": 1131,
+    "target_en": " ...I just want to go around the garden with Kei-chan."
+  },
+  {
+    "id": 232,
+    "line": 1134,
+    "target_en": " ...If you're bored, you can go to my room. You can read any manga you like. "
+  },
+  {
+    "id": 233,
+    "line": 1138,
+    "target_en": "......Ah, and if there are any volumes you want, you might as well take them.\\\""
+  },
+  {
+    "id": 234,
+    "line": 1146,
+    "target_en": "\\\"I don't want to."
+  },
+  {
+    "id": 235,
+    "line": 1149,
+    "target_en": " Mii-chan's books belong to Mii-chan."
+  },
+  {
+    "id": 236,
+    "line": 1152,
+    "target_en": " Rena couldn't bring them back home with her so freely.\\\""
+  },
+  {
+    "id": 237,
+    "line": 1158,
+    "target_en": "\\\".........You're such a good kid, only at times like this.\\\""
+  },
+  {
+    "id": 238,
+    "line": 1163,
+    "target_en": "I took Rena's head and rubbed it like Satoshi-kun used to do to me."
+  },
+  {
+    "id": 239,
+    "line": 1172,
+    "target_en": "\\\"Okay... let's go,"
+  },
+  {
+    "id": 240,
+    "line": 1175,
+    "target_en": " Kei-chan.\\\""
+  },
+  {
+    "id": 241,
+    "line": 1182,
+    "target_en": "The game was over."
+  },
+  {
+    "id": 242,
+    "line": 1187,
+    "target_en": "Too bad, Rena."
+  },
+  {
+    "id": 243,
+    "line": 1192,
+    "target_en": "At least this was more fun than if Kei-chan came alone."
+  },
+  {
+    "id": 244,
+    "line": 1198,
+    "target_en": "If he did, he could have asked me to run away with him after hearing my stories."
+  },
+  {
+    "id": 245,
+    "line": 1205,
+    "target_en": "Rena's eyes were like those of a judge."
+  },
+  {
+    "id": 246,
+    "line": 1207,
+    "target_en": " In those eyes, I sensed both affection and observance."
+  },
+  {
+    "id": 247,
+    "line": 1213,
+    "target_en": "I said thirty minutes, so she would probably only wait for thirty minutes."
+  },
+  {
+    "id": 248,
+    "line": 1218,
+    "target_en": "If I took even a second longer, she'd call Ooishi."
+  },
+  {
+    "id": 249,
+    "line": 1223,
+    "target_en": "I'm a little disappointed."
+  },
+  {
+    "id": 250,
+    "line": 1229,
+    "target_en": "Rena still thinks I'm 'Mion.'"
+  },
+  {
+    "id": 251,
+    "line": 1234,
+    "target_en": " She didn't manage to see through me."
+  },
+  {
+    "id": 252,
+    "line": 1240,
+    "target_en": "I thought someone like her would see the demon in me."
+  },
+  {
+    "id": 253,
+    "line": 1242,
+    "target_en": " I guess I was wrong..."
+  },
+  {
+    "id": 254,
+    "line": 1244,
+    "target_en": " Too bad..."
+  },
+  {
+    "id": 255,
+    "line": 1253,
+    "target_en": "Keiichi followed me after putting his shoes on."
+  },
+  {
+    "id": 256,
+    "line": 1259,
+    "target_en": "\\\"Can I... hold your arm?\\\""
+  },
+  {
+    "id": 257,
+    "line": 1264,
+    "target_en": "......Such a humble request."
+  },
+  {
+    "id": 258,
+    "line": 1272,
+    "target_en": "\\\"...I don't mind.\\\""
+  },
+  {
+    "id": 259,
+    "line": 1279,
+    "target_en": "I took Keiichi's arm."
+  },
+  {
+    "id": 260,
+    "line": 1284,
+    "target_en": "It was as warm as Satoshi-kun's... I felt a little bewildered..."
+  },
+  {
+    "id": 261,
+    "line": 1290,
+    "target_en": "\\\"...Do you get kind of nervous... with your arm through mine?"
+  },
+  {
+    "id": 262,
+    "line": 1293,
+    "target_en": " You're not thinking for example... that I'd suddenly put you in a world-class joint lock, or anything...?\\\""
+  },
+  {
+    "id": 263,
+    "line": 1301,
+    "target_en": "\\\"...You two say the same things."
+  },
+  {
+    "id": 264,
+    "line": 1304,
+    "target_en": " I don't think that."
+  },
+  {
+    "id": 265,
+    "line": 1307,
+    "target_en": " At all.\\\""
+  },
+  {
+    "id": 266,
+    "line": 1312,
+    "target_en": "He was remembering the time when I'd held his arm in town."
+  },
+  {
+    "id": 267,
+    "line": 1318,
+    "target_en": "\\\".........I think Shion liked you, Kei-chan.\\\""
+  },
+  {
+    "id": 268,
+    "line": 1324,
+    "target_en": "\\\"......I see.\\\""
+  },
+  {
+    "id": 269,
+    "line": 1329,
+    "target_en": "I told him how my sister felt."
+  },
+  {
+    "id": 270,
+    "line": 1336,
+    "target_en": "Shion was with Satoshi-kun for a long time, but what they had was friendship. They never had anything more than that."
+  },
+  {
+    "id": 271,
+    "line": 1342,
+    "target_en": "That was why she fell in love with Keiichi."
+  },
+  {
+    "id": 272,
+    "line": 1348,
+    "target_en": "If I were in her position, I would also have fallen in love with him."
+  },
+  {
+    "id": 273,
+    "line": 1353,
+    "target_en": "If Shion was able to fall in love with him"
+  },
+  {
+    "id": 274,
+    "line": 1358,
+    "target_en": " then I could fall in love with him too."
+  },
+  {
+    "id": 275,
+    "line": 1363,
+    "target_en": "Keiichi smiled gently."
+  },
+  {
+    "id": 276,
+    "line": 1368,
+    "target_en": "I almost saw Satoshi-kun in that smile."
+  },
+  {
+    "id": 277,
+    "line": 1374,
+    "target_en": "The Keiichi I knew was worthless and superficial."
+  },
+  {
+    "id": 278,
+    "line": 1379,
+    "target_en": "I never realized he could smile like Satoshi-kun..."
+  },
+  {
+    "id": 279,
+    "line": 1388,
+    "target_en": "\\\"...Mion and Shion... you got along well, didn't you...?\\\""
+  },
+  {
+    "id": 280,
+    "line": 1394,
+    "target_en": "\\\"Well......... I wonder."
+  },
+  {
+    "id": 281,
+    "line": 1397,
+    "target_en": " ...Kei-chan, do you think your right hand and left hand get along?\\\""
+  },
+  {
+    "id": 282,
+    "line": 1405,
+    "target_en": "\\\"Huh?"
+  },
+  {
+    "id": 283,
+    "line": 1408,
+    "target_en": " My right hand and left hand?"
+  },
+  {
+    "id": 284,
+    "line": 1411,
+    "target_en": " ...I don't think you could describe them as getting along or not...\\\""
+  },
+  {
+    "id": 285,
+    "line": 1417,
+    "target_en": "\\\"That's how our relationship is."
+  },
+  {
+    "id": 286,
+    "line": 1420,
+    "target_en": " You can't measure it by how well we get along.\\\""
+  },
+  {
+    "id": 287,
+    "line": 1426,
+    "target_en": "We'd been together since we were born."
+  },
+  {
+    "id": 288,
+    "line": 1431,
+    "target_en": "We'd been living in this world as a pair."
+  },
+  {
+    "id": 289,
+    "line": 1437,
+    "target_en": "But I was Mion and she was Shion."
+  },
+  {
+    "id": 290,
+    "line": 1442,
+    "target_en": "Mion was treated specially... and I insisted on being her."
+  },
+  {
+    "id": 291,
+    "line": 1447,
+    "target_en": "Of course, that was unpleasant for Shion."
+  },
+  {
+    "id": 292,
+    "line": 1452,
+    "target_en": "Deciding to be fair, we switched places all the time."
+  },
+  {
+    "id": 293,
+    "line": 1457,
+    "target_en": "We were probably different from other identical twins."
+  },
+  {
+    "id": 294,
+    "line": 1462,
+    "target_en": "We didn't only like the same things or do things the same way."
+  },
+  {
+    "id": 295,
+    "line": 1464,
+    "target_en": " We even managed to share our knowledge and experiences."
+  },
+  {
+    "id": 296,
+    "line": 1470,
+    "target_en": "When we talked about our experiences, we could share them."
+  },
+  {
+    "id": 297,
+    "line": 1475,
+    "target_en": "As Mion and Shion, we shared everything."
+  },
+  {
+    "id": 298,
+    "line": 1480,
+    "target_en": "That was why each of us was both Mion and Shion at the same time."
+  },
+  {
+    "id": 299,
+    "line": 1485,
+    "target_en": "No... maybe Shion was the only one who thought that way."
+  },
+  {
+    "id": 300,
+    "line": 1491,
+    "target_en": "I was a little different than that."
+  },
+  {
+    "id": 301,
+    "line": 1496,
+    "target_en": "I was simply letting Shion be Mion once in a while."
+  },
+  {
+    "id": 302,
+    "line": 1501,
+    "target_en": "I was Mion, the successor to the Sonozaki family."
+  },
+  {
+    "id": 303,
+    "line": 1506,
+    "target_en": "I was supposed to be treated specially."
+  },
+  {
+    "id": 304,
+    "line": 1508,
+    "target_en": " I always thought that was my privilege."
+  },
+  {
+    "id": 305,
+    "line": 1514,
+    "target_en": "Just like everyone tried to distinguish between Mion and Shion......"
+  },
+  {
+    "id": 306,
+    "line": 1519,
+    "target_en": " I also tried to distinguish between us."
+  },
+  {
+    "id": 307,
+    "line": 1528,
+    "target_en": "\\\"For example, one of your hands is dominant, so there will always be a better hand."
+  },
+  {
+    "id": 308,
+    "line": 1531,
+    "target_en": " ...If you only had one oven mitt, you would put it on your dominant hand without thinking, right? "
+  },
+  {
+    "id": 309,
+    "line": 1535,
+    "target_en": "I think maybe it was like that for us.\\\""
+  },
+  {
+    "id": 310,
+    "line": 1541,
+    "target_en": "\\\"............\\\""
+  },
+  {
+    "id": 311,
+    "line": 1547,
+    "target_en": "\\\"That doesn't mean, though, that anyone would be okay with losing their left hand."
+  },
+  {
+    "id": 312,
+    "line": 1550,
+    "target_en": " ...It's that kind of unexplainable relationship.\\\""
+  },
+  {
+    "id": 313,
+    "line": 1558,
+    "target_en": "\\\"......I think that maybe... you lived too close together, and just stopped being able to see it, but..."
+  },
+  {
+    "id": 314,
+    "line": 1561,
+    "target_en": " I think that means you get along really well. "
+  },
+  {
+    "id": 315,
+    "line": 1568,
+    "target_en": "...I'm an only child, so... the day before the festival..."
+  },
+  {
+    "id": 316,
+    "line": 1571,
+    "target_en": " I was really jealous of when you and Shion were messing around with each other.\\\""
+  },
+  {
+    "id": 317,
+    "line": 1577,
+    "target_en": "\\\"...I think you're jealous of something that doesn't exist."
+  },
+  {
+    "id": 318,
+    "line": 1580,
+    "target_en": " Yes, we twins used to have a lot of fun trading places with each other... "
+  },
+  {
+    "id": 319,
+    "line": 1584,
+    "target_en": "But now that we have such distinctly different personalities, our resemblance only gets in the way.\\\""
+  },
+  {
+    "id": 320,
+    "line": 1590,
+    "target_en": "As an older sister, I felt I was mean for thinking that way... so as punishment, I became Shion."
+  },
+  {
+    "id": 321,
+    "line": 1595,
+    "target_en": "......Who am I?"
+  },
+  {
+    "id": 322,
+    "line": 1600,
+    "target_en": "I never had a solid identity in the first place."
+  },
+  {
+    "id": 323,
+    "line": 1606,
+    "target_en": "I was Mion."
+  },
+  {
+    "id": 324,
+    "line": 1608,
+    "target_en": " Then I was Shion."
+  },
+  {
+    "id": 325,
+    "line": 1613,
+    "target_en": "I should have just accepted that."
+  },
+  {
+    "id": 326,
+    "line": 1618,
+    "target_en": "But something has changed."
+  },
+  {
+    "id": 327,
+    "line": 1620,
+    "target_en": " ...I don't even know if I'm Mion or Shion anymore."
+  },
+  {
+    "id": 328,
+    "line": 1625,
+    "target_en": "Had I really been stupid enough to hope that Rena would figure that out for me?"
+  },
+  {
+    "id": 329,
+    "line": 1633,
+    "target_en": "\\\".........Shion is... still alive.\\\""
+  },
+  {
+    "id": 330,
+    "line": 1639,
+    "target_en": "\\\"...Really?\\\""
+  },
+  {
+    "id": 331,
+    "line": 1644,
+    "target_en": "Keiichi looked into my eyes."
+  },
+  {
+    "id": 332,
+    "line": 1646,
+    "target_en": " I nodded quietly."
+  },
+  {
+    "id": 333,
+    "line": 1652,
+    "target_en": "\\\".........Yeah."
+  },
+  {
+    "id": 334,
+    "line": 1655,
+    "target_en": " ...I'd been thinking to give her the most horrible death of all, so I kept her locked up."
+  },
+  {
+    "id": 335,
+    "line": 1658,
+    "target_en": " ......I never did think of a good way to do it, though.\\\""
+  },
+  {
+    "id": 336,
+    "line": 1664,
+    "target_en": "This was a lie."
+  },
+  {
+    "id": 337,
+    "line": 1669,
+    "target_en": "I've already come up with ideas."
+  },
+  {
+    "id": 338,
+    "line": 1671,
+    "target_en": " And I've already begun to execute them."
+  },
+  {
+    "id": 339,
+    "line": 1677,
+    "target_en": "I dumped the hag into the well in front of Shion."
+  },
+  {
+    "id": 340,
+    "line": 1679,
+    "target_en": " I dumped Kimiyoshi and Rika in there."
+  },
+  {
+    "id": 341,
+    "line": 1681,
+    "target_en": " I even killed Satoko, too."
+  },
+  {
+    "id": 342,
+    "line": 1687,
+    "target_en": "And right now, I'm plotting to kill Keiichi, who Shion fell in love with."
+  },
+  {
+    "id": 343,
+    "line": 1692,
+    "target_en": "I am a demon."
+  },
+  {
+    "id": 344,
+    "line": 1694,
+    "target_en": " Any such gruesome act is simply pleasure to me."
+  },
+  {
+    "id": 345,
+    "line": 1699,
+    "target_en": "That's when I felt a warm hand rubbing my head."
+  },
+  {
+    "id": 346,
+    "line": 1704,
+    "target_en": "It wasn't Satoshi's hand, but Keiichi's."
+  },
+  {
+    "id": 347,
+    "line": 1710,
+    "target_en": "Keiichi and Satoshi-kun are totally different."
+  },
+  {
+    "id": 348,
+    "line": 1712,
+    "target_en": " Why did Shion fall in love with him?"
+  },
+  {
+    "id": 349,
+    "line": 1717,
+    "target_en": "His rough hand didn't make me happy."
+  },
+  {
+    "id": 350,
+    "line": 1722,
+    "target_en": "That he understood my feelings was just my imagination."
+  },
+  {
+    "id": 351,
+    "line": 1727,
+    "target_en": "I wasn't happy, and it didn't feel good, it didn't..."
+  },
+  {
+    "id": 352,
+    "line": 1733,
+    "target_en": "\\\".........Come with me."
+  },
+  {
+    "id": 353,
+    "line": 1736,
+    "target_en": " ...I want you to see all of my sins."
+  },
+  {
+    "id": 354,
+    "line": 1739,
+    "target_en": " ...Although, Kei-chan... it might be the worst thing you've ever seen.\\\""
+  },
+  {
+    "id": 355,
+    "line": 1744,
+    "target_en": "I am going to commit my final crime."
+  },
+  {
+    "id": 356,
+    "line": 1749,
+    "target_en": "I am going to let you see it."
+  },
+  {
+    "id": 357,
+    "line": 1754,
+    "target_en": "I am going to let Shion see it."
+  },
+  {
+    "id": 358,
+    "line": 1760,
+    "target_en": "When I do, are you still going to think I'm your best friend?"
+  },
+  {
+    "id": 359,
+    "line": 1765,
+    "target_en": "Poor Shion..."
+  },
+  {
+    "id": 360,
+    "line": 1770,
+    "target_en": "Kei-chan is going to die thinking it's you who's killing him."
+  },
+  {
+    "id": 361,
+    "line": 1778,
+    "target_en": "\\\".........If you want to turn back, now's your chance."
+  },
+  {
+    "id": 362,
+    "line": 1781,
+    "target_en": " I don't know what impression you have of Mion Sonozaki, but..."
+  },
+  {
+    "id": 363,
+    "line": 1784,
+    "target_en": " it will surely change... once you go inside......"
+  },
+  {
+    "id": 364,
+    "line": 1789,
+    "target_en": "..................\\\""
+  },
+  {
+    "id": 365,
+    "line": 1797,
+    "target_en": "\\\"It'll never change."
+  },
+  {
+    "id": 366,
+    "line": 1800,
+    "target_en": " I'll say it as many times as I need to."
+  },
+  {
+    "id": 367,
+    "line": 1803,
+    "target_en": " ...Mion Sonozaki is the best friend I could ever have.\\\""
+  },
+  {
+    "id": 368,
+    "line": 1809,
+    "target_en": "You are such a fool."
+  },
+  {
+    "id": 369,
+    "line": 1811,
+    "target_en": " You don't sound cool at all..."
+  },
+  {
+    "id": 370,
+    "line": 1816,
+    "target_en": "I don't understand human feelings because I'm now a demon,"
+  },
+  {
+    "id": 371,
+    "line": 1818,
+    "target_en": " but... I think I can understand why she loves you."
+  },
+  {
+    "id": 372,
+    "line": 1824,
+    "target_en": "I opened the iron door to the underground storehouse and beckoned Keiichi inside."
+  },
+  {
+    "id": 373,
+    "line": 1829,
+    "target_en": "Come on, Keiichi."
+  },
+  {
+    "id": 374,
+    "line": 1831,
+    "target_en": " This is obviously a trap, don't you see?"
+  },
+  {
+    "id": 375,
+    "line": 1836,
+    "target_en": "This basement is transparently suspicious."
+  },
+  {
+    "id": 376,
+    "line": 1838,
+    "target_en": " Don't you think you should run to the police?"
+  },
+  {
+    "id": 377,
+    "line": 1843,
+    "target_en": "But Keiichi was reckless."
+  },
+  {
+    "id": 378,
+    "line": 1845,
+    "target_en": " ...He swallowed, then stepped inside."
+  },
+  {
+    "id": 379,
+    "line": 1850,
+    "target_en": ".........Hah."
+  },
+  {
+    "id": 380,
+    "line": 1852,
+    "target_en": " You really are... a fool."
+  },
+  {
+    "id": 381,
+    "line": 1858,
+    "target_en": "We went down the stairs to the basement, and I let him into the torture room."
+  },
+  {
+    "id": 382,
+    "line": 1867,
+    "target_en": "Everyone is shocked their first time visiting this room."
+  },
+  {
+    "id": 383,
+    "line": 1871,
+    "target_en": "...I used to be that way."
+  },
+  {
+    "id": 384,
+    "line": 1876,
+    "target_en": "...Of course, Keiichi looked surprised too."
+  },
+  {
+    "id": 385,
+    "line": 1881,
+    "target_en": "...But he was trying not to show it."
+  },
+  {
+    "id": 386,
+    "line": 1887,
+    "target_en": "Obviously he wanted to express his shock at seeing this horrifying room."
+  },
+  {
+    "id": 387,
+    "line": 1889,
+    "target_en": " But... he also knew that if he voiced that shock, that he would be rejecting his best friend, who was trying to confess her sins to him..."
+  },
+  {
+    "id": 388,
+    "line": 1894,
+    "target_en": "...So he did everything he could to stifle his surprise."
+  },
+  {
+    "id": 389,
+    "line": 1900,
+    "target_en": " \\\"...According to something a family head from a long time ago wrote..."
+  },
+  {
+    "id": 390,
+    "line": 1903,
+    "target_en": " Blood splatter has impact, despite the fact that it doesn't tax the sacrifice. "
+  },
+  {
+    "id": 391,
+    "line": 1907,
+    "target_en": "...Watanagashi was meant as a deterrent, after all."
+  },
+  {
+    "id": 392,
+    "line": 1910,
+    "target_en": " My ancestors thought up all different kinds of showy torture."
+  },
+  {
+    "id": 393,
+    "line": 1913,
+    "target_en": " ......That's a space for the audience."
+  },
+  {
+    "id": 394,
+    "line": 1916,
+    "target_en": " ...Watanagashi is a deterrent, after all."
+  },
+  {
+    "id": 395,
+    "line": 1922,
+    "target_en": "It wouldn't make sense if there were no guests.\\\""
+  },
+  {
+    "id": 396,
+    "line": 1930,
+    "target_en": "\\\"..................\\\""
+  },
+  {
+    "id": 397,
+    "line": 1935,
+    "target_en": "Keiichi smiled quietly as he listened to me."
+  },
+  {
+    "id": 398,
+    "line": 1937,
+    "target_en": " No matter what cruelty came out of my mouth..."
+  },
+  {
+    "id": 399,
+    "line": 1943,
+    "target_en": "He would embrace me."
+  },
+  {
+    "id": 400,
+    "line": 1948,
+    "target_en": "Was this really the superficial Keiichi Maebara I knew? "
+  },
+  {
+    "id": 401,
+    "line": 1955,
+    "target_en": "\\\"Right here... .........is where I killed everyone."
+  },
+  {
+    "id": 402,
+    "line": 1958,
+    "target_en": " ...There were no spectators to watch me... but I held a Watanagashi of my own. "
+  },
+  {
+    "id": 403,
+    "line": 1962,
+    "target_en": "...Well, perhaps there was one spectator.\\\""
+  },
+  {
+    "id": 404,
+    "line": 1968,
+    "target_en": "\\\"...Huh?"
+  },
+  {
+    "id": 405,
+    "line": 1971,
+    "target_en": " A spectator...?\\\""
+  },
+  {
+    "id": 406,
+    "line": 1977,
+    "target_en": "\\\"...Me."
+  },
+  {
+    "id": 407,
+    "line": 1980,
+    "target_en": " I, the demon, was watching the entire time Mion held the ceremony.\\\""
+  },
+  {
+    "id": 408,
+    "line": 1985,
+    "target_en": "I started to laugh."
+  },
+  {
+    "id": 409,
+    "line": 1991,
+    "target_en": "How many hints do you need, Keiichi? When are you going to figure out I'm not really your best friend?"
+  },
+  {
+    "id": 410,
+    "line": 1996,
+    "target_en": "Come on, hurry up... you're running out of time. The game is... almost over."
+  },
+  {
+    "id": 411,
+    "line": 2001,
+    "target_en": "This was a game."
+  },
+  {
+    "id": 412,
+    "line": 2006,
+    "target_en": "This was a game of murder. I had killed people, using my revenge for Satoshi-kun as an excuse."
+  },
+  {
+    "id": 413,
+    "line": 2011,
+    "target_en": "The demon was trying to capture Keiichi and kill him before Mion's eyes."
+  },
+  {
+    "id": 414,
+    "line": 2016,
+    "target_en": "But Keiichi had a chance."
+  },
+  {
+    "id": 415,
+    "line": 2022,
+    "target_en": "If he figured out I wasn't his best friend, then he'd win."
+  },
+  {
+    "id": 416,
+    "line": 2027,
+    "target_en": "If not, he was out."
+  },
+  {
+    "id": 417,
+    "line": 2032,
+    "target_en": "When did I come up with that rule?"
+  },
+  {
+    "id": 418,
+    "line": 2037,
+    "target_en": "I guess it was sometime today."
+  },
+  {
+    "id": 419,
+    "line": 2039,
+    "target_en": " Or did I come up with it just a minute ago?"
+  },
+  {
+    "id": 420,
+    "line": 2044,
+    "target_en": "Since the two of them aren't too bright, I decided to be easy on them, I guess."
+  },
+  {
+    "id": 421,
+    "line": 2049,
+    "target_en": "You are Mion's best friends, right?"
+  },
+  {
+    "id": 422,
+    "line": 2054,
+    "target_en": "Don't you believe in her?"
+  },
+  {
+    "id": 423,
+    "line": 2060,
+    "target_en": "Have you already made Mion into a murderer within yourselves?"
+  },
+  {
+    "id": 424,
+    "line": 2065,
+    "target_en": "Why don't you try to protect the Mion within you?"
+  },
+  {
+    "id": 425,
+    "line": 2070,
+    "target_en": "Why don't you try to believe your friend can't be a murderer?"
+  },
+  {
+    "id": 426,
+    "line": 2076,
+    "target_en": "If you could believe until the very end, like Satoko did..."
+  },
+  {
+    "id": 427,
+    "line": 2081,
+    "target_en": "You would have realized I wasn't Mion, your best friend, but just someone who looks like her."
+  },
+  {
+    "id": 428,
+    "line": 2086,
+    "target_en": "But if you can't, if you still believe that I'm Mion..."
+  },
+  {
+    "id": 429,
+    "line": 2092,
+    "target_en": "Then you're just like me."
+  },
+  {
+    "id": 430,
+    "line": 2097,
+    "target_en": "I killed the Satoshi-kun within me so easily, and you will do the same. You don't deserve to live."
+  },
+  {
+    "id": 431,
+    "line": 2103,
+    "target_en": "\\\"Back there is the prison.\\\""
+  },
+  {
+    "id": 432,
+    "line": 2109,
+    "target_en": "\\\"...Is Shion there...?\\\""
+  },
+  {
+    "id": 433,
+    "line": 2114,
+    "target_en": "You're not going to make it."
+  },
+  {
+    "id": 434,
+    "line": 2119,
+    "target_en": "Once we reach Shion's cell, your time is up."
+  },
+  {
+    "id": 435,
+    "line": 2121,
+    "target_en": " The demon will win."
+  },
+  {
+    "id": 436,
+    "line": 2127,
+    "target_en": "\\\".........Shion?!"
+  },
+  {
+    "id": 437,
+    "line": 2130,
+    "target_en": " .........Is that Shion?!?!\\\""
+  },
+  {
+    "id": 438,
+    "line": 2136,
+    "target_en": "\\\"Ke... Kei-chan?!"
+  },
+  {
+    "id": 439,
+    "line": 2139,
+    "target_en": " Is that you, Kei-chan?!\\\""
+  },
+  {
+    "id": 440,
+    "line": 2144,
+    "target_en": "Keiichi ran to the cell."
+  },
+  {
+    "id": 441,
+    "line": 2150,
+    "target_en": "\\\"Are you all right, Shion?!"
+  },
+  {
+    "id": 442,
+    "line": 2153,
+    "target_en": " Are you hurt...?!\\\""
+  },
+  {
+    "id": 443,
+    "line": 2159,
+    "target_en": "\\\"...N...... no...... no........."
+  },
+  {
+    "id": 444,
+    "line": 2164,
+    "target_en": " nooooooooooooooooo!!!!\\\""
+  },
+  {
+    "id": 445,
+    "line": 2169,
+    "target_en": "Shion screamed."
+  },
+  {
+    "id": 446,
+    "line": 2174,
+    "target_en": "I was standing right behind Keiichi."
+  },
+  {
+    "id": 447,
+    "line": 2180,
+    "target_en": "...It was time."
+  },
+  {
+    "id": 448,
+    "line": 2182,
+    "target_en": " My preparations to kill the boy she loved were complete. For her, this was going to be the worst possible torture."
+  },
+  {
+    "id": 449,
+    "line": 2188,
+    "target_en": "\\\"Calm down, Shion."
+  },
+  {
+    "id": 450,
+    "line": 2191,
+    "target_en": " ...Everything is over now."
+  },
+  {
+    "id": 451,
+    "line": 2194,
+    "target_en": " Everything.\\\""
+  },
+  {
+    "id": 452,
+    "line": 2199,
+    "target_en": "Keiichi tried to quell Shion's distress by talking to her in a calm voice."
+  },
+  {
+    "id": 453,
+    "line": 2205,
+    "target_en": "It was such a funny sight."
+  },
+  {
+    "id": 454,
+    "line": 2210,
+    "target_en": "Keiichi was the only one who had no idea what was going on."
+  },
+  {
+    "id": 455,
+    "line": 2216,
+    "target_en": "\\\"Shion."
+  },
+  {
+    "id": 456,
+    "line": 2219,
+    "target_en": " ...How have you been...?\\\""
+  },
+  {
+    "id": 457,
+    "line": 2225,
+    "target_en": "\\\"No more... please...!"
+  },
+  {
+    "id": 458,
+    "line": 2228,
+    "target_en": " No more!!"
+  },
+  {
+    "id": 459,
+    "line": 2231,
+    "target_en": " I don't want to see anyone else die!!!"
+  },
+  {
+    "id": 460,
+    "line": 2234,
+    "target_en": " If you hate me... then just kill me already!!!"
+  },
+  {
+    "id": 461,
+    "line": 2237,
+    "target_en": " I'm the one you hate most, right?!"
+  },
+  {
+    "id": 462,
+    "line": 2240,
+    "target_en": " Kill me, kill me right now!!"
+  },
+  {
+    "id": 463,
+    "line": 2243,
+    "target_en": " Siiiiiiiiiiiiis!!!!\\\""
+  },
+  {
+    "id": 464,
+    "line": 2249,
+    "target_en": "\\\"C... Calm down, Shion!"
+  },
+  {
+    "id": 465,
+    "line": 2252,
+    "target_en": " It's all over now."
+  },
+  {
+    "id": 466,
+    "line": 2255,
+    "target_en": " ...It's going to be alright."
+  },
+  {
+    "id": 467,
+    "line": 2258,
+    "target_en": " So calm down...\\\""
+  },
+  {
+    "id": 468,
+    "line": 2264,
+    "target_en": "\\\"Relax."
+  },
+  {
+    "id": 469,
+    "line": 2267,
+    "target_en": " I won't kill you."
+  },
+  {
+    "id": 470,
+    "line": 2270,
+    "target_en": " ...No, I won't kill you just yet."
+  },
+  {
+    "id": 471,
+    "line": 2273,
+    "target_en": " Heh heh heh heh heh heh heh heh heh...!!\\\""
+  },
+  {
+    "id": 472,
+    "line": 2279,
+    "target_en": "It's game over!!!"
+  },
+  {
+    "id": 473,
+    "line": 2284,
+    "target_en": "I gave you enough chances."
+  },
+  {
+    "id": 474,
+    "line": 2289,
+    "target_en": "You cornered me quite well, once."
+  },
+  {
+    "id": 475,
+    "line": 2295,
+    "target_en": "But that was it."
+  },
+  {
+    "id": 476,
+    "line": 2300,
+    "target_en": "You couldn't figure out that I'm not your best friend, Mion."
+  },
+  {
+    "id": 477,
+    "line": 2305,
+    "target_en": "You couldn't believe that Mion isn't a murderer."
+  },
+  {
+    "id": 478,
+    "line": 2311,
+    "target_en": "\\\"Please stoooooop!!!"
+  },
+  {
+    "id": 479,
+    "line": 2314,
+    "target_en": " Don't kill Kei-chaaaaan!!"
+  },
+  {
+    "id": 480,
+    "line": 2317,
+    "target_en": " Kei-chan has nothing to do with this, does he?!"
+  },
+  {
+    "id": 481,
+    "line": 2320,
+    "target_en": " If you're going to kill someone... then kill me right now!!!"
+  },
+  {
+    "id": 482,
+    "line": 2323,
+    "target_en": " I don't want anyone else... to dieeeeeeeee!!!!\\\""
+  },
+  {
+    "id": 483,
+    "line": 2329,
+    "target_en": "\\\"Ah-hahahahahahahahahahahahahahahahahahah!!!"
+  },
+  {
+    "id": 484,
+    "line": 2332,
+    "target_en": " If you want to die that badly, then after I've killed this man, I'll take my time making mincemeat out of you. "
+  },
+  {
+    "id": 485,
+    "line": 2336,
+    "target_en": "...In accordance with the ancient rites, I'll do it slowly, starting with your extremities."
+  },
+  {
+    "id": 486,
+    "line": 2339,
+    "target_en": " I'll shave you down and mince you to bits."
+  },
+  {
+    "id": 487,
+    "line": 2342,
+    "target_en": " I had that mincing machine set up specifically for you, after all. "
+  },
+  {
+    "id": 488,
+    "line": 2346,
+    "target_en": "...Or would it be funnier if I were to mince up Kei-chan in front of you?\\\""
+  },
+  {
+    "id": 489,
+    "line": 2352,
+    "target_en": "\\\"...H-Hey, quit it already!"
+  },
+  {
+    "id": 490,
+    "line": 2355,
+    "target_en": " What do you have to gain by scaring her at this point...?!\\\""
+  },
+  {
+    "id": 491,
+    "line": 2361,
+    "target_en": "\\\"Nooooo!"
+  },
+  {
+    "id": 492,
+    "line": 2364,
+    "target_en": " Kei-chan, run awaaaaayyyyyy!!!\\\""
+  },
+  {
+    "id": 493,
+    "line": 2373,
+    "target_en": "Here you are, demon."
+  },
+  {
+    "id": 494,
+    "line": 2378,
+    "target_en": "Go ahead and take my soul."
+  },
+  {
+    "id": 495,
+    "line": 2383,
+    "target_en": "I'd been living my life to avenge Satoshi-kun..."
+  },
+  {
+    "id": 496,
+    "line": 2388,
+    "target_en": "But that wasn't what he wanted from me."
+  },
+  {
+    "id": 497,
+    "line": 2390,
+    "target_en": " That was just for my own satisfaction."
+  },
+  {
+    "id": 498,
+    "line": 2396,
+    "target_en": "I couldn't even face Satoshi-kun."
+  },
+  {
+    "id": 499,
+    "line": 2401,
+    "target_en": "So, I'll bring this to an end in the way I want."
+  },
+  {
+    "id": 500,
+    "line": 2406,
+    "target_en": "The world became a total mess."
+  },
+  {
+    "id": 501,
+    "line": 2411,
+    "target_en": "Satoshi-kun hates me and I hate myself too."
+  },
+  {
+    "id": 502,
+    "line": 2416,
+    "target_en": "I'm going to complete my revenge."
+  },
+  {
+    "id": 503,
+    "line": 2421,
+    "target_en": "I don't want anyone to sympathize with me."
+  },
+  {
+    "id": 504,
+    "line": 2426,
+    "target_en": "I won't pretend to be some tragic heroine either."
+  },
+  {
+    "id": 505,
+    "line": 2431,
+    "target_en": "I'm going to become a murderer that nobody could sympathize with."
+  },
+  {
+    "id": 506,
+    "line": 2437,
+    "target_en": "So please..."
+  },
+  {
+    "id": 507,
+    "line": 2442,
+    "target_en": " Grant a suitable final moment to me..."
+  },
+  {
+    "id": 508,
+    "line": 2449,
+    "target_en": "A bluish-white flash filled the huge cave."
+  },
+  {
+    "id": 509,
+    "line": 2454,
+    "target_en": "Keiichi fell down like a doll."
+  },
+  {
+    "id": 510,
+    "line": 2459,
+    "target_en": "Shion reached out to him from the other side of the bars."
+  },
+  {
+    "id": 511,
+    "line": 2464,
+    "target_en": "She screamed at me not to kill Keiichi."
+  },
+  {
+    "id": 512,
+    "line": 2469,
+    "target_en": "Go ahead, cry and blame me."
+  },
+  {
+    "id": 513,
+    "line": 2474,
+    "target_en": "Don't even think of offering your forgiveness."
+  },
+  {
+    "id": 514,
+    "line": 2479,
+    "target_en": "I am the most rotten existence in this world."
+  },
+  {
+    "id": 515,
+    "line": 2484,
+    "target_en": "So please, grant me the worst possible ending."
+  },
+  {
+    "id": 516,
+    "line": 2489,
+    "target_en": "Shion begged me desperately to let Keiichi go. I simply abused her,"
+  },
+  {
+    "id": 517,
+    "line": 2494,
+    "target_en": " slandered her,"
+  },
+  {
+    "id": 518,
+    "line": 2499,
+    "target_en": " and disgraced her."
+  },
+  {
+    "id": 519,
+    "line": 2505,
+    "target_en": "The more Shion suffered, the deeper I'd fall into Hell."
+  },
+  {
+    "id": 520,
+    "line": 2511,
+    "target_en": "It wasn't enough."
+  },
+  {
+    "id": 521,
+    "line": 2513,
+    "target_en": " It wasn't even close to deep enough."
+  },
+  {
+    "id": 522,
+    "line": 2518,
+    "target_en": "It wasn't deep enough to compensate for my sins."
+  },
+  {
+    "id": 523,
+    "line": 2523,
+    "target_en": "I dragged Keiichi to the table that I tried to put Satoko on, and restrained him there."
+  },
+  {
+    "id": 524,
+    "line": 2528,
+    "target_en": "Keiichi began to move sluggishly."
+  },
+  {
+    "id": 525,
+    "line": 2533,
+    "target_en": "The stun gun must have not worked too well on him."
+  },
+  {
+    "id": 526,
+    "line": 2539,
+    "target_en": "\\\"Can you hear it, Shion!?"
+  },
+  {
+    "id": 527,
+    "line": 2542,
+    "target_en": " I'm going to get started now!!"
+  },
+  {
+    "id": 528,
+    "line": 2545,
+    "target_en": " Savor Kei-chan's fresh screams to your heart's content!!\\\""
+  }
+]

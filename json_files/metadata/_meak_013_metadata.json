@@ -1,0 +1,3247 @@
+[
+  {
+    "id": 1,
+    "line": 18,
+    "target_en": "I woke up."
+  },
+  {
+    "id": 2,
+    "line": 24,
+    "target_en": "...My memories were missing. I couldn't remember how I got back to my room..."
+  },
+  {
+    "id": 3,
+    "line": 26,
+    "target_en": " I held my head with both hands."
+  },
+  {
+    "id": 4,
+    "line": 31,
+    "target_en": "My left hand was bandaged."
+  },
+  {
+    "id": 5,
+    "line": 36,
+    "target_en": "The fingers that had their nails removed had swollen like hotdogs."
+  },
+  {
+    "id": 6,
+    "line": 42,
+    "target_en": "...I'd paid with those three fingernails for what I did."
+  },
+  {
+    "id": 7,
+    "line": 48,
+    "target_en": "The hag had said something after the punishment, but I didn't remember any of it."
+  },
+  {
+    "id": 8,
+    "line": 54,
+    "target_en": "I was taken to a hospital in Okinomiya."
+  },
+  {
+    "id": 9,
+    "line": 60,
+    "target_en": "The car shook on the way, adding extra pain on top of what I already felt."
+  },
+  {
+    "id": 10,
+    "line": 66,
+    "target_en": "...Somebody gave me some aspirin."
+  },
+  {
+    "id": 11,
+    "line": 71,
+    "target_en": "They worked just like they said on TV..."
+  },
+  {
+    "id": 12,
+    "line": 76,
+    "target_en": "but they didn't last more than ten minutes..."
+  },
+  {
+    "id": 13,
+    "line": 78,
+    "target_en": " I swallowed the pills without water."
+  },
+  {
+    "id": 14,
+    "line": 84,
+    "target_en": "...While I was spacing out in the waiting lounge..."
+  },
+  {
+    "id": 15,
+    "line": 92,
+    "target_en": " ......Kasai showed up."
+  },
+  {
+    "id": 16,
+    "line": 97,
+    "target_en": "He probably came to check if I was all right."
+  },
+  {
+    "id": 17,
+    "line": 102,
+    "target_en": "I obviously wasn't. He must've understood that from my bandaged left arm dangling from my shoulder."
+  },
+  {
+    "id": 18,
+    "line": 107,
+    "target_en": "Kasai, on the other hand, looked just fine."
+  },
+  {
+    "id": 19,
+    "line": 112,
+    "target_en": "...At least on the outside."
+  },
+  {
+    "id": 20,
+    "line": 118,
+    "target_en": "...I was relieved that my sacrifice had meant something."
+  },
+  {
+    "id": 21,
+    "line": 126,
+    "target_en": "Kasai didn't say anything."
+  },
+  {
+    "id": 22,
+    "line": 131,
+    "target_en": "......I couldn't tell if he wanted to tell me something or not, because he looked so emotionless."
+  },
+  {
+    "id": 23,
+    "line": 137,
+    "target_en": "\\\".....................Kasai.\\\""
+  },
+  {
+    "id": 24,
+    "line": 143,
+    "target_en": "\\\".........Yes?\\\""
+  },
+  {
+    "id": 25,
+    "line": 149,
+    "target_en": "\\\".....................\\\""
+  },
+  {
+    "id": 26,
+    "line": 154,
+    "target_en": "He paused shortly before answering. I could tell he was upset."
+  },
+  {
+    "id": 27,
+    "line": 159,
+    "target_en": "...I didn't regret revealing my true identity in order to protect Satoshi-kun."
+  },
+  {
+    "id": 28,
+    "line": 164,
+    "target_en": "But... I hadn't wanted Kasai or Uncle Yoshiroh to be hurt...... I had been contradicting myself."
+  },
+  {
+    "id": 29,
+    "line": 170,
+    "target_en": "\\\"......Do you know how Uncle Yoshiroh is doing...?\\\""
+  },
+  {
+    "id": 30,
+    "line": 176,
+    "target_en": "\\\"No.\\\""
+  },
+  {
+    "id": 31,
+    "line": 182,
+    "target_en": "\\\".....................\\\""
+  },
+  {
+    "id": 32,
+    "line": 191,
+    "target_en": "\\\"...I'm sure he's all right,"
+  },
+  {
+    "id": 33,
+    "line": 194,
+    "target_en": " because he's strong."
+  },
+  {
+    "id": 34,
+    "line": 197,
+    "target_en": " Even so, you should apologize to him.\\\""
+  },
+  {
+    "id": 35,
+    "line": 203,
+    "target_en": "\\\"..............................Okay...\\\""
+  },
+  {
+    "id": 36,
+    "line": 208,
+    "target_en": "...I wanted to ask him about Satoshi-kun, too."
+  },
+  {
+    "id": 37,
+    "line": 213,
+    "target_en": "I wondered if he was captured or harassed by the Sonozaki family because of me."
+  },
+  {
+    "id": 38,
+    "line": 218,
+    "target_en": "But... I was hesitant to ask Kasai..."
+  },
+  {
+    "id": 39,
+    "line": 223,
+    "target_en": "After all, I'd chosen Satoshi-kun over them..."
+  },
+  {
+    "id": 40,
+    "line": 229,
+    "target_en": "...Was Satoshi-kun all right?"
+  },
+  {
+    "id": 41,
+    "line": 235,
+    "target_en": "I hoped he wouldn't get caught or incarcerated somewhere..."
+  },
+  {
+    "id": 42,
+    "line": 240,
+    "target_en": "...I paid the hospital bill, and Kasai gave me a ride home..."
+  },
+  {
+    "id": 43,
+    "line": 250,
+    "target_en": "...I finally realized that somebody was knocking on my door."
+  },
+  {
+    "id": 44,
+    "line": 260,
+    "target_en": "\\\"Shion-san..."
+  },
+  {
+    "id": 45,
+    "line": 263,
+    "target_en": " it's not healthy to sleep so much.\\\""
+  },
+  {
+    "id": 46,
+    "line": 268,
+    "target_en": "It was Kasai."
+  },
+  {
+    "id": 47,
+    "line": 274,
+    "target_en": "He put some side dishes on the table, and we started nibbling at them..."
+  },
+  {
+    "id": 48,
+    "line": 288,
+    "target_en": "\\\"....How do you feel?\\\""
+  },
+  {
+    "id": 49,
+    "line": 294,
+    "target_en": "\\\"...Depressed..."
+  },
+  {
+    "id": 50,
+    "line": 297,
+    "target_en": " Hah...\\\""
+  },
+  {
+    "id": 51,
+    "line": 303,
+    "target_en": "\\\"Have you been resting?"
+  },
+  {
+    "id": 52,
+    "line": 306,
+    "target_en": " Have you been eating?\\\""
+  },
+  {
+    "id": 53,
+    "line": 312,
+    "target_en": "\\\"...I've been eating the stuff left in the fridge."
+  },
+  {
+    "id": 54,
+    "line": 315,
+    "target_en": " Otherwise, I've been either sleeping or staring at the ceiling.\\\""
+  },
+  {
+    "id": 55,
+    "line": 321,
+    "target_en": "It had been three days..."
+  },
+  {
+    "id": 56,
+    "line": 323,
+    "target_en": " I'd just been lying down since then."
+  },
+  {
+    "id": 57,
+    "line": 328,
+    "target_en": "I woke up every now and then in my shallow sleep, but I didn't feel like getting up or thinking. I felt like I'd just been floating the whole time."
+  },
+  {
+    "id": 58,
+    "line": 333,
+    "target_en": "My appetite was gone, but it came back with the smell of the food Kasai brought."
+  },
+  {
+    "id": 59,
+    "line": 338,
+    "target_en": "I wasn't able to think of anything to talk to Kasai about... so I just ate silently."
+  },
+  {
+    "id": 60,
+    "line": 345,
+    "target_en": "\\\"I got a call from Mion-san yesterday......"
+  },
+  {
+    "id": 61,
+    "line": 348,
+    "target_en": " She was saying she called you a few times, but never got through.\\\""
+  },
+  {
+    "id": 62,
+    "line": 353,
+    "target_en": "The moment I heard Mion's name... I felt my wounds throb."
+  },
+  {
+    "id": 63,
+    "line": 358,
+    "target_en": "But I didn't stop Kasai, who continued."
+  },
+  {
+    "id": 64,
+    "line": 369,
+    "target_en": "\\\".........They're finally acknowledging my right to make my own decisions, huh...?\\\""
+  },
+  {
+    "id": 65,
+    "line": 375,
+    "target_en": "\\\"...Indeed."
+  },
+  {
+    "id": 66,
+    "line": 378,
+    "target_en": " They said you could live as yourself now... under a few conditions."
+  },
+  {
+    "id": 67,
+    "line": 381,
+    "target_en": " You will stay away from Hinamizawa,"
+  },
+  {
+    "id": 68,
+    "line": 384,
+    "target_en": " you won't pretend to be Mion Sonozaki, "
+  },
+  {
+    "id": 69,
+    "line": 388,
+    "target_en": "you won't show up in public places... and so on. This means...\\\""
+  },
+  {
+    "id": 70,
+    "line": 394,
+    "target_en": "\\\"In exchange for acknowledging me, they don't want me to hang around.\\\""
+  },
+  {
+    "id": 71,
+    "line": 400,
+    "target_en": "\\\"That's correct..."
+  },
+  {
+    "id": 72,
+    "line": 403,
+    "target_en": " Of course, it is only temporary"
+  },
+  {
+    "id": 73,
+    "line": 406,
+    "target_en": " until things cool down."
+  },
+  {
+    "id": 74,
+    "line": 409,
+    "target_en": " There is no set duration, but I think you should stay inconspicuous at least until the end of the year.\\\""
+  },
+  {
+    "id": 75,
+    "line": 415,
+    "target_en": "\\\"...It'd be good enough just to live in Okinomiya quietly..."
+  },
+  {
+    "id": 76,
+    "line": 418,
+    "target_en": " the way it was before.\\\""
+  },
+  {
+    "id": 77,
+    "line": 423,
+    "target_en": "Kasai put on a sad smile."
+  },
+  {
+    "id": 78,
+    "line": 428,
+    "target_en": "I smiled back at him likewise."
+  },
+  {
+    "id": 79,
+    "line": 434,
+    "target_en": "Before the conversation ended... I should ask him what I wanted to know."
+  },
+  {
+    "id": 80,
+    "line": 444,
+    "target_en": "\\\".........How's Satoshi-kun"
+  },
+  {
+    "id": 81,
+    "line": 449,
+    "target_en": " doing......?\\\""
+  },
+  {
+    "id": 82,
+    "line": 455,
+    "target_en": "\\\".....................\\\""
+  },
+  {
+    "id": 83,
+    "line": 460,
+    "target_en": "I wished that Kasai would assure me of his safety right away."
+  },
+  {
+    "id": 84,
+    "line": 466,
+    "target_en": "But he didn't answer like that."
+  },
+  {
+    "id": 85,
+    "line": 472,
+    "target_en": "\\\"...Kasai."
+  },
+  {
+    "id": 86,
+    "line": 475,
+    "target_en": " ...Is he all right...?\\\""
+  },
+  {
+    "id": 87,
+    "line": 481,
+    "target_en": "\\\"...Shion-san.\\\""
+  },
+  {
+    "id": 88,
+    "line": 486,
+    "target_en": "Kasai put his chopsticks down."
+  },
+  {
+    "id": 89,
+    "line": 495,
+    "target_en": "\\\"The family wants you to forget about him.\\\""
+  },
+  {
+    "id": 90,
+    "line": 501,
+    "target_en": "\\\"....................."
+  },
+  {
+    "id": 91,
+    "line": 503,
+    "target_en": "What?\\\""
+  },
+  {
+    "id": 92,
+    "line": 509,
+    "target_en": "\\\"Shion-san."
+  },
+  {
+    "id": 93,
+    "line": 512,
+    "target_en": " I don't want to get in an argument with you, so I will not get into the details..."
+  },
+  {
+    "id": 94,
+    "line": 515,
+    "target_en": " I'm only relaying to you what the family wants.\\\""
+  },
+  {
+    "id": 95,
+    "line": 521,
+    "target_en": "\\\"Wh-What are you talking about...?"
+  },
+  {
+    "id": 96,
+    "line": 524,
+    "target_en": " What details, Kasai?!\\\""
+  },
+  {
+    "id": 97,
+    "line": 530,
+    "target_en": "\\\".....................\\\""
+  },
+  {
+    "id": 98,
+    "line": 535,
+    "target_en": "Kasai pretended as though he didn't hear me and started eating again."
+  },
+  {
+    "id": 99,
+    "line": 540,
+    "target_en": "...I'd never seen him get so stubborn like this."
+  },
+  {
+    "id": 100,
+    "line": 546,
+    "target_en": "...The Sonozaki family had been using the Houjou family as a scapegoat."
+  },
+  {
+    "id": 101,
+    "line": 551,
+    "target_en": "...They must have concluded that a Sonozaki shouldn't be in love with a Houjou."
+  },
+  {
+    "id": 102,
+    "line": 556,
+    "target_en": "...I didn't like that."
+  },
+  {
+    "id": 103,
+    "line": 561,
+    "target_en": "...Satoko is a friend of Mion's at school."
+  },
+  {
+    "id": 104,
+    "line": 566,
+    "target_en": "Would it be okay if Satoshi-kun and I were the same gender?"
+  },
+  {
+    "id": 105,
+    "line": 571,
+    "target_en": ".........Anyway, if I did something conspicuous again, they might do something to him for real."
+  },
+  {
+    "id": 106,
+    "line": 577,
+    "target_en": "Just like they forced me to remove my own fingernails."
+  },
+  {
+    "id": 107,
+    "line": 582,
+    "target_en": "...The Sonozaki family wouldn't hesitate..."
+  },
+  {
+    "id": 108,
+    "line": 584,
+    "target_en": " They'd torture him if need be."
+  },
+  {
+    "id": 109,
+    "line": 590,
+    "target_en": "...Maybe, if I really loved him, I should stay away..."
+  },
+  {
+    "id": 110,
+    "line": 595,
+    "target_en": "Satoshi-kun won't show up in Okinomiya"
+  },
+  {
+    "id": 111,
+    "line": 597,
+    "target_en": " unless he rejoins the Hinamizawa Fighters."
+  },
+  {
+    "id": 112,
+    "line": 602,
+    "target_en": "I'd have to pretend to be Mion if I wanted to go to Hinamizawa."
+  },
+  {
+    "id": 113,
+    "line": 607,
+    "target_en": "But... I didn't think she'd cooperate with me."
+  },
+  {
+    "id": 114,
+    "line": 612,
+    "target_en": "Even if she did, it'd be some time down the road."
+  },
+  {
+    "id": 115,
+    "line": 618,
+    "target_en": "...Even if they told me not to see him..."
+  },
+  {
+    "id": 116,
+    "line": 623,
+    "target_en": "I already had no means of doing that again."
+  },
+  {
+    "id": 117,
+    "line": 628,
+    "target_en": "Oh... wait."
+  },
+  {
+    "id": 118,
+    "line": 633,
+    "target_en": "...Mion gave me his number a little while ago..."
+  },
+  {
+    "id": 119,
+    "line": 635,
+    "target_en": " I could call him..."
+  },
+  {
+    "id": 120,
+    "line": 637,
+    "target_en": " and maybe ask to meet with him secretly."
+  },
+  {
+    "id": 121,
+    "line": 643,
+    "target_en": ".........But if I got caught again, they wouldn't cut me any slack......"
+  },
+  {
+    "id": 122,
+    "line": 645,
+    "target_en": " Should I risk it? What the hell did I even want from Satoshi-kun...?"
+  },
+  {
+    "id": 123,
+    "line": 654,
+    "target_en": "\\\".....................Kasai."
+  },
+  {
+    "id": 124,
+    "line": 657,
+    "target_en": " Can I be alone for a moment?\\\""
+  },
+  {
+    "id": 125,
+    "line": 662,
+    "target_en": "Kasai started putting away his food in a rush, assuming that I wanted him to leave."
+  },
+  {
+    "id": 126,
+    "line": 668,
+    "target_en": "\\\"Oh, no, that's not what I meant."
+  },
+  {
+    "id": 127,
+    "line": 671,
+    "target_en": " Take your time and finish your food."
+  },
+  {
+    "id": 128,
+    "line": 674,
+    "target_en": " I just want to take a walk.\\\""
+  },
+  {
+    "id": 129,
+    "line": 683,
+    "target_en": "\\\"...You can't lock this place up if I don't step out with you.\\\""
+  },
+  {
+    "id": 130,
+    "line": 689,
+    "target_en": "Kasai quickly put away his meal and followed me out."
+  },
+  {
+    "id": 131,
+    "line": 695,
+    "target_en": "\\\"...Uh, just to be clear, I'm not going out to see Satoshi-kun, all right?\\\""
+  },
+  {
+    "id": 132,
+    "line": 701,
+    "target_en": "\\\"I see.\\\""
+  },
+  {
+    "id": 133,
+    "line": 706,
+    "target_en": "I turned around and started walking."
+  },
+  {
+    "id": 134,
+    "line": 723,
+    "target_en": "My destination was... rather pathetic."
+  },
+  {
+    "id": 135,
+    "line": 728,
+    "target_en": "It was the toy store that sold that giant teddy bear."
+  },
+  {
+    "id": 136,
+    "line": 734,
+    "target_en": "I couldn't deny that I was somewhat expecting Satoshi-kun to pass by there."
+  },
+  {
+    "id": 137,
+    "line": 739,
+    "target_en": "I couldn't stop myself from looking at the faces of passersby who resembled him."
+  },
+  {
+    "id": 138,
+    "line": 745,
+    "target_en": "I looked into the store's window."
+  },
+  {
+    "id": 139,
+    "line": 750,
+    "target_en": "...The teddy bear was gone."
+  },
+  {
+    "id": 140,
+    "line": 756,
+    "target_en": "\\\"Congrats, Satoshi-kun......"
+  },
+  {
+    "id": 141,
+    "line": 759,
+    "target_en": " Looks like you were able to buy it.\\\""
+  },
+  {
+    "id": 142,
+    "line": 764,
+    "target_en": "His evil aunt had died and his wicked uncle was living with his mistress."
+  },
+  {
+    "id": 143,
+    "line": 770,
+    "target_en": "Satoshi-kun succeeded in fulfilling his duty as a big brother by buying his little sister that huge teddy bear."
+  },
+  {
+    "id": 144,
+    "line": 775,
+    "target_en": "There was nobody left to hurt him."
+  },
+  {
+    "id": 145,
+    "line": 780,
+    "target_en": "He was free from his tiresome efforts."
+  },
+  {
+    "id": 146,
+    "line": 785,
+    "target_en": "...He was completely free from pain."
+  },
+  {
+    "id": 147,
+    "line": 791,
+    "target_en": "Over time, he'd retrieve his smile..."
+  },
+  {
+    "id": 148,
+    "line": 793,
+    "target_en": " and he'd go back to being the Satoshi-kun I love."
+  },
+  {
+    "id": 149,
+    "line": 798,
+    "target_en": "...............But,"
+  },
+  {
+    "id": 150,
+    "line": 800,
+    "target_en": " I wouldn't be there with him."
+  },
+  {
+    "id": 151,
+    "line": 808,
+    "target_en": "I heard a car honking."
+  },
+  {
+    "id": 152,
+    "line": 817,
+    "target_en": "I didn't think it was honking at me at first, but it was so persistent that I had to look up."
+  },
+  {
+    "id": 153,
+    "line": 823,
+    "target_en": "The person waving at me from their car..."
+  },
+  {
+    "id": 154,
+    "line": 825,
+    "target_en": " was Irie."
+  },
+  {
+    "id": 155,
+    "line": 830,
+    "target_en": "He was waving at me all carefree, oblivious to my feelings."
+  },
+  {
+    "id": 156,
+    "line": 839,
+    "target_en": "\\\"Sonozaki-san."
+  },
+  {
+    "id": 157,
+    "line": 842,
+    "target_en": " Long time no see."
+  },
+  {
+    "id": 158,
+    "line": 845,
+    "target_en": " Oh, are you meeting up with Houjou-san?\\\""
+  },
+  {
+    "id": 159,
+    "line": 851,
+    "target_en": "\\\"......No, I'm not.\\\""
+  },
+  {
+    "id": 160,
+    "line": 859,
+    "target_en": "\\\"I know he looks into that store's windows all the time..."
+  },
+  {
+    "id": 161,
+    "line": 862,
+    "target_en": " So I assumed you were expecting him here, or something...\\\""
+  },
+  {
+    "id": 162,
+    "line": 868,
+    "target_en": "\\\"...No, I'm just passing by........."
+  },
+  {
+    "id": 163,
+    "line": 871,
+    "target_en": " Looks like he was able to buy that teddy bear.\\\""
+  },
+  {
+    "id": 164,
+    "line": 876,
+    "target_en": "Irie seemed to know about the teddy bear as well."
+  },
+  {
+    "id": 165,
+    "line": 881,
+    "target_en": "He smiled upon seeing its empty display space."
+  },
+  {
+    "id": 166,
+    "line": 889,
+    "target_en": "\\\"......Yesterday was Satoko-chan's birthday."
+  },
+  {
+    "id": 167,
+    "line": 892,
+    "target_en": " He must've celebrated it with that teddy bear.\\\""
+  },
+  {
+    "id": 168,
+    "line": 898,
+    "target_en": "\\\"He doesn't have to work so hard anymore, huh?\\\""
+  },
+  {
+    "id": 169,
+    "line": 904,
+    "target_en": "\\\"Indeed.\\\""
+  },
+  {
+    "id": 170,
+    "line": 910,
+    "target_en": "\\\"...Did he... turn in his resignation to the Hinamizawa Fighters?\\\""
+  },
+  {
+    "id": 171,
+    "line": 918,
+    "target_en": "\\\"Oh, does that even exist?"
+  },
+  {
+    "id": 172,
+    "line": 921,
+    "target_en": " I never received one."
+  },
+  {
+    "id": 173,
+    "line": 924,
+    "target_en": " Did you, Sonozaki-san?\\\""
+  },
+  {
+    "id": 174,
+    "line": 930,
+    "target_en": "\\\"...Ahahaha. No, I didn't.\\\""
+  },
+  {
+    "id": 175,
+    "line": 938,
+    "target_en": "\\\"So, that means he still belongs to the team."
+  },
+  {
+    "id": 176,
+    "line": 941,
+    "target_en": " I think he'll be back after things have settled down."
+  },
+  {
+    "id": 177,
+    "line": 944,
+    "target_en": " But I know he'll be sad if he doesn't see you there.\\\""
+  },
+  {
+    "id": 178,
+    "line": 949,
+    "target_en": "Irie teased me..."
+  },
+  {
+    "id": 179,
+    "line": 951,
+    "target_en": " He's a grownup, after all."
+  },
+  {
+    "id": 180,
+    "line": 956,
+    "target_en": "He must have been trying to sound optimistic because he knew I was feeling a bit down."
+  },
+  {
+    "id": 181,
+    "line": 964,
+    "target_en": "\\\"...You can come back to the team anytime you want."
+  },
+  {
+    "id": 182,
+    "line": 967,
+    "target_en": " It might as well be empty without you."
+  },
+  {
+    "id": 183,
+    "line": 974,
+    "target_en": " ...I'm thinking of providing you with a maid costume once you come back.\\\""
+  },
+  {
+    "id": 184,
+    "line": 979,
+    "target_en": "I burst into laughter."
+  },
+  {
+    "id": 185,
+    "line": 981,
+    "target_en": " Irie sure hadn't changed."
+  },
+  {
+    "id": 186,
+    "line": 987,
+    "target_en": "\\\"...Oh, I almost forgot."
+  },
+  {
+    "id": 187,
+    "line": 990,
+    "target_en": " I can tell you my name now."
+  },
+  {
+    "id": 188,
+    "line": 993,
+    "target_en": " Sorry. Coach. I was lying about my identity..."
+  },
+  {
+    "id": 189,
+    "line": 996,
+    "target_en": " I'm not Mion."
+  },
+  {
+    "id": 190,
+    "line": 999,
+    "target_en": " I'm her twin sister, Shion."
+  },
+  {
+    "id": 191,
+    "line": 1002,
+    "target_en": " I've been pretending to be her for a few reasons.\\\""
+  },
+  {
+    "id": 192,
+    "line": 1010,
+    "target_en": "\\\"Eh... what?"
+  },
+  {
+    "id": 193,
+    "line": 1013,
+    "target_en": " You're Mion-san's twin... sister?!\\\""
+  },
+  {
+    "id": 194,
+    "line": 1018,
+    "target_en": "He was totally taken aback. I burst into laughter again."
+  },
+  {
+    "id": 195,
+    "line": 1024,
+    "target_en": "\\\"Yes,"
+  },
+  {
+    "id": 196,
+    "line": 1027,
+    "target_en": " I am Shion Sonozaki."
+  },
+  {
+    "id": 197,
+    "line": 1030,
+    "target_en": " I'm forced to live quietly because my grandmother hates me, though.\\\""
+  },
+  {
+    "id": 198,
+    "line": 1036,
+    "target_en": "\\\"...I never realized..."
+  },
+  {
+    "id": 199,
+    "line": 1039,
+    "target_en": " that Mion-san had a twin sister...\\\""
+  },
+  {
+    "id": 200,
+    "line": 1051,
+    "target_en": "\\\"Na ha ha ha. Same here.\\\""
+  },
+  {
+    "id": 201,
+    "line": 1056,
+    "target_en": "Suddenly, a loud voice interrupted us."
+  },
+  {
+    "id": 202,
+    "line": 1061,
+    "target_en": "The voice sounded mean and greasy, unlike Irie's."
+  },
+  {
+    "id": 203,
+    "line": 1070,
+    "target_en": "...It was him."
+  },
+  {
+    "id": 204,
+    "line": 1072,
+    "target_en": " Ooishi."
+  },
+  {
+    "id": 205,
+    "line": 1080,
+    "target_en": "\\\"Hello, Dr. Irie."
+  },
+  {
+    "id": 206,
+    "line": 1083,
+    "target_en": " Thank you for your cooperation last night.\\\""
+  },
+  {
+    "id": 207,
+    "line": 1091,
+    "target_en": "\\\"Don't mention it. I wasn't of much help.\\\""
+  },
+  {
+    "id": 208,
+    "line": 1097,
+    "target_en": "...They were just going through the motions."
+  },
+  {
+    "id": 209,
+    "line": 1102,
+    "target_en": "It was obvious that they hated each other."
+  },
+  {
+    "id": 210,
+    "line": 1107,
+    "target_en": "Irie whispered to me."
+  },
+  {
+    "id": 211,
+    "line": 1116,
+    "target_en": "\\\"......I'm leaving now. Do you want to get in my car?"
+  },
+  {
+    "id": 212,
+    "line": 1119,
+    "target_en": " I can drive you home.\\\""
+  },
+  {
+    "id": 213,
+    "line": 1124,
+    "target_en": "Irie figured that Ooishi was after me, so he was giving me a chance to slip away."
+  },
+  {
+    "id": 214,
+    "line": 1129,
+    "target_en": "Looking at Ooishi's face, it was clear that his focus was on me, not Irie."
+  },
+  {
+    "id": 215,
+    "line": 1135,
+    "target_en": "...He probably intended to interrogate me until my testimony broke."
+  },
+  {
+    "id": 216,
+    "line": 1141,
+    "target_en": "...I was sure I could talk my way out of it, but it'd just be a waste of time."
+  },
+  {
+    "id": 217,
+    "line": 1147,
+    "target_en": "\\\"All right,"
+  },
+  {
+    "id": 218,
+    "line": 1150,
+    "target_en": " Coach."
+  },
+  {
+    "id": 219,
+    "line": 1153,
+    "target_en": " Let's get going.\\\""
+  },
+  {
+    "id": 220,
+    "line": 1161,
+    "target_en": "\\\"...Oh, are you two going somewhere together?\\\""
+  },
+  {
+    "id": 221,
+    "line": 1169,
+    "target_en": "\\\"Yes."
+  },
+  {
+    "id": 222,
+    "line": 1172,
+    "target_en": " We're on our way to get some stuff for the team."
+  },
+  {
+    "id": 223,
+    "line": 1175,
+    "target_en": " We have to drop by a few places, so will you excuse us?\\\""
+  },
+  {
+    "id": 224,
+    "line": 1183,
+    "target_en": "Irie bowed. I followed suit."
+  },
+  {
+    "id": 225,
+    "line": 1188,
+    "target_en": "...I had to admire how good he was at lying."
+  },
+  {
+    "id": 226,
+    "line": 1190,
+    "target_en": " He's a grownup, after all."
+  },
+  {
+    "id": 227,
+    "line": 1195,
+    "target_en": "Ooishi seemed to know it was a lie."
+  },
+  {
+    "id": 228,
+    "line": 1200,
+    "target_en": "But he didn't have a warrant, so he couldn't stop us. I moved to get into Irie's car."
+  },
+  {
+    "id": 229,
+    "line": 1208,
+    "target_en": "\\\"...How are your wounds,"
+  },
+  {
+    "id": 230,
+    "line": 1211,
+    "target_en": " Shion Sonozaki-san?\\\""
+  },
+  {
+    "id": 231,
+    "line": 1220,
+    "target_en": "I gasped when I heard that."
+  },
+  {
+    "id": 232,
+    "line": 1226,
+    "target_en": "...My left hand was bandaged."
+  },
+  {
+    "id": 233,
+    "line": 1231,
+    "target_en": "...It was unsightly, so I'd kept it in my pocket."
+  },
+  {
+    "id": 234,
+    "line": 1237,
+    "target_en": "There was no way Ooishi could have been able to see it."
+  },
+  {
+    "id": 235,
+    "line": 1248,
+    "target_en": "\\\"They'll heal with no problems if they don't get infected."
+  },
+  {
+    "id": 236,
+    "line": 1251,
+    "target_en": " I tore my fingernails off a couple of times myself when I was a kid. But look, they look beautiful now, don't they?"
+  },
+  {
+    "id": 237,
+    "line": 1254,
+    "target_en": " Nfu fu fu.\\\""
+  },
+  {
+    "id": 238,
+    "line": 1260,
+    "target_en": "\\\"......Men's fingernails shouldn't look beautiful. That gives me the creeps.\\\""
+  },
+  {
+    "id": 239,
+    "line": 1265,
+    "target_en": "Ooishi scratched his head and chuckled."
+  },
+  {
+    "id": 240,
+    "line": 1271,
+    "target_en": "...He's supposed to be one of the best cops at the Okinomiya PD, and he knows about all the underground activities in the region."
+  },
+  {
+    "id": 241,
+    "line": 1276,
+    "target_en": "He must've heard about my payment from somewhere..."
+  },
+  {
+    "id": 242,
+    "line": 1281,
+    "target_en": "...Still, that happened in the secret basement of the Sonozaki main house..."
+  },
+  {
+    "id": 243,
+    "line": 1287,
+    "target_en": "I couldn't underestimate this guy's sources."
+  },
+  {
+    "id": 244,
+    "line": 1293,
+    "target_en": "\\\"Thank you for your kind words..."
+  },
+  {
+    "id": 245,
+    "line": 1296,
+    "target_en": " We'll be going now."
+  },
+  {
+    "id": 246,
+    "line": 1299,
+    "target_en": " Excuse us.\\\""
+  },
+  {
+    "id": 247,
+    "line": 1307,
+    "target_en": "\\\"Shion Sonozaki-san."
+  },
+  {
+    "id": 248,
+    "line": 1310,
+    "target_en": " Why don't we get coffee together sometime?\\\""
+  },
+  {
+    "id": 249,
+    "line": 1316,
+    "target_en": "\\\"...What?"
+  },
+  {
+    "id": 250,
+    "line": 1319,
+    "target_en": " Are you hitting on me?\\\""
+  },
+  {
+    "id": 251,
+    "line": 1327,
+    "target_en": "\\\"If you like."
+  },
+  {
+    "id": 252,
+    "line": 1330,
+    "target_en": " Nfu fu fu.\\\""
+  },
+  {
+    "id": 253,
+    "line": 1336,
+    "target_en": "\\\"Sorry."
+  },
+  {
+    "id": 254,
+    "line": 1339,
+    "target_en": " Time flies."
+  },
+  {
+    "id": 255,
+    "line": 1342,
+    "target_en": " I can't waste any of that precious time on things that don't interest me.\\\""
+  },
+  {
+    "id": 256,
+    "line": 1350,
+    "target_en": "\\\"Ah... you got me there..."
+  },
+  {
+    "id": 257,
+    "line": 1353,
+    "target_en": " How about this, then?"
+  },
+  {
+    "id": 258,
+    "line": 1356,
+    "target_en": " You can leave anytime if you get bored of talking to me."
+  },
+  {
+    "id": 259,
+    "line": 1359,
+    "target_en": " I won't stop you."
+  },
+  {
+    "id": 260,
+    "line": 1362,
+    "target_en": " How does that sound?\\\""
+  },
+  {
+    "id": 261,
+    "line": 1368,
+    "target_en": "\\\"...I don't mind you talking, but I won't talk back."
+  },
+  {
+    "id": 262,
+    "line": 1371,
+    "target_en": " I doubt you could call it a conversation.\\\""
+  },
+  {
+    "id": 263,
+    "line": 1379,
+    "target_en": "\\\"Yes, that'd be fine."
+  },
+  {
+    "id": 264,
+    "line": 1382,
+    "target_en": " You can just listen"
+  },
+  {
+    "id": 265,
+    "line": 1385,
+    "target_en": " and I'll talk..."
+  },
+  {
+    "id": 266,
+    "line": 1388,
+    "target_en": " You can just listen to an old man ramble while sipping on a cup of coffee.\\\""
+  },
+  {
+    "id": 267,
+    "line": 1393,
+    "target_en": "...He was being strangely persistent."
+  },
+  {
+    "id": 268,
+    "line": 1398,
+    "target_en": "It didn't look like he was trying to poke a hole in my statement."
+  },
+  {
+    "id": 269,
+    "line": 1404,
+    "target_en": "What would he even talk about?"
+  },
+  {
+    "id": 270,
+    "line": 1406,
+    "target_en": " I got a bit curious, even though I was still skeptical."
+  },
+  {
+    "id": 271,
+    "line": 1414,
+    "target_en": "\\\"...Coach."
+  },
+  {
+    "id": 272,
+    "line": 1417,
+    "target_en": " I think I'll go with the old man instead.\\\""
+  },
+  {
+    "id": 273,
+    "line": 1425,
+    "target_en": "\\\"Mio... I mean, Shion-san......?\\\""
+  },
+  {
+    "id": 274,
+    "line": 1430,
+    "target_en": "I winked at him and told him not to worry."
+  },
+  {
+    "id": 275,
+    "line": 1439,
+    "target_en": "...Irie didn't insist. He got in his car and drove off."
+  },
+  {
+    "id": 276,
+    "line": 1445,
+    "target_en": "Ooishi backed his car up so I could get in."
+  },
+  {
+    "id": 277,
+    "line": 1450,
+    "target_en": "I hopped in the back seat, since I didn't want to sit next to him."
+  },
+  {
+    "id": 278,
+    "line": 1462,
+    "target_en": "\\\"...Are we really going to a cafe?\\\""
+  },
+  {
+    "id": 279,
+    "line": 1468,
+    "target_en": "\\\"Hmm... if you could direct me to one with no connection to your family, that'd be great.\\\""
+  },
+  {
+    "id": 280,
+    "line": 1474,
+    "target_en": "\\\"Tssk..."
+  },
+  {
+    "id": 281,
+    "line": 1477,
+    "target_en": " Why don't you just take me to the station, then?\\\""
+  },
+  {
+    "id": 282,
+    "line": 1482,
+    "target_en": "Ooishi carefully checked for oncoming traffic, and then started driving."
+  },
+  {
+    "id": 283,
+    "line": 1493,
+    "target_en": "Ooishi took me to the police station, as I thought he might."
+  },
+  {
+    "id": 284,
+    "line": 1499,
+    "target_en": "...If he had taken me to a nice cafe, he would've scored some points..."
+  },
+  {
+    "id": 285,
+    "line": 1501,
+    "target_en": " but whatever."
+  },
+  {
+    "id": 286,
+    "line": 1506,
+    "target_en": "\\\"I thought it'd be more convenient if we came here..."
+  },
+  {
+    "id": 287,
+    "line": 1509,
+    "target_en": " you can still go home if you get bored.\\\""
+  },
+  {
+    "id": 288,
+    "line": 1515,
+    "target_en": "\\\"......Humph, try your best not to bore me, then..."
+  },
+  {
+    "id": 289,
+    "line": 1518,
+    "target_en": " Do you want me to go into the station hand in hand with you?\\\""
+  },
+  {
+    "id": 290,
+    "line": 1526,
+    "target_en": "Ooishi chuckled and got out of the car. He escorted me inside the station..."
+  },
+  {
+    "id": 291,
+    "line": 1534,
+    "target_en": "I thought he'd take me to an interrogation room, but instead he took me to an office of the investigation division."
+  },
+  {
+    "id": 292,
+    "line": 1539,
+    "target_en": "...Officers in both suits and uniforms were working at their desks, answering phones."
+  },
+  {
+    "id": 293,
+    "line": 1544,
+    "target_en": "There was a desk with a plate that said \\\"section manager,\\\" and nearby there were couches and a table."
+  },
+  {
+    "id": 294,
+    "line": 1549,
+    "target_en": "Ooishi told me to sit on the couch, and started making some instant coffee."
+  },
+  {
+    "id": 295,
+    "line": 1554,
+    "target_en": "I'd never been to this part of the police station. I looked around in curiosity."
+  },
+  {
+    "id": 296,
+    "line": 1562,
+    "target_en": "\\\"Did you think I'd take you to an interrogation room?\\\""
+  },
+  {
+    "id": 297,
+    "line": 1567,
+    "target_en": "Ooishi brought over a tray with coffee cups on it."
+  },
+  {
+    "id": 298,
+    "line": 1573,
+    "target_en": "\\\"...You're treating me better than I expected."
+  },
+  {
+    "id": 299,
+    "line": 1576,
+    "target_en": " I thought you'd whip me or something.\\\""
+  },
+  {
+    "id": 300,
+    "line": 1586,
+    "target_en": "\\\"My tastes don't run that way."
+  },
+  {
+    "id": 301,
+    "line": 1589,
+    "target_en": " Na ha ha ha ha.\\\""
+  },
+  {
+    "id": 302,
+    "line": 1595,
+    "target_en": "\\\"So?"
+  },
+  {
+    "id": 303,
+    "line": 1598,
+    "target_en": " I thought you wanted to talk.\\\""
+  },
+  {
+    "id": 304,
+    "line": 1606,
+    "target_en": "\\\"All right. I'll cut to the chase."
+  },
+  {
+    "id": 305,
+    "line": 1609,
+    "target_en": " Are you in love with Satoshi Houjou-san?\\\""
+  },
+  {
+    "id": 306,
+    "line": 1615,
+    "target_en": "\\\"...What?"
+  },
+  {
+    "id": 307,
+    "line": 1618,
+    "target_en": " It's getting boring already. I'm going home.\\\""
+  },
+  {
+    "id": 308,
+    "line": 1626,
+    "target_en": "\\\"Na ha ha ha ha... okay, please forget that.\\\""
+  },
+  {
+    "id": 309,
+    "line": 1631,
+    "target_en": "...Ooishi must have known why I had to remove my fingernails."
+  },
+  {
+    "id": 310,
+    "line": 1637,
+    "target_en": "He wasn't trying to confirm that I liked Satoshi-kun. What he was really saying was that he knew already."
+  },
+  {
+    "id": 311,
+    "line": 1643,
+    "target_en": "\\\"...I already talked to Detective Kumagai about Satoshi-kun's alibi that day.\\\""
+  },
+  {
+    "id": 312,
+    "line": 1651,
+    "target_en": "\\\"Of course, I read Kuma-cha... I mean, Kumagai-kun's report."
+  },
+  {
+    "id": 313,
+    "line": 1654,
+    "target_en": " I know you were with him.\\\""
+  },
+  {
+    "id": 314,
+    "line": 1660,
+    "target_en": "\\\"I'll just repeat the same statement no matter how many times you ask."
+  },
+  {
+    "id": 315,
+    "line": 1663,
+    "target_en": " Don't think you can poke holes in it.\\\""
+  },
+  {
+    "id": 316,
+    "line": 1671,
+    "target_en": "\\\"No, no. That's not what I want."
+  },
+  {
+    "id": 317,
+    "line": 1674,
+    "target_en": " You're a smart person."
+  },
+  {
+    "id": 318,
+    "line": 1677,
+    "target_en": " I know that wouldn't work for you.\\\""
+  },
+  {
+    "id": 319,
+    "line": 1683,
+    "target_en": "\\\"I wonder what you're after."
+  },
+  {
+    "id": 320,
+    "line": 1686,
+    "target_en": " You're wasting your time if you want information on Satoshi-kun."
+  },
+  {
+    "id": 321,
+    "line": 1689,
+    "target_en": " There's nothing more to talk about."
+  },
+  {
+    "id": 322,
+    "line": 1692,
+    "target_en": " Ah, this is boring me after all."
+  },
+  {
+    "id": 323,
+    "line": 1695,
+    "target_en": " I'm going home,"
+  },
+  {
+    "id": 324,
+    "line": 1698,
+    "target_en": " since that was our agreement. "
+  },
+  {
+    "id": 325,
+    "line": 1702,
+    "target_en": "Excuse me.\\\""
+  },
+  {
+    "id": 326,
+    "line": 1707,
+    "target_en": "I got up off the couch."
+  },
+  {
+    "id": 327,
+    "line": 1715,
+    "target_en": "\\\"Shion-san."
+  },
+  {
+    "id": 328,
+    "line": 1718,
+    "target_en": " I did want to get Satoshi-san's alibi from you."
+  },
+  {
+    "id": 329,
+    "line": 1721,
+    "target_en": " I admit it.\\\""
+  },
+  {
+    "id": 330,
+    "line": 1727,
+    "target_en": "\\\"...That's it, then."
+  },
+  {
+    "id": 331,
+    "line": 1730,
+    "target_en": " It's boring."
+  },
+  {
+    "id": 332,
+    "line": 1733,
+    "target_en": " I'm going home.\\\""
+  },
+  {
+    "id": 333,
+    "line": 1738,
+    "target_en": "I turned around and started walking."
+  },
+  {
+    "id": 334,
+    "line": 1743,
+    "target_en": "Ooishi didn't get anxious, but instead spoke a little louder."
+  },
+  {
+    "id": 335,
+    "line": 1751,
+    "target_en": "\\\"But Shion-san,"
+  },
+  {
+    "id": 336,
+    "line": 1754,
+    "target_en": " what I want to ask you about is his alibi for yesterday,"
+  },
+  {
+    "id": 337,
+    "line": 1757,
+    "target_en": " not the day of the murder.\\\""
+  },
+  {
+    "id": 338,
+    "line": 1763,
+    "target_en": "\\\"His alibi for yesterday...? Why?"
+  },
+  {
+    "id": 339,
+    "line": 1766,
+    "target_en": " What does that have to do with his aunt's death?\\\""
+  },
+  {
+    "id": 340,
+    "line": 1777,
+    "target_en": "\\\"It's because Satoshi-kun has been missing since then.\\\""
+  },
+  {
+    "id": 341,
+    "line": 1784,
+    "target_en": "...What?"
+  },
+  {
+    "id": 342,
+    "line": 1796,
+    "target_en": "\\\"...Didn't you know that he went missing?\\\""
+  },
+  {
+    "id": 343,
+    "line": 1802,
+    "target_en": "\\\".....................\\\""
+  },
+  {
+    "id": 344,
+    "line": 1807,
+    "target_en": "I couldn't say anything, but my expression answered Ooishi's question anyway."
+  },
+  {
+    "id": 345,
+    "line": 1813,
+    "target_en": "\\\"What's going on...?"
+  },
+  {
+    "id": 346,
+    "line": 1816,
+    "target_en": " Missing...? What?\\\""
+  },
+  {
+    "id": 347,
+    "line": 1822,
+    "target_en": "\\\"Why don't you take a seat?\\\""
+  },
+  {
+    "id": 348,
+    "line": 1828,
+    "target_en": "\\\"What do you mean, Satoshi-kun has gone missing...?!"
+  },
+  {
+    "id": 349,
+    "line": 1831,
+    "target_en": " What the hell?!\\\""
+  },
+  {
+    "id": 350,
+    "line": 1839,
+    "target_en": "\\\"We only know one thing for sure. He withdrew all of his savings at an ATM in the Okinomiya post office before 3 PM yesterday."
+  },
+  {
+    "id": 351,
+    "line": 1842,
+    "target_en": " We don't know his whereabouts after that.\\\""
+  },
+  {
+    "id": 352,
+    "line": 1847,
+    "target_en": "I knew why he withdrew that money."
+  },
+  {
+    "id": 353,
+    "line": 1853,
+    "target_en": "He wanted to buy Satoko's birthday present."
+  },
+  {
+    "id": 354,
+    "line": 1859,
+    "target_en": "...Yes, he definitely bought that teddy bear yesterday."
+  },
+  {
+    "id": 355,
+    "line": 1867,
+    "target_en": "\\\"...This is just my guess,"
+  },
+  {
+    "id": 356,
+    "line": 1870,
+    "target_en": " but... I think he skipped town with that money.\\\""
+  },
+  {
+    "id": 357,
+    "line": 1876,
+    "target_en": "\\\"You mean he used the money to run away?"
+  },
+  {
+    "id": 358,
+    "line": 1879,
+    "target_en": " That's stupid."
+  },
+  {
+    "id": 359,
+    "line": 1882,
+    "target_en": " He was saving to buy Satoko a birthday present."
+  },
+  {
+    "id": 360,
+    "line": 1885,
+    "target_en": " He bought a big expensive teddy bear from that toy store."
+  },
+  {
+    "id": 361,
+    "line": 1888,
+    "target_en": " He'd never use that money to skip town.\\\""
+  },
+  {
+    "id": 362,
+    "line": 1894,
+    "target_en": "\\\"Yes, the most expensive teddy bear in that toy store was sold."
+  },
+  {
+    "id": 363,
+    "line": 1901,
+    "target_en": " But we can't confirm that it was Satoshi-kun who bought it.\\\""
+  },
+  {
+    "id": 364,
+    "line": 1907,
+    "target_en": "\\\"Why don't you ask the clerk?!"
+  },
+  {
+    "id": 365,
+    "line": 1910,
+    "target_en": " Satoshi-kun and I reserved that teddy bear together!"
+  },
+  {
+    "id": 366,
+    "line": 1913,
+    "target_en": " ...Oh...\\\""
+  },
+  {
+    "id": 367,
+    "line": 1918,
+    "target_en": "I had a bad feeling."
+  },
+  {
+    "id": 368,
+    "line": 1923,
+    "target_en": "......That old man who was watching that store was sleeping when we were there."
+  },
+  {
+    "id": 369,
+    "line": 1925,
+    "target_en": " He'd looked very senile."
+  },
+  {
+    "id": 370,
+    "line": 1931,
+    "target_en": "...Maybe he was also watching that store on that day and..."
+  },
+  {
+    "id": 371,
+    "line": 1933,
+    "target_en": " even though Satoshi-kun bought the teddy bear,"
+  },
+  {
+    "id": 372,
+    "line": 1938,
+    "target_en": " he didn't remember..."
+  },
+  {
+    "id": 373,
+    "line": 1943,
+    "target_en": "Ooishi put on a wry smile."
+  },
+  {
+    "id": 374,
+    "line": 1948,
+    "target_en": "...It looked like he'd already tried to question that old man."
+  },
+  {
+    "id": 375,
+    "line": 1954,
+    "target_en": "\\\"A-Anyway!!"
+  },
+  {
+    "id": 376,
+    "line": 1957,
+    "target_en": " It's Satoshi-kun who bought that teddy bear!"
+  },
+  {
+    "id": 377,
+    "line": 1960,
+    "target_en": " He must've saved just enough to buy it,"
+  },
+  {
+    "id": 378,
+    "line": 1963,
+    "target_en": " so he shouldn't have been able to run away after!"
+  },
+  {
+    "id": 379,
+    "line": 1966,
+    "target_en": " That's nonsense!\\\""
+  },
+  {
+    "id": 380,
+    "line": 1974,
+    "target_en": "\\\"All right."
+  },
+  {
+    "id": 381,
+    "line": 1977,
+    "target_en": " Let's say he really did buy the teddy bear,"
+  },
+  {
+    "id": 382,
+    "line": 1980,
+    "target_en": " then why didn't he come home with it?\\\""
+  },
+  {
+    "id": 383,
+    "line": 1993,
+    "target_en": "At that point..."
+  },
+  {
+    "id": 384,
+    "line": 1995,
+    "target_en": " I felt as though my heart had turned to ice."
+  },
+  {
+    "id": 385,
+    "line": 2000,
+    "target_en": "Satoshi-kun had been working hard to buy that teddy bear even though he was under extreme mental and physical stress."
+  },
+  {
+    "id": 386,
+    "line": 2006,
+    "target_en": "After all that, he finally managed to buy it."
+  },
+  {
+    "id": 387,
+    "line": 2012,
+    "target_en": "It's unthinkable that somebody else just showed up and bought the same teddy bear!"
+  },
+  {
+    "id": 388,
+    "line": 2017,
+    "target_en": "The teddy bear was gone because Satoshi-kun bought it!"
+  },
+  {
+    "id": 389,
+    "line": 2022,
+    "target_en": "Nobody else!"
+  },
+  {
+    "id": 390,
+    "line": 2028,
+    "target_en": "But if so..."
+  },
+  {
+    "id": 391,
+    "line": 2033,
+    "target_en": "...Satoshi-kun should've given it to Satoko."
+  },
+  {
+    "id": 392,
+    "line": 2041,
+    "target_en": "But...... though he bought a present for her..."
+  },
+  {
+    "id": 393,
+    "line": 2046,
+    "target_en": " he didn't come home."
+  },
+  {
+    "id": 394,
+    "line": 2056,
+    "target_en": "He didn't come home?"
+  },
+  {
+    "id": 395,
+    "line": 2061,
+    "target_en": "That wasn't possible."
+  },
+  {
+    "id": 396,
+    "line": 2066,
+    "target_en": "He would've gone straight home with that teddy bear."
+  },
+  {
+    "id": 397,
+    "line": 2071,
+    "target_en": "He wouldn't think of running away after buying the teddy bear."
+  },
+  {
+    "id": 398,
+    "line": 2076,
+    "target_en": "Even though Satoshi-kun wanted to run away from the police......"
+  },
+  {
+    "id": 399,
+    "line": 2081,
+    "target_en": "He'd never leave without giving Satoko her present."
+  },
+  {
+    "id": 400,
+    "line": 2087,
+    "target_en": "Anyway, it must have been Satoshi-kun who bought that teddy bear!"
+  },
+  {
+    "id": 401,
+    "line": 2089,
+    "target_en": " I can say that with one-hundred-percent certainty."
+  },
+  {
+    "id": 402,
+    "line": 2095,
+    "target_en": "The question was--why didn't he bring it home?"
+  },
+  {
+    "id": 403,
+    "line": 2101,
+    "target_en": "That teddy bear was huge."
+  },
+  {
+    "id": 404,
+    "line": 2107,
+    "target_en": "It wouldn't fit into the basket of a bicycle."
+  },
+  {
+    "id": 405,
+    "line": 2112,
+    "target_en": "He might've brought some straps to tie it to his bike."
+  },
+  {
+    "id": 406,
+    "line": 2117,
+    "target_en": "He wouldn't have thought of running away on a wobbly bicycle like that."
+  },
+  {
+    "id": 407,
+    "line": 2123,
+    "target_en": "He necessarily had to go home after buying the teddy bear from the store after withdrawing the money."
+  },
+  {
+    "id": 408,
+    "line": 2129,
+    "target_en": "Nothing could have happened when he was going between the ATM and the toy store!"
+  },
+  {
+    "id": 409,
+    "line": 2131,
+    "target_en": " It was impossible!!"
+  },
+  {
+    "id": 410,
+    "line": 2133,
+    "target_en": " Nobody else could possibly have bought that teddy bear!!!"
+  },
+  {
+    "id": 411,
+    "line": 2135,
+    "target_en": " Never!"
+  },
+  {
+    "id": 412,
+    "line": 2140,
+    "target_en": "That teddy bear had been sitting in the showcase up until that day."
+  },
+  {
+    "id": 413,
+    "line": 2145,
+    "target_en": "Everybody could see it when they passed by."
+  },
+  {
+    "id": 414,
+    "line": 2150,
+    "target_en": "But nobody wanted it!"
+  },
+  {
+    "id": 415,
+    "line": 2155,
+    "target_en": "It's impossible that it could've been somebody else!!!"
+  },
+  {
+    "id": 416,
+    "line": 2161,
+    "target_en": "There should be no question that he went to the toy store after he withdrew the money."
+  },
+  {
+    "id": 417,
+    "line": 2167,
+    "target_en": "What about the route between the toy store and his home?"
+  },
+  {
+    "id": 418,
+    "line": 2172,
+    "target_en": "There shouldn't be any question there either."
+  },
+  {
+    "id": 419,
+    "line": 2177,
+    "target_en": "He shouldn't have been able to do anything with that huge toy."
+  },
+  {
+    "id": 420,
+    "line": 2182,
+    "target_en": "He shouldn't even have thought of making a stop on the way!"
+  },
+  {
+    "id": 421,
+    "line": 2187,
+    "target_en": "So he must've headed home"
+  },
+  {
+    "id": 422,
+    "line": 2189,
+    "target_en": " right after he bought the teddy bear!!"
+  },
+  {
+    "id": 423,
+    "line": 2194,
+    "target_en": "But... nobody saw him after that."
+  },
+  {
+    "id": 424,
+    "line": 2200,
+    "target_en": "It was simple, then."
+  },
+  {
+    "id": 425,
+    "line": 2202,
+    "target_en": " Satoshi-kun went missing on his way home from the toy store."
+  },
+  {
+    "id": 426,
+    "line": 2208,
+    "target_en": "He went missing?"
+  },
+  {
+    "id": 427,
+    "line": 2210,
+    "target_en": " What did that mean...?"
+  },
+  {
+    "id": 428,
+    "line": 2215,
+    "target_en": "I was sure he killed his aunt."
+  },
+  {
+    "id": 429,
+    "line": 2220,
+    "target_en": "He's not that shrewd."
+  },
+  {
+    "id": 430,
+    "line": 2225,
+    "target_en": "Maybe he couldn't bear the pressure from the police?"
+  },
+  {
+    "id": 431,
+    "line": 2230,
+    "target_en": "Was he resigned to the idea that the police were going to arrest him soon, regardless of my help?"
+  },
+  {
+    "id": 432,
+    "line": 2236,
+    "target_en": "Did he decide to run away?"
+  },
+  {
+    "id": 433,
+    "line": 2242,
+    "target_en": "Did he think that he should disappear until things cooled down, rather than get arrested?"
+  },
+  {
+    "id": 434,
+    "line": 2247,
+    "target_en": "That was, definitely, absolutely impossible!!!"
+  },
+  {
+    "id": 435,
+    "line": 2252,
+    "target_en": "It was impossible that he came to that conclusion on his way home from the toy store!!!"
+  },
+  {
+    "id": 436,
+    "line": 2257,
+    "target_en": "Even if he did, he would've waited until he gave Satoko her birthday present."
+  },
+  {
+    "id": 437,
+    "line": 2262,
+    "target_en": "Satoshi-kun loved Satoko."
+  },
+  {
+    "id": 438,
+    "line": 2268,
+    "target_en": "He shouldn't have spoiled her like that, but anyway, he always tried to be a good brother to her."
+  },
+  {
+    "id": 439,
+    "line": 2273,
+    "target_en": "So he'd never disappear before going home!!"
+  },
+  {
+    "id": 440,
+    "line": 2282,
+    "target_en": "I felt as though the ice was cutting through my heart, expanding the frost."
+  },
+  {
+    "id": 441,
+    "line": 2287,
+    "target_en": "If Satoshi-kun didn't disappear by his own will..."
+  },
+  {
+    "id": 442,
+    "line": 2293,
+    "target_en": "The answer was simple."
+  },
+  {
+    "id": 443,
+    "line": 2298,
+    "target_en": "Satoshi-kun disappeared by somebody else's will."
+  },
+  {
+    "id": 444,
+    "line": 2315,
+    "target_en": "\\\"Was Satoshi-kun...... eliminated......?"
+  },
+  {
+    "id": 445,
+    "line": 2318,
+    "target_en": " Aha...... ahahahahahaahahahahaha!!"
+  },
+  {
+    "id": 446,
+    "line": 2321,
+    "target_en": " Th-That's really stupid, old man."
+  },
+  {
+    "id": 447,
+    "line": 2324,
+    "target_en": " Ahahahahahahahahahaha!!\\\""
+  },
+  {
+    "id": 448,
+    "line": 2330,
+    "target_en": "I thought I could shake off the frost in my heart if I laughed loudly enough."
+  },
+  {
+    "id": 449,
+    "line": 2335,
+    "target_en": "I kept laughing until it happened."
+  },
+  {
+    "id": 450,
+    "line": 2337,
+    "target_en": " I kept laughing."
+  },
+  {
+    "id": 451,
+    "line": 2339,
+    "target_en": " And laughing."
+  },
+  {
+    "id": 452,
+    "line": 2344,
+    "target_en": "All the cops in the room stared at me."
+  },
+  {
+    "id": 453,
+    "line": 2349,
+    "target_en": "They thought I'd gone crazy."
+  },
+  {
+    "id": 454,
+    "line": 2355,
+    "target_en": "I didn't care what they thought..."
+  },
+  {
+    "id": 455,
+    "line": 2357,
+    "target_en": " I kept laughing until it turned into a cough..."
+  },
+  {
+    "id": 456,
+    "line": 2363,
+    "target_en": "\\\"Ahahahahaha...... ahahahaha, huff!"
+  },
+  {
+    "id": 457,
+    "line": 2366,
+    "target_en": " Cough, cough!"
+  },
+  {
+    "id": 458,
+    "line": 2369,
+    "target_en": " Coff!!\\\""
+  },
+  {
+    "id": 459,
+    "line": 2374,
+    "target_en": "...I finished laughing, and took a sip of lukewarm coffee."
+  },
+  {
+    "id": 460,
+    "line": 2380,
+    "target_en": "I felt as though the frost in my heart had spread all throughout my guts. I was chilled to the bone."
+  },
+  {
+    "id": 461,
+    "line": 2385,
+    "target_en": "I was freezing...... my fingers shook as I held the coffee cup."
+  },
+  {
+    "id": 462,
+    "line": 2394,
+    "target_en": "\\\"Shion-san."
+  },
+  {
+    "id": 463,
+    "line": 2397,
+    "target_en": " Please listen to me without interrupting."
+  },
+  {
+    "id": 464,
+    "line": 2400,
+    "target_en": " What I'm about to tell you is only a hypothesis."
+  },
+  {
+    "id": 465,
+    "line": 2403,
+    "target_en": " It's all just a theory."
+  },
+  {
+    "id": 466,
+    "line": 2406,
+    "target_en": " You might start laughing in the middle, because it may sound ridiculous. "
+  },
+  {
+    "id": 467,
+    "line": 2410,
+    "target_en": "But I want you to hear me out."
+  },
+  {
+    "id": 468,
+    "line": 2413,
+    "target_en": " ...Can you do that?\\\""
+  },
+  {
+    "id": 469,
+    "line": 2419,
+    "target_en": "\\\"Wh-Whatever... Just talk...\\\""
+  },
+  {
+    "id": 470,
+    "line": 2424,
+    "target_en": "I was feeling far too cold... My teeth were chattering."
+  },
+  {
+    "id": 471,
+    "line": 2429,
+    "target_en": "I felt as though my brain had frozen as well... I lost my ability to think."
+  },
+  {
+    "id": 472,
+    "line": 2434,
+    "target_en": "...I couldn't do anything by myself."
+  },
+  {
+    "id": 473,
+    "line": 2436,
+    "target_en": " I could only do as Ooishi told me..."
+  },
+  {
+    "id": 474,
+    "line": 2442,
+    "target_en": "What he was going to tell me might be the worst possible theory."
+  },
+  {
+    "id": 475,
+    "line": 2447,
+    "target_en": "But I had to listen to it."
+  },
+  {
+    "id": 476,
+    "line": 2458,
+    "target_en": "\\\"...I know that Satoshi-kun's and Satoko-san's aunt was abusing them,"
+  },
+  {
+    "id": 477,
+    "line": 2461,
+    "target_en": " especially Satoko-san......"
+  },
+  {
+    "id": 478,
+    "line": 2466,
+    "target_en": "In my opinion, it's normal that Satoshi-kun started thinking about murdering his aunt,"
+  },
+  {
+    "id": 479,
+    "line": 2469,
+    "target_en": " because he was just a human being...\\\""
+  },
+  {
+    "id": 480,
+    "line": 2474,
+    "target_en": "I had to deny that Satoshi-kun murdered her."
+  },
+  {
+    "id": 481,
+    "line": 2479,
+    "target_en": "...But what Ooishi was saying was true..."
+  },
+  {
+    "id": 482,
+    "line": 2484,
+    "target_en": "I couldn't deny his hypothesis right away... I just kept silent."
+  },
+  {
+    "id": 483,
+    "line": 2490,
+    "target_en": "\\\"...This is only a hypothesis, all right?!"
+  },
+  {
+    "id": 484,
+    "line": 2493,
+    "target_en": " Please don't be upset!"
+  },
+  {
+    "id": 485,
+    "line": 2496,
+    "target_en": " And no interruptions!"
+  },
+  {
+    "id": 486,
+    "line": 2499,
+    "target_en": " Agreed?!\\\""
+  },
+  {
+    "id": 487,
+    "line": 2505,
+    "target_en": "\\\"I-I know...!"
+  },
+  {
+    "id": 488,
+    "line": 2508,
+    "target_en": " Just go on!!\\\""
+  },
+  {
+    "id": 489,
+    "line": 2516,
+    "target_en": "\\\"Satoshi Houjou planned the murder of his aunt and executed it."
+  },
+  {
+    "id": 490,
+    "line": 2519,
+    "target_en": " We have no proof, okay?!"
+  },
+  {
+    "id": 491,
+    "line": 2522,
+    "target_en": " It's all theoretical.\\\""
+  },
+  {
+    "id": 492,
+    "line": 2528,
+    "target_en": "\\\"All right!"
+  },
+  {
+    "id": 493,
+    "line": 2531,
+    "target_en": " I heard!"
+  },
+  {
+    "id": 494,
+    "line": 2534,
+    "target_en": " Just keep talking...!!\\\""
+  },
+  {
+    "id": 495,
+    "line": 2542,
+    "target_en": "\\\"I'll switch the subject now..."
+  },
+  {
+    "id": 496,
+    "line": 2545,
+    "target_en": " Shion-san,"
+  },
+  {
+    "id": 497,
+    "line": 2548,
+    "target_en": " you were forbidden from having a relationship with Satoshi-kun, weren't you?"
+  },
+  {
+    "id": 498,
+    "line": 2551,
+    "target_en": " They told you to stay away from him, correct? "
+  },
+  {
+    "id": 499,
+    "line": 2555,
+    "target_en": "I believe the reason behind that is... not that your family hated the Houjous, but... that they didn't like the fact that you were involved with a murder suspect.\\\""
+  },
+  {
+    "id": 500,
+    "line": 2561,
+    "target_en": "...That is... actually possible."
+  },
+  {
+    "id": 501,
+    "line": 2567,
+    "target_en": "After all, when I was pretending to be Mion, I already had a connection with Satoshi-kun..."
+  },
+  {
+    "id": 502,
+    "line": 2572,
+    "target_en": "...before anyone knew it was Shion who was spending time around him."
+  },
+  {
+    "id": 503,
+    "line": 2578,
+    "target_en": "I could've been accused when I was helping out the Hinamizawa Fighters if the relationship between the Houjous and the Sonozakis was the problem."
+  },
+  {
+    "id": 504,
+    "line": 2583,
+    "target_en": "It wouldn't be difficult for the Sonozaki family to know that Satoshi-kun murdered his aunt, if it happened in Hinamizawa."
+  },
+  {
+    "id": 505,
+    "line": 2588,
+    "target_en": "Maybe one of them even saw the murder."
+  },
+  {
+    "id": 506,
+    "line": 2594,
+    "target_en": "The Sonozaki family didn't like that I was in love with a murderer. They decided to step in..."
+  },
+  {
+    "id": 507,
+    "line": 2602,
+    "target_en": "\\\"Also... you're known to not give up easily, aren't you?"
+  },
+  {
+    "id": 508,
+    "line": 2605,
+    "target_en": " Which means, even if the Sonozaki family threatened you or ripped off your nails,"
+  },
+  {
+    "id": 509,
+    "line": 2608,
+    "target_en": " you still wouldn't cut ties with Satoshi-kun, would you?\\\""
+  },
+  {
+    "id": 510,
+    "line": 2614,
+    "target_en": "I couldn't deny that."
+  },
+  {
+    "id": 511,
+    "line": 2619,
+    "target_en": "I lost most of my means to access Hinamizawa, so my ties to Satoshi-kun were essentially cut, true."
+  },
+  {
+    "id": 512,
+    "line": 2624,
+    "target_en": "But I still knew Satoshi-kun's phone number, and I expected him to rejoin the Hinamizawa Fighters eventually."
+  },
+  {
+    "id": 513,
+    "line": 2632,
+    "target_en": "\\\"I believe your family knew that a few threats would never be enough for you to break ties with Satoshi-kun."
+  },
+  {
+    "id": 514,
+    "line": 2635,
+    "target_en": " They could threaten you all they liked to no avail. "
+  },
+  {
+    "id": 515,
+    "line": 2642,
+    "target_en": "So... their only option would be to do something about the other person, wouldn't it...?\\\""
+  },
+  {
+    "id": 516,
+    "line": 2648,
+    "target_en": "\\\"Wh-Wh-What do you mean, 'do something'?!?!"
+  },
+  {
+    "id": 517,
+    "line": 2651,
+    "target_en": " What would they do?!!!"
+  },
+  {
+    "id": 518,
+    "line": 2654,
+    "target_en": " What?!!"
+  },
+  {
+    "id": 519,
+    "line": 2657,
+    "target_en": " What?!!!!!\\\""
+  },
+  {
+    "id": 520,
+    "line": 2662,
+    "target_en": "If threatening me was useless, then..."
+  },
+  {
+    "id": 521,
+    "line": 2664,
+    "target_en": " ...they'd do something about Satoshi-kun."
+  },
+  {
+    "id": 522,
+    "line": 2670,
+    "target_en": "What would they have done?!?!"
+  },
+  {
+    "id": 523,
+    "line": 2675,
+    "target_en": "If they pulled something, then wouldn't that interrupt his path from the toy store to home?!"
+  },
+  {
+    "id": 524,
+    "line": 2680,
+    "target_en": "Toy store to home!!"
+  },
+  {
+    "id": 525,
+    "line": 2685,
+    "target_en": "Toy store to X to home!!!"
+  },
+  {
+    "id": 526,
+    "line": 2690,
+    "target_en": "What's X?! What is X?!"
+  },
+  {
+    "id": 527,
+    "line": 2695,
+    "target_en": "X marks the spot where his path was interrupted."
+  },
+  {
+    "id": 528,
+    "line": 2697,
+    "target_en": " But what interrupted it?!"
+  },
+  {
+    "id": 529,
+    "line": 2702,
+    "target_en": "Why couldn't Satoshi-kun make it home from the toy store if something interrupted him?!?!"
+  },
+  {
+    "id": 530,
+    "line": 2707,
+    "target_en": "Why why why?!?!"
+  },
+  {
+    "id": 531,
+    "line": 2709,
+    "target_en": " What's X?!!"
+  },
+  {
+    "id": 532,
+    "line": 2711,
+    "target_en": " X!!!"
+  },
+  {
+    "id": 533,
+    "line": 2720,
+    "target_en": "I ran out of air, became dizzy, and then collapsed."
+  },
+  {
+    "id": 534,
+    "line": 2725,
+    "target_en": "...The floor felt cold."
+  },
+  {
+    "id": 535,
+    "line": 2731,
+    "target_en": "...I felt no pain. I had fallen to the floor like a plastic doll."
+  },
+  {
+    "id": 536,
+    "line": 2736,
+    "target_en": "Ooishi and some others rushed over to me and helped me up."
+  },
+  {
+    "id": 537,
+    "line": 2746,
+    "target_en": "\\\"Calm down, Shion-san..."
+  },
+  {
+    "id": 538,
+    "line": 2749,
+    "target_en": " We're not certain that Satoshi-kun was killed yet.\\\""
+  },
+  {
+    "id": 539,
+    "line": 2754,
+    "target_en": "You're not certain he was killed?!"
+  },
+  {
+    "id": 540,
+    "line": 2759,
+    "target_en": "What the fuck are you talking about?!"
+  },
+  {
+    "id": 541,
+    "line": 2764,
+    "target_en": "Don't you know about that torture room where they forced me to rip off my fingernails?!"
+  },
+  {
+    "id": 542,
+    "line": 2769,
+    "target_en": "Don't you know that they say there are prison cells and a well for disposing of corpses in the back?!!"
+  },
+  {
+    "id": 543,
+    "line": 2774,
+    "target_en": "If the Sonozaki family wants to eliminate somebody, they'd definitely kill them in that torture room and dump the body down there!!!"
+  },
+  {
+    "id": 544,
+    "line": 2779,
+    "target_en": "You're not certain?!"
+  },
+  {
+    "id": 545,
+    "line": 2781,
+    "target_en": " Are you dumb?"
+  },
+  {
+    "id": 546,
+    "line": 2783,
+    "target_en": " Is your brain made of tofu?!"
+  },
+  {
+    "id": 547,
+    "line": 2785,
+    "target_en": " If I were in the hag's position, I'd kill him for sure!!!"
+  },
+  {
+    "id": 548,
+    "line": 2787,
+    "target_en": " I wouldn't let him get away!! If I would kill him, then the hag would definitely kill him!!!"
+  },
+  {
+    "id": 549,
+    "line": 2793,
+    "target_en": "\\\"Shion-san, please calm down."
+  },
+  {
+    "id": 550,
+    "line": 2796,
+    "target_en": " This is unconfirmed, but I have information that somebody witnessed a young runaway male at Nagoya Station,"
+  },
+  {
+    "id": 551,
+    "line": 2799,
+    "target_en": " who took a train from there to Tokyo. "
+  },
+  {
+    "id": 552,
+    "line": 2803,
+    "target_en": "The clothes didn't match, but it is possible that he changed what he was wearing to hide from the police."
+  },
+  {
+    "id": 553,
+    "line": 2806,
+    "target_en": " It's still possible that it was him.\\\""
+  },
+  {
+    "id": 554,
+    "line": 2812,
+    "target_en": "\\\"...I-Is he... alive?!"
+  },
+  {
+    "id": 555,
+    "line": 2815,
+    "target_en": " Is he...?!\\\""
+  },
+  {
+    "id": 556,
+    "line": 2823,
+    "target_en": "\\\"This is also a theory, but let me go on."
+  },
+  {
+    "id": 557,
+    "line": 2826,
+    "target_en": " Your twin sister Mion-san..."
+  },
+  {
+    "id": 558,
+    "line": 2829,
+    "target_en": " is the closest person to Oryou Sonozaki, correct?"
+  },
+  {
+    "id": 559,
+    "line": 2834,
+    "target_en": "I'm assuming that Mion-san stopped Oryou"
+  },
+  {
+    "id": 560,
+    "line": 2837,
+    "target_en": " when she suggested murdering Satoshi-kun furtively.\\\""
+  },
+  {
+    "id": 561,
+    "line": 2843,
+    "target_en": "...Mion?"
+  },
+  {
+    "id": 562,
+    "line": 2845,
+    "target_en": " ...That was possible."
+  },
+  {
+    "id": 563,
+    "line": 2850,
+    "target_en": "She could've tried to calm things down out of pity for me."
+  },
+  {
+    "id": 564,
+    "line": 2855,
+    "target_en": "That idiot was always so indecisive."
+  },
+  {
+    "id": 565,
+    "line": 2860,
+    "target_en": "She should have been clear on if she wanted to save him or not!!"
+  },
+  {
+    "id": 566,
+    "line": 2865,
+    "target_en": "But she probably seemed vague about that."
+  },
+  {
+    "id": 567,
+    "line": 2867,
+    "target_en": " She must've persuaded the hag to reduce the punishment to banishment instead of death, just to avoid feeling guilty."
+  },
+  {
+    "id": 568,
+    "line": 2873,
+    "target_en": "\\\"I believe that the Sonozaki family contacted Satoshi-kun."
+  },
+  {
+    "id": 569,
+    "line": 2876,
+    "target_en": " They probably told him that they couldn't cover up the murder, and told him to disappear somewhere far away..."
+  },
+  {
+    "id": 570,
+    "line": 2879,
+    "target_en": " They forced him to, to be more accurate.\\\""
+  },
+  {
+    "id": 571,
+    "line": 2885,
+    "target_en": "\\\"Satoshi-kun would've rejected that."
+  },
+  {
+    "id": 572,
+    "line": 2888,
+    "target_en": " He would never leave Satoko behind!!\\\""
+  },
+  {
+    "id": 573,
+    "line": 2896,
+    "target_en": "\\\"I agree with you..."
+  },
+  {
+    "id": 574,
+    "line": 2899,
+    "target_en": " Satoshi-kun was working at the places Mion-san referred him to, wasn't he?"
+  },
+  {
+    "id": 575,
+    "line": 2902,
+    "target_en": " So, the family knew that he had enough money for a getaway.\\\""
+  },
+  {
+    "id": 576,
+    "line": 2908,
+    "target_en": "\\\"But he'd never use it for anything other than buying that teddy bear.\\\""
+  },
+  {
+    "id": 577,
+    "line": 2916,
+    "target_en": "\\\"You're right."
+  },
+  {
+    "id": 578,
+    "line": 2919,
+    "target_en": " He must've gone straight to the toy store after he withdrew the money. "
+  },
+  {
+    "id": 579,
+    "line": 2930,
+    "target_en": "But..."
+  },
+  {
+    "id": 580,
+    "line": 2933,
+    "target_en": " what if the teddy bear was already sold when he got there...?\\\""
+  },
+  {
+    "id": 581,
+    "line": 2941,
+    "target_en": "That would've been...... a very desolate situation."
+  },
+  {
+    "id": 582,
+    "line": 2947,
+    "target_en": "He'd been working hard."
+  },
+  {
+    "id": 583,
+    "line": 2952,
+    "target_en": "...While his aunt abused him, he worked at many different jobs..."
+  },
+  {
+    "id": 584,
+    "line": 2958,
+    "target_en": "...The money was worth all that pain."
+  },
+  {
+    "id": 585,
+    "line": 2964,
+    "target_en": "He went to the toy store with that money in order to buy his beloved sister a present. That was the only purpose for that money."
+  },
+  {
+    "id": 586,
+    "line": 2970,
+    "target_en": "He must've looked for the teddy bear as he'd always done."
+  },
+  {
+    "id": 587,
+    "line": 2975,
+    "target_en": "But... it was gone."
+  },
+  {
+    "id": 588,
+    "line": 2980,
+    "target_en": "He wouldn't have gone into a panic right away."
+  },
+  {
+    "id": 589,
+    "line": 2985,
+    "target_en": "...Because he was always so optimistic."
+  },
+  {
+    "id": 590,
+    "line": 2991,
+    "target_en": "...He might've thought the store was wrapping the gift for him, because he told them that he'd pick it up that day."
+  },
+  {
+    "id": 591,
+    "line": 2996,
+    "target_en": "...He must've gone into the store joyously."
+  },
+  {
+    "id": 592,
+    "line": 3002,
+    "target_en": "...I couldn't guess exactly what happened next."
+  },
+  {
+    "id": 593,
+    "line": 3007,
+    "target_en": "My heart would tear up if I tried to imagine it, anyway."
+  },
+  {
+    "id": 594,
+    "line": 3012,
+    "target_en": "Why didn't they have it,"
+  },
+  {
+    "id": 595,
+    "line": 3014,
+    "target_en": " even though he had it reserved?"
+  },
+  {
+    "id": 596,
+    "line": 3019,
+    "target_en": "Did that old man understand the situation, or was he just zoning out...?"
+  },
+  {
+    "id": 597,
+    "line": 3025,
+    "target_en": "......Maybe it would have been the same even if it wasn't that old man who was at the store at that time."
+  },
+  {
+    "id": 598,
+    "line": 3030,
+    "target_en": "If a bunch of fierce-looking subordinates from the Sonozaki family went in and showed them the money, nobody could've rejected it."
+  },
+  {
+    "id": 599,
+    "line": 3035,
+    "target_en": "Satoshi-kun must've sunk into silence."
+  },
+  {
+    "id": 600,
+    "line": 3040,
+    "target_en": "...No matter how hard he complained, the teddy bear was gone."
+  },
+  {
+    "id": 601,
+    "line": 3046,
+    "target_en": "......He probably"
+  },
+  {
+    "id": 602,
+    "line": 3051,
+    "target_en": " never even considered that his dream might be taken away."
+  },
+  {
+    "id": 603,
+    "line": 3058,
+    "target_en": "He must've been wobbling his way home in sorrow,"
+  },
+  {
+    "id": 604,
+    "line": 3060,
+    "target_en": " leaning on the telephone poles every now and then..."
+  },
+  {
+    "id": 605,
+    "line": 3065,
+    "target_en": "It was the day he wanted Satoko to be happy the most."
+  },
+  {
+    "id": 606,
+    "line": 3070,
+    "target_en": "He couldn't get the present she wanted the most."
+  },
+  {
+    "id": 607,
+    "line": 3076,
+    "target_en": "He probably didn't think of getting another gift..."
+  },
+  {
+    "id": 608,
+    "line": 3078,
+    "target_en": " because it was unimaginable that he couldn't get that teddy bear."
+  },
+  {
+    "id": 609,
+    "line": 3083,
+    "target_en": "He might've imagined how Satoko would react when she found out he had no present for her."
+  },
+  {
+    "id": 610,
+    "line": 3089,
+    "target_en": "......He must've looked unbelievably sad...... and empty."
+  },
+  {
+    "id": 611,
+    "line": 3095,
+    "target_en": "The money he'd been saving"
+  },
+  {
+    "id": 612,
+    "line": 3100,
+    "target_en": " meant nothing anymore."
+  },
+  {
+    "id": 613,
+    "line": 3106,
+    "target_en": "Satoshi-kun never cried, even at his toughest moments."
+  },
+  {
+    "id": 614,
+    "line": 3111,
+    "target_en": "Did he even know how to cry......?"
+  },
+  {
+    "id": 615,
+    "line": 3117,
+    "target_en": "It was always Satoko who was crying."
+  },
+  {
+    "id": 616,
+    "line": 3122,
+    "target_en": "...So, Satoshi-kun never learned how to cry, and he grew up that way."
+  },
+  {
+    "id": 617,
+    "line": 3127,
+    "target_en": "Did you know...?"
+  },
+  {
+    "id": 618,
+    "line": 3132,
+    "target_en": "...People shed sadness from their hearts with tears..."
+  },
+  {
+    "id": 619,
+    "line": 3137,
+    "target_en": "Satoshi-kun wasn't even allowed to do that."
+  },
+  {
+    "id": 620,
+    "line": 3142,
+    "target_en": "Even though his heart was filled with sorrow,"
+  },
+  {
+    "id": 621,
+    "line": 3144,
+    "target_en": " he couldn't let it out."
+  },
+  {
+    "id": 622,
+    "line": 3150,
+    "target_en": "\\\"...You insisted he wouldn't leave Satoko-san behind, didn't you?"
+  },
+  {
+    "id": 623,
+    "line": 3153,
+    "target_en": " But think..."
+  },
+  {
+    "id": 624,
+    "line": 3156,
+    "target_en": " What if the Sonozaki family told him that they'd look after her after his disappearance?\\\""
+  },
+  {
+    "id": 625,
+    "line": 3161,
+    "target_en": "...After Satoshi-kun found out the teddy bear was gone..."
+  },
+  {
+    "id": 626,
+    "line": 3166,
+    "target_en": "...All he had left were some crumpled bills."
+  },
+  {
+    "id": 627,
+    "line": 3172,
+    "target_en": "...The family told him it was just a matter of time before the police got to him. They told him to run away."
+  },
+  {
+    "id": 628,
+    "line": 3174,
+    "target_en": " They said they'd take care of Satoko."
+  },
+  {
+    "id": 629,
+    "line": 3180,
+    "target_en": "Satoshi-kun didn't feel like seeing his sister."
+  },
+  {
+    "id": 630,
+    "line": 3185,
+    "target_en": "...He wandered... and found himself at Okinomiya Station......"
+  },
+  {
+    "id": 631,
+    "line": 3192,
+    "target_en": "He must've been apologizing to Satoko so many times in his mind."
+  },
+  {
+    "id": 632,
+    "line": 3197,
+    "target_en": "......He swore to come back someday."
+  },
+  {
+    "id": 633,
+    "line": 3199,
+    "target_en": " He headed to Nagoya,"
+  },
+  {
+    "id": 634,
+    "line": 3201,
+    "target_en": " and then to Tokyo..."
+  },
+  {
+    "id": 635,
+    "line": 3207,
+    "target_en": "But that meant... he's alive."
+  },
+  {
+    "id": 636,
+    "line": 3212,
+    "target_en": "......He's alive."
+  },
+  {
+    "id": 637,
+    "line": 3217,
+    "target_en": "...I should be able to see him again someday."
+  },
+  {
+    "id": 638,
+    "line": 3222,
+    "target_en": "...He must be coming back, so I'll definitely see him again...!"
+  },
+  {
+    "id": 639,
+    "line": 3230,
+    "target_en": "\\\"I assume that the Sonozaki family set up some place for him to stay."
+  },
+  {
+    "id": 640,
+    "line": 3233,
+    "target_en": " Satoshi-kun must've gone there.\\\""
+  },
+  {
+    "id": 641,
+    "line": 3239,
+    "target_en": "\\\"So... he's safe......"
+  },
+  {
+    "id": 642,
+    "line": 3242,
+    "target_en": " He's coming back someday, right...?\\\""
+  },
+  {
+    "id": 643,
+    "line": 3247,
+    "target_en": "Ooishi looked up at the ceiling, and stretched."
+  },
+  {
+    "id": 644,
+    "line": 3250,
+    "target_en": " He didn't answer me."
+  },
+  {
+    "id": 645,
+    "line": 3261,
+    "target_en": "On June 24th, 1982, Satoshi Houjou went missing."
+  },
+  {
+    "id": 646,
+    "line": 3275,
+    "target_en": "There is a possibility that he ran away, as he was the prime suspect of the murder that happened on the 20th of the same month."
+  },
+  {
+    "id": 647,
+    "line": 3290,
+    "target_en": "Allegedly, someone resembling him was seen at Nagoya Station embarking on a train heading to Tokyo. But the truth is unknown."
+  },
+  {
+    "id": 648,
+    "line": 3304,
+    "target_en": "No one has seen him since."
+  },
+  {
+    "id": 649,
+    "line": 3318,
+    "target_en": "As a matter of fact, no one even knows if he's still alive."
+  }
+]

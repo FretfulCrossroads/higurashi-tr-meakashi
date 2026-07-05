@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "line": 17,
+    "target_en": "\\\"Wow, Mion never keeps her appointments..."
+  },
+  {
+    "id": 2,
+    "line": 20,
+    "target_en": " I mean, honestly.\\\""
+  },
+  {
+    "id": 3,
+    "line": 26,
+    "target_en": "\\\"Ahahahaha."
+  },
+  {
+    "id": 4,
+    "line": 29,
+    "target_en": " Making my sister the standard for everything will get you in trouble.\\\""
+  },
+  {
+    "id": 5,
+    "line": 42,
+    "target_en": "\\\"Ooh, too bad!"
+  },
+  {
+    "id": 6,
+    "line": 45,
+    "target_en": " I've been at home all day from the beginning."
+  },
+  {
+    "id": 7,
+    "line": 48,
+    "target_en": " I'm smarter than my sis, after all.\\\""
+  },
+  {
+    "id": 8,
+    "line": 57,
+    "target_en": "\\\"Hey now..."
+  },
+  {
+    "id": 9,
+    "line": 60,
+    "target_en": " I don't think you can call playing hooky 'smarter'...\\\""
+  },
+  {
+    "id": 10,
+    "line": 66,
+    "target_en": "\\\"You should finish your errand first."
+  },
+  {
+    "id": 11,
+    "line": 69,
+    "target_en": " We don't have that much time."
+  },
+  {
+    "id": 12,
+    "line": 72,
+    "target_en": " ...We're going to the library, right?\\\""
+  },
+  {
+    "id": 13,
+    "line": 80,
+    "target_en": "\\\"Yeah, thanks."
+  },
+  {
+    "id": 14,
+    "line": 83,
+    "target_en": " My mom had to return some books by today."
+  },
+  {
+    "id": 15,
+    "line": 86,
+    "target_en": " ...Is the library far?\\\""
+  },
+  {
+    "id": 16,
+    "line": 92,
+    "target_en": "\\\"No, it's right nearby.\\\""
+  },
+  {
+    "id": 17,
+    "line": 98,
+    "target_en": "I meant it when I said we didn't have much time."
+  },
+  {
+    "id": 18,
+    "line": 100,
+    "target_en": " I had to hurry a little."
+  },
+  {
+    "id": 19,
+    "line": 106,
+    "target_en": "I was just going to talk to him on the phone, but I ended up coming all the way to Okinomiya."
+  },
+  {
+    "id": 20,
+    "line": 111,
+    "target_en": "After our talk, Keiichi would slowly head back to Hinamizawa on his bicycle."
+  },
+  {
+    "id": 21,
+    "line": 117,
+    "target_en": "I'd have to rush back there while making sure I didn't run into him."
+  },
+  {
+    "id": 22,
+    "line": 122,
+    "target_en": "Otherwise, I couldn't make it on time for the meeting."
+  },
+  {
+    "id": 23,
+    "line": 127,
+    "target_en": "Maybe I could be a little late, but since I needed to hear everything they were going to discuss, I didn't want to be."
+  },
+  {
+    "id": 24,
+    "line": 133,
+    "target_en": "This was the Shishibone Public Library."
+  },
+  {
+    "id": 25,
+    "line": 138,
+    "target_en": "It was sizeable, filled with a collection of moldy, smelly books."
+  },
+  {
+    "id": 26,
+    "line": 143,
+    "target_en": "But they did have air conditioning, and it was quiet. It was the perfect place for when you wanted to be alone."
+  },
+  {
+    "id": 27,
+    "line": 148,
+    "target_en": "After Satoshi-kun disappeared last year, I came here a lot to think about various things."
+  },
+  {
+    "id": 28,
+    "line": 154,
+    "target_en": "This was where"
+  },
+  {
+    "id": 29,
+    "line": 156,
+    "target_en": " I first met Takano-san."
+  },
+  {
+    "id": 30,
+    "line": 162,
+    "target_en": "I didn't want to run into her with Keiichi in tow..."
+  },
+  {
+    "id": 31,
+    "line": 167,
+    "target_en": "But then I remembered that she was already dead."
+  },
+  {
+    "id": 32,
+    "line": 173,
+    "target_en": "The first floor of the building was occupied by government offices."
+  },
+  {
+    "id": 33,
+    "line": 178,
+    "target_en": "The library itself was on the second floor, so we had to walk up a huge staircase to get there."
+  },
+  {
+    "id": 34,
+    "line": 186,
+    "target_en": "I tasted cool air on my skin as soon as I walked through the automated door."
+  },
+  {
+    "id": 35,
+    "line": 192,
+    "target_en": "Unlike outside, it was very quiet in here."
+  },
+  {
+    "id": 36,
+    "line": 197,
+    "target_en": "The room temperature was both comfortable and suitable for books."
+  },
+  {
+    "id": 37,
+    "line": 202,
+    "target_en": "I could smell the scent of old pages..."
+  },
+  {
+    "id": 38,
+    "line": 211,
+    "target_en": "\\\"All libraries smell the same...\\\""
+  },
+  {
+    "id": 39,
+    "line": 218,
+    "target_en": "Keiichi walked up to the return table after he said so."
+  },
+  {
+    "id": 40,
+    "line": 223,
+    "target_en": "Because it was a weekday, there was hardly anyone around."
+  },
+  {
+    "id": 41,
+    "line": 225,
+    "target_en": " It really was very quiet."
+  },
+  {
+    "id": 42,
+    "line": 230,
+    "target_en": "I was going to chat about some ordinary things,"
+  },
+  {
+    "id": 43,
+    "line": 232,
+    "target_en": " and then move on to the main subject."
+  },
+  {
+    "id": 44,
+    "line": 238,
+    "target_en": "After Keiichi returned the books, I invited him into the inner section of the library."
+  },
+  {
+    "id": 45,
+    "line": 245,
+    "target_en": "Keiichi knew Mion well, but he didn't know me at all."
+  },
+  {
+    "id": 46,
+    "line": 247,
+    "target_en": " He showed an interest in our life story."
+  },
+  {
+    "id": 47,
+    "line": 253,
+    "target_en": "This was exactly where Takano-san told me about the true history of Hinamizawa a year ago. I was about to tell Keiichi about things that were very similar to that."
+  },
+  {
+    "id": 48,
+    "line": 255,
+    "target_en": " Did God have a sense of irony?"
+  },
+  {
+    "id": 49,
+    "line": 264,
+    "target_en": "\\\"...Now that you mention it..."
+  },
+  {
+    "id": 50,
+    "line": 267,
+    "target_en": " That toy store looked like it was managed by relatives as well."
+  },
+  {
+    "id": 51,
+    "line": 270,
+    "target_en": " Does that mean they operate Angel Mort too?\\\""
+  },
+  {
+    "id": 52,
+    "line": 275,
+    "target_en": "I told him the reason why the Sonozaki family was so powerful in this area."
+  },
+  {
+    "id": 53,
+    "line": 281,
+    "target_en": "I assumed that since Keiichi came from the city, there was a good chance he couldn't even begin to understand how one old family could literally control an entire area."
+  },
+  {
+    "id": 54,
+    "line": 286,
+    "target_en": "Unless I explained to him how powerful the Sonozaki family was, he wouldn't understand what kind of danger was barreling toward him."
+  },
+  {
+    "id": 55,
+    "line": 292,
+    "target_en": "\\\"The family is particularly strong in finance and real estate."
+  },
+  {
+    "id": 56,
+    "line": 295,
+    "target_en": " Even a lot of members of the Chamber of Commerce and Industry either have the last name Sonozaki, or are their relatives.  "
+  },
+  {
+    "id": 57,
+    "line": 299,
+    "target_en": "There are Sonozakis in the city council and the prefectural assembly too, since they have the Okinomiya area giving them strong electoral support.\\\""
+  },
+  {
+    "id": 58,
+    "line": 307,
+    "target_en": "\\\"...Wait a minute."
+  },
+  {
+    "id": 59,
+    "line": 310,
+    "target_en": " ...This is all... escalating pretty quickly."
+  },
+  {
+    "id": 60,
+    "line": 313,
+    "target_en": " Your relatives operate shops in downtown Okinomiya, and they're especially strong in finance and real estate...? "
+  },
+  {
+    "id": 61,
+    "line": 317,
+    "target_en": "On top of that, a lot of people in the Chamber of Commerce and Industry are relatives, and there are even some elected to local offices...?\\\""
+  },
+  {
+    "id": 62,
+    "line": 322,
+    "target_en": "Keiichi counted with his fingers. He was clearly surprised to hear all that about the Sonozaki family."
+  },
+  {
+    "id": 63,
+    "line": 328,
+    "target_en": "It seemed he was flexible enough to accept even something that sounded outrageous to him."
+  },
+  {
+    "id": 64,
+    "line": 333,
+    "target_en": "He was starting to understand things, although slowly. The way he viewed Shion Sonozaki was changing little by little too."
+  },
+  {
+    "id": 65,
+    "line": 338,
+    "target_en": "That should be enough background information. Now I could go on to explain about Mion Sonozaki, the successor."
+  },
+  {
+    "id": 66,
+    "line": 344,
+    "target_en": "Then I'd change the subject, like Takano-san did with me."
+  },
+  {
+    "id": 67,
+    "line": 349,
+    "target_en": "I'd go on to talk about the curse of Oyashiro-sama and then the series of mysterious deaths..."
+  },
+  {
+    "id": 68,
+    "line": 355,
+    "target_en": "\\\"So then..."
+  },
+  {
+    "id": 69,
+    "line": 360,
+    "target_en": " ...The Sonozaki family, it's... it's pretty famous in this area...?\\\""
+  },
+  {
+    "id": 70,
+    "line": 373,
+    "target_en": "\\\"Yep."
+  },
+  {
+    "id": 71,
+    "line": 376,
+    "target_en": " Crazy, isn't it?"
+  },
+  {
+    "id": 72,
+    "line": 379,
+    "target_en": " Nfu fu fu fu!\\\""
+  },
+  {
+    "id": 73,
+    "line": 384,
+    "target_en": "A fat man with a cigarette suddenly cut into our conversation."
+  },
+  {
+    "id": 74,
+    "line": 391,
+    "target_en": "Ooishi?"
+  },
+  {
+    "id": 75,
+    "line": 396,
+    "target_en": "Why was he here?"
+  },
+  {
+    "id": 76,
+    "line": 402,
+    "target_en": "\\\"Hello!"
+  },
+  {
+    "id": 77,
+    "line": 405,
+    "target_en": " Good afternoon."
+  },
+  {
+    "id": 78,
+    "line": 408,
+    "target_en": " Are you on a date today?"
+  },
+  {
+    "id": 79,
+    "line": 411,
+    "target_en": " Ah, what I would give to be young again.\\\""
+  },
+  {
+    "id": 80,
+    "line": 417,
+    "target_en": "\\\"If you thought we were on a date, then why are you bothering us,"
+  },
+  {
+    "id": 81,
+    "line": 420,
+    "target_en": " Ooishi-san?\\\""
+  },
+  {
+    "id": 82,
+    "line": 426,
+    "target_en": "What timing."
+  },
+  {
+    "id": 83,
+    "line": 428,
+    "target_en": " It couldn't be coincidence."
+  },
+  {
+    "id": 84,
+    "line": 433,
+    "target_en": "I knew this man too well."
+  },
+  {
+    "id": 85,
+    "line": 438,
+    "target_en": "He was crafty, sly, and clever."
+  },
+  {
+    "id": 86,
+    "line": 444,
+    "target_en": "His presence here just can't be a coincidence."
+  },
+  {
+    "id": 87,
+    "line": 449,
+    "target_en": "Did he see us somewhere in town and follow us?"
+  },
+  {
+    "id": 88,
+    "line": 454,
+    "target_en": "But why?"
+  },
+  {
+    "id": 89,
+    "line": 459,
+    "target_en": "Did he need something from me, Keiichi, or perhaps the both of us?"
+  },
+  {
+    "id": 90,
+    "line": 465,
+    "target_en": "From what I could guess, I didn't think it was me that he wanted something from."
+  },
+  {
+    "id": 91,
+    "line": 470,
+    "target_en": "It was almost like he was trying to keep Keiichi away from me."
+  },
+  {
+    "id": 92,
+    "line": 475,
+    "target_en": "Ooishi was aware I gave false testimony to protect Satoshi-kun last year."
+  },
+  {
+    "id": 93,
+    "line": 480,
+    "target_en": "Maybe he didn't think he could talk to Keiichi if I was around."
+  },
+  {
+    "id": 94,
+    "line": 485,
+    "target_en": "Why did Ooishi need to talk to Keiichi?"
+  },
+  {
+    "id": 95,
+    "line": 490,
+    "target_en": "It must be about the incident from yesterday."
+  },
+  {
+    "id": 96,
+    "line": 496,
+    "target_en": "I'm sure there were plenty of plainclothes officers at the festival, so they had to have seen who was last with the victims."
+  },
+  {
+    "id": 97,
+    "line": 501,
+    "target_en": "In other words, Keiichi and me."
+  },
+  {
+    "id": 98,
+    "line": 507,
+    "target_en": "But Ooishi knew I was hard to deal with."
+  },
+  {
+    "id": 99,
+    "line": 512,
+    "target_en": "That was why he was focusing on Keiichi at present."
+  },
+  {
+    "id": 100,
+    "line": 514,
+    "target_en": " Why did he have to show up at a time like this?"
+  },
+  {
+    "id": 101,
+    "line": 522,
+    "target_en": "\\\"Maebara-san, right?"
+  },
+  {
+    "id": 102,
+    "line": 525,
+    "target_en": " You're one tough guy."
+  },
+  {
+    "id": 103,
+    "line": 528,
+    "target_en": " Two-timing the Sonozaki sisters, are you?\\\""
+  },
+  {
+    "id": 104,
+    "line": 534,
+    "target_en": "\\\"No, I... I'm not two-timing anyone...\\\""
+  },
+  {
+    "id": 105,
+    "line": 539,
+    "target_en": "Keiichi looked at me, hoping for assistance."
+  },
+  {
+    "id": 106,
+    "line": 544,
+    "target_en": "He blushed. The way he panicked reminded me of Satoshi-kun."
+  },
+  {
+    "id": 107,
+    "line": 549,
+    "target_en": "That aside, this wasn't going well."
+  },
+  {
+    "id": 108,
+    "line": 554,
+    "target_en": "Ooishi might even start talking about my relationship with Satoshi-kun."
+  },
+  {
+    "id": 109,
+    "line": 559,
+    "target_en": "I didn't want him to, nor did I want Keiichi to have any preconceptions."
+  },
+  {
+    "id": 110,
+    "line": 566,
+    "target_en": "Ooishi took a quick glance at me."
+  },
+  {
+    "id": 111,
+    "line": 571,
+    "target_en": "His eyes told me something."
+  },
+  {
+    "id": 112,
+    "line": 576,
+    "target_en": "He was purposefully talking about the things I'd rather not talk about."
+  },
+  {
+    "id": 113,
+    "line": 581,
+    "target_en": "He was basically telling me to leave or he'd continue on to something that was worse than what they were currently talking about."
+  },
+  {
+    "id": 114,
+    "line": 583,
+    "target_en": " He didn't use words, but his eyes clearly communicated that anyway."
+  },
+  {
+    "id": 115,
+    "line": 588,
+    "target_en": "Damn that big fat weasel..."
+  },
+  {
+    "id": 116,
+    "line": 594,
+    "target_en": "\\\"Ah, I'm sorry, Kei-chan."
+  },
+  {
+    "id": 117,
+    "line": 597,
+    "target_en": " ...I really do need to get to my job.\\\""
+  },
+  {
+    "id": 118,
+    "line": 605,
+    "target_en": "\\\"Huh?"
+  },
+  {
+    "id": 119,
+    "line": 608,
+    "target_en": " Oh... you do?\\\""
+  },
+  {
+    "id": 120,
+    "line": 613,
+    "target_en": "I realized that I wouldn't achieve anything like this, even if I stayed longer, so I used my part-time job as an excuse to leave."
+  },
+  {
+    "id": 121,
+    "line": 621,
+    "target_en": "Ooishi looked at me and grinned."
+  },
+  {
+    "id": 122,
+    "line": 626,
+    "target_en": "Damn it..."
+  },
+  {
+    "id": 123,
+    "line": 628,
+    "target_en": " He won today, but I'll win next time."
+  },
+  {
+    "id": 124,
+    "line": 636,
+    "target_en": "\\\"Wait... Didn't you have something to talk about today,"
+  },
+  {
+    "id": 125,
+    "line": 639,
+    "target_en": " Shion?\\\""
+  },
+  {
+    "id": 126,
+    "line": 645,
+    "target_en": "\\\"Yep. I'll see you later..."
+  },
+  {
+    "id": 127,
+    "line": 648,
+    "target_en": " Oh, I'll give you a call after I'm done."
+  },
+  {
+    "id": 128,
+    "line": 651,
+    "target_en": " It'll be okay to call at night, right?\\\""
+  },
+  {
+    "id": 129,
+    "line": 657,
+    "target_en": "\\\"Yeah."
+  },
+  {
+    "id": 130,
+    "line": 660,
+    "target_en": " Probably okay.\\\""
+  },
+  {
+    "id": 131,
+    "line": 666,
+    "target_en": "\\\"Then I'll talk to you later tonight."
+  },
+  {
+    "id": 132,
+    "line": 669,
+    "target_en": " Bye!\\\""
+  }
+]

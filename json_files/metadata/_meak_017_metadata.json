@@ -1,0 +1,2447 @@
+[
+  {
+    "id": 1,
+    "line": 13,
+    "target_en": "My relatives gathered at the Sonozaki house after the festival to have a little party."
+  },
+  {
+    "id": 2,
+    "line": 19,
+    "target_en": "I mingled with my uncles and had fun."
+  },
+  {
+    "id": 3,
+    "line": 25,
+    "target_en": "...I was trying to get rid of my eerie memories of the ritual storehouse."
+  },
+  {
+    "id": 4,
+    "line": 34,
+    "target_en": "Mion was acting as the successor, so I tried to stay away from her."
+  },
+  {
+    "id": 5,
+    "line": 39,
+    "target_en": "I'm sure she would feel weird if I talked to her in a formal way."
+  },
+  {
+    "id": 6,
+    "line": 48,
+    "target_en": "In consideration of the hag's old age, we ended the party around 11 PM."
+  },
+  {
+    "id": 7,
+    "line": 53,
+    "target_en": "We all helped to clean up, with the women washing the dishes in the kitchen..."
+  },
+  {
+    "id": 8,
+    "line": 58,
+    "target_en": "And the men folding the tables and putting them away in a storeroom."
+  },
+  {
+    "id": 9,
+    "line": 63,
+    "target_en": "It only took about thirty minutes. Then everyone left, one after another."
+  },
+  {
+    "id": 10,
+    "line": 72,
+    "target_en": "By then Mion was no longer acting as the Sonozaki successor and was back to being her normal self."
+  },
+  {
+    "id": 11,
+    "line": 84,
+    "target_en": "\\\"Sis, can I spend the night here?"
+  },
+  {
+    "id": 12,
+    "line": 87,
+    "target_en": " I just want to sleep...\\\""
+  },
+  {
+    "id": 13,
+    "line": 96,
+    "target_en": "\\\"Granny will get mad if she finds you..."
+  },
+  {
+    "id": 14,
+    "line": 104,
+    "target_en": "By the way, don't you have school tomorrow, Shion?\\\""
+  },
+  {
+    "id": 15,
+    "line": 110,
+    "target_en": "\\\"No, tomorrow is our school's anniversary, so there's no class..."
+  },
+  {
+    "id": 16,
+    "line": 113,
+    "target_en": " ...Mmm...\\\""
+  },
+  {
+    "id": 17,
+    "line": 119,
+    "target_en": "\\\"How many times a year does your school have its anniversary? "
+  },
+  {
+    "id": 18,
+    "line": 126,
+    "target_en": "Oh well..."
+  },
+  {
+    "id": 19,
+    "line": 129,
+    "target_en": " Okay, Kasai-san."
+  },
+  {
+    "id": 20,
+    "line": 132,
+    "target_en": " She can stay here tonight.\\\""
+  },
+  {
+    "id": 21,
+    "line": 141,
+    "target_en": "\\\"Understood."
+  },
+  {
+    "id": 22,
+    "line": 144,
+    "target_en": " Good night.\\\""
+  },
+  {
+    "id": 23,
+    "line": 154,
+    "target_en": "\\\"Come on, Shion, wake up. Granny will get really mad if you fall asleep here."
+  },
+  {
+    "id": 24,
+    "line": 157,
+    "target_en": " Here, hold on to me."
+  },
+  {
+    "id": 25,
+    "line": 160,
+    "target_en": " You can sleep in my room.\\\""
+  },
+  {
+    "id": 26,
+    "line": 166,
+    "target_en": "\\\"Y'whaaa?... Sis... uhhnnn...\\\""
+  },
+  {
+    "id": 27,
+    "line": 189,
+    "target_en": "I didn't remember much after that."
+  },
+  {
+    "id": 28,
+    "line": 194,
+    "target_en": "I was probably brought to Mion's room and immediately crawled into the futon."
+  },
+  {
+    "id": 29,
+    "line": 200,
+    "target_en": "After a while, Mion got her futon ready next to me, turned the lights off, and went to sleep... At least, that's what I'd thought..."
+  },
+  {
+    "id": 30,
+    "line": 206,
+    "target_en": "I got up and turned the lights on."
+  },
+  {
+    "id": 31,
+    "line": 211,
+    "target_en": "Mion's futon was empty."
+  },
+  {
+    "id": 32,
+    "line": 216,
+    "target_en": "The futon felt cold."
+  },
+  {
+    "id": 33,
+    "line": 221,
+    "target_en": "Mion must have left it a while ago."
+  },
+  {
+    "id": 34,
+    "line": 226,
+    "target_en": "Did she go to the bathroom?"
+  },
+  {
+    "id": 35,
+    "line": 231,
+    "target_en": "No, the closest bathroom was right there down the hallway."
+  },
+  {
+    "id": 36,
+    "line": 236,
+    "target_en": "The light in the bathroom was off."
+  },
+  {
+    "id": 37,
+    "line": 241,
+    "target_en": "Where did she go?"
+  },
+  {
+    "id": 38,
+    "line": 246,
+    "target_en": "The ticking of the clock was loud and annoying in this silence."
+  },
+  {
+    "id": 39,
+    "line": 251,
+    "target_en": "The hands pointed... to a little before 3 AM."
+  },
+  {
+    "id": 40,
+    "line": 256,
+    "target_en": "I was left alone all of a sudden... in this late night."
+  },
+  {
+    "id": 41,
+    "line": 266,
+    "target_en": "I tried to sense my surroundings; in this house, there shouldn't be an eerie atmosphere,"
+  },
+  {
+    "id": 42,
+    "line": 271,
+    "target_en": " strange noises,"
+  },
+  {
+    "id": 43,
+    "line": 276,
+    "target_en": " or footsteps."
+  },
+  {
+    "id": 44,
+    "line": 284,
+    "target_en": "I stepped out into the freezing cold hallway to look for Mion..."
+  },
+  {
+    "id": 45,
+    "line": 290,
+    "target_en": "When I did, I immediately noticed light coming from one of the nearby rooms. "
+  },
+  {
+    "id": 46,
+    "line": 296,
+    "target_en": "That room belonged to the hag."
+  },
+  {
+    "id": 47,
+    "line": 301,
+    "target_en": "The hag went to sleep early and woke up early."
+  },
+  {
+    "id": 48,
+    "line": 306,
+    "target_en": "She was very strict about her bedtime."
+  },
+  {
+    "id": 49,
+    "line": 308,
+    "target_en": " So it was strange to see her light on in the middle of the night."
+  },
+  {
+    "id": 50,
+    "line": 313,
+    "target_en": "I could hear voices too."
+  },
+  {
+    "id": 51,
+    "line": 315,
+    "target_en": " Those voices belonged to the hag... and Mion."
+  },
+  {
+    "id": 52,
+    "line": 320,
+    "target_en": "I creeped up to the room and listened to their conversation."
+  },
+  {
+    "id": 53,
+    "line": 326,
+    "target_en": "Since it was the middle of the night, I could hear their words very clearly."
+  },
+  {
+    "id": 54,
+    "line": 335,
+    "target_en": "\\\"But you know..."
+  },
+  {
+    "id": 55,
+    "line": 338,
+    "target_en": " those young ones went too far.\\\""
+  },
+  {
+    "id": 56,
+    "line": 344,
+    "target_en": "\\\"You're right."
+  },
+  {
+    "id": 57,
+    "line": 347,
+    "target_en": " They made Oyashiro-sama angry, so I guess they got what they deserved.\\\""
+  },
+  {
+    "id": 58,
+    "line": 355,
+    "target_en": "Mion's voice sounded as cold as the one I'd heard down in the torture room. I held my breath."
+  },
+  {
+    "id": 59,
+    "line": 361,
+    "target_en": "\\\"The police say they are investigating, but are you sure?\\\""
+  },
+  {
+    "id": 60,
+    "line": 367,
+    "target_en": "\\\"...I guess."
+  },
+  {
+    "id": 61,
+    "line": 373,
+    "target_en": " It's probably Takano-san.\\\""
+  },
+  {
+    "id": 62,
+    "line": 383,
+    "target_en": "My heart almost stopped."
+  },
+  {
+    "id": 63,
+    "line": 391,
+    "target_en": "Oyashiro-sama got angry."
+  },
+  {
+    "id": 64,
+    "line": 396,
+    "target_en": "The police are investigating."
+  },
+  {
+    "id": 65,
+    "line": 401,
+    "target_en": "It's probably Takano-san."
+  },
+  {
+    "id": 66,
+    "line": 403,
+    "target_en": " And what day was it today."
+  },
+  {
+    "id": 67,
+    "line": 408,
+    "target_en": "Those words told me that something was happening."
+  },
+  {
+    "id": 68,
+    "line": 413,
+    "target_en": "My teeth started to chatter. I desperately tried to stop them."
+  },
+  {
+    "id": 69,
+    "line": 419,
+    "target_en": "I felt like my body was swelling up suddenly. I could no longer hear as well."
+  },
+  {
+    "id": 70,
+    "line": 425,
+    "target_en": "Calm down. Breathe."
+  },
+  {
+    "id": 71,
+    "line": 427,
+    "target_en": " Listen more carefully..."
+  },
+  {
+    "id": 72,
+    "line": 432,
+    "target_en": "According to Mion and the hag's conversation, another incident definitely took place."
+  },
+  {
+    "id": 73,
+    "line": 437,
+    "target_en": "The victims were... Takano-san and Tomitake-san..."
+  },
+  {
+    "id": 74,
+    "line": 443,
+    "target_en": "From what I could tell, both Mion and the hag thought it made sense that whatever it was happened to them."
+  },
+  {
+    "id": 75,
+    "line": 448,
+    "target_en": "No, no, no, no... I needed to think more calmly..."
+  },
+  {
+    "id": 76,
+    "line": 453,
+    "target_en": "They did say they deserved it for making Oyashiro-sama angry."
+  },
+  {
+    "id": 77,
+    "line": 459,
+    "target_en": "Did they say Takano-san and Tomitake-san made Oyashiro-sama angry?"
+  },
+  {
+    "id": 78,
+    "line": 464,
+    "target_en": "How did they make Oyashiro-sama angry?"
+  },
+  {
+    "id": 79,
+    "line": 469,
+    "target_en": "............They knew."
+  },
+  {
+    "id": 80,
+    "line": 474,
+    "target_en": "My body started to shake."
+  },
+  {
+    "id": 81,
+    "line": 479,
+    "target_en": "They knew we snuck into the ritual storehouse..."
+  },
+  {
+    "id": 82,
+    "line": 484,
+    "target_en": "Then would that mean... Keiichi and I"
+  },
+  {
+    "id": 83,
+    "line": 489,
+    "target_en": " were also subject to Oyashiro-sama's curse?"
+  },
+  {
+    "id": 84,
+    "line": 500,
+    "target_en": "Suddenly a phone rang."
+  },
+  {
+    "id": 85,
+    "line": 505,
+    "target_en": "The phone was by the front door."
+  },
+  {
+    "id": 86,
+    "line": 510,
+    "target_en": "The front door was opposite the hag's room, farther down the hall."
+  },
+  {
+    "id": 87,
+    "line": 515,
+    "target_en": "The ringing echoed throughout the long hallway. It sounded so eerie, almost like it was coming from Hell..."
+  },
+  {
+    "id": 88,
+    "line": 523,
+    "target_en": "That was when"
+  },
+  {
+    "id": 89,
+    "line": 529,
+    "target_en": "......"
+  },
+  {
+    "id": 90,
+    "line": 532,
+    "target_en": " I felt"
+  },
+  {
+    "id": 91,
+    "line": 537,
+    "target_en": " someone behind me."
+  },
+  {
+    "id": 92,
+    "line": 542,
+    "target_en": "Of course, there was nobody there when I turned around."
+  },
+  {
+    "id": 93,
+    "line": 544,
+    "target_en": " But there was someone there a moment ago."
+  },
+  {
+    "id": 94,
+    "line": 549,
+    "target_en": "I didn't know if it was Satoshi-kun."
+  },
+  {
+    "id": 95,
+    "line": 554,
+    "target_en": "I didn't sense any emotions, so I couldn't tell."
+  },
+  {
+    "id": 96,
+    "line": 559,
+    "target_en": "I also didn't know how long it had been there."
+  },
+  {
+    "id": 97,
+    "line": 564,
+    "target_en": "It was as if that somebody was watching me listen in on their conversation."
+  },
+  {
+    "id": 98,
+    "line": 569,
+    "target_en": " That was the feeling I got."
+  },
+  {
+    "id": 99,
+    "line": 574,
+    "target_en": "It couldn't be Satoshi-kun."
+  },
+  {
+    "id": 100,
+    "line": 579,
+    "target_en": "Satoshi-kun would never be that intimidating or scary."
+  },
+  {
+    "id": 101,
+    "line": 587,
+    "target_en": "My mind turned all red, like it was suffused with blood."
+  },
+  {
+    "id": 102,
+    "line": 593,
+    "target_en": "\\\"...Have you experienced anything like that?"
+  },
+  {
+    "id": 103,
+    "line": 596,
+    "target_en": " Those footsteps always followed me......"
+  },
+  {
+    "id": 104,
+    "line": 599,
+    "target_en": " They even came to my bedside"
+  },
+  {
+    "id": 105,
+    "line": 602,
+    "target_en": " and looked down at me.\\\""
+  },
+  {
+    "id": 106,
+    "line": 608,
+    "target_en": "I remembered what Rena Ryuugu had said on that rainy day."
+  },
+  {
+    "id": 107,
+    "line": 615,
+    "target_en": "\\\"You'll be okay, if that's true......"
+  },
+  {
+    "id": 108,
+    "line": 618,
+    "target_en": " Oyashiro-sama won't get mad at you.\\\""
+  },
+  {
+    "id": 109,
+    "line": 623,
+    "target_en": "If Oyashiro-sama wasn't angry,"
+  },
+  {
+    "id": 110,
+    "line": 628,
+    "target_en": " nobody would follow me."
+  },
+  {
+    "id": 111,
+    "line": 634,
+    "target_en": "So what did this mean?"
+  },
+  {
+    "id": 112,
+    "line": 636,
+    "target_en": " Ever since we snuck into the shrine storage"
+  },
+  {
+    "id": 113,
+    "line": 641,
+    "target_en": " something has been following me?"
+  },
+  {
+    "id": 114,
+    "line": 646,
+    "target_en": " What is it?"
+  },
+  {
+    "id": 115,
+    "line": 651,
+    "target_en": "Calm down, calm down..."
+  },
+  {
+    "id": 116,
+    "line": 656,
+    "target_en": "That's right. Rena wasn't talking about me."
+  },
+  {
+    "id": 117,
+    "line": 661,
+    "target_en": "She was talking about Satoshi-kun! That's what happened to Satoshi-kun!"
+  },
+  {
+    "id": 118,
+    "line": 668,
+    "target_en": "\\\"Everything he's going through... is a sign of Oyashiro-sama's curse.\\\""
+  },
+  {
+    "id": 119,
+    "line": 674,
+    "target_en": "That's right. That's why he encountered the curse of Oyashiro-sama..."
+  },
+  {
+    "id": 120,
+    "line": 680,
+    "target_en": "\\\"......You feel someone is watching from a distance..."
+  },
+  {
+    "id": 121,
+    "line": 683,
+    "target_en": " and it follows you...\\\""
+  },
+  {
+    "id": 122,
+    "line": 689,
+    "target_en": "A creepy feeling crawled up and spread across my back."
+  },
+  {
+    "id": 123,
+    "line": 695,
+    "target_en": "\\\"Then it watches from right behind you..."
+  },
+  {
+    "id": 124,
+    "line": 698,
+    "target_en": " ...After that, you start hearing an extra footstep.\\\""
+  },
+  {
+    "id": 125,
+    "line": 704,
+    "target_en": "I swallowed loudly."
+  },
+  {
+    "id": 126,
+    "line": 709,
+    "target_en": "It's almost as though Rena Ryuugu was predicting what would happen to me..."
+  },
+  {
+    "id": 127,
+    "line": 715,
+    "target_en": "Had Rena been talking about Satoshi-kun back then?"
+  },
+  {
+    "id": 128,
+    "line": 717,
+    "target_en": " Or had she actually been talking about me...?"
+  },
+  {
+    "id": 129,
+    "line": 723,
+    "target_en": "\\\"But you start hearing it even inside your house after a while."
+  },
+  {
+    "id": 130,
+    "line": 726,
+    "target_en": " Then... Oyashiro-sama keeps watching you even when you're sleeping in the dark..."
+  },
+  {
+    "id": 131,
+    "line": 729,
+    "target_en": " right by your side,"
+  },
+  {
+    "id": 132,
+    "line": 732,
+    "target_en": " waiting silently...\\\""
+  },
+  {
+    "id": 133,
+    "line": 737,
+    "target_en": "I knew by now that there was no mistake..."
+  },
+  {
+    "id": 134,
+    "line": 743,
+    "target_en": "No matter how I looked at it,"
+  },
+  {
+    "id": 135,
+    "line": 745,
+    "target_en": " she had been talking about me."
+  },
+  {
+    "id": 136,
+    "line": 747,
+    "target_en": " Yes, me."
+  },
+  {
+    "id": 137,
+    "line": 749,
+    "target_en": " It had been about me!"
+  },
+  {
+    "id": 138,
+    "line": 754,
+    "target_en": "The curse of Oyashiro-sama... What is the curse of Oyashiro-sama?"
+  },
+  {
+    "id": 139,
+    "line": 761,
+    "target_en": "That was when I actually felt something for real. "
+  },
+  {
+    "id": 140,
+    "line": 771,
+    "target_en": "Someone grabbed my collar."
+  },
+  {
+    "id": 141,
+    "line": 777,
+    "target_en": "\\\"Ah.........!!\\\""
+  },
+  {
+    "id": 142,
+    "line": 782,
+    "target_en": "No voice came out."
+  },
+  {
+    "id": 143,
+    "line": 787,
+    "target_en": "I wanted to scream, but all I could do was to open and close my mouth, as if something was stuck in my throat..."
+  },
+  {
+    "id": 144,
+    "line": 798,
+    "target_en": "It was Mion..."
+  },
+  {
+    "id": 145,
+    "line": 803,
+    "target_en": "She looked even colder than how she'd looked in the underground torture room."
+  },
+  {
+    "id": 146,
+    "line": 809,
+    "target_en": "It only made sense"
+  },
+  {
+    "id": 147,
+    "line": 811,
+    "target_en": " that she'd come out into the hallway to answer the phone."
+  },
+  {
+    "id": 148,
+    "line": 816,
+    "target_en": "I tried to come up with an excuse..."
+  },
+  {
+    "id": 149,
+    "line": 822,
+    "target_en": "However, the way Mion looked at me was so cold."
+  },
+  {
+    "id": 150,
+    "line": 827,
+    "target_en": "Even if I really had run into her by accident, I could tell by the look in her eyes that she wouldn't believe me."
+  },
+  {
+    "id": 151,
+    "line": 832,
+    "target_en": "I felt cold sweat all over my body. I couldn't even move my fingers."
+  },
+  {
+    "id": 152,
+    "line": 838,
+    "target_en": "\\\"S... Sorry...\\\""
+  },
+  {
+    "id": 153,
+    "line": 844,
+    "target_en": "I apologized."
+  },
+  {
+    "id": 154,
+    "line": 849,
+    "target_en": "I could have said something to get myself out of the situation, but the apology came out first."
+  },
+  {
+    "id": 155,
+    "line": 854,
+    "target_en": "But Mion didn't appear to hear me."
+  },
+  {
+    "id": 156,
+    "line": 859,
+    "target_en": "She walked to the front door, still holding my collar."
+  },
+  {
+    "id": 157,
+    "line": 865,
+    "target_en": "The phone was still ringing."
+  },
+  {
+    "id": 158,
+    "line": 870,
+    "target_en": "A normal person doesn't usually let a phone ring so long at this time of night."
+  },
+  {
+    "id": 159,
+    "line": 872,
+    "target_en": " The phone call itself didn't seem real to me."
+  },
+  {
+    "id": 160,
+    "line": 877,
+    "target_en": "Mion picked up the phone."
+  },
+  {
+    "id": 161,
+    "line": 884,
+    "target_en": "\\\"This is Mion."
+  },
+  {
+    "id": 162,
+    "line": 887,
+    "target_en": " ............"
+  },
+  {
+    "id": 163,
+    "line": 890,
+    "target_en": "...I see."
+  },
+  {
+    "id": 164,
+    "line": 893,
+    "target_en": " I understand."
+  },
+  {
+    "id": 165,
+    "line": 896,
+    "target_en": " Please take care of things at your end."
+  },
+  {
+    "id": 166,
+    "line": 899,
+    "target_en": " Also, please make sure that nobody talks about this."
+  },
+  {
+    "id": 167,
+    "line": 902,
+    "target_en": " ...Yes."
+  },
+  {
+    "id": 168,
+    "line": 905,
+    "target_en": " Goodbye.\\\""
+  },
+  {
+    "id": 169,
+    "line": 911,
+    "target_en": "Mion put down the phone after a short conversation."
+  },
+  {
+    "id": 170,
+    "line": 916,
+    "target_en": "What did she mean, make sure nobody talks about this?"
+  },
+  {
+    "id": 171,
+    "line": 921,
+    "target_en": "Who called any... way?! ............!!!"
+  },
+  {
+    "id": 172,
+    "line": 927,
+    "target_en": "Mion put her forehead to mine and spoke to me."
+  },
+  {
+    "id": 173,
+    "line": 936,
+    "target_en": "\\\"Did you hear?\\\""
+  },
+  {
+    "id": 174,
+    "line": 941,
+    "target_en": "Which conversation was she asking me about?!"
+  },
+  {
+    "id": 175,
+    "line": 946,
+    "target_en": "Well, she had to be talking about the one with the hag."
+  },
+  {
+    "id": 176,
+    "line": 951,
+    "target_en": "If I said yes, what would happen to me?"
+  },
+  {
+    "id": 177,
+    "line": 957,
+    "target_en": "\\\"...I..."
+  },
+  {
+    "id": 178,
+    "line": 962,
+    "target_en": " don't..."
+  },
+  {
+    "id": 179,
+    "line": 967,
+    "target_en": " ahaha..."
+  },
+  {
+    "id": 180,
+    "line": 972,
+    "target_en": " I don't know"
+  },
+  {
+    "id": 181,
+    "line": 977,
+    "target_en": " what you're talking about..."
+  },
+  {
+    "id": 182,
+    "line": 980,
+    "target_en": " Ahhhh...!\\\""
+  },
+  {
+    "id": 183,
+    "line": 985,
+    "target_en": "Mion pulled my collar, pressed her nose on mine, and continued to speak."
+  },
+  {
+    "id": 184,
+    "line": 993,
+    "target_en": "\\\"Just what you heard."
+  },
+  {
+    "id": 185,
+    "line": 996,
+    "target_en": " The curse of Oyashiro-sama fell upon Tomitake-san and Takano-san."
+  },
+  {
+    "id": 186,
+    "line": 999,
+    "target_en": " It's really very unfortunate...\\\""
+  },
+  {
+    "id": 187,
+    "line": 1004,
+    "target_en": "It was like I was talking to myself in a mirror."
+  },
+  {
+    "id": 188,
+    "line": 1009,
+    "target_en": "But what I was saying in the mirror was ever so cold."
+  },
+  {
+    "id": 189,
+    "line": 1015,
+    "target_en": "\\\"...Sis..."
+  },
+  {
+    "id": 190,
+    "line": 1020,
+    "target_en": " Ahaha..."
+  },
+  {
+    "id": 191,
+    "line": 1025,
+    "target_en": " what is"
+  },
+  {
+    "id": 192,
+    "line": 1030,
+    "target_en": " the curse of Oyashiro-sama?\\\""
+  },
+  {
+    "id": 193,
+    "line": 1037,
+    "target_en": "\\\"Tomitake-san killed himself by clawing out his throat."
+  },
+  {
+    "id": 194,
+    "line": 1040,
+    "target_en": " Takano-san was burned to death in an oil drum."
+  },
+  {
+    "id": 195,
+    "line": 1043,
+    "target_en": " ...Terrible, isn't it.\\\""
+  },
+  {
+    "id": 196,
+    "line": 1047,
+    "target_en": "Tomitake-san clawed at his own throat until he died?"
+  },
+  {
+    "id": 197,
+    "line": 1051,
+    "target_en": "What?"
+  },
+  {
+    "id": 198,
+    "line": 1055,
+    "target_en": "Takano-san was burned to death in an oil drum?"
+  },
+  {
+    "id": 199,
+    "line": 1059,
+    "target_en": "What? What??"
+  },
+  {
+    "id": 200,
+    "line": 1064,
+    "target_en": "I felt something furry crawl up my spine."
+  },
+  {
+    "id": 201,
+    "line": 1069,
+    "target_en": "I also felt like my stomach was turning upside down."
+  },
+  {
+    "id": 202,
+    "line": 1074,
+    "target_en": "I didn't feel any strength in my legs. If Mion let go of my collar, I'd probably collapse on the spot."
+  },
+  {
+    "id": 203,
+    "line": 1080,
+    "target_en": "\\\"Wh, Why"
+  },
+  {
+    "id": 204,
+    "line": 1085,
+    "target_en": " did they die"
+  },
+  {
+    "id": 205,
+    "line": 1090,
+    "target_en": " that way?\\\""
+  },
+  {
+    "id": 206,
+    "line": 1096,
+    "target_en": "\\\"Don't you know, Shion?\\\""
+  },
+  {
+    "id": 207,
+    "line": 1101,
+    "target_en": "I'm asking you because I don't know..."
+  },
+  {
+    "id": 208,
+    "line": 1107,
+    "target_en": "\\\"I, I don't know... Ahahaha...\\\""
+  },
+  {
+    "id": 209,
+    "line": 1113,
+    "target_en": "\\\"Don't you see there can be only one reason?\\\""
+  },
+  {
+    "id": 210,
+    "line": 1118,
+    "target_en": "Please don't talk as if I already know the answer..."
+  },
+  {
+    "id": 211,
+    "line": 1124,
+    "target_en": "\\\"What do you mean?\\\""
+  },
+  {
+    "id": 212,
+    "line": 1129,
+    "target_en": "My heart was pounding."
+  },
+  {
+    "id": 213,
+    "line": 1131,
+    "target_en": " I felt that my next breath would be so bloody and hot that I'd choke on it..."
+  },
+  {
+    "id": 214,
+    "line": 1137,
+    "target_en": "\\\"Don't you know?\\\""
+  },
+  {
+    "id": 215,
+    "line": 1148,
+    "target_en": "\\\"It's because they made Oyashiro-sama angry.\\\""
+  },
+  {
+    "id": 216,
+    "line": 1153,
+    "target_en": "The first year, it was the manager of the dam construction site."
+  },
+  {
+    "id": 217,
+    "line": 1158,
+    "target_en": "The second year it was the traitors to the village."
+  },
+  {
+    "id": 218,
+    "line": 1163,
+    "target_en": "The third year it was the pacifist."
+  },
+  {
+    "id": 219,
+    "line": 1168,
+    "target_en": "The fourth year it was the relatives of the traitors."
+  },
+  {
+    "id": 220,
+    "line": 1173,
+    "target_en": "I'd always thought the victims were people who had something to do with the dam conflict."
+  },
+  {
+    "id": 221,
+    "line": 1179,
+    "target_en": "Since I didn't do anything against the village during the dam conflict,"
+  },
+  {
+    "id": 222,
+    "line": 1181,
+    "target_en": " I assumed I was safe."
+  },
+  {
+    "id": 223,
+    "line": 1187,
+    "target_en": "I should have known."
+  },
+  {
+    "id": 224,
+    "line": 1192,
+    "target_en": "I should have known everything would be the curse of Oyashiro-sama."
+  },
+  {
+    "id": 225,
+    "line": 1197,
+    "target_en": "I knew Oyashiro-sama's anger was the curse of Oyashiro-sama."
+  },
+  {
+    "id": 226,
+    "line": 1202,
+    "target_en": "I knew Oyashiro-sama would get angry if I snuck into the ritual storehouse."
+  },
+  {
+    "id": 227,
+    "line": 1208,
+    "target_en": "But since I wasn't held responsible in any way for the dam conflict, I never thought I would be a victim of the curse."
+  },
+  {
+    "id": 228,
+    "line": 1216,
+    "target_en": "Did I ever think there would be an incident in the fifth year?"
+  },
+  {
+    "id": 229,
+    "line": 1221,
+    "target_en": "Did I ever think that I'd be the victim of that fifth-year incident?!"
+  },
+  {
+    "id": 230,
+    "line": 1226,
+    "target_en": "Tomitake-san snuck into the storehouse, and he clawed at his own throat until he died!"
+  },
+  {
+    "id": 231,
+    "line": 1231,
+    "target_en": "Takano-san was burned to death in an oil drum!"
+  },
+  {
+    "id": 232,
+    "line": 1233,
+    "target_en": " It must be a lie, it couldn't be true."
+  },
+  {
+    "id": 233,
+    "line": 1238,
+    "target_en": "Even if it was forbidden, it was just a space for storing some old torture implements!"
+  },
+  {
+    "id": 234,
+    "line": 1240,
+    "target_en": " How could they be killed for just sneaking in there?!"
+  },
+  {
+    "id": 235,
+    "line": 1242,
+    "target_en": " Especially in such gruesome ways?!"
+  },
+  {
+    "id": 236,
+    "line": 1247,
+    "target_en": "But I thought about it again and realized"
+  },
+  {
+    "id": 237,
+    "line": 1249,
+    "target_en": " that those people were absolutely capable of doing things like that."
+  },
+  {
+    "id": 238,
+    "line": 1254,
+    "target_en": "The main Sonozaki family was capable of it."
+  },
+  {
+    "id": 239,
+    "line": 1259,
+    "target_en": "The Sonozaki family had been pulling the strings behind the series of mysterious deaths. They could do it."
+  },
+  {
+    "id": 240,
+    "line": 1264,
+    "target_en": "The Sonozaki family even kidnapped the grandson of the Minister of Construction during the dam conflict. They could do it."
+  },
+  {
+    "id": 241,
+    "line": 1273,
+    "target_en": "The Sonozaki family made Satoshi-kun disappear completely."
+  },
+  {
+    "id": 242,
+    "line": 1278,
+    "target_en": " They could do it."
+  },
+  {
+    "id": 243,
+    "line": 1294,
+    "target_en": "Mion leaned against me"
+  },
+  {
+    "id": 244,
+    "line": 1299,
+    "target_en": " before falling onto the cold hallway floor."
+  },
+  {
+    "id": 245,
+    "line": 1305,
+    "target_en": "She collapsed rather violently."
+  },
+  {
+    "id": 246,
+    "line": 1310,
+    "target_en": "I usually didn't go to sleep with my stun gun."
+  },
+  {
+    "id": 247,
+    "line": 1320,
+    "target_en": "I had my stun gun on me."
+  },
+  {
+    "id": 248,
+    "line": 1325,
+    "target_en": "I finally understood."
+  },
+  {
+    "id": 249,
+    "line": 1330,
+    "target_en": "I didn't know who killed them exactly."
+  },
+  {
+    "id": 250,
+    "line": 1335,
+    "target_en": "Whose idea it was or who ordered it."
+  },
+  {
+    "id": 251,
+    "line": 1340,
+    "target_en": "I didn't even know who was actually involved."
+  },
+  {
+    "id": 252,
+    "line": 1346,
+    "target_en": "But Mion and the hag knew everything."
+  },
+  {
+    "id": 253,
+    "line": 1351,
+    "target_en": "Satoshi-kun."
+  },
+  {
+    "id": 254,
+    "line": 1353,
+    "target_en": " Now I finally know."
+  },
+  {
+    "id": 255,
+    "line": 1358,
+    "target_en": "Now I know what I need to do."
+  },
+  {
+    "id": 256,
+    "line": 1363,
+    "target_en": "I will settle the score for you, Satoshi-kun."
+  },
+  {
+    "id": 257,
+    "line": 1368,
+    "target_en": "I will avenge you, Satoshi-kun."
+  },
+  {
+    "id": 258,
+    "line": 1374,
+    "target_en": "I won't be killed like you, Satoshi-kun."
+  },
+  {
+    "id": 259,
+    "line": 1381,
+    "target_en": "I walked into the hag's room."
+  },
+  {
+    "id": 260,
+    "line": 1386,
+    "target_en": "She was sitting up to take some medicine. Her back was turned to me."
+  },
+  {
+    "id": 261,
+    "line": 1391,
+    "target_en": "Mion and I are twins."
+  },
+  {
+    "id": 262,
+    "line": 1396,
+    "target_en": "If I acted like her, the hag wouldn't notice the difference."
+  },
+  {
+    "id": 263,
+    "line": 1401,
+    "target_en": "I didn't think she ever suspected me."
+  },
+  {
+    "id": 264,
+    "line": 1406,
+    "target_en": "I put my stun gun to her neck,"
+  },
+  {
+    "id": 265,
+    "line": 1408,
+    "target_en": " and pulled the trigger."
+  },
+  {
+    "id": 266,
+    "line": 1416,
+    "target_en": "I heard an indescribable electrical sound, and the hag's lights went out."
+  },
+  {
+    "id": 267,
+    "line": 1423,
+    "target_en": "She fell in a twisted position."
+  },
+  {
+    "id": 268,
+    "line": 1428,
+    "target_en": "I didn't know how long it would take a person to regain their freedom of movement after getting knocked out with a stun gun."
+  },
+  {
+    "id": 269,
+    "line": 1433,
+    "target_en": "So I had to restrain them before they woke back up."
+  },
+  {
+    "id": 270,
+    "line": 1438,
+    "target_en": "I was unbelievably calm."
+  },
+  {
+    "id": 271,
+    "line": 1445,
+    "target_en": "The key to the underground torture room"
+  },
+  {
+    "id": 272,
+    "line": 1447,
+    "target_en": " was in the forbidden drawer that only the head of the family can access. Mion had told me about this once."
+  },
+  {
+    "id": 273,
+    "line": 1452,
+    "target_en": "I'd never looked for the drawer before, but I found it exactly where I thought it would be."
+  },
+  {
+    "id": 274,
+    "line": 1457,
+    "target_en": "The key was on a keychain with several of its sisters. Each key had a little plaque on it that said what it was used for."
+  },
+  {
+    "id": 275,
+    "line": 1462,
+    "target_en": "They were all in Mion's handwriting."
+  },
+  {
+    "id": 276,
+    "line": 1467,
+    "target_en": "She was an idiot for being so conscientious, but it sure helped me out."
+  },
+  {
+    "id": 277,
+    "line": 1473,
+    "target_en": "I put the keychain in my pocket and headed to the outdoor storeroom to find a cart."
+  },
+  {
+    "id": 278,
+    "line": 1478,
+    "target_en": "I found a large flashlight there as well."
+  },
+  {
+    "id": 279,
+    "line": 1483,
+    "target_en": "There was a strap on the flashlight so I could put it on my shoulder."
+  },
+  {
+    "id": 280,
+    "line": 1489,
+    "target_en": "That way, I'd have both hands free to carry Mion and the hag."
+  },
+  {
+    "id": 281,
+    "line": 1495,
+    "target_en": "I loaded Mion and then our grandmother onto the cart and carried them to the underground torture room."
+  },
+  {
+    "id": 282,
+    "line": 1500,
+    "target_en": "I was prepared to use the stun gun again if they woke up while I was working..."
+  },
+  {
+    "id": 283,
+    "line": 1502,
+    "target_en": " but it was more powerful than I imagined, and the hag showed no signs of waking."
+  },
+  {
+    "id": 284,
+    "line": 1508,
+    "target_en": "This was the stun gun Kasai specially ordered for me when I told him I wanted a powerful one."
+  },
+  {
+    "id": 285,
+    "line": 1513,
+    "target_en": "I remembered him telling me that it was an illegally modified stun gun and that I should never use it just for fun."
+  },
+  {
+    "id": 286,
+    "line": 1518,
+    "target_en": "I used my flashlight to find the light switch."
+  },
+  {
+    "id": 287,
+    "line": 1524,
+    "target_en": "I found it easily and turned it on."
+  },
+  {
+    "id": 288,
+    "line": 1531,
+    "target_en": "All the lights went on in the basement."
+  },
+  {
+    "id": 289,
+    "line": 1536,
+    "target_en": "Although there was now illumination, it was very dim."
+  },
+  {
+    "id": 290,
+    "line": 1541,
+    "target_en": "I moved quickly so as to finish what I needed to do before they woke up."
+  },
+  {
+    "id": 291,
+    "line": 1546,
+    "target_en": "I decided to put Mion in a cell beyond the torture room."
+  },
+  {
+    "id": 292,
+    "line": 1552,
+    "target_en": "The lights in the torture room were so bright that it was like daylight."
+  },
+  {
+    "id": 293,
+    "line": 1557,
+    "target_en": "There was a door there. I was fairly certain the cells were on the other side of that door."
+  },
+  {
+    "id": 294,
+    "line": 1562,
+    "target_en": "The proper key was... here."
+  },
+  {
+    "id": 295,
+    "line": 1567,
+    "target_en": "The keys made a tinkling sound."
+  },
+  {
+    "id": 296,
+    "line": 1572,
+    "target_en": "I felt cold air coming in through the gap in the door."
+  },
+  {
+    "id": 297,
+    "line": 1577,
+    "target_en": "There must be a huge opening on the other side."
+  },
+  {
+    "id": 298,
+    "line": 1585,
+    "target_en": "I opened the door and I saw nothing but darkness."
+  },
+  {
+    "id": 299,
+    "line": 1590,
+    "target_en": "I felt along the wall to find a light switch."
+  },
+  {
+    "id": 300,
+    "line": 1597,
+    "target_en": "I turned the switch on... and the light bulbs lit up, revealing a huge rocky cave."
+  },
+  {
+    "id": 301,
+    "line": 1602,
+    "target_en": "It didn't look like a natural cave. It looked more like an air-raid shelter."
+  },
+  {
+    "id": 302,
+    "line": 1607,
+    "target_en": "There were several hollow openings with bars across them."
+  },
+  {
+    "id": 303,
+    "line": 1609,
+    "target_en": " Those were the cells."
+  },
+  {
+    "id": 304,
+    "line": 1615,
+    "target_en": "I walked up to the closest cell, and checked to see if it was strong enough to confine her."
+  },
+  {
+    "id": 305,
+    "line": 1620,
+    "target_en": "I pushed and pulled on the bars."
+  },
+  {
+    "id": 306,
+    "line": 1626,
+    "target_en": "I rammed against them with all my weight, and decided they were perfectly sturdy."
+  },
+  {
+    "id": 307,
+    "line": 1631,
+    "target_en": "This was secure enough to be called a cell. "
+  },
+  {
+    "id": 308,
+    "line": 1636,
+    "target_en": "I opened the lock and carried Mion in."
+  },
+  {
+    "id": 309,
+    "line": 1641,
+    "target_en": "I wasn't particularly strong. Just average."
+  },
+  {
+    "id": 310,
+    "line": 1646,
+    "target_en": "I'd never thought I was strong enough to carry a whole person."
+  },
+  {
+    "id": 311,
+    "line": 1652,
+    "target_en": "But now I didn't need to pretend to be weak. I could easily lift and drag their bodies."
+  },
+  {
+    "id": 312,
+    "line": 1658,
+    "target_en": "I put Mion in the cell."
+  },
+  {
+    "id": 313,
+    "line": 1663,
+    "target_en": "She seemed to moan a little."
+  },
+  {
+    "id": 314,
+    "line": 1668,
+    "target_en": "I didn't need to check to make sure. The effect of my stun gun was wearing off."
+  },
+  {
+    "id": 315,
+    "line": 1673,
+    "target_en": "I closed the bars and turned the key in the lock. Then I ran to the hag, who must've been starting to wake up too."
+  },
+  {
+    "id": 316,
+    "line": 1678,
+    "target_en": "Fortunately, there was no sign of her regaining consciousness."
+  },
+  {
+    "id": 317,
+    "line": 1683,
+    "target_en": "Maybe the difference in age had something to do with it."
+  },
+  {
+    "id": 318,
+    "line": 1688,
+    "target_en": "I looked for a table to restrain her on."
+  },
+  {
+    "id": 319,
+    "line": 1693,
+    "target_en": "I found a wheelchair with restraints for the hands and feet. I put the hag in it."
+  },
+  {
+    "id": 320,
+    "line": 1699,
+    "target_en": "Of course she didn't resist, but her dead weight made it seem like she was a huge French doll, but one made of flesh."
+  },
+  {
+    "id": 321,
+    "line": 1704,
+    "target_en": "I put her hands on the armrests, and restrained them at the wrists with the metal rings and hinges."
+  },
+  {
+    "id": 322,
+    "line": 1709,
+    "target_en": "I did the same with her feet."
+  },
+  {
+    "id": 323,
+    "line": 1714,
+    "target_en": "This must've been a wheelchair specially remodeled to restrain a person. Other than the restraints, it was a regular wheelchair."
+  },
+  {
+    "id": 324,
+    "line": 1719,
+    "target_en": "I waited for the hag to wake up."
+  },
+  {
+    "id": 325,
+    "line": 1724,
+    "target_en": "I had so many things I wanted to ask her."
+  },
+  {
+    "id": 326,
+    "line": 1730,
+    "target_en": "I didn't think she'd answer honestly, but I had plenty of tools to make her talk."
+  },
+  {
+    "id": 327,
+    "line": 1732,
+    "target_en": " I was in no rush."
+  },
+  {
+    "id": 328,
+    "line": 1737,
+    "target_en": "When the hag had a concern, relatives took care of the problem."
+  },
+  {
+    "id": 329,
+    "line": 1743,
+    "target_en": "That was how it worked in the Sonozaki family."
+  },
+  {
+    "id": 330,
+    "line": 1748,
+    "target_en": "She was the leader of the family, so all the information they gathered would make its way to her."
+  },
+  {
+    "id": 331,
+    "line": 1753,
+    "target_en": "She must know everything that happened in Hinamizawa."
+  },
+  {
+    "id": 332,
+    "line": 1759,
+    "target_en": "Including the curse of Oyashiro-sama."
+  },
+  {
+    "id": 333,
+    "line": 1766,
+    "target_en": "I heard a noise from the cell."
+  },
+  {
+    "id": 334,
+    "line": 1772,
+    "target_en": "Mion must have woken up before the hag did."
+  },
+  {
+    "id": 335,
+    "line": 1777,
+    "target_en": "Speaking of the hag, she didn't seem like she was about to wake up anytime soon, but she was restrained even if she did, so I had no need to fear."
+  },
+  {
+    "id": 336,
+    "line": 1783,
+    "target_en": "I left the hag there and headed for the cell."
+  },
+  {
+    "id": 337,
+    "line": 1792,
+    "target_en": "\\\"...Shion, what do you think you're doing?\\\""
+  },
+  {
+    "id": 338,
+    "line": 1797,
+    "target_en": "She talked like the successor, but she also sounded frightened. She obviously understood the situation she was in right now."
+  },
+  {
+    "id": 339,
+    "line": 1803,
+    "target_en": "\\\"Good morning, Mion."
+  },
+  {
+    "id": 340,
+    "line": 1806,
+    "target_en": " You never thought you'd be in there, huh?"
+  },
+  {
+    "id": 341,
+    "line": 1809,
+    "target_en": " Ahahaha.\\\""
+  },
+  {
+    "id": 342,
+    "line": 1815,
+    "target_en": "\\\"As the acting head, I order you."
+  },
+  {
+    "id": 343,
+    "line": 1818,
+    "target_en": " Open this up.\\\""
+  },
+  {
+    "id": 344,
+    "line": 1824,
+    "target_en": "\\\"Ahahahaha, you don't sound so scary in there. You need to talk more like a leader, don't you think?"
+  },
+  {
+    "id": 345,
+    "line": 1827,
+    "target_en": " Though, talking that way will only make you look like a fool."
+  },
+  {
+    "id": 346,
+    "line": 1830,
+    "target_en": " Ahahahahaha!\\\""
+  },
+  {
+    "id": 347,
+    "line": 1835,
+    "target_en": "There was nothing funny about it, but I wanted to intimidate Mion."
+  },
+  {
+    "id": 348,
+    "line": 1840,
+    "target_en": "My laughter echoed throughout the cave."
+  },
+  {
+    "id": 349,
+    "line": 1845,
+    "target_en": "It was artificial and meaningless laughter."
+  },
+  {
+    "id": 350,
+    "line": 1850,
+    "target_en": "I heard it over and over as it echoed."
+  },
+  {
+    "id": 351,
+    "line": 1855,
+    "target_en": "It sounded as if I wasn't the only one laughing."
+  },
+  {
+    "id": 352,
+    "line": 1860,
+    "target_en": "I couldn't stand it, so I stopped."
+  },
+  {
+    "id": 353,
+    "line": 1865,
+    "target_en": "Silence filled the air."
+  },
+  {
+    "id": 354,
+    "line": 1867,
+    "target_en": " That silence almost hurt my ears, so I started to speak."
+  },
+  {
+    "id": 355,
+    "line": 1873,
+    "target_en": "\\\"Tomitake-san and Takano-san becoming the victims this year."
+  },
+  {
+    "id": 356,
+    "line": 1876,
+    "target_en": " I didn't expect that...\\\""
+  },
+  {
+    "id": 357,
+    "line": 1882,
+    "target_en": "\\\"......\\\""
+  },
+  {
+    "id": 358,
+    "line": 1888,
+    "target_en": "\\\"What an idea to burn Takano-san to death."
+  },
+  {
+    "id": 359,
+    "line": 1891,
+    "target_en": " But actually, she would be the kind of person who'd prefer to die that way."
+  },
+  {
+    "id": 360,
+    "line": 1894,
+    "target_en": " Maybe she's satisfied, huh?"
+  },
+  {
+    "id": 361,
+    "line": 1897,
+    "target_en": " Hee hee hee.\\\""
+  },
+  {
+    "id": 362,
+    "line": 1902,
+    "target_en": "Mion didn't say anything. She just stared at me to see how I'd proceed."
+  },
+  {
+    "id": 363,
+    "line": 1908,
+    "target_en": "\\\"What about the way Tomitake-san died? He clawed out his own throat, right?"
+  },
+  {
+    "id": 364,
+    "line": 1911,
+    "target_en": " Did you give him a shot of some kind?"
+  },
+  {
+    "id": 365,
+    "line": 1914,
+    "target_en": " Or is there a torture device that did that to him?\\\""
+  },
+  {
+    "id": 366,
+    "line": 1919,
+    "target_en": "Mion didn't reply."
+  },
+  {
+    "id": 367,
+    "line": 1924,
+    "target_en": "I was smiling boldly, but I became impatient and finally kicked the bars."
+  },
+  {
+    "id": 368,
+    "line": 1929,
+    "target_en": "It made a violent noise."
+  },
+  {
+    "id": 369,
+    "line": 1934,
+    "target_en": "Mion jumped as if she was kicked directly."
+  },
+  {
+    "id": 370,
+    "line": 1940,
+    "target_en": "\\\"It's boring not to get any answers. Do you have any idea what will happen if I get angry?\\\""
+  },
+  {
+    "id": 371,
+    "line": 1946,
+    "target_en": "\\\"H-How... How would I know...?\\\""
+  },
+  {
+    "id": 372,
+    "line": 1951,
+    "target_en": "Mion finally replied."
+  },
+  {
+    "id": 373,
+    "line": 1956,
+    "target_en": "She was odious, but at the same time, sounded pitiful."
+  },
+  {
+    "id": 374,
+    "line": 1962,
+    "target_en": "\\\"Hey, Mion."
+  },
+  {
+    "id": 375,
+    "line": 1965,
+    "target_en": " As the successor,"
+  },
+  {
+    "id": 376,
+    "line": 1968,
+    "target_en": " why don't you tell me?"
+  },
+  {
+    "id": 377,
+    "line": 1971,
+    "target_en": " ...Let's see...\\\""
+  },
+  {
+    "id": 378,
+    "line": 1976,
+    "target_en": "I had just too many things I wanted to ask her."
+  },
+  {
+    "id": 379,
+    "line": 1981,
+    "target_en": "I wanted to ask her about me,"
+  },
+  {
+    "id": 380,
+    "line": 1983,
+    "target_en": " about the incident,"
+  },
+  {
+    "id": 381,
+    "line": 1985,
+    "target_en": " about the curse,"
+  },
+  {
+    "id": 382,
+    "line": 1987,
+    "target_en": " about Satoshi-kun."
+  },
+  {
+    "id": 383,
+    "line": 1992,
+    "target_en": "I didn't even know where to start."
+  },
+  {
+    "id": 384,
+    "line": 1998,
+    "target_en": "Before I asked her about those, I asked her one other thing."
+  },
+  {
+    "id": 385,
+    "line": 2004,
+    "target_en": "\\\"You know there's no point in trying to resist, don't you?\\\""
+  },
+  {
+    "id": 386,
+    "line": 2010,
+    "target_en": "\\\"............\\\""
+  },
+  {
+    "id": 387,
+    "line": 2015,
+    "target_en": "Mion glared at me silently."
+  },
+  {
+    "id": 388,
+    "line": 2020,
+    "target_en": "Because we were twins, I knew that was just a bluff."
+  },
+  {
+    "id": 389,
+    "line": 2026,
+    "target_en": "\\\"We've come this far, so there's no point in me hesitating anymore."
+  },
+  {
+    "id": 390,
+    "line": 2029,
+    "target_en": " You shouldn't expect hesitation or even mercy from me, Sis.\\\""
+  },
+  {
+    "id": 391,
+    "line": 2034,
+    "target_en": "Mion must've been feeling the cold sweat on her face."
+  },
+  {
+    "id": 392,
+    "line": 2039,
+    "target_en": "Although the light was dim, I could tell she was frightened."
+  },
+  {
+    "id": 393,
+    "line": 2045,
+    "target_en": "\\\"Okay, here I go."
+  },
+  {
+    "id": 394,
+    "line": 2048,
+    "target_en": " First, about the series of the mysterious deaths in Hinamizawa"
+  },
+  {
+    "id": 395,
+    "line": 2051,
+    "target_en": " also known as the curse of Oyashiro-sama."
+  },
+  {
+    "id": 396,
+    "line": 2054,
+    "target_en": " What's the meaning of it?"
+  },
+  {
+    "id": 397,
+    "line": 2057,
+    "target_en": " Is it to signify the end of the dam conflict?\\\""
+  },
+  {
+    "id": 398,
+    "line": 2063,
+    "target_en": "\\\"......"
+  },
+  {
+    "id": 399,
+    "line": 2068,
+    "target_en": "I..."
+  },
+  {
+    "id": 400,
+    "line": 2073,
+    "target_en": " hmmm..."
+  },
+  {
+    "id": 401,
+    "line": 2078,
+    "target_en": " I think so......\\\""
+  },
+  {
+    "id": 402,
+    "line": 2083,
+    "target_en": "Mion sounded a little confused, but she answered."
+  },
+  {
+    "id": 403,
+    "line": 2088,
+    "target_en": "I felt satisfaction now that we were communicating. I continued with a smile."
+  },
+  {
+    "id": 404,
+    "line": 2094,
+    "target_en": "\\\"You think, huh?"
+  },
+  {
+    "id": 405,
+    "line": 2097,
+    "target_en": " Don't you know the details?\\\""
+  },
+  {
+    "id": 406,
+    "line": 2103,
+    "target_en": "\\\"You know yourself"
+  },
+  {
+    "id": 407,
+    "line": 2106,
+    "target_en": " that the successor is simply a messenger for Granny...\\\""
+  },
+  {
+    "id": 408,
+    "line": 2112,
+    "target_en": "Yeah, right."
+  },
+  {
+    "id": 409,
+    "line": 2118,
+    "target_en": "\\\"But the successor must know everything the current head is thinking, right?"
+  },
+  {
+    "id": 410,
+    "line": 2121,
+    "target_en": " Do you really think I believe you're just a messenger?\\\""
+  },
+  {
+    "id": 411,
+    "line": 2127,
+    "target_en": "\\\"......Although I'm always around Granny, I don't always know what she's thinking."
+  },
+  {
+    "id": 412,
+    "line": 2130,
+    "target_en": " It's not like I can understand her all the time.\\\""
+  },
+  {
+    "id": 413,
+    "line": 2136,
+    "target_en": "\\\"Okay, so you're saying that everything about the curse of Oyashiro-sama is decided by the hag herself, right?"
+  },
+  {
+    "id": 414,
+    "line": 2139,
+    "target_en": " I assumed she'd talk to the successor about it.\\\""
+  },
+  {
+    "id": 415,
+    "line": 2145,
+    "target_en": "\\\"When it's something dangerous, Granny decides it on her own."
+  },
+  {
+    "id": 416,
+    "line": 2148,
+    "target_en": " I don't have anything to do with it.\\\""
+  },
+  {
+    "id": 417,
+    "line": 2159,
+    "target_en": "\\\"No...!"
+  },
+  {
+    "id": 418,
+    "line": 2162,
+    "target_en": " ...She doesn't use me for that."
+  },
+  {
+    "id": 419,
+    "line": 2165,
+    "target_en": " ......I really don't understand it myself,"
+  },
+  {
+    "id": 420,
+    "line": 2168,
+    "target_en": " but it's like I take care of problems on the surface and someone else takes care of problems on the underside.\\\""
+  },
+  {
+    "id": 421,
+    "line": 2174,
+    "target_en": "\\\"...Who?"
+  },
+  {
+    "id": 422,
+    "line": 2177,
+    "target_en": " Who is the one that takes care of these 'underside problems'?\\\""
+  },
+  {
+    "id": 423,
+    "line": 2183,
+    "target_en": "\\\"I don't know...\\\""
+  },
+  {
+    "id": 424,
+    "line": 2189,
+    "target_en": "\\\"Haven't you seen anyone? Haven't you overheard a phone conversation?"
+  },
+  {
+    "id": 425,
+    "line": 2192,
+    "target_en": " It must be someone who gets in touch with the hag at the same time every year, around the time the curse happens.\\\""
+  },
+  {
+    "id": 426,
+    "line": 2198,
+    "target_en": "\\\"I don't know."
+  },
+  {
+    "id": 427,
+    "line": 2201,
+    "target_en": " I really don't...\\\""
+  },
+  {
+    "id": 428,
+    "line": 2207,
+    "target_en": "Mion shook her head."
+  },
+  {
+    "id": 429,
+    "line": 2213,
+    "target_en": "\\\"Okay,"
+  },
+  {
+    "id": 430,
+    "line": 2216,
+    "target_en": " let me change the question."
+  },
+  {
+    "id": 431,
+    "line": 2219,
+    "target_en": " Why were Tomitake-san and Takano-san chosen as victims, even though they had nothing to do with the dam conflict?"
+  },
+  {
+    "id": 432,
+    "line": 2222,
+    "target_en": " Was it because they snuck into the ritual storehouse?\\\""
+  },
+  {
+    "id": 433,
+    "line": 2227,
+    "target_en": "As soon as Mion heard the words \\\"ritual storehouse,\\\" her expression shifted."
+  },
+  {
+    "id": 434,
+    "line": 2233,
+    "target_en": "\\\"The ritual storehouse?"
+  },
+  {
+    "id": 435,
+    "line": 2236,
+    "target_en": " Did they intrude on the storehouse at the Furude Shrine?\\\""
+  },
+  {
+    "id": 436,
+    "line": 2242,
+    "target_en": "\\\"Didn't you know?"
+  },
+  {
+    "id": 437,
+    "line": 2245,
+    "target_en": " I thought you already knew.\\\""
+  },
+  {
+    "id": 438,
+    "line": 2251,
+    "target_en": "\\\"If they really did that"
+  },
+  {
+    "id": 439,
+    "line": 2256,
+    "target_en": " then it was truly stupid of them... Of course something would happen to them!\\\""
+  },
+  {
+    "id": 440,
+    "line": 2261,
+    "target_en": "Mion muttered bitterly while shaking her head repeatedly."
+  },
+  {
+    "id": 441,
+    "line": 2266,
+    "target_en": "Mion's reaction made me realize the true meaning of the forbidden storehouse for ritual implements."
+  },
+  {
+    "id": 442,
+    "line": 2272,
+    "target_en": "The ritual storehouse is a sacred building, so nobody can go inside. The curse will fall upon any who disobey."
+  },
+  {
+    "id": 443,
+    "line": 2277,
+    "target_en": "Any child would know that rule."
+  },
+  {
+    "id": 444,
+    "line": 2282,
+    "target_en": "However, just because they knew about it didn't mean that they all believed in it."
+  },
+  {
+    "id": 445,
+    "line": 2287,
+    "target_en": "Although they were told they would be cursed, most of the kids actually enjoyed hearing the stories."
+  },
+  {
+    "id": 446,
+    "line": 2289,
+    "target_en": " They simply didn't believe it was true."
+  },
+  {
+    "id": 447,
+    "line": 2295,
+    "target_en": "However, Mion's reaction told me it absolutely was."
+  },
+  {
+    "id": 448,
+    "line": 2300,
+    "target_en": "If they actually did that... of course something would happen to them."
+  },
+  {
+    "id": 449,
+    "line": 2305,
+    "target_en": "She was saying that if someone snuck into the ritual storehouse,"
+  },
+  {
+    "id": 450,
+    "line": 2307,
+    "target_en": " that person should be killed."
+  },
+  {
+    "id": 451,
+    "line": 2313,
+    "target_en": "\\\"What you know and what I know aren't matching up anymore."
+  },
+  {
+    "id": 452,
+    "line": 2319,
+    "target_en": "Of course I'm aware I shouldn't just waltz into the storehouse."
+  },
+  {
+    "id": 453,
+    "line": 2322,
+    "target_en": " But to be killed in such a gruesome way for doing it?"
+  },
+  {
+    "id": 454,
+    "line": 2325,
+    "target_en": " I never knew that. Did you?\\\""
+  },
+  {
+    "id": 455,
+    "line": 2331,
+    "target_en": "\\\"That's just because you're ignorant about it, Shion.\\\""
+  },
+  {
+    "id": 456,
+    "line": 2337,
+    "target_en": "\\\"Well, sorry for being ignorant..."
+  },
+  {
+    "id": 457,
+    "line": 2340,
+    "target_en": " Could you please explain it to me?\\\""
+  },
+  {
+    "id": 458,
+    "line": 2346,
+    "target_en": "\\\"Just like you said, the kids don't really believe in the curse."
+  },
+  {
+    "id": 459,
+    "line": 2349,
+    "target_en": " They assume it's just superstition. But they also know that if an adult found out, they'd be in big trouble."
+  },
+  {
+    "id": 460,
+    "line": 2355,
+    "target_en": "But... to the elderly people of Hinamizawa, it's something more serious...!\\\""
+  },
+  {
+    "id": 461,
+    "line": 2362,
+    "target_en": "Mion explained to me how the elderly people blindly believe in Oyashiro-sama, and how sacred the festivals are to them."
+  },
+  {
+    "id": 462,
+    "line": 2367,
+    "target_en": "It's probably something the younger generations would never understand, but they're possessed by a very strong, deeply rooted devotion toward Oyashiro-sama."
+  },
+  {
+    "id": 463,
+    "line": 2372,
+    "target_en": "Mion then went on to tell me about how sinful it was to violate the rule of the ritual storehouse."
+  },
+  {
+    "id": 464,
+    "line": 2377,
+    "target_en": "I just couldn't believe things like that were still going on even in the modern day."
+  },
+  {
+    "id": 465,
+    "line": 2382,
+    "target_en": "I couldn't even reply appropriately."
+  },
+  {
+    "id": 466,
+    "line": 2388,
+    "target_en": "But..."
+  },
+  {
+    "id": 467,
+    "line": 2390,
+    "target_en": " even if it was unbelievable, I couldn't ignore what I was hearing from my twin sister..."
+  },
+  {
+    "id": 468,
+    "line": 2397,
+    "target_en": "\\\"I see..."
+  },
+  {
+    "id": 469,
+    "line": 2400,
+    "target_en": " But Mion... "
+  },
+  {
+    "id": 470,
+    "line": 2406,
+    "target_en": "Doesn't the rule say that one victim gets killed by the curse and another has to become a sacrifice?"
+  },
+  {
+    "id": 471,
+    "line": 2409,
+    "target_en": " The body of the sacrifice is never to be found."
+  },
+  {
+    "id": 472,
+    "line": 2412,
+    "target_en": " But there are two dead bodies this time. "
+  },
+  {
+    "id": 473,
+    "line": 2416,
+    "target_en": "What do you think of that?\\\""
+  },
+  {
+    "id": 474,
+    "line": 2422,
+    "target_en": "Mion doesn't know that besides Takano-san and Tomitake-san, Keiichi and I also snuck into the ritual storehouse."
+  },
+  {
+    "id": 475,
+    "line": 2424,
+    "target_en": " So I tried to lead her a little."
+  },
+  {
+    "id": 476,
+    "line": 2431,
+    "target_en": "\\\"I know..."
+  },
+  {
+    "id": 477,
+    "line": 2436,
+    "target_en": " that doesn't make sense.\\\""
+  },
+  {
+    "id": 478,
+    "line": 2442,
+    "target_en": "\\\"Maybe Takano-san's burned body wasn't supposed to be found."
+  },
+  {
+    "id": 479,
+    "line": 2445,
+    "target_en": " Maybe the intention was for her to vanish.\\\""
+  },
+  {
+    "id": 480,
+    "line": 2451,
+    "target_en": "\\\"...Or..."
+  },
+  {
+    "id": 481,
+    "line": 2454,
+    "target_en": " ...hmmm,"
+  },
+  {
+    "id": 482,
+    "line": 2459,
+    "target_en": " I'm not too sure, but...\\\""
+  },
+  {
+    "id": 483,
+    "line": 2465,
+    "target_en": "\\\"What?"
+  },
+  {
+    "id": 484,
+    "line": 2468,
+    "target_en": " Just say what you're thinking. I won't get mad.\\\""
+  },
+  {
+    "id": 485,
+    "line": 2473,
+    "target_en": "Mion hesitated a little first and then started to speak."
+  },
+  {
+    "id": 486,
+    "line": 2479,
+    "target_en": "\\\"Actually, four people snuck into the shrine storage... so maybe...\\\""
+  },
+  {
+    "id": 487,
+    "line": 2488,
+    "target_en": "\\\"Hmm......?"
+  },
+  {
+    "id": 488,
+    "line": 2491,
+    "target_en": " Maybe what?\\\""
+  },
+  {
+    "id": 489,
+    "line": 2497,
+    "target_en": "\\\"Maybe the other two will become the sacrifices and get demoned away...\\\""
+  }
+]

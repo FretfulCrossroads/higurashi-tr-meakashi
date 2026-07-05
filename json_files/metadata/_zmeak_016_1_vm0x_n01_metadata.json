@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "line": 9,
+    "target_en": "\\\"I'm taking my scooter, so you don't have to.\\\""
+  },
+  {
+    "id": 2,
+    "line": 18,
+    "target_en": "\\\"That won't do."
+  },
+  {
+    "id": 3,
+    "line": 21,
+    "target_en": " Aren't you going to the family party afterwards?"
+  },
+  {
+    "id": 4,
+    "line": 24,
+    "target_en": " I can't let you drive half asleep.\\\""
+  },
+  {
+    "id": 5,
+    "line": 29,
+    "target_en": "There's no way you can fall asleep on a scooter like behind the wheel of a car."
+  },
+  {
+    "id": 6,
+    "line": 31,
+    "target_en": " Ah, whatever."
+  }
+]

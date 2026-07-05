@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "line": 9,
+    "target_en": "\\\"Mm?"
+  },
+  {
+    "id": 2,
+    "line": 12,
+    "target_en": " You're a little unsteady."
+  },
+  {
+    "id": 3,
+    "line": 15,
+    "target_en": " You were drinking last night too, weren't you?"
+  },
+  {
+    "id": 4,
+    "line": 18,
+    "target_en": " Don't try to hide it!"
+  },
+  {
+    "id": 5,
+    "line": 21,
+    "target_en": " You definitely went home from school early.\\\""
+  }
+]

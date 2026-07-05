@@ -1,0 +1,1777 @@
+[
+  {
+    "id": 1,
+    "line": 16,
+    "target_en": "The life I lived really was beginning to suffocate me."
+  },
+  {
+    "id": 2,
+    "line": 21,
+    "target_en": "I couldn't go out freely, and I always had to make arrangements with Mion before going to work."
+  },
+  {
+    "id": 3,
+    "line": 27,
+    "target_en": "I'd thought my life would improve after escaping from the school, but in reality, it wasn't that easy."
+  },
+  {
+    "id": 4,
+    "line": 37,
+    "target_en": "It's not healthy to live like this for too long."
+  },
+  {
+    "id": 5,
+    "line": 42,
+    "target_en": "Without any friends to hang out with,"
+  },
+  {
+    "id": 6,
+    "line": 44,
+    "target_en": " I felt like I was hibernating."
+  },
+  {
+    "id": 7,
+    "line": 50,
+    "target_en": "I'd started to feel the dangers of falling into boredom."
+  },
+  {
+    "id": 8,
+    "line": 55,
+    "target_en": "All I could think of now was Satoshi Houjou-kun's face."
+  },
+  {
+    "id": 9,
+    "line": 60,
+    "target_en": "I'd only met him briefly."
+  },
+  {
+    "id": 10,
+    "line": 65,
+    "target_en": "...But my encounter with him had a great impact on my new life."
+  },
+  {
+    "id": 11,
+    "line": 71,
+    "target_en": "I felt like something exciting was going to happen. "
+  },
+  {
+    "id": 12,
+    "line": 76,
+    "target_en": "...Really, I was hyped up like a little kid."
+  },
+  {
+    "id": 13,
+    "line": 82,
+    "target_en": "The more I thought about it, I realized I'd been thinking about him a lot lately."
+  },
+  {
+    "id": 14,
+    "line": 87,
+    "target_en": "...This might be a crush."
+  },
+  {
+    "id": 15,
+    "line": 93,
+    "target_en": "I felt a little ridiculous idolizing him in such a romantic way, though."
+  },
+  {
+    "id": 16,
+    "line": 98,
+    "target_en": "Then, out of the blue,"
+  },
+  {
+    "id": 17,
+    "line": 100,
+    "target_en": " I got a chance to see him again."
+  },
+  {
+    "id": 18,
+    "line": 112,
+    "target_en": "\\\".........Oh?\\\""
+  },
+  {
+    "id": 19,
+    "line": 117,
+    "target_en": "I saw a familiar face at twilight in the park. He was sitting on the swing."
+  },
+  {
+    "id": 20,
+    "line": 122,
+    "target_en": "He looked like he was zoning out, or maybe deep in thought."
+  },
+  {
+    "id": 21,
+    "line": 127,
+    "target_en": "...He didn't notice me, even though I was right in front of him."
+  },
+  {
+    "id": 22,
+    "line": 132,
+    "target_en": "I reminded myself to speak and act like Mion before talking to him..."
+  },
+  {
+    "id": 23,
+    "line": 143,
+    "target_en": "\\\"Hey."
+  },
+  {
+    "id": 24,
+    "line": 146,
+    "target_en": " What are you doing here?\\\""
+  },
+  {
+    "id": 25,
+    "line": 155,
+    "target_en": "\\\".........Mion..."
+  },
+  {
+    "id": 26,
+    "line": 158,
+    "target_en": " You surprised me.\\\""
+  },
+  {
+    "id": 27,
+    "line": 164,
+    "target_en": "\\\"You don't look surprised."
+  },
+  {
+    "id": 28,
+    "line": 167,
+    "target_en": " I've been standing here for a couple of minutes now. Didn't you notice me?\\\""
+  },
+  {
+    "id": 29,
+    "line": 175,
+    "target_en": "\\\"...Have you?"
+  },
+  {
+    "id": 30,
+    "line": 178,
+    "target_en": " Sorry, I didn't...\\\""
+  },
+  {
+    "id": 31,
+    "line": 183,
+    "target_en": "He smiled self-derisively and shrugged."
+  },
+  {
+    "id": 32,
+    "line": 188,
+    "target_en": "He looked depressed."
+  },
+  {
+    "id": 33,
+    "line": 190,
+    "target_en": " Like something was troubling him."
+  },
+  {
+    "id": 34,
+    "line": 196,
+    "target_en": "\\\"...Is something bugging you?"
+  },
+  {
+    "id": 35,
+    "line": 199,
+    "target_en": " You can talk to me if you want. Maybe I can help.\\\""
+  },
+  {
+    "id": 36,
+    "line": 208,
+    "target_en": "\\\"N-No... that's okay...\\\""
+  },
+  {
+    "id": 37,
+    "line": 214,
+    "target_en": "\\\"Come on, I owe you one from before, Satoshi-kun."
+  },
+  {
+    "id": 38,
+    "line": 217,
+    "target_en": " Or maybe,"
+  },
+  {
+    "id": 39,
+    "line": 220,
+    "target_en": " you don't think this ol' man can be of any help?"
+  },
+  {
+    "id": 40,
+    "line": 223,
+    "target_en": " Don't you know how mighty I am?\\\""
+  },
+  {
+    "id": 41,
+    "line": 229,
+    "target_en": "\\\"I'm okay..."
+  },
+  {
+    "id": 42,
+    "line": 232,
+    "target_en": " You don't have to help me.\\\""
+  },
+  {
+    "id": 43,
+    "line": 238,
+    "target_en": "\\\"......Huh."
+  },
+  {
+    "id": 44,
+    "line": 241,
+    "target_en": " What is it, then?"
+  },
+  {
+    "id": 45,
+    "line": 244,
+    "target_en": " Are you saying that you don't need help from a girl?\\\""
+  },
+  {
+    "id": 46,
+    "line": 249,
+    "target_en": "Thinking him unfair, I puffed up my cheeks in a sulky gesture."
+  },
+  {
+    "id": 47,
+    "line": 254,
+    "target_en": "...Satoshi-kun noticed that and smiled."
+  },
+  {
+    "id": 48,
+    "line": 262,
+    "target_en": "\\\"No, Mion..."
+  },
+  {
+    "id": 49,
+    "line": 265,
+    "target_en": " It's just... I messed up my swing when they needed me the most...\\\""
+  },
+  {
+    "id": 50,
+    "line": 271,
+    "target_en": "...I mentally rifled through all the information about Satoshi-kun that Sis had given me."
+  },
+  {
+    "id": 51,
+    "line": 277,
+    "target_en": "...He doesn't look like much of an athlete, but apparently Satoshi-kun belongs to a junior baseball team."
+  },
+  {
+    "id": 52,
+    "line": 282,
+    "target_en": "They're called the Hinamizawa Fighters."
+  },
+  {
+    "id": 53,
+    "line": 287,
+    "target_en": "I doubt he's very skilled, since I didn't hear much about his contributions to the team."
+  },
+  {
+    "id": 54,
+    "line": 289,
+    "target_en": " Maybe that's why he doesn't tell many people that he's a member."
+  },
+  {
+    "id": 55,
+    "line": 294,
+    "target_en": "Given how down he felt as a result of messing up, though, he must be fairly dedicated. "
+  },
+  {
+    "id": 56,
+    "line": 299,
+    "target_en": "I deduced all that from what Sis told me, and carefully chose my words so as to sound like her..."
+  },
+  {
+    "id": 57,
+    "line": 308,
+    "target_en": "\\\"What?"
+  },
+  {
+    "id": 58,
+    "line": 311,
+    "target_en": " Are you feeling down just because of that?\\\""
+  },
+  {
+    "id": 59,
+    "line": 319,
+    "target_en": "\\\"Hey,"
+  },
+  {
+    "id": 60,
+    "line": 322,
+    "target_en": " it's not that easy to get over, Mion.\\\""
+  },
+  {
+    "id": 61,
+    "line": 327,
+    "target_en": "I pat his back while chuckling."
+  },
+  {
+    "id": 62,
+    "line": 332,
+    "target_en": "Satoshi-kun would probably call me insensitive."
+  },
+  {
+    "id": 63,
+    "line": 337,
+    "target_en": "I knew I should listen to him, rather than trying to cheer him up."
+  },
+  {
+    "id": 64,
+    "line": 343,
+    "target_en": "Acting like Sis was probably the wrong thing to do in this case... but I had no choice."
+  },
+  {
+    "id": 65,
+    "line": 345,
+    "target_en": " This was just how she'd react in this situation."
+  },
+  {
+    "id": 66,
+    "line": 351,
+    "target_en": "\\\"Aha ha ha."
+  },
+  {
+    "id": 67,
+    "line": 354,
+    "target_en": " Instead of feeling down, you should practice even harder and aim for your chance, you know?"
+  },
+  {
+    "id": 68,
+    "line": 357,
+    "target_en": " Practice makes perfect here! "
+  },
+  {
+    "id": 69,
+    "line": 361,
+    "target_en": "Well, if you want to beat the opposing pitcher so badly you're willing to pull some tricks, then I might be able to help you in a few ways.\\\""
+  },
+  {
+    "id": 70,
+    "line": 370,
+    "target_en": "\\\"Mmph... there's no point if I cheat..."
+  },
+  {
+    "id": 71,
+    "line": 373,
+    "target_en": " Hahhh...\\\""
+  },
+  {
+    "id": 72,
+    "line": 378,
+    "target_en": "Satoshi-kun hung his head after letting his regrets out with a big sigh."
+  },
+  {
+    "id": 73,
+    "line": 383,
+    "target_en": "Surrender, defeat, resignation..."
+  },
+  {
+    "id": 74,
+    "line": 385,
+    "target_en": " ...were all visible in that gesture of his."
+  },
+  {
+    "id": 75,
+    "line": 391,
+    "target_en": "\\\"Are you quick to give up, or persistent?"
+  },
+  {
+    "id": 76,
+    "line": 394,
+    "target_en": " If you're a man, then don't you want to be a star and have your fifteen minutes of fame?\\\""
+  },
+  {
+    "id": 77,
+    "line": 402,
+    "target_en": "Satoshi-kun grinned and said \\\"yes.\\\""
+  },
+  {
+    "id": 78,
+    "line": 410,
+    "target_en": "\\\"Of course, that'd be wonderful,"
+  },
+  {
+    "id": 79,
+    "line": 413,
+    "target_en": " but that's not why I play baseball."
+  },
+  {
+    "id": 80,
+    "line": 419,
+    "target_en": "I just have fun batting and throwing the ball..."
+  },
+  {
+    "id": 81,
+    "line": 422,
+    "target_en": " You can understand that, right?\\\""
+  },
+  {
+    "id": 82,
+    "line": 428,
+    "target_en": "\\\"This ol' man isn't sure."
+  },
+  {
+    "id": 83,
+    "line": 431,
+    "target_en": " I only love games that I can win."
+  },
+  {
+    "id": 84,
+    "line": 434,
+    "target_en": " I don't understand how you can love something when you can't be the best at it."
+  },
+  {
+    "id": 85,
+    "line": 437,
+    "target_en": " Ahahaha!\\\""
+  },
+  {
+    "id": 86,
+    "line": 446,
+    "target_en": "\\\"Mmph..."
+  },
+  {
+    "id": 87,
+    "line": 455,
+    "target_en": "Ahahahahahahaha. That really sounds like you, Mion!\\\""
+  },
+  {
+    "id": 88,
+    "line": 460,
+    "target_en": "Having realized that I'm trying to make him feel better, he laughed along..."
+  },
+  {
+    "id": 89,
+    "line": 462,
+    "target_en": " He didn't look depressed anymore."
+  },
+  {
+    "id": 90,
+    "line": 467,
+    "target_en": "I guess he was just feeling down because of the game."
+  },
+  {
+    "id": 91,
+    "line": 472,
+    "target_en": "He wasn't as depressed as I thought."
+  },
+  {
+    "id": 92,
+    "line": 477,
+    "target_en": "Maybe I just jumped to conclusions when I saw him sitting alone in the park."
+  },
+  {
+    "id": 93,
+    "line": 485,
+    "target_en": "\\\"...You always put forth your best effort to win."
+  },
+  {
+    "id": 94,
+    "line": 488,
+    "target_en": " That's admirable, I think."
+  },
+  {
+    "id": 95,
+    "line": 491,
+    "target_en": " Yeah, it definitely is.\\\""
+  },
+  {
+    "id": 96,
+    "line": 496,
+    "target_en": "He smiled gently and stood up... then he started stroking my head."
+  },
+  {
+    "id": 97,
+    "line": 498,
+    "target_en": " All of a sudden."
+  },
+  {
+    "id": 98,
+    "line": 500,
+    "target_en": " I totally wasn't prepared for that."
+  },
+  {
+    "id": 99,
+    "line": 514,
+    "target_en": "\\\"Eh?"
+  },
+  {
+    "id": 100,
+    "line": 517,
+    "target_en": " ...Whoa... ooh...\\\""
+  },
+  {
+    "id": 101,
+    "line": 526,
+    "target_en": "I thought this when he did this last time, but..."
+  },
+  {
+    "id": 102,
+    "line": 531,
+    "target_en": "...How can he stroke somebody's head so easily...?"
+  },
+  {
+    "id": 103,
+    "line": 537,
+    "target_en": "I felt like I had turned into a little kid."
+  },
+  {
+    "id": 104,
+    "line": 539,
+    "target_en": " Memories from kindergarten came to mind..."
+  },
+  {
+    "id": 105,
+    "line": 541,
+    "target_en": " My face must have been red. I felt embarrassed... but also like I was in heaven."
+  },
+  {
+    "id": 106,
+    "line": 546,
+    "target_en": "Satoshi-kun stroked me as though petting a cat."
+  },
+  {
+    "id": 107,
+    "line": 551,
+    "target_en": "I was blushing with my eyes closed..."
+  },
+  {
+    "id": 108,
+    "line": 556,
+    "target_en": "I felt helpless, like a girl being treated by the dentist with her mouth open and her eyes shut."
+  },
+  {
+    "id": 109,
+    "line": 561,
+    "target_en": "...Satoshi-kun didn't seem to notice my feelings at all."
+  },
+  {
+    "id": 110,
+    "line": 566,
+    "target_en": "...He didn't seem to care. I hate him."
+  },
+  {
+    "id": 111,
+    "line": 572,
+    "target_en": "With my eyes still closed, I waited for him to finish."
+  },
+  {
+    "id": 112,
+    "line": 574,
+    "target_en": " He suddenly withdrew his hand."
+  },
+  {
+    "id": 113,
+    "line": 587,
+    "target_en": "\\\"...I need to get going."
+  },
+  {
+    "id": 114,
+    "line": 590,
+    "target_en": " My aunt wants some stuff, so I have to go grocery shopping.\\\""
+  },
+  {
+    "id": 115,
+    "line": 596,
+    "target_en": "\\\"Uh... okay.\\\""
+  },
+  {
+    "id": 116,
+    "line": 601,
+    "target_en": "My voice faltered."
+  },
+  {
+    "id": 117,
+    "line": 603,
+    "target_en": " I was so embarrassed..."
+  },
+  {
+    "id": 118,
+    "line": 609,
+    "target_en": "\\\"Hmm?\\\""
+  },
+  {
+    "id": 119,
+    "line": 615,
+    "target_en": "\\\"Uh, um...!"
+  },
+  {
+    "id": 120,
+    "line": 618,
+    "target_en": " ...I'm going shopping,"
+  },
+  {
+    "id": 121,
+    "line": 621,
+    "target_en": " too...\\\""
+  },
+  {
+    "id": 122,
+    "line": 629,
+    "target_en": "\\\"Hmm?"
+  },
+  {
+    "id": 123,
+    "line": 632,
+    "target_en": " What?"
+  },
+  {
+    "id": 124,
+    "line": 635,
+    "target_en": " You are?"
+  },
+  {
+    "id": 125,
+    "line": 638,
+    "target_en": " I thought the maids did all your household stuff.\\\""
+  },
+  {
+    "id": 126,
+    "line": 643,
+    "target_en": "Shoot..."
+  },
+  {
+    "id": 127,
+    "line": 645,
+    "target_en": " I messed up."
+  },
+  {
+    "id": 128,
+    "line": 650,
+    "target_en": "In the main Sonozaki house, the maids do everything."
+  },
+  {
+    "id": 129,
+    "line": 655,
+    "target_en": "Therefore, Mion hardly goes grocery shopping, and she's bragged to some people about that..."
+  },
+  {
+    "id": 130,
+    "line": 657,
+    "target_en": " I should've known better."
+  },
+  {
+    "id": 131,
+    "line": 663,
+    "target_en": "Still, it wouldn't be too hard to find an excuse."
+  },
+  {
+    "id": 132,
+    "line": 669,
+    "target_en": "\\\"I just happened to be in town,"
+  },
+  {
+    "id": 133,
+    "line": 672,
+    "target_en": " so I thought I'd help out with the household stuff."
+  },
+  {
+    "id": 134,
+    "line": 675,
+    "target_en": " Is that a problem?\\\""
+  },
+  {
+    "id": 135,
+    "line": 683,
+    "target_en": "\\\"...Ahaha."
+  },
+  {
+    "id": 136,
+    "line": 686,
+    "target_en": " That doesn't sound like you."
+  },
+  {
+    "id": 137,
+    "line": 689,
+    "target_en": " You always avoid doing boring stuff like that.\\\""
+  },
+  {
+    "id": 138,
+    "line": 695,
+    "target_en": "\\\"You talk too much!"
+  },
+  {
+    "id": 139,
+    "line": 700,
+    "target_en": " ...Ooh!"
+  },
+  {
+    "id": 140,
+    "line": 703,
+    "target_en": " Stop stroking my head!\\\""
+  },
+  {
+    "id": 141,
+    "line": 709,
+    "target_en": "\\\"Ahaha, ahaha.\\\""
+  },
+  {
+    "id": 142,
+    "line": 714,
+    "target_en": "Satoshi-kun seemed to be having fun with how embarrassed I'd get when he patted me."
+  },
+  {
+    "id": 143,
+    "line": 720,
+    "target_en": "Anyway, I managed to talk my way out of it."
+  },
+  {
+    "id": 144,
+    "line": 722,
+    "target_en": " He didn't seem to really care about the details..."
+  },
+  {
+    "id": 145,
+    "line": 732,
+    "target_en": "While walking with Satoshi-kun in the shopping district of Kami-isshiki... it suddenly occurred to me."
+  },
+  {
+    "id": 146,
+    "line": 737,
+    "target_en": "Why had I messed up?"
+  },
+  {
+    "id": 147,
+    "line": 742,
+    "target_en": "I'd known Mion would never go grocery shopping... What an amateurish mistake."
+  },
+  {
+    "id": 148,
+    "line": 747,
+    "target_en": "...Did I make that mistake when I was pretending to be Mion?"
+  },
+  {
+    "id": 149,
+    "line": 753,
+    "target_en": "No..."
+  },
+  {
+    "id": 150,
+    "line": 755,
+    "target_en": " I was probably speaking as Shion."
+  },
+  {
+    "id": 151,
+    "line": 760,
+    "target_en": "I couldn't keep lying to myself..."
+  },
+  {
+    "id": 152,
+    "line": 762,
+    "target_en": " I had to just admit..."
+  },
+  {
+    "id": 153,
+    "line": 768,
+    "target_en": "It was simply because,"
+  },
+  {
+    "id": 154,
+    "line": 770,
+    "target_en": " I wanted to spend as much time with Satoshi-kun as possible..."
+  },
+  {
+    "id": 155,
+    "line": 776,
+    "target_en": "It was easy to see why I was so attracted to him."
+  },
+  {
+    "id": 156,
+    "line": 781,
+    "target_en": "I'd found something intriguing in my boring life,"
+  },
+  {
+    "id": 157,
+    "line": 786,
+    "target_en": "and I didn't have to feel tense, because he thought I was somebody else."
+  },
+  {
+    "id": 158,
+    "line": 788,
+    "target_en": " Et cetera, et cetera."
+  },
+  {
+    "id": 159,
+    "line": 790,
+    "target_en": " His easygoing nature made him fun to be around, and... his habit of petting people on the head was fun too."
+  },
+  {
+    "id": 160,
+    "line": 796,
+    "target_en": "From these symptoms...... I could tell I was embracing the feeling of love."
+  },
+  {
+    "id": 161,
+    "line": 801,
+    "target_en": "I was just casually enjoying that feeling."
+  },
+  {
+    "id": 162,
+    "line": 806,
+    "target_en": "It wasn't that I fell in love with him."
+  },
+  {
+    "id": 163,
+    "line": 811,
+    "target_en": "I was just having fun."
+  },
+  {
+    "id": 164,
+    "line": 817,
+    "target_en": "I could simply spend some fun time with Satoshi-kun without having to think too much."
+  },
+  {
+    "id": 165,
+    "line": 831,
+    "target_en": "\\\"Uhh..."
+  },
+  {
+    "id": 166,
+    "line": 834,
+    "target_en": " Which one is broccoli?"
+  },
+  {
+    "id": 167,
+    "line": 837,
+    "target_en": " The green one"
+  },
+  {
+    "id": 168,
+    "line": 840,
+    "target_en": " or the yellow one?\\\""
+  },
+  {
+    "id": 169,
+    "line": 846,
+    "target_en": "\\\"That's cauliflower, Satoshi-kun..."
+  },
+  {
+    "id": 170,
+    "line": 849,
+    "target_en": " Hey, could it be that you can't tell lettuce from cabbage, either?\\\""
+  },
+  {
+    "id": 171,
+    "line": 855,
+    "target_en": "\\\"I-I'm not that bad..."
+  },
+  {
+    "id": 172,
+    "line": 858,
+    "target_en": " I'm doing my best here...\\\""
+  },
+  {
+    "id": 173,
+    "line": 863,
+    "target_en": "Satoshi-kun stared at the heaps of broccoli and cauliflower."
+  },
+  {
+    "id": 174,
+    "line": 868,
+    "target_en": "After thinking for a while, he reached out for the wrong one..."
+  },
+  {
+    "id": 175,
+    "line": 874,
+    "target_en": "\\\"That's not it!"
+  },
+  {
+    "id": 176,
+    "line": 877,
+    "target_en": " ...Watching you shop is like being on a roller coaster."
+  },
+  {
+    "id": 177,
+    "line": 880,
+    "target_en": " It's a lot of fun for me, though!"
+  },
+  {
+    "id": 178,
+    "line": 883,
+    "target_en": " Ahahahaha!\\\""
+  },
+  {
+    "id": 179,
+    "line": 891,
+    "target_en": "\\\"...Mmph."
+  },
+  {
+    "id": 180,
+    "line": 894,
+    "target_en": " You got me."
+  },
+  {
+    "id": 181,
+    "line": 897,
+    "target_en": " Satoko can't tell the difference either."
+  },
+  {
+    "id": 182,
+    "line": 900,
+    "target_en": " Which is broccoli and which one is cauliflower...?\\\""
+  },
+  {
+    "id": 183,
+    "line": 906,
+    "target_en": "\\\"...You guys are too funny.\\\""
+  },
+  {
+    "id": 184,
+    "line": 911,
+    "target_en": "Sis had told me that Satoshi was a flaky big brother to his nagging little sister."
+  },
+  {
+    "id": 185,
+    "line": 917,
+    "target_en": "I hadn't met Satoko, but she must be having a tough time dealing with Satoshi-kun."
+  },
+  {
+    "id": 186,
+    "line": 922,
+    "target_en": "He stumbles over everything he buys, after all."
+  },
+  {
+    "id": 187,
+    "line": 933,
+    "target_en": "\\\"That's cooking salt."
+  },
+  {
+    "id": 188,
+    "line": 936,
+    "target_en": " ...It's mixed with pepper. It's different from regular salt.\\\""
+  },
+  {
+    "id": 189,
+    "line": 943,
+    "target_en": "\\\"Oh... is it?"
+  },
+  {
+    "id": 190,
+    "line": 946,
+    "target_en": " I think I saw salt and pepper separate in a science experiment once...\\\""
+  },
+  {
+    "id": 191,
+    "line": 952,
+    "target_en": "\\\"Stop making excuses and just put it back on the shelf..."
+  },
+  {
+    "id": 192,
+    "line": 955,
+    "target_en": " This is normal salt!"
+  },
+  {
+    "id": 193,
+    "line": 958,
+    "target_en": " What are you getting next?\\\""
+  },
+  {
+    "id": 194,
+    "line": 973,
+    "target_en": "\\\"Uh...... Ahahahaha. You're being a great help, Mion...\\\""
+  },
+  {
+    "id": 195,
+    "line": 979,
+    "target_en": "\\\"...You look smart, but you have serious issues..."
+  },
+  {
+    "id": 196,
+    "line": 982,
+    "target_en": " I think you should study more...\\\""
+  },
+  {
+    "id": 197,
+    "line": 990,
+    "target_en": "\\\"Mmph...."
+  },
+  {
+    "id": 198,
+    "line": 993,
+    "target_en": " That's a little harsh..."
+  },
+  {
+    "id": 199,
+    "line": 1002,
+    "target_en": " ...There."
+  },
+  {
+    "id": 200,
+    "line": 1005,
+    "target_en": " Is this it?"
+  },
+  {
+    "id": 201,
+    "line": 1008,
+    "target_en": " In it goes.\\\""
+  },
+  {
+    "id": 202,
+    "line": 1023,
+    "target_en": "\\\"Ahh!"
+  },
+  {
+    "id": 203,
+    "line": 1026,
+    "target_en": " That's not it!"
+  },
+  {
+    "id": 204,
+    "line": 1029,
+    "target_en": " Don't just throw anything in the basket; check the price and how many servings it is first!\\\""
+  },
+  {
+    "id": 205,
+    "line": 1035,
+    "target_en": "My first impression of Satoshi-kun was that... he was strong and reliable."
+  },
+  {
+    "id": 206,
+    "line": 1040,
+    "target_en": "But the more I spoke to him, the more surprised I was at how clumsy and unreliable he was."
+  },
+  {
+    "id": 207,
+    "line": 1045,
+    "target_en": "How do I put it... It was hard to leave him alone."
+  },
+  {
+    "id": 208,
+    "line": 1047,
+    "target_en": " He was dangerous on his own."
+  },
+  {
+    "id": 209,
+    "line": 1053,
+    "target_en": "If he wasn't careful he might start wondering, \\\"Do you cross the street when the light is red?"
+  },
+  {
+    "id": 210,
+    "line": 1055,
+    "target_en": " Or was it green?\\\""
+  },
+  {
+    "id": 211,
+    "line": 1057,
+    "target_en": " ...And get himself run over by a dumptruck... (Sweatdrop)"
+  },
+  {
+    "id": 212,
+    "line": 1064,
+    "target_en": "\\\"Your total is 1,780 yen."
+  },
+  {
+    "id": 213,
+    "line": 1067,
+    "target_en": " Do you have a member's card?\\\""
+  },
+  {
+    "id": 214,
+    "line": 1073,
+    "target_en": "\\\"Huh? ...Oh, yes."
+  },
+  {
+    "id": 215,
+    "line": 1076,
+    "target_en": " I do..."
+  },
+  {
+    "id": 216,
+    "line": 1079,
+    "target_en": " ...Uhh... ......Huh? Where is it?\\\""
+  },
+  {
+    "id": 217,
+    "line": 1085,
+    "target_en": "\\\"Oh, sorry."
+  },
+  {
+    "id": 218,
+    "line": 1088,
+    "target_en": " We can't seem to find it, so we'll be alright for today.\\\""
+  },
+  {
+    "id": 219,
+    "line": 1093,
+    "target_en": "I finished checking out, ignoring Satoshi-kun as he fished through his wallet full of receipts."
+  },
+  {
+    "id": 220,
+    "line": 1103,
+    "target_en": "\\\"That was horrible, Mion..."
+  },
+  {
+    "id": 221,
+    "line": 1106,
+    "target_en": " You made me waste points...\\\""
+  },
+  {
+    "id": 222,
+    "line": 1112,
+    "target_en": "\\\"Don't go slowly fishing through your wallet to look for your member's card in the middle of the evening shopping rush!"
+  },
+  {
+    "id": 223,
+    "line": 1115,
+    "target_en": " There was a huge line behind us! "
+  },
+  {
+    "id": 224,
+    "line": 1119,
+    "target_en": "Didn't you notice all the evil glares from all the old ladies?!"
+  },
+  {
+    "id": 225,
+    "line": 1122,
+    "target_en": " Listen, at times like that, you should get it out before reaching the register!\\\""
+  },
+  {
+    "id": 226,
+    "line": 1130,
+    "target_en": "\\\"...Oh. ...Right."
+  },
+  {
+    "id": 227,
+    "line": 1133,
+    "target_en": " Ahaha, that's good to know.\\\""
+  },
+  {
+    "id": 228,
+    "line": 1139,
+    "target_en": "\\\"It's not only when you go shopping."
+  },
+  {
+    "id": 229,
+    "line": 1142,
+    "target_en": " The same thing goes for when you ride a bus! "
+  },
+  {
+    "id": 230,
+    "line": 1146,
+    "target_en": "Satoshi-kun, I bet you don't open your wallet and start looking for change until you're about to get off and have to pay while holding up everyone behind you.\\\""
+  },
+  {
+    "id": 231,
+    "line": 1154,
+    "target_en": "\\\"...Mmph...."
+  },
+  {
+    "id": 232,
+    "line": 1159,
+    "target_en": " No, everyone walks by me and pays their own fare...\\\""
+  },
+  {
+    "id": 233,
+    "line": 1165,
+    "target_en": "\\\"Hah..."
+  },
+  {
+    "id": 234,
+    "line": 1168,
+    "target_en": " You know what that means?"
+  },
+  {
+    "id": 235,
+    "line": 1171,
+    "target_en": " You're being a super-huge bother to everyone!"
+  },
+  {
+    "id": 236,
+    "line": 1174,
+    "target_en": " You need to have the money out beforehand. That's just good manners!"
+  },
+  {
+    "id": 237,
+    "line": 1177,
+    "target_en": " Do you get it?!\\\""
+  },
+  {
+    "id": 238,
+    "line": 1185,
+    "target_en": "\\\"O-Okay..."
+  },
+  {
+    "id": 239,
+    "line": 1188,
+    "target_en": " You're scary today, Mion... Ahahaha...\\\""
+  },
+  {
+    "id": 240,
+    "line": 1193,
+    "target_en": "Satoshi-kun smiled as if patronizing me."
+  },
+  {
+    "id": 241,
+    "line": 1198,
+    "target_en": "...Hah... I couldn't believe it."
+  },
+  {
+    "id": 242,
+    "line": 1203,
+    "target_en": "...He was definitely the type who made women want to protect him."
+  },
+  {
+    "id": 243,
+    "line": 1208,
+    "target_en": "...Sure, he was fine as he was when he had a busybody like me around him,"
+  },
+  {
+    "id": 244,
+    "line": 1210,
+    "target_en": " but I couldn't stop worrying whether he was able to function in society without someone like that nearby."
+  },
+  {
+    "id": 245,
+    "line": 1215,
+    "target_en": "We got plastic bags and sorted out what we bought."
+  },
+  {
+    "id": 246,
+    "line": 1220,
+    "target_en": "...Satoshi-kun put a pack of tofu at the bottom of the bag. I slapped his hand and put in a milk carton instead."
+  },
+  {
+    "id": 247,
+    "line": 1226,
+    "target_en": "\\\"Okay, there we go."
+  },
+  {
+    "id": 248,
+    "line": 1229,
+    "target_en": " Now your mother won't freak out when she opens this shopping bag in her kitchen.\\\""
+  },
+  {
+    "id": 249,
+    "line": 1237,
+    "target_en": "\\\"Uh... thanks."
+  },
+  {
+    "id": 250,
+    "line": 1240,
+    "target_en": " You helped me a lot..."
+  },
+  {
+    "id": 251,
+    "line": 1243,
+    "target_en": " I don't think I'm very good at shopping.\\\""
+  },
+  {
+    "id": 252,
+    "line": 1249,
+    "target_en": "\\\"Just shopping?"
+  },
+  {
+    "id": 253,
+    "line": 1252,
+    "target_en": " That's definitely not the only thing!\\\""
+  },
+  {
+    "id": 254,
+    "line": 1260,
+    "target_en": "\\\"......Mm... mmph......\\\""
+  },
+  {
+    "id": 255,
+    "line": 1266,
+    "target_en": "\\\"Ahahahahahaha!"
+  },
+  {
+    "id": 256,
+    "line": 1269,
+    "target_en": " Just kidding.\\\""
+  },
+  {
+    "id": 257,
+    "line": 1275,
+    "target_en": "I had realized a few things while I was spending time with him today."
+  },
+  {
+    "id": 258,
+    "line": 1280,
+    "target_en": "...He's not just bad at shopping."
+  },
+  {
+    "id": 259,
+    "line": 1282,
+    "target_en": " He's also chronically clumsy."
+  },
+  {
+    "id": 260,
+    "line": 1288,
+    "target_en": "...In general, you could call him a slow thinker."
+  },
+  {
+    "id": 261,
+    "line": 1293,
+    "target_en": "...That meant... when he stepped into the quarrel with the punks, he must have needed a lot of courage."
+  },
+  {
+    "id": 262,
+    "line": 1298,
+    "target_en": "He might be a simpleton, but he's not stupid."
+  },
+  {
+    "id": 263,
+    "line": 1303,
+    "target_en": "He's aware of his weaknesses."
+  },
+  {
+    "id": 264,
+    "line": 1308,
+    "target_en": "...So, he must have been aware of the danger in that situation."
+  },
+  {
+    "id": 265,
+    "line": 1313,
+    "target_en": "...He could have chosen to walk away even though I was in trouble."
+  },
+  {
+    "id": 266,
+    "line": 1318,
+    "target_en": "But he chose to be a man and stepped in."
+  },
+  {
+    "id": 267,
+    "line": 1320,
+    "target_en": " That was really admirable of him."
+  },
+  {
+    "id": 268,
+    "line": 1329,
+    "target_en": "\\\"Good boy."
+  },
+  {
+    "id": 269,
+    "line": 1332,
+    "target_en": " You did a great job."
+  },
+  {
+    "id": 270,
+    "line": 1335,
+    "target_en": " There, there.\\\""
+  },
+  {
+    "id": 271,
+    "line": 1343,
+    "target_en": "\\\"Wh-What is it?"
+  },
+  {
+    "id": 272,
+    "line": 1346,
+    "target_en": " Don't stroke my head.\\\""
+  },
+  {
+    "id": 273,
+    "line": 1352,
+    "target_en": "\\\"I'm rewarding you for shopping successfully today."
+  },
+  {
+    "id": 274,
+    "line": 1355,
+    "target_en": " There, there.\\\""
+  },
+  {
+    "id": 275,
+    "line": 1361,
+    "target_en": "\\\"You're making fun of me, aren't you, Mion?\\\""
+  },
+  {
+    "id": 276,
+    "line": 1367,
+    "target_en": "\\\"No, I'm not."
+  },
+  {
+    "id": 277,
+    "line": 1370,
+    "target_en": " Can you go home by yourself?"
+  },
+  {
+    "id": 278,
+    "line": 1373,
+    "target_en": " Do you know how to get there?\\\""
+  },
+  {
+    "id": 279,
+    "line": 1381,
+    "target_en": "\\\"Mmph..."
+  },
+  {
+    "id": 280,
+    "line": 1384,
+    "target_en": " You <i>are</i> making fun of me...\\\""
+  },
+  {
+    "id": 281,
+    "line": 1392,
+    "target_en": "Satoshi-kun's sulky face flushed red...."
+  },
+  {
+    "id": 282,
+    "line": 1394,
+    "target_en": " Ahh, he's just too cute."
+  },
+  {
+    "id": 283,
+    "line": 1400,
+    "target_en": "At that point, I caught a glimpse of a billboard from the corner of my eye."
+  },
+  {
+    "id": 284,
+    "line": 1406,
+    "target_en": "'Piano Lessons. Call XX."
+  },
+  {
+    "id": 285,
+    "line": 1408,
+    "target_en": " Abacus Class......"
+  },
+  {
+    "id": 286,
+    "line": 1410,
+    "target_en": " Junior Baseball Team--Members Wanted.'"
+  },
+  {
+    "id": 287,
+    "line": 1415,
+    "target_en": "It was a posting for the team Satoshi-kun belonged to."
+  },
+  {
+    "id": 288,
+    "line": 1420,
+    "target_en": "It showed the day, time, and place of their next practice."
+  },
+  {
+    "id": 289,
+    "line": 1426,
+    "target_en": "By then, I knew just how flaky he was."
+  },
+  {
+    "id": 290,
+    "line": 1431,
+    "target_en": "I figured he must be just the same when playing baseball."
+  },
+  {
+    "id": 291,
+    "line": 1436,
+    "target_en": "Satoshi-kun realized that I was reading the posting. He looked uncomfortable and walked away."
+  },
+  {
+    "id": 292,
+    "line": 1442,
+    "target_en": "\\\"I know what you're thinking..."
+  },
+  {
+    "id": 293,
+    "line": 1445,
+    "target_en": " 'I beg you Mion,"
+  },
+  {
+    "id": 294,
+    "line": 1448,
+    "target_en": " don't come to see me playing baseball.'"
+  },
+  {
+    "id": 295,
+    "line": 1451,
+    "target_en": " ...Am I right?!\\\""
+  },
+  {
+    "id": 296,
+    "line": 1460,
+    "target_en": "\\\"M-Mmph........."
+  },
+  {
+    "id": 297,
+    "line": 1463,
+    "target_en": " Ahh......... mmph.\\\""
+  },
+  {
+    "id": 298,
+    "line": 1469,
+    "target_en": "\\\"What does that mumbling mean?"
+  },
+  {
+    "id": 299,
+    "line": 1472,
+    "target_en": " ......I know I'm right.\\\""
+  },
+  {
+    "id": 300,
+    "line": 1478,
+    "target_en": "\\\"......Mmph......\\\""
+  },
+  {
+    "id": 301,
+    "line": 1483,
+    "target_en": "Satoshi-kun became quiet"
+  },
+  {
+    "id": 302,
+    "line": 1485,
+    "target_en": " after mumbling something."
+  },
+  {
+    "id": 303,
+    "line": 1490,
+    "target_en": "...It seemed like he couldn't say anything back, since I had been right on the money."
+  },
+  {
+    "id": 304,
+    "line": 1496,
+    "target_en": "...Satoshi-kun... You're just too cute."
+  },
+  {
+    "id": 305,
+    "line": 1501,
+    "target_en": "...I don't think going silent is a good way to dodge the issue..."
+  },
+  {
+    "id": 306,
+    "line": 1503,
+    "target_en": " Well, that might have just been the way innocent people like him would react in a situation like that."
+  },
+  {
+    "id": 307,
+    "line": 1514,
+    "target_en": "\\\"See you, Satoshi-kun."
+  },
+  {
+    "id": 308,
+    "line": 1517,
+    "target_en": " It's getting dark, so be careful on your way back!\\\""
+  },
+  {
+    "id": 309,
+    "line": 1526,
+    "target_en": "\\\"Aren't you going home, Mion?"
+  },
+  {
+    "id": 310,
+    "line": 1529,
+    "target_en": " To Hinamizawa?\\\""
+  },
+  {
+    "id": 311,
+    "line": 1535,
+    "target_en": "\\\"...Uh... I have to make a stop somewhere first."
+  },
+  {
+    "id": 312,
+    "line": 1538,
+    "target_en": " Don't worry about me.\\\""
+  },
+  {
+    "id": 313,
+    "line": 1546,
+    "target_en": "\\\"I'll help you this time."
+  },
+  {
+    "id": 314,
+    "line": 1549,
+    "target_en": " In return.\\\""
+  },
+  {
+    "id": 315,
+    "line": 1555,
+    "target_en": "\\\"Uh, ahahahahaha."
+  },
+  {
+    "id": 316,
+    "line": 1558,
+    "target_en": " I'm okay!"
+  },
+  {
+    "id": 317,
+    "line": 1561,
+    "target_en": " What are you going to help me with, anyway?"
+  },
+  {
+    "id": 318,
+    "line": 1564,
+    "target_en": " You should learn to support yourself before you try to help me."
+  },
+  {
+    "id": 319,
+    "line": 1567,
+    "target_en": " Ahhhahahahaha!\\\""
+  },
+  {
+    "id": 320,
+    "line": 1575,
+    "target_en": "\\\"...Mmph..."
+  },
+  {
+    "id": 321,
+    "line": 1578,
+    "target_en": " You're really mean today...\\\""
+  },
+  {
+    "id": 322,
+    "line": 1583,
+    "target_en": "He seemed to have some pride, at least."
+  },
+  {
+    "id": 323,
+    "line": 1588,
+    "target_en": "He looked a bit upset because he was teased by a girl..."
+  },
+  {
+    "id": 324,
+    "line": 1590,
+    "target_en": " but in contrast, I felt very satisfied."
+  },
+  {
+    "id": 325,
+    "line": 1596,
+    "target_en": "As a result, I forgot to keep my guard up."
+  },
+  {
+    "id": 326,
+    "line": 1604,
+    "target_en": "\\\"Uh, thank you for the help."
+  },
+  {
+    "id": 327,
+    "line": 1613,
+    "target_en": "That was sweet of you.\\\""
+  },
+  {
+    "id": 328,
+    "line": 1623,
+    "target_en": "\\\"Whoa...!"
+  },
+  {
+    "id": 329,
+    "line": 1626,
+    "target_en": " ...Mmm...\\\""
+  },
+  {
+    "id": 330,
+    "line": 1631,
+    "target_en": "While wearing a bright smile..."
+  },
+  {
+    "id": 331,
+    "line": 1633,
+    "target_en": " Satoshi-kun suddenly started stroking my head again."
+  },
+  {
+    "id": 332,
+    "line": 1639,
+    "target_en": "Ahh... I know he's teasing me, but..."
+  },
+  {
+    "id": 333,
+    "line": 1641,
+    "target_en": " ooh, I can't reject him..."
+  },
+  {
+    "id": 334,
+    "line": 1643,
+    "target_en": " mmm..."
+  },
+  {
+    "id": 335,
+    "line": 1648,
+    "target_en": "He keeps doing it only because he's realized I won't resist..."
+  },
+  {
+    "id": 336,
+    "line": 1650,
+    "target_en": " ooohhh..."
+  },
+  {
+    "id": 337,
+    "line": 1664,
+    "target_en": "\\\"See you, Mion!"
+  },
+  {
+    "id": 338,
+    "line": 1667,
+    "target_en": " You should go home before it gets dark..."
+  },
+  {
+    "id": 339,
+    "line": 1670,
+    "target_en": " See you in school tomorrow.\\\""
+  },
+  {
+    "id": 340,
+    "line": 1676,
+    "target_en": "\\\"Uh, yeah!"
+  },
+  {
+    "id": 341,
+    "line": 1679,
+    "target_en": " See you in school tomorrow too!\\\""
+  },
+  {
+    "id": 342,
+    "line": 1689,
+    "target_en": "In fact, I wouldn't see him tomorrow at all."
+  },
+  {
+    "id": 343,
+    "line": 1694,
+    "target_en": "...It felt awkward, but I had to settle for that."
+  },
+  {
+    "id": 344,
+    "line": 1696,
+    "target_en": " I had to thank Sis for letting me use her name."
+  },
+  {
+    "id": 345,
+    "line": 1701,
+    "target_en": "After I separated from him...."
+  },
+  {
+    "id": 346,
+    "line": 1706,
+    "target_en": "...I found myself giddy and wishing to see him again as soon as possible."
+  },
+  {
+    "id": 347,
+    "line": 1711,
+    "target_en": "I wanted to know more about him."
+  },
+  {
+    "id": 348,
+    "line": 1716,
+    "target_en": "I couldn't wait for my next chance to see him."
+  },
+  {
+    "id": 349,
+    "line": 1721,
+    "target_en": "...Actually, maybe there was something I could do."
+  },
+  {
+    "id": 350,
+    "line": 1726,
+    "target_en": "Just like when I obtained my freedom from St. Lucia's,"
+  },
+  {
+    "id": 351,
+    "line": 1728,
+    "target_en": " I could choose how to live my life."
+  },
+  {
+    "id": 352,
+    "line": 1734,
+    "target_en": "...Whatever. It wasn't that complicated."
+  },
+  {
+    "id": 353,
+    "line": 1739,
+    "target_en": "I just wanted to tease him more. I wanted him to stroke my head more,"
+  },
+  {
+    "id": 354,
+    "line": 1741,
+    "target_en": " and...... ahh, whatever."
+  },
+  {
+    "id": 355,
+    "line": 1747,
+    "target_en": "I already knew the schedule for his baseball team."
+  }
+]

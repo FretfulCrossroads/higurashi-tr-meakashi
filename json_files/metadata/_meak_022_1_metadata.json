@@ -1,0 +1,1167 @@
+[
+  {
+    "id": 1,
+    "line": 25,
+    "target_en": "\\\"Keiichi!"
+  },
+  {
+    "id": 2,
+    "line": 28,
+    "target_en": " I've been calling your name for a while!"
+  },
+  {
+    "id": 3,
+    "line": 31,
+    "target_en": " You have a phone call."
+  },
+  {
+    "id": 4,
+    "line": 34,
+    "target_en": " ...It's from Sonozaki-san.\\\""
+  },
+  {
+    "id": 5,
+    "line": 40,
+    "target_en": "\\\"S-Sonozaki-san...... which one?"
+  },
+  {
+    "id": 6,
+    "line": 43,
+    "target_en": " The older sister, or"
+  },
+  {
+    "id": 7,
+    "line": 46,
+    "target_en": " the younger one...?\\\""
+  },
+  {
+    "id": 8,
+    "line": 52,
+    "target_en": "\\\"...I don't know."
+  },
+  {
+    "id": 9,
+    "line": 55,
+    "target_en": " Ask her yourself.\\\""
+  },
+  {
+    "id": 10,
+    "line": 61,
+    "target_en": "\\\"H-"
+  },
+  {
+    "id": 11,
+    "line": 66,
+    "target_en": "Hello...?"
+  },
+  {
+    "id": 12,
+    "line": 69,
+    "target_en": " ......Mion?"
+  },
+  {
+    "id": 13,
+    "line": 72,
+    "target_en": " ...Or is it Shion?\\\""
+  },
+  {
+    "id": 14,
+    "line": 80,
+    "target_en": "\\\"It's me."
+  },
+  {
+    "id": 15,
+    "line": 83,
+    "target_en": " ...Shion."
+  },
+  {
+    "id": 16,
+    "line": 86,
+    "target_en": " Good evening.\\\""
+  },
+  {
+    "id": 17,
+    "line": 92,
+    "target_en": "\\\"Shion!"
+  },
+  {
+    "id": 18,
+    "line": 95,
+    "target_en": " Umm..."
+  },
+  {
+    "id": 19,
+    "line": 100,
+    "target_en": " ...Sorry about... last night."
+  },
+  {
+    "id": 20,
+    "line": 103,
+    "target_en": " ...I got all riled up...\\\""
+  },
+  {
+    "id": 21,
+    "line": 108,
+    "target_en": "It seems that my hanging up on him in the middle of his complaining last night had a positive effect."
+  },
+  {
+    "id": 22,
+    "line": 114,
+    "target_en": "\\\"We're tied to the same fate."
+  },
+  {
+    "id": 23,
+    "line": 117,
+    "target_en": " Making sure the other is alright is the only way to guarantee our own safety.\\\""
+  },
+  {
+    "id": 24,
+    "line": 123,
+    "target_en": "\\\"...Yeah... I agree.\\\""
+  },
+  {
+    "id": 25,
+    "line": 129,
+    "target_en": "\\\"...We absolutely need to share whatever information we have."
+  },
+  {
+    "id": 26,
+    "line": 132,
+    "target_en": " ...So that we don't die, like Takano-san and Tomitake-san did.\\\""
+  },
+  {
+    "id": 27,
+    "line": 137,
+    "target_en": "Gulp..."
+  },
+  {
+    "id": 28,
+    "line": 139,
+    "target_en": " I heard Keiichi swallow loudly."
+  },
+  {
+    "id": 29,
+    "line": 145,
+    "target_en": "\\\"Then... let's continue from where we left off."
+  },
+  {
+    "id": 30,
+    "line": 148,
+    "target_en": " ...You'll listen without getting angry this time, right?\\\""
+  },
+  {
+    "id": 31,
+    "line": 154,
+    "target_en": "\\\"...Yeah."
+  },
+  {
+    "id": 32,
+    "line": 157,
+    "target_en": " ...I'll be fine.\\\""
+  },
+  {
+    "id": 33,
+    "line": 162,
+    "target_en": "Keiichi agreed to be quiet and listen."
+  },
+  {
+    "id": 34,
+    "line": 167,
+    "target_en": "I explained the dangerous situation Keiichi was in once again."
+  },
+  {
+    "id": 35,
+    "line": 173,
+    "target_en": "Just like how some evil people in the village attacked Takano-san and Tomitake-san, they might attack us any day."
+  },
+  {
+    "id": 36,
+    "line": 179,
+    "target_en": "It was ironic, of course, that while I was warning him, I was also the one who made sure the curse would fall upon him."
+  },
+  {
+    "id": 37,
+    "line": 185,
+    "target_en": "\\\"...Let's report anything we noticed that seemed strange."
+  },
+  {
+    "id": 38,
+    "line": 188,
+    "target_en": " ...If we connect all the tiny pieces that we have..."
+  },
+  {
+    "id": 39,
+    "line": 193,
+    "target_en": " then just maybe we'll find out who killed them... "
+  },
+  {
+    "id": 40,
+    "line": 198,
+    "target_en": "Or maybe even the truth behind the incidents of the past few years.\\\""
+  },
+  {
+    "id": 41,
+    "line": 204,
+    "target_en": "\\\"...Mm... you're right."
+  },
+  {
+    "id": 42,
+    "line": 207,
+    "target_en": " ...You're right about that.\\\""
+  },
+  {
+    "id": 43,
+    "line": 213,
+    "target_en": "\\\"...Then I'll start, since I suggested it."
+  },
+  {
+    "id": 44,
+    "line": 216,
+    "target_en": " ...I feel like somebody has been watching me lately.\\\""
+  },
+  {
+    "id": 45,
+    "line": 222,
+    "target_en": "\\\"What...?!?!\\\""
+  },
+  {
+    "id": 46,
+    "line": 227,
+    "target_en": "I was making this up."
+  },
+  {
+    "id": 47,
+    "line": 229,
+    "target_en": " I just wanted him to realize how urgent the situation was."
+  },
+  {
+    "id": 48,
+    "line": 235,
+    "target_en": "\\\"......It might be my imagination, but..."
+  },
+  {
+    "id": 49,
+    "line": 238,
+    "target_en": " I'll tell you anyway."
+  },
+  {
+    "id": 50,
+    "line": 241,
+    "target_en": " ...I think it's just me, but... if you feel like you're being watched too, Kei-chan, then..."
+  },
+  {
+    "id": 51,
+    "line": 244,
+    "target_en": " ...Maybe it's not just in my head...\\\""
+  },
+  {
+    "id": 52,
+    "line": 250,
+    "target_en": "\\\"W-Well... Don't worry."
+  },
+  {
+    "id": 53,
+    "line": 253,
+    "target_en": " ...At the very least... Everything's fine with me.\\\""
+  },
+  {
+    "id": 54,
+    "line": 259,
+    "target_en": "It seemed like nothing had happened to Keiichi today, at least."
+  },
+  {
+    "id": 55,
+    "line": 265,
+    "target_en": "Now that the heads of all the Three Families were gone, it was possible the curse system had been destroyed entirely."
+  },
+  {
+    "id": 56,
+    "line": 270,
+    "target_en": "If that was the case, then Keiichi might not be attacked after all."
+  },
+  {
+    "id": 57,
+    "line": 275,
+    "target_en": "But if there was someone who did want to attack him, that meant part of the system was still alive."
+  },
+  {
+    "id": 58,
+    "line": 280,
+    "target_en": "In other words, my mission wouldn't be accomplished just yet."
+  },
+  {
+    "id": 59,
+    "line": 285,
+    "target_en": "Keiichi is like a litmus test in this situation."
+  },
+  {
+    "id": 60,
+    "line": 291,
+    "target_en": "I'd know whether or not all my enemies were gone depending on if Keiichi got bitten."
+  },
+  {
+    "id": 61,
+    "line": 296,
+    "target_en": "He sure is a very useful man."
+  },
+  {
+    "id": 62,
+    "line": 302,
+    "target_en": "After that, I went along with what Keiichi said."
+  },
+  {
+    "id": 63,
+    "line": 307,
+    "target_en": "I made sure he was fearful of Mion, as well as all of the Three Families."
+  },
+  {
+    "id": 64,
+    "line": 313,
+    "target_en": "I explained to him the possibility that the whole village was involved, and that the curse of Oyashiro-sama might be some sort of system."
+  },
+  {
+    "id": 65,
+    "line": 318,
+    "target_en": "Then I remembered Shion wouldn't know too much about the disappearance of the mayor, so I continued."
+  },
+  {
+    "id": 66,
+    "line": 324,
+    "target_en": "\\\"...I just heard this myself..."
+  },
+  {
+    "id": 67,
+    "line": 327,
+    "target_en": " Is it true... that Uncle Kimiyoshi went missing?\\\""
+  },
+  {
+    "id": 68,
+    "line": 333,
+    "target_en": "\\\"You mean the mayor...?"
+  },
+  {
+    "id": 69,
+    "line": 336,
+    "target_en": " Wait, Shion..."
+  },
+  {
+    "id": 70,
+    "line": 341,
+    "target_en": " you haven't heard?\\\""
+  },
+  {
+    "id": 71,
+    "line": 347,
+    "target_en": "\\\"I don't know anything!"
+  },
+  {
+    "id": 72,
+    "line": 352,
+    "target_en": " ...I just overheard my father talking about it on the phone again.\\\""
+  },
+  {
+    "id": 73,
+    "line": 358,
+    "target_en": "\\\"...Yeah."
+  },
+  {
+    "id": 74,
+    "line": 361,
+    "target_en": " Actually... last night, after the meeting, he didn't come home, so the whole village was in a panic."
+  },
+  {
+    "id": 75,
+    "line": 364,
+    "target_en": " They searched all over Hinamizawa, but if they've found him, then I haven't heard... "
+  },
+  {
+    "id": 76,
+    "line": 368,
+    "target_en": "The police should be searching for him as well...\\\""
+  },
+  {
+    "id": 77,
+    "line": 378,
+    "target_en": "\\\"Wh-Why didn't you tell me something that important right away???!!\\\""
+  },
+  {
+    "id": 78,
+    "line": 385,
+    "target_en": "\\\"S-Sorry..."
+  },
+  {
+    "id": 79,
+    "line": 390,
+    "target_en": " I thought you already knew..."
+  },
+  {
+    "id": 80,
+    "line": 393,
+    "target_en": " I didn't want to hide it or anything...!\\\""
+  },
+  {
+    "id": 81,
+    "line": 399,
+    "target_en": "\\\"............Kei-chan..."
+  },
+  {
+    "id": 82,
+    "line": 404,
+    "target_en": " ...What..."
+  },
+  {
+    "id": 83,
+    "line": 409,
+    "target_en": " ......What should I do...?\\\""
+  },
+  {
+    "id": 84,
+    "line": 415,
+    "target_en": "\\\"...What's wrong?"
+  },
+  {
+    "id": 85,
+    "line": 418,
+    "target_en": " ...Tell me."
+  },
+  {
+    "id": 86,
+    "line": 421,
+    "target_en": " We're not keeping secrets from each other, right...?\\\""
+  },
+  {
+    "id": 87,
+    "line": 427,
+    "target_en": "\\\"...I'm sorry."
+  },
+  {
+    "id": 88,
+    "line": 430,
+    "target_en": " ...I... well, I didn't mean to hide it."
+  },
+  {
+    "id": 89,
+    "line": 433,
+    "target_en": " ...It was just that, well, the conversation got turned around and...\\\""
+  },
+  {
+    "id": 90,
+    "line": 439,
+    "target_en": "\\\"...We're on the same side, right?!"
+  },
+  {
+    "id": 91,
+    "line": 442,
+    "target_en": " I won't get mad, so just tell me...\\\""
+  },
+  {
+    "id": 92,
+    "line": 448,
+    "target_en": "\\\"I..."
+  },
+  {
+    "id": 93,
+    "line": 451,
+    "target_en": "......"
+  },
+  {
+    "id": 94,
+    "line": 455,
+    "target_en": " Uncle Kimiyoshi, I..."
+  },
+  {
+    "id": 95,
+    "line": 460,
+    "target_en": " ...I told him everything.\\\""
+  },
+  {
+    "id": 96,
+    "line": 466,
+    "target_en": "\\\"......Old man Kimiyoshi... He's someone you feel comfortable confiding in, Shion...?\\\""
+  },
+  {
+    "id": 97,
+    "line": 472,
+    "target_en": "\\\"......Yes."
+  },
+  {
+    "id": 98,
+    "line": 475,
+    "target_en": " ...He would... When I was little, he was really nice to me..."
+  },
+  {
+    "id": 99,
+    "line": 478,
+    "target_en": " ...All I did was play tricks on him... but he would always just smile..."
+  },
+  {
+    "id": 100,
+    "line": 481,
+    "target_en": " ...He listened to anything I had to say... "
+  },
+  {
+    "id": 101,
+    "line": 485,
+    "target_en": "...He was such a kind person...\\\""
+  },
+  {
+    "id": 102,
+    "line": 491,
+    "target_en": "\\\"...C-Calm down, Shion."
+  },
+  {
+    "id": 103,
+    "line": 494,
+    "target_en": " ...It's not like he's dead, right?"
+  },
+  {
+    "id": 104,
+    "line": 497,
+    "target_en": " Don't lose heart so easily...\\\""
+  },
+  {
+    "id": 105,
+    "line": 503,
+    "target_en": "Keiichi tried to make me feel better."
+  },
+  {
+    "id": 106,
+    "line": 509,
+    "target_en": "But he had no idea what was actually going on."
+  },
+  {
+    "id": 107,
+    "line": 514,
+    "target_en": "It really made me laugh."
+  },
+  {
+    "id": 108,
+    "line": 520,
+    "target_en": "\\\"......That night..."
+  },
+  {
+    "id": 109,
+    "line": 523,
+    "target_en": " ...I told the mayor..."
+  },
+  {
+    "id": 110,
+    "line": 526,
+    "target_en": " that we snuck into the ritual storehouse."
+  },
+  {
+    "id": 111,
+    "line": 529,
+    "target_en": " ...Also that someone saw us... and was out to get us.\\\""
+  },
+  {
+    "id": 112,
+    "line": 535,
+    "target_en": "\\\"...Does the mayor know how absurdly Takano-san and Tomitake-san died...?\\\""
+  },
+  {
+    "id": 113,
+    "line": 541,
+    "target_en": "\\\"......Yes."
+  },
+  {
+    "id": 114,
+    "line": 544,
+    "target_en": " ...He knew about it."
+  },
+  {
+    "id": 115,
+    "line": 547,
+    "target_en": " ...I told him that they died by Oyashiro-sama's curse... and that I could be made a sacrifice to calm his anger."
+  },
+  {
+    "id": 116,
+    "line": 550,
+    "target_en": " ...I just said it straight out.\\\""
+  },
+  {
+    "id": 117,
+    "line": 556,
+    "target_en": "\\\"...Right."
+  },
+  {
+    "id": 118,
+    "line": 559,
+    "target_en": " ...What then?\\\""
+  },
+  {
+    "id": 119,
+    "line": 565,
+    "target_en": "\\\"...Uncle Kimiyoshi... didn't get angry."
+  },
+  {
+    "id": 120,
+    "line": 568,
+    "target_en": " ...He smiled, then told me that if I was remorseful about it, there was no way I'd be demoned away..."
+  },
+  {
+    "id": 121,
+    "line": 571,
+    "target_en": " ...He was really..."
+  },
+  {
+    "id": 122,
+    "line": 576,
+    "target_en": " ...smiling... ...and he told me to leave it to... him..."
+  },
+  {
+    "id": 123,
+    "line": 581,
+    "target_en": " ...ngh...!!\\\""
+  },
+  {
+    "id": 124,
+    "line": 587,
+    "target_en": "I actually got a little sad while saying that."
+  },
+  {
+    "id": 125,
+    "line": 593,
+    "target_en": "Uncle Kimiyoshi had been so reliable."
+  },
+  {
+    "id": 126,
+    "line": 598,
+    "target_en": "I was happy when he said that he would protect Shion."
+  },
+  {
+    "id": 127,
+    "line": 600,
+    "target_en": " I truly was happy."
+  },
+  {
+    "id": 128,
+    "line": 606,
+    "target_en": "If only he hadn't said anything to insult Satoshi-kun...!!"
+  },
+  {
+    "id": 129,
+    "line": 613,
+    "target_en": "\\\".........It's my fault."
+  },
+  {
+    "id": 130,
+    "line": 616,
+    "target_en": " ...Because I... I confessed everything...\\\""
+  },
+  {
+    "id": 131,
+    "line": 622,
+    "target_en": "\\\"...Stop it, Shion..."
+  },
+  {
+    "id": 132,
+    "line": 625,
+    "target_en": " ...It's not your fault.\\\""
+  },
+  {
+    "id": 133,
+    "line": 631,
+    "target_en": "\\\"No!"
+  },
+  {
+    "id": 134,
+    "line": 634,
+    "target_en": " It is my fault!"
+  },
+  {
+    "id": 135,
+    "line": 637,
+    "target_en": " I... I told him our secret...!"
+  },
+  {
+    "id": 136,
+    "line": 640,
+    "target_en": " Uncle Kimiyoshi found out about everything...!"
+  },
+  {
+    "id": 137,
+    "line": 643,
+    "target_en": " So... he had to have been killed!!"
+  },
+  {
+    "id": 138,
+    "line": 646,
+    "target_en": " ...It was right after I confessed to him, after all!! "
+  },
+  {
+    "id": 139,
+    "line": 650,
+    "target_en": "He disappeared the same night... and he told me everything was going to be all right!!\\\""
+  },
+  {
+    "id": 140,
+    "line": 655,
+    "target_en": "It was such a strange feeling."
+  },
+  {
+    "id": 141,
+    "line": 660,
+    "target_en": "I wasn't upset at all."
+  },
+  {
+    "id": 142,
+    "line": 665,
+    "target_en": "But as I pretended to be upset and mutter words of prayer for Kimiyoshi's safety, I started to feel that emotion growing inside me."
+  },
+  {
+    "id": 143,
+    "line": 670,
+    "target_en": "I was only pretending to be distressed to fool Keiichi,"
+  },
+  {
+    "id": 144,
+    "line": 672,
+    "target_en": " yet the emotion I feigned began welling up inside me... ...It felt like I was being consumed by that emotion."
+  },
+  {
+    "id": 145,
+    "line": 677,
+    "target_en": "So the words coming from my mouth... weren't words I intentionally said."
+  },
+  {
+    "id": 146,
+    "line": 682,
+    "target_en": "...They were words that consuming emotion forced me to say."
+  },
+  {
+    "id": 147,
+    "line": 688,
+    "target_en": "It was like someone else inside of me was doing the talking instead..."
+  },
+  {
+    "id": 148,
+    "line": 693,
+    "target_en": "And I was just watching that someone talk from a short distance away..."
+  },
+  {
+    "id": 149,
+    "line": 700,
+    "target_en": "\\\"I should never have told him!!!"
+  },
+  {
+    "id": 150,
+    "line": 706,
+    "target_en": "All of this... should have only been our fault! Only the four of us!!"
+  },
+  {
+    "id": 151,
+    "line": 709,
+    "target_en": " It wasn't something I should have told someone else!!"
+  },
+  {
+    "id": 152,
+    "line": 712,
+    "target_en": " He got killed because I told him!"
+  },
+  {
+    "id": 153,
+    "line": 715,
+    "target_en": " He got killed because he knew!"
+  },
+  {
+    "id": 154,
+    "line": 722,
+    "target_en": "He got killed..."
+  },
+  {
+    "id": 155,
+    "line": 725,
+    "target_en": "..."
+  },
+  {
+    "id": 156,
+    "line": 733,
+    "target_en": " because I confessed to him!!!!"
+  },
+  {
+    "id": 157,
+    "line": 739,
+    "target_en": "\\\""
+  },
+  {
+    "id": 158,
+    "line": 745,
+    "target_en": "\\\"Hey, stop!!"
+  },
+  {
+    "id": 159,
+    "line": 748,
+    "target_en": " If they were doing that... then they would obviously have killed you before killing the mayor!"
+  },
+  {
+    "id": 160,
+    "line": 751,
+    "target_en": " It doesn't make sense!"
+  },
+  {
+    "id": 161,
+    "line": 754,
+    "target_en": " You or I should have been killed first!!"
+  },
+  {
+    "id": 162,
+    "line": 757,
+    "target_en": " Why would other people die before us?!!\\\""
+  },
+  {
+    "id": 163,
+    "line": 763,
+    "target_en": "\\\"It does make sense!"
+  },
+  {
+    "id": 164,
+    "line": 766,
+    "target_en": " They must be planning to kill us last of all!!\\\""
+  },
+  {
+    "id": 165,
+    "line": 773,
+    "target_en": "\\\"...Hah...?"
+  },
+  {
+    "id": 166,
+    "line": 776,
+    "target_en": " Wha... What!?\\\""
+  },
+  {
+    "id": 167,
+    "line": 784,
+    "target_en": "\\\"...'They' start by killing those we're close to... and after they've caused us so much pain, then they'll kill us... That must be what they're doing!!\\\""
+  },
+  {
+    "id": 168,
+    "line": 790,
+    "target_en": "What I just said scared even me."
+  },
+  {
+    "id": 169,
+    "line": 798,
+    "target_en": "Killing our loved ones first to harm us emotionally, and only then kill us at the height of our suffering."
+  },
+  {
+    "id": 170,
+    "line": 804,
+    "target_en": "Whoaaaaaa,"
+  },
+  {
+    "id": 171,
+    "line": 809,
+    "target_en": " I felt something crawling up my spine."
+  },
+  {
+    "id": 172,
+    "line": 814,
+    "target_en": "That's awesome! It's an awesome idea!"
+  },
+  {
+    "id": 173,
+    "line": 819,
+    "target_en": "I must not be human anymore. I really am a demon."
+  },
+  {
+    "id": 174,
+    "line": 824,
+    "target_en": "A human could never think of such cruel things!!"
+  },
+  {
+    "id": 175,
+    "line": 830,
+    "target_en": "That would be one incredible Hell..."
+  },
+  {
+    "id": 176,
+    "line": 832,
+    "target_en": " Your close friends dying one at a time after being tortured."
+  },
+  {
+    "id": 177,
+    "line": 834,
+    "target_en": " And after all that, you yourself get killed..."
+  },
+  {
+    "id": 178,
+    "line": 839,
+    "target_en": "What a great way to destroy someone's life...!"
+  },
+  {
+    "id": 179,
+    "line": 844,
+    "target_en": "Why was I getting so excited about this?"
+  },
+  {
+    "id": 180,
+    "line": 849,
+    "target_en": " ...Because I could get going with that plan right away!!"
+  },
+  {
+    "id": 181,
+    "line": 854,
+    "target_en": " Heh hehehehehehe heh heh heh!!!"
+  },
+  {
+    "id": 182,
+    "line": 863,
+    "target_en": "\\\"...Ri...... Rika-chan!!"
+  },
+  {
+    "id": 183,
+    "line": 866,
+    "target_en": " It's Rika-chan!!!!\\\""
+  },
+  {
+    "id": 184,
+    "line": 872,
+    "target_en": "\\\"......What?"
+  },
+  {
+    "id": 185,
+    "line": 875,
+    "target_en": " ...What did you say just now...?!\\\""
+  },
+  {
+    "id": 186,
+    "line": 881,
+    "target_en": "\\\"I... I, well..."
+  },
+  {
+    "id": 187,
+    "line": 886,
+    "target_en": " ...The truth is..."
+  },
+  {
+    "id": 188,
+    "line": 891,
+    "target_en": " ...I..."
+  },
+  {
+    "id": 189,
+    "line": 896,
+    "target_en": " ...I told her about it."
+  },
+  {
+    "id": 190,
+    "line": 899,
+    "target_en": " ...I told Rika-chan..."
+  },
+  {
+    "id": 191,
+    "line": 904,
+    "target_en": " ...today!!\\\""
+  },
+  {
+    "id": 192,
+    "line": 910,
+    "target_en": "\\\"Rika-chan... You mean Rika-chama?"
+  },
+  {
+    "id": 193,
+    "line": 913,
+    "target_en": " The one from the Furude Shrine?\\\""
+  },
+  {
+    "id": 194,
+    "line": 919,
+    "target_en": "\\\"Yes, Rika-chan!"
+  },
+  {
+    "id": 195,
+    "line": 922,
+    "target_en": " ...I felt... I felt so scared and uneasy... that I did it."
+  },
+  {
+    "id": 196,
+    "line": 925,
+    "target_en": " ...I told Rika-chan.\\\""
+  },
+  {
+    "id": 197,
+    "line": 931,
+    "target_en": "\\\"...When you did... what did she say...?\\\""
+  },
+  {
+    "id": 198,
+    "line": 937,
+    "target_en": "\\\"...The cat is worrying too much."
+  },
+  {
+    "id": 199,
+    "line": 940,
+    "target_en": " I'll do something about it for sure."
+  },
+  {
+    "id": 200,
+    "line": 947,
+    "target_en": "That's what Rika-chan said...!!"
+  },
+  {
+    "id": 201,
+    "line": 950,
+    "target_en": " ...I-I'm sorry, Shion!"
+  },
+  {
+    "id": 202,
+    "line": 953,
+    "target_en": " I-I-I... I'm a bit... I'm worried about Rika-chan...!!\\\""
+  },
+  {
+    "id": 203,
+    "line": 959,
+    "target_en": "\\\"Ah, right! ...If you're that concerned, then don't worry about me."
+  },
+  {
+    "id": 204,
+    "line": 962,
+    "target_en": " Please, go find out whether she's safe.\\\""
+  },
+  {
+    "id": 205,
+    "line": 968,
+    "target_en": "\\\"Y-Yeah...!"
+  },
+  {
+    "id": 206,
+    "line": 971,
+    "target_en": " I'll do that!\\\""
+  },
+  {
+    "id": 207,
+    "line": 977,
+    "target_en": "\\\"I'll call you again tomorrow at the same time."
+  },
+  {
+    "id": 208,
+    "line": 980,
+    "target_en": " When I do, you'll know I'm still alright.\\\""
+  },
+  {
+    "id": 209,
+    "line": 986,
+    "target_en": "\\\"...I got it."
+  },
+  {
+    "id": 210,
+    "line": 989,
+    "target_en": " I'll be waiting."
+  },
+  {
+    "id": 211,
+    "line": 992,
+    "target_en": " Okay, bye!"
+  },
+  {
+    "id": 212,
+    "line": 995,
+    "target_en": " Sorry!"
+  },
+  {
+    "id": 213,
+    "line": 998,
+    "target_en": " I'm hanging up!!\\\""
+  },
+  {
+    "id": 214,
+    "line": 1003,
+    "target_en": "Keiichi hung up roughly."
+  },
+  {
+    "id": 215,
+    "line": 1013,
+    "target_en": "\\\"......"
+  },
+  {
+    "id": 216,
+    "line": 1016,
+    "target_en": "Ah ha ha ha ha!!!\\\""
+  },
+  {
+    "id": 217,
+    "line": 1021,
+    "target_en": "What a hilarious conversation with Keiichi."
+  },
+  {
+    "id": 218,
+    "line": 1026,
+    "target_en": "Everything was just too damn funny."
+  },
+  {
+    "id": 219,
+    "line": 1031,
+    "target_en": "Keiichi Maebara,"
+  },
+  {
+    "id": 220,
+    "line": 1033,
+    "target_en": " go ahead and struggle helplessly."
+  },
+  {
+    "id": 221,
+    "line": 1038,
+    "target_en": "Run all over the village and see if the curse is still alive."
+  },
+  {
+    "id": 222,
+    "line": 1043,
+    "target_en": "Go ahead and see if my enemies are still around!"
+  },
+  {
+    "id": 223,
+    "line": 1048,
+    "target_en": "I laughed for a while and then calmed down."
+  },
+  {
+    "id": 224,
+    "line": 1055,
+    "target_en": "I'd already got rid of the bicycles and shoes belonging to Rika and Satoko."
+  },
+  {
+    "id": 225,
+    "line": 1060,
+    "target_en": "My house was, for the moment, taken care of."
+  },
+  {
+    "id": 226,
+    "line": 1066,
+    "target_en": "I could expect Keiichi"
+  },
+  {
+    "id": 227,
+    "line": 1071,
+    "target_en": " to run around in a panic,"
+  },
+  {
+    "id": 228,
+    "line": 1076,
+    "target_en": " to ask for help from someone,"
+  },
+  {
+    "id": 229,
+    "line": 1081,
+    "target_en": " and then ultimately come to Mion."
+  },
+  {
+    "id": 230,
+    "line": 1086,
+    "target_en": "More than likely, the youth group would end up looking for Rika like they did with the mayor."
+  },
+  {
+    "id": 231,
+    "line": 1091,
+    "target_en": "...I'd probably have to endure another long night again, knowing nobody would find her."
+  },
+  {
+    "id": 232,
+    "line": 1096,
+    "target_en": "I decided to wait until the phone rang."
+  },
+  {
+    "id": 233,
+    "line": 1101,
+    "target_en": "I killed time by watching TV until it did."
+  }
+]
