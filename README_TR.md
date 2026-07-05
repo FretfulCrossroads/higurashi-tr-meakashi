@@ -77,6 +77,7 @@ Bu proje tamamen manuel olarak çevrilmemiştir.
 
 Bu depo yalnızca yayımlanan yama ve ilgili belgeleri içerir.
 
+Daha fazlası için Claude Opus 4.7 tarafından hazırlanan [Kalite Kontrol](docs/QA_REPORT.md) metnini okuyabilirsiniz. İlk sürüm öncesi hatalar dile getirilmiştir.
 ---
 
 # Ana Proje
