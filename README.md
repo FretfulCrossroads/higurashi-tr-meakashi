@@ -39,7 +39,7 @@ See the Releases page.
 
 Current version:
 
-v0.9.0-beta
+v1.0.0-beta.1
 
 ---
 

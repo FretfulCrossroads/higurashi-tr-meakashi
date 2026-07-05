@@ -36,7 +36,7 @@ En güncel sürümü **Releases** sekmesinden indirebilirsiniz.
 
 # Sürüm
 
-**Güncel sürüm:** `v0.9.0-beta`
+**Güncel sürüm:** `v1.0.0-beta.1`
 
 ---
 
